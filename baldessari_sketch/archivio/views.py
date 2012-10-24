@@ -6,6 +6,7 @@ from django.shortcuts import render_to_response, get_object_or_404
 from archivio.models import *
 from django.http import HttpResponseRedirect
 from django.utils import simplejson
+from django.template import RequestContext
 import json
 from management.commands import update_from_json
 import os.path
@@ -107,7 +108,9 @@ def viewdoc(request, docsigle):
             'imageadress' : document.imageAdress
             }
     
-    return render_to_response('archivio/viewdocument.html', params)
+    c = RequestContext(request, params)
+    
+    return render_to_response('archivio/viewdocument.html', c)
 
 
 #return the metadata for the display of one particular project

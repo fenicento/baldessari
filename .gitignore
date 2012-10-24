@@ -1,2 +1,7 @@
 *.pyc
 env/*
+baldessari_sketch/static/img_documents/*
+baldessari_sketch/static/img_interface/*
+baldessari_sketch/static/img_thumbs/*
+.DS_Store
+settings.py
