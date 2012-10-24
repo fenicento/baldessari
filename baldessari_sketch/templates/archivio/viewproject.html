@@ -1,0 +1,138 @@
+{% extends "archivio/layout.html" %}
+
+{% block title %}Archivio Baldessari | {{ project.denominazione }}{% endblock %}
+
+{% block header %}
+
+	<script type="text/javascript">
+		//defining the name of the section for the menu
+		{%if section_name %}
+			var section_name = "{{ section_name }}";
+		{% endif%}		
+		
+	</script>
+	
+
+{{ block.super }}
+	{% load static %}
+	{% get_static_prefix as STATIC_PREFIX %}
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/opere_style.css">
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/details_style.css">
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/galleria.classic.css">
+
+{% endblock %}
+
+{% block content %}
+
+	
+	<div id="opere_detail_container">
+		<div id="project_general_info" class="detail-container">
+			
+			<!-- general infos on the left side -->
+			<div id="project_general_left">
+			<h4 id="style_project">
+				{{ project.tipo }}
+			</h4>
+			
+			<p class = "campo">Denominazione del progetto</p>
+			<h1> {{ project.denominazione }}</h1>
+			<p class = "campo">Data del progetto</p>
+			<h3>{{ date.begining|date:"o" }}</h3>
+
+			</div>
+			
+			<div id="project_general_right">
+					{% load static %}
+					{% get_static_prefix as STATIC_PREFIX %}
+					<img src="{{ STATIC_PREFIX }}img_interface/minimap_test.jpg">
+					<a href="/">Espandi la mappa</a>
+			</div>
+		</div>
+		<div id="project_gallery" class="detail-container">
+			<p>
+				Documenti presenti nell'archivio : {{ related_documents|length }}
+			</p>
+			
+			<div id="gallery">
+				{% load static %}
+				{% get_static_prefix as STATIC_PREFIX %}
+				<script src="{{ STATIC_PREFIX }}libs/galleria-1.2.7.min.js"></script>
+				<script src="{{ STATIC_PREFIX }}libs/galleria.classic.min.js"></script>
+				<div id='galleria'>
+					{% for doc in related_documents %}
+							{% load static %}
+							{% get_static_prefix as STATIC_PREFIX %}
+							<img src= "{{ STATIC_PREFIX }}{{ doc.imageAdress}}" />
+					{% endfor %}
+				</div>
+				
+				<script type='text/javascript'>
+					{% load static %}
+					{% get_static_prefix as STATIC_PREFIX %}
+					Galleria.loadTheme('{{ STATIC_PREFIX }}libs/galleria.classic.min.js');
+					Galleria.run('#galleria');
+					Galleria.configure({
+						transition : 'fadeslide',
+						lightbox : true
+					})
+				</script>
+				<!-- here goes the gallery of documents -->
+			</div>
+			
+		</div>
+		<div id="div_details">
+			<div id="project_committente_container" class="detail-field">
+				<p class = "campo">Committente</p>
+				{% if committente != 'null' %}
+					{% for com in committente %}
+						<h3>{{ com.actor.name }}</h3>
+					{% endfor %}
+				{% else %}
+					<p>-</p>
+				{% endif %}
+			</div>
+			<div id="project_collaborators_container" class="detail-field">
+				<div class="left">
+					<p class = "campo">Co-progettista/i</p>
+					{% if coproj != 'null' %}
+						{% for com in coproj %}
+							<h3>{{ com.actor.name }}</h3>
+						{% endfor %}
+					{% else %}
+						<p>-</p>
+					{% endif %}
+					
+				<a href="/">Guarda la rete dei collaboratori</a>
+				</div>
+				<div class = "right">
+					<p class = "campo">Collaboratore/i</p>
+					{% if collab != 'null' %}
+						{% for com in collab %}
+							<h3>{{ com.actor.name }}</h3>
+						{% endfor %}
+					{% else %}
+						<p>-</p>
+					{% endif %}
+				</div>
+			</div>
+			
+			<div id="project_bibliografia_container" class="detail-field">
+				<p class = "campo">Bibliografia</p>
+				
+				{% if biblio.count > 0 %}
+					{% for publ in biblio %}	
+					<p class="bibliografia_item">
+						{{ publ.name }}
+					</p>
+					{% endfor %}
+				{% else %}
+					<p>Nessun'publicazione per questo progetto </p>
+				{% endif %}
+			</div>
+		</div>
+		
+		
+	</div>
+	
+
+{% endblock %}

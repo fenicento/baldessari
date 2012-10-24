@@ -1,0 +1,62 @@
+{% extends "archivio/base.html" %}
+
+{% block head %}
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
+	{% load static %}
+	{% get_static_prefix as STATIC_PREFIX %}
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/general_style.css">
+	<script src="{{ STATIC_PREFIX }}libs/jquery-1.7.2.min.js"></script>
+	<script src="{{ STATIC_PREFIX }}libs/d3.v2.js"></script>
+{% endblock %}
+
+{% block body %}
+		<!-- drawing the header -->
+		<header>
+			{%block header %}
+			<h1 id="bannertext">
+				<a href="{% url archivio.views.opere %}" name="Baldessari Archivio">
+				<span id="pretitle">L'archivio di</span><br><span id="titlename">Luciano<br>Baldessari</span> 
+				</a>
+			</h1>
+			
+			<ul id="menu">
+				<li id="biografiamenu">
+					<a href="{% url archivio.views.biografia %}" name="biographia">Biografia</a>
+				</li>
+				<li id="operemenu">
+					<a href="{% url archivio.views.opere %}" name="opere">Opere</a>
+				</li>
+				<li id="bibliografiamenu">
+					<a href="{% url archivio.views.bibliografia %}" name="bibliografia">Bibliografia</a>
+				</li>
+				<li id="ricercamenu">
+					<a href="{% url archivio.views.ricerca %}" name="ricerca">Ricerca</a>
+				</li>
+				<li id="museovirtualemenu">
+					<a href="{% url archivio.views.museo_virtuale %}" name="museo virtuale">Museo Virtuale</a>
+				</li>
+				<li id="contattimenu">
+					<a href="{% url archivio.views.contatti %}" name="contatti">Contatti</a>
+				</li>
+				<li id="loginmenu">
+					<a href="{% url archivio.views.login %}" name="login">Login</a>
+				</li>
+			</ul>
+			{% endblock %}
+		</header>
+			
+			
+			<div id="content">
+				{% block content %}
+				{% endblock %}
+			</div>
+
+		<footer>
+			
+		</footer>
+			
+			{% load static %}
+			{% get_static_prefix as STATIC_PREFIX %}
+			<script type="text/javascript" src="{{ STATIC_PREFIX }}scripts/menu_animation.js"></script>
+{% endblock %}

@@ -1,0 +1,101 @@
+{% extends "archivio/layout.html" %}
+
+{% block title %}Archivio Baldessari | Opere{% endblock %}
+
+{% block header %}
+
+	<script type="text/javascript">
+		//defining the name of the section for the menu
+		{% load static %}
+		{% get_static_prefix as STATIC_PREFIX %}
+		var static_prefix = '{{ STATIC_PREFIX }}';
+		
+		{%if section_name %}
+			var section_name = "{{ section_name }}";
+		{% endif%}
+		
+		
+	</script>
+	
+
+{{ block.super }}
+	{% load static %}
+	{% get_static_prefix as STATIC_PREFIX %}
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/opere_style.css">
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/views_style.css">
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/jquery.multiselect.css">
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/jquery-ui-1.8.22.custom.css">
+	
+
+{% endblock %}
+
+{% block content %}
+
+	<div id="opere_modes">
+			<div id="modes">
+				<form method="post" id="opere_modes_form" action="/modes/">{% csrf_token %}
+					<ul id="opere_modes_ul">
+							<li><label><input checked="checked" type="radio" name="modeviz"id="mode_elenco" value="elenco">elenco</label></li>
+							<li><label><input type="radio" name="modeviz" id="mode_galleria" value="galleria">galleria</label></li>
+							<li><label><input type="radio" name="modeviz" id="mode_mappa" value="mappa">mappa</label></li>
+							<!--<li><label><input type="radio" name="modeviz" id="mode_rete" value="rete">rete</label></li>-->
+					</ul>
+				</form>
+			<script type='text/javascript'>
+			</script>
+			</div>
+			
+			<!-- search div, not included here
+			<div id="search">	
+				<form method="post" id="opere_search_form" action="/search/">{% csrf_token %}		
+					<input type="text" value="cierchi">	
+			</div>
+			-->
+	</div>
+	
+	<div id="opere_viz_space">
+		<div id="params">
+			<div id='params1'>
+				<div id="filtri">
+					<div class="filter" id='testfilter'>Filtri</div>
+					<!--<div class="filter" id='datefilter'>Data</div>
+					<div class="filter" id='typefilter'>Tipo Di Progetto</div>-->
+					<!--<div class="filter">Aggiungi</div>-->
+				</div>
+				
+				<div id="types">
+					<form method="post" id="opere_switchtype_form" action="/switchtype/">
+						<ul id="opere_switchtype_ul">
+							<li><label><input checked="checked" type="radio" name="typeviz" id="doctype" value="documents">Documenti</label></li>
+							<li><label><input type="radio" name="typeviz" id="projtype" value="projects">Progetti</label></li>
+						</ul>
+					</form>	
+				</div>
+			</div>
+			
+			<!--
+			<div id='ordine'>
+				<p>
+					Ordina per:
+				</p>
+				<select>
+					<option>nome progetto</option>
+					<option>data</option>
+				</select>
+			</div>
+			-->
+			
+			{% load static %}
+			{% get_static_prefix as STATIC_PREFIX %}
+			<script type='text/javascript' src='{{ STATIC_PREFIX}}libs/jquery-ui-1.8.22.custom.min.js'></script>			
+			<script type='text/javascript' src='{{ STATIC_PREFIX}}libs/jquery.multiselect.min.js'></script>
+			<script type='text/javascript' src='http://maps.google.com/maps/api/js?sensor=true'></script>
+			<script type='text/javascript' src='{{ STATIC_PREFIX}}scripts/opere.js'></script>
+		</div>
+
+		
+		<div id="opere_display">
+		</div>
+	</div>
+
+{% endblock %}

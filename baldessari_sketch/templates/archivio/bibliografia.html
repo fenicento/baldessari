@@ -1,0 +1,60 @@
+{% extends "archivio/layout.html" %}
+
+{% block title %}Archivio Baldessari | Bibliografia{% endblock %}
+
+{% block header %}
+
+	<script type="text/javascript">
+	
+		//section name for menu
+		{%if section_name %}
+			var section_name = "{{ section_name }}";
+		{% endif%}
+		
+		//defining the name of the section for the menu
+		{% load static %}
+		{% get_static_prefix as STATIC_PREFIX %}
+		var static_prefix = '{{ STATIC_PREFIX }}';
+	</script>
+	
+
+{{ block.super }}
+	{% load static %}
+	{% get_static_prefix as STATIC_PREFIX %}
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/bibliografia_style.css">
+
+{% endblock %}
+
+{% block content %}
+	
+	<div id="bibliografia">
+		{% for proj in projets %}
+		<div class='item'>
+			<div class='left'>
+				<a href = '{% url archivio.views.opere %}project/{{ proj.sigla }}'>
+				<h4>
+					{{ proj.denominazione }}
+				</h4>
+				</a>
+			</div>
+			
+			<div class='right'>
+				{% if proj.bibliografia.all|length > 0 %}
+					{% for pub in proj.bibliografia.all %}
+						<p>
+							{{ pub.name }}
+						</p>
+					{% endfor %}
+				{% else %}
+				<p>
+					Nessuna publicazione
+				</p>
+				{% endif %}
+			</div>
+		</div>
+		
+		{% endfor %}
+		
+	</div>
+
+{% endblock %}

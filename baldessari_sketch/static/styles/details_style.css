@@ -1,0 +1,131 @@
+
+
+
+#opere_detail_container{
+	background : white;
+	margin-top : 5%;
+	/*padding : 1.5em;*/
+	margin-bottom : 5%;
+}
+
+.detail-container{
+	padding : 1.5em;
+}
+
+.campo{
+	color : #a29d9d;
+	font-size : 0.7em;
+	padding : 0px;
+	margin : 0px;
+	margin-bottom : 5px;
+}
+
+/* style of the upper part */
+
+#project_general_info{
+	padding-bottom : 0px;
+	display : inline-block;
+	width : 95%;
+}
+
+#project_general_left{
+	display : inline-block;
+	width : 70%;
+	float : left;
+}
+
+#project_general_right{
+	display : inline-block;
+	float : right;
+	width : 200px;
+	text-align : right;
+}
+
+#style_project{
+	font-size : 0.7em;
+	color : #c9173a;
+	margin: 0px;
+	margin-bottom : 12px;
+	padding : 0px;
+}
+
+#opere_detail_container a{
+	text-decoration : none;
+	color : #3fcedb;
+	font-size : 0.7em;
+}
+
+a h3, a h1{
+	color : black;
+}
+
+#opere_detail_container h3{
+	margin : 0px;
+	font-size : 1em;
+}
+
+#opere_detail_container a h1, #opere_detail_container h1{
+	font-size : 1.2em;
+	margin : 0px;
+	margin-bottom : 10px;
+}
+
+
+/*temporary project gallery*/
+ #project_gallery{
+ 	padding-bottom : 0px;
+ }
+
+#project_gallery p{
+	font-size : 0.7em;
+	font-weight : 700;
+	margin : 0px;
+	margin-bottom : 5px;
+}
+
+#gallery{
+	padding : 5%;
+	/*background : #282828;*/
+	background : black;
+	text-align : center;
+}
+
+
+/* details style */
+
+.detail-field{
+	padding : 1.5em;
+	padding-bottom : 4em;
+	border-bottom : 1px solid #a29d9d;
+}
+
+#project_committente_container{
+	margin-bottom : 7px;
+}
+
+.detail-field .left{
+	width : 50%;
+	display : inline-block;
+	float : left;
+}
+
+.detail-field .right{
+	width : 50%;
+	display : inline-block;
+	float : right;
+}
+
+.detail-field p{
+	margin : 0px;
+	font-weight : 700;
+	font-size : 0.8em;
+}
+
+.detail-field p .campo{
+	font-size : 0.7em;
+}
+
+#project_bibliografia_container p{
+	margin-top : 8px;
+}
+

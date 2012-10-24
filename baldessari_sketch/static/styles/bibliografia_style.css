@@ -1,0 +1,107 @@
+/* ------- end of global settings ------------------- */
+
+
+/*global layout*/
+
+#bibliografia{
+	margin-top : 7%;
+	background : white;
+	padding : 2%;
+}
+
+a{
+	text-decoration : none;
+	color : black;
+}
+
+.item{
+	padding-bottom : 5%;
+	margin-bottom : 5%;
+	border-bottom : 1px solid black;
+}
+
+.left{
+	display : inline-block;
+	width : 20%;
+	text-align : right;
+	float : left;
+}
+
+.right{
+	padding-left : 5%;
+	display : inline-block;
+	width : 50%;
+}
+/* ------- end of global settings ------------------- */
+
+/* Part "modes" */
+
+#opere_modes{
+	text-align : center;
+}
+
+#modes{
+	display : inline-block;
+}
+
+#search{
+	display:inline-block;
+	float : right;
+}
+
+
+/*Filtri */
+
+#params{
+	/*float : left;*/
+}
+
+#filtri{
+	display : inline-block;
+}
+
+#types{
+	display:inline-block;
+	float : right;
+}
+
+.filter{
+	display : inline-block;
+	background-color : #b8b8b8;
+	height: 30px;
+    line-height: 30px;
+    padding: 0 8px;
+}
+
+/* restyling of the radio buttons */
+ul li{
+	display : inline-block;
+	list-style-type : none;
+}
+
+input[type=radio]{
+  display: none;
+}
+
+input[type=text]{
+	background : transparent;
+	border : none;
+    outline : none;
+ }
+ 
+input[type=text]:hover,input[type=text]:focus{
+	border : 1px solid #b8b8b8;
+ }
+
+#modes label,#types label {
+  background: #b8b8b8;
+  display: inline-block;
+  height: 30px;
+  line-height: 30px;
+  padding: 0 8px;
+}
+
+#modes label:hover,#types label:hover {
+  background-color: black ;
+  color : white;
+}
