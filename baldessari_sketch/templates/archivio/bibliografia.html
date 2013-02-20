@@ -4,7 +4,7 @@
 
 {% block header %}
 
-	<script type="text/javascript">
+	<!-- <script type="text/javascript">
 	
 		//section name for menu
 		{%if section_name %}
@@ -15,7 +15,10 @@
 		{% load static %}
 		{% get_static_prefix as STATIC_PREFIX %}
 		var static_prefix = '{{ STATIC_PREFIX }}';
-	</script>
+	</script> -->
+	
+	<!-- Active tab of the menu -->
+	{% block active_bibliografia %}active{% endblock %}
 	
 
 {{ block.super }}
@@ -25,8 +28,13 @@
 
 {% endblock %}
 
+{% block upper-bar %}
+	<h1 id="section-title">Elenco delle pubblicazioni</h1>
+{% endblock %}
+
 {% block content %}
 	
+	<!-- Bibliografia content -->
 	<div id="bibliografia">
 		{% for proj in projets %}
 		<div class='item'>
@@ -40,14 +48,25 @@
 			
 			<div class='right'>
 				{% if proj.bibliografia.all|length > 0 %}
-					{% for pub in proj.bibliografia.all %}
-						<p>
-							{{ pub.name }}
-						</p>
-					{% endfor %}
+					<details closed class="biblio-list">
+						<summary>Lista delle pubblicazioni</summary>
+						{% for pub in proj.bibliografia.all %}
+						
+							<p>
+								{{ pub.name }}
+							</p>
+						{% endfor %}
+					</details>
+				
+					<!-- {% for pub in proj.bibliografia.all %}
+											
+											<p>
+												{{ pub.name }}
+											</p>
+										{% endfor %} -->
 				{% else %}
 				<p>
-					Nessuna publicazione
+					Nessuna pubblicazione
 				</p>
 				{% endif %}
 			</div>
@@ -55,6 +74,6 @@
 		
 		{% endfor %}
 		
-	</div>
+	</div>	<!-- end bibliografia -->
 
 {% endblock %}

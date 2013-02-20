@@ -25,6 +25,7 @@ a{
 	width : 20%;
 	text-align : right;
 	float : left;
+	margin-bottom: 5%;
 }
 
 .right{
@@ -32,6 +33,11 @@ a{
 	display : inline-block;
 	width : 50%;
 }
+
+.biblio-list{
+	margin-bottom: 18%;
+}
+
 /* ------- end of global settings ------------------- */
 
 /* Part "modes" */

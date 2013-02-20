@@ -16,10 +16,23 @@ ul{
 
 #opere_viz_space{
 	background : white;
+	overflow:hidden;
 }
 
 #params,#opere_modes{
 	padding : 2%;
+}
+
+.button_normal{
+	background-image: url(../img_interface/button_normal.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat no-repeat;
+}
+
+.button_selected{
+	background-image: url(../img_interface/button_selected.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat no-repeat;
 }
 
 /* ------- end of global settings ------------------- */
@@ -28,6 +41,7 @@ ul{
 
 #opere_modes{
 	text-align : center;
+	background-color:#f2f2ef;
 }
 
 #modes{
@@ -50,6 +64,118 @@ ul{
 	display : inline-block;
 }
 
+.filter {
+	display : inline-block;
+	background: -webkit-linear-gradient(top, #fbfbf8 0%,#e4e4e0 100%); /* Chrome10+,Safari5.1+ */
+	background: -moz-linear-gradient(top, #fbfbf8 0%, #e4e4e0 100%); /* FF3.6+ */
+	height: 30px;
+    line-height: 30px;
+    padding: 0 8px;
+	border:1px solid #ccc;
+	cursor:default;
+	font-size: 0.8em;
+	font-weight: bold;
+}
+.filter img {
+	margin-right:4px;
+}
+
+.sel{
+	background: -webkit-linear-gradient(top, #d7d7d4 0%,#f3f3ef 100%); /* Chrome10+,Safari5.1+ */
+	background: -moz-linear-gradient(top, #d7d7d4 0%, #f3f3ef 100%); /* FF3.6+ */
+	
+}
+
+
+
+#firstFilter,.firstBtn {
+	border-top-left-radius: 6px;
+	border-bottom-left-radius: 6px;
+	-moz-border-radius-topleft: 6px;
+	-moz-border-radius-bottomleft: 6px;
+}
+#lastFilter, .lastBtn{
+	border-top-right-radius: 6px;
+	border-bottom-right-radius: 6px;
+	-moz-border-radius-topright: 6px;
+	-moz-border-radius-bottomright: 6px;
+	position:relative;
+	margin-right:30px;
+}
+
+#filt-types {
+	display:none;
+	background-color: #333;
+    border-radius: 5px 5px 5px 5px;
+    left: 0;
+    margin-top:4px;
+    position: absolute;
+    z-index: 150;
+}
+#filt-types li {
+	
+    display: block;
+    padding: 2px 5px;
+    color:#ddd;
+    cursor:default;
+}
+
+#filt-types li:hover {
+	color:#12c7d7;
+}
+
+#searchFilt, #typeFilt,#dateFilt{
+	width:98%;
+	padding:20px 1%;
+	border: 1px solid #ddd;
+	border-radius:5px;
+	margin:10px 0;
+	display:none;
+}
+
+#sliderContainer{
+	width:100%;
+}
+
+.updateArea {
+	position:relative;
+	padding-top:60px;
+}
+
+#typeFilt input {
+	display:inline;
+	margin-right:5px;
+}
+
+.ui-slider-handle {
+	position: absolute;
+	z-index: 2;
+	width: 24px;
+	height: 24px;
+	cursor: pointer;
+	background: url('../img_interface/slider.png') no-repeat 50% 50%;
+	font-weight: bold;
+	color: #1C94C4;
+	outline: none;
+	top: -7px;
+	margin-left: -12px;
+}
+
+.remove {
+	font-size: 0.7em;
+	margin-bottom:5px;
+	float:right;
+	position:relative;
+	top:-15px;
+}
+.remove-date {
+	font-size: 0.7em;
+	position:relative;
+	top:-18px;
+	float:right;
+
+}
+
 #filtri p{
 	display : inline-block;
 	font-size : 0.9em;
@@ -57,7 +183,7 @@ ul{
 
 #types{
 	display:inline-block;
-	float : right;
+
 }
 
 #ordine{
@@ -73,11 +199,16 @@ ul{
 }
 
 .filter{
-	display : inline-block;
+	
 	/*background-color : #b8b8b8;*/
-	height: 30px;
-    line-height: 30px;
-    padding: 0 8px;
+
+}
+
+.noProj{
+	margin-top:50px;
+	font-size: 1.3em;
+	text-align:center;
+	color:#666;
 }
 
 /* restyling of the radio buttons */
@@ -104,13 +235,11 @@ input[type=text]:hover,input[type=text]:focus{
 	margin : 0px;
 }
 
-#modes label,#types label {
-  background: transparent;
-  display: inline-block;
-  height: 30px;
-  line-height: 30px;
-  margin : 0px;
-  padding : 10px;
+
+
+/* Change blue color of button links */
+#modes a label, #types a label{
+	color: rgb(0,0,0);
 }
 
 #modes label:hover,#types label:hover {
@@ -150,3 +279,80 @@ rect {
   shape-rendering: crispEdges;
 }
 
+
+/* Elenco progetti */
+#elenco-progetti{
+	margin-top: 10%;
+}
+
+#elenco-progetti .item{
+	padding-top: 1%;
+	padding-bottom: 1%;
+	
+	min-height: 200px;
+	
+	border-bottom: 1px solid;
+}
+
+.left{
+	display : inline-block;
+	width : 20%;
+	float : left;
+	
+}
+
+.right{
+	padding-left : 5%;
+	display : inline-block;
+	width : 50%;
+}
+
+
+.lista-i{
+	width:100%;
+	overflow:hidden;
+	padding-bottom:20px;
+	border-bottom:1px solid #333;
+	margin-bottom:20px;
+}
+
+.lista-left{
+	float:left;
+	width:20%;
+}
+
+.lista-left img{
+	max-height:200px;
+}
+
+.lista-right{
+	float:left;
+	width:70%;
+	margin-left:2%;
+}
+
+.lista-right p{
+	font-size:0.8em;
+	font-weight:bold;
+	color:#12C3D3;
+	text-transform:uppercase;
+}
+
+.lista-right a{
+	font-size:1.2em;
+	color:#282828;
+}
+
+#l-map{
+	height:500px;
+	display:block;
+}
+
+/*Enlarge image on mouseover*/
+#elenco-progetti .item:hover{
+	height: 250px;
+}
+
+#elenco-progetti .item:hover img{
+	height: 200px;
+}

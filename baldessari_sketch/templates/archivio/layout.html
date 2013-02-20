@@ -5,58 +5,82 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
 	{% load static %}
 	{% get_static_prefix as STATIC_PREFIX %}
-	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/general_style.css">
+	<!-- Styles -->
+	<!-- <link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/general_style.css"> -->
+	<link href="{{ STATIC_PREFIX }}styles/bootstrap.css" rel="stylesheet">
+	<link href="{{ STATIC_PREFIX }}styles/bootstrap-responsive.css" rel="stylesheet">
+	<link href="{{ STATIC_PREFIX }}styles/archivio.css" rel="stylesheet">
+	
+	<!-- Libraries -->
 	<script src="{{ STATIC_PREFIX }}libs/jquery-1.7.2.min.js"></script>
 	<script src="{{ STATIC_PREFIX }}libs/d3.v2.js"></script>
+	
+	<!-- Le fav and touch icons -->
+    <link rel="shortcut icon" href="../assets/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
 {% endblock %}
 
 {% block body %}
 		<!-- drawing the header -->
-		<header>
-			{%block header %}
-			<h1 id="bannertext">
-				<a href="{% url archivio.views.opere %}" name="Baldessari Archivio">
-				<span id="pretitle">L'archivio di</span><br><span id="titlename">Luciano<br>Baldessari</span> 
-				</a>
-			</h1>
-			
-			<ul id="menu">
-				<li id="biografiamenu">
+		{%block header %}
+		<div class="navbar navbar-fixed-top">
+	      <div class="navbar-inner">
+	        <div class="container">
+	          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+	            <span class="icon-bar"></span>
+	            <span class="icon-bar"></span>
+	            <span class="icon-bar"></span>
+	          </a>
+	          <a class="brand" href="#"><div id="pretitle">L'archivio di </div><div id="titlename">Luciano<br>Baldessari</div></a>
+	          <div class="nav-collapse">
+	            <ul class="nav" id="menu">
+	              <li><a href="#">Home</a></li>
+	              <li class="{% block active_biografia %}{% endblock %}" id="biografiamenu">
 					<a href="{% url archivio.views.biografia %}" name="biographia">Biografia</a>
-				</li>
-				<li id="operemenu">
+				  </li>
+	              <li class="{% block active_opere %}{% endblock %}" id="operemenu">
 					<a href="{% url archivio.views.opere %}" name="opere">Opere</a>
-				</li>
-				<li id="bibliografiamenu">
+				  </li>
+				  <li class="{% block active_bibliografia %}{% endblock %}" id="bibliografiamenu">
 					<a href="{% url archivio.views.bibliografia %}" name="bibliografia">Bibliografia</a>
-				</li>
-				<li id="ricercamenu">
+				  </li>
+				  <li class="{% block active_ricerca %}{% endblock %}" id="ricercamenu">
 					<a href="{% url archivio.views.ricerca %}" name="ricerca">Ricerca</a>
-				</li>
-				<li id="museovirtualemenu">
+    			  </li>
+				  <li class="{% block active_museovirtuale %}{% endblock %}" id="museovirtualemenu">
 					<a href="{% url archivio.views.museo_virtuale %}" name="museo virtuale">Museo Virtuale</a>
-				</li>
-				<li id="contattimenu">
+				  </li>
+				  <li class="{% block active_contatti %}{% endblock %}" id="contattimenu">
 					<a href="{% url archivio.views.contatti %}" name="contatti">Contatti</a>
-				</li>
-				<li id="loginmenu">
-					<a href="{% url archivio.views.login %}" name="login">Login</a>
-				</li>
-			</ul>
-			{% endblock %}
-		</header>
+				  </li>
+	            </ul>
+	          </div><!--/.nav-collapse -->
+	        </div>
+	      </div>
+	    </div>
+		{% endblock %}	
 			
-			
-			<div id="content">
-				{% block content %}
+		<div class = "container" id="content">
+			<div id="upper-bar">
+				{% block upper-bar %}
 				{% endblock %}
 			</div>
-
-		<footer>
 			
-		</footer>
+			<div class="hero-unit">
+			{% block content %}
+			{% endblock %}
+			</div>
 			
-			{% load static %}
-			{% get_static_prefix as STATIC_PREFIX %}
-			<script type="text/javascript" src="{{ STATIC_PREFIX }}scripts/menu_animation.js"></script>
+			<footer>
+				<p>&copy; DensityDesign 2012</p>
+			</footer>
+			
+		</div>
+			
+		<!-- {% load static %}
+		{% get_static_prefix as STATIC_PREFIX %}
+		<script type="text/javascript" src="{{ STATIC_PREFIX }}scripts/menu_animation.js"></script> -->
 {% endblock %}

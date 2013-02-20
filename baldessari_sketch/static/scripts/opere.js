@@ -33,11 +33,11 @@ $(document).ready(function(){
 	setFiltri();	
 });
 
-d3.selectAll('#modes label, .filter, #types label')
-	//.style('background-color', 'grey')
-	.style('background-image', function(){
-	return 'url('+static_prefix + 'img_interface/button_normal.jpg)';
-}).style('background-size', '100% 100%').style('background-repeat', 'no-repeat');
+// d3.selectAll('#modes label, .filter, #types label')
+// 	//.style('background-color', 'grey')
+// 	.style('background-image', function(){
+// 	return 'url('+static_prefix + 'img_interface/button_normal.jpg)';
+// }).style('background-size', '100% 100%').style('background-repeat', 'no-repeat');
 
 
 var globalIndex = 0; //item that handle loading of items
@@ -155,15 +155,15 @@ function setFiltri(){
 }
 
 //behavior when scrolling
-$(window).scroll(function(){
-	if(settings.mode != 'mappa' && $(window).scrollTop() + $(window).height() > $(document).height() - 50 && $(window).height() < $(document).height()) {
-		
-		if(globalIndex+settings.itemsNumber< dynamicArray.list.length){
-			globalIndex+=settings.itemsNumber
-			updateView();
-		}
-	}
-})
+// $(window).scroll(function(){
+	// if(settings.mode != 'mappa' && $(window).scrollTop() + $(window).height() > $(document).height() - 50 && $(window).height() < $(document).height()) {
+// 		
+		// if(globalIndex+settings.itemsNumber< dynamicArray.list.length){
+			// globalIndex+=settings.itemsNumber
+			// updateView();
+		// }
+	// }
+// })
 
 
 //interface handling
@@ -324,39 +324,39 @@ function updateView(){
 }
 
 //this function is dedicated to switch between types of viz (documents/projects) in elenco mode
-function switchType(){
-	d3.select("#opere_switchtype_ul").selectAll("input").on("click", function(){
-		var value = d3.select(this).attr("value");
-		var params = {
-			action : function(){
-				if(value == 'documents'){
-					return 'getAllDocsList'
-				}else{
-					return 'getAllProjectsList'
-				}
-			}
-		}
-		
-			//ajax query
-		if(value != settings.type){
-				settings.type = d3.select(this).attr("value");
-				referenceArray = {}
-				dynamicArray = {}
-				//globalIndex = 0; //index to handle dynamic loading of items
-				//delete former files
-				d3.select('#opere_display').selectAll("div")/*.style("opacity", 1).transition().duration(500).style("opacity", 0)*/
-					.remove();
-													
-				dataLoaded = false;//reinitialize the state of data (to handle actions stack regarding to ajax)
-				loadData();
-				//change url
-				updateURL();
-				//change buttons
-				attributeButtons();
-			}
-			
-		});
-}
+// function switchType(){
+// 	d3.select("#opere_switchtype_ul").selectAll("input").on("click", function(){
+// 		var value = d3.select(this).attr("value");
+// 		var params = {
+// 			action : function(){
+// 				if(value == 'documents'){
+// 					return 'getAllDocsList'
+// 				}else{
+// 					return 'getAllProjectsList'
+// 				}
+// 			}
+// 		}
+// 		
+// 			//ajax query
+// 		if(value != settings.type){
+// 				settings.type = d3.select(this).attr("value");
+// 				referenceArray = {}
+// 				dynamicArray = {}
+// 				//globalIndex = 0; //index to handle dynamic loading of items
+// 				//delete former files
+// 				d3.select('#opere_display').selectAll("div")/*.style("opacity", 1).transition().duration(500).style("opacity", 0)*/
+// 					.remove();
+// 													
+// 				dataLoaded = false;//reinitialize the state of data (to handle actions stack regarding to ajax)
+// 				loadData();
+// 				//change url
+// 				updateURL();
+// 				//change buttons
+// 				attributeButtons();
+// 			}
+// 			
+// 		});
+// }
 	
 //changing the visualization modes
 function changeMode(value){
@@ -586,7 +586,8 @@ function itemDocElenco(){
 						var left = item.append('div').attr('class', 'column').style('float', 'left')
 											.append('a').attr("href", function(d){ return 'document/'+d.segnatura;})
 						var img = left.append('img').attr('src', function(d){
-												return static_prefix+ d.adressthumb;
+												return media_prefix + d.adressthumb;
+												// return static_prefix + d.adressthumb;
 											}).style("height", function(){return window.innerHeight/15;})
 											.style("width", function(){return window.innerHeight/15;})
 											.style('display', 'inline-block')
@@ -610,7 +611,8 @@ function itemDocElenco(){
 									d3.select(this).select('img')
 									.attr('src', function(){
 												console.log(data);
-												return static_prefix+ d.adressimage;
+												return media_prefix + d.adressimage;
+												// return static_prefix + d.adressimage;
 											})
 									.transition().duration(200)
 									.style('width', function(){return window.innerHeight/3;})
@@ -673,7 +675,8 @@ function projElenco(){
 						var left = item.append('div').attr('class', 'column').style('float', 'left')
 											.append('a').attr("href", function(d){ return 'project/'+d.sigla;})
 						var img = left.append('img').attr('src', function(d){
-												return static_prefix+ d.adressthumb;
+												return media_prefix+ d.adressthumb;
+												// return static_prefix+ d.adressthumb;
 											}).style("height", function(){return window.innerHeight/15;})
 											.style("width", function(){return window.innerHeight/15;})
 											.style('display', 'inline-block')
@@ -965,7 +968,8 @@ function docGalleria(data){
 								return 'document/'+d.segnatura;
 							})
 					.append('img').attr('src', function(d){
-							return static_prefix+ d.adressthumb;
+							return media_prefix + d.adressthumb;
+							// return static_prefix+ d.adressthumb;
 						}).style("width", "100px").style("height", "70px")
 						.attr('title', function(d){return d.segnatura;})
 	img.on('mouseover', function(d){
@@ -990,8 +994,8 @@ function docGalleria(data){
 					img1.append('a').attr("href", function(d){
 									return 'document/'+data.segnatura;
 								}).append('img').attr('src', function(d){
-								return static_prefix
-								+ data.adressimage;
+									return media_prefix + data.adressimage;
+									// return static_prefix + data.adressimage;
 							}).style("width", "300px").style('cursor', 'crosshair').attr('id', 'imagezoom')
 					
 					$('#imagezoom').addpowerzoom({

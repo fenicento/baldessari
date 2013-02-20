@@ -1,0 +1,4502 @@
+[
+	{
+		"percorsi_tematici": null,
+		"indirizzo": "Milano (Palazzo dell'Arte al Parco)",
+		"url_mart": null,
+		"materiali_c": 14,
+		"materiali_dm": 17,
+		"Denominazione": "Mostra Aeronautica Italiana, Milano, 1934",
+		"longitude": 9.1734204,
+		"materiali_d": 1,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1934",
+				"fine": "1934"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.47179670000001,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(1)+DM(17)+C(14) DM/contabilit\u00e0: preventivi (Enrico Ciuti, Industria Teatrale Ponti, Luigi Saita), preventivi di spesa dei lavori, ricevuta Achille Broggi, elenco fatture, parcella L.B. (acconto e saldo) corrispondenti: Ing. Alberto Bonacossa, Cav. Ambrogio Ferrario, Fontana Arte, Piero Mazzucato, Mostra Nazionale dello Sport (Ufficio Amministrazione, Segreteria), Virgilio Torniamenti, Comm. Vigorelli",
+		"sigla": "AA"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Palazzo Reale",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 1,
+		"Denominazione": "Mostra Arte e Civilt\u00e0 Etrusca, Milano, 1955",
+		"longitude": 9.1911918,
+		"materiali_d": 9,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1955",
+				"fine": "1955"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4631297,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(9)+DM(1) DM: Discorso di apertura a Francoforte (Sig. Bieber)",
+		"sigla": "AAE"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Palazzo Reale",
+		"url_mart": null,
+		"materiali_c": 2,
+		"materiali_dm": 24,
+		"Denominazione": "Mostra Arte Italiana in collezioni U.S.A., Milano, 1960 ",
+		"longitude": 9.1911918,
+		"materiali_d": 4,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1960",
+				"fine": "1960"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4631297,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(4)+DM(24)+C(2) DM: appunti, fotografie (opere esposte) DM/contabilit\u00e0: preventivo Xilografia Milanese S.p.A., prestazioni Arch. Maria Pia Matteotti (ricevuta) corrispondenti: Ente Manifestazioni Milanesi (la Presidenza), Dott. Giuseppe Luigi Mele",
+		"sigla": "AAI"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Palazzo Reale",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Mostra Amedeo Modigliani, Milano, 1958",
+		"longitude": 9.1911918,
+		"materiali_d": 10,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1958",
+				"fine": "1958"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4631297,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(10)",
+		"sigla": "AAM"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Mantova - Palazzo della Ragione",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 7,
+		"Denominazione": "Mostra Attilio Rossi, Mantova, 1977",
+		"longitude": 10.7951403,
+		"materiali_d": 18,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1977",
+				"fine": "1977"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.158309,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(18)+DM(7) DM: elenco opere esposte (con indicati autore, soggetto, colore, dimensioni e peso), appunti, fotocopie dal catalogo della Mostra",
+		"sigla": "AAR"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Livorno - Casa della Cultura",
+		"url_mart": null,
+		"materiali_c": 10,
+		"materiali_dm": 215,
+		"Denominazione": "Progetto Personale Luciano Baldessari, Livorno, 1974",
+		"longitude": 10.3131276,
+		"materiali_d": 33,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1974",
+				"fine": "1974"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 43.55208,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(33)+DM(215)+C(10) DM: presentazione della Mostra, organizzazione della Mostra, appunti (dimensioni opere esposte), fotocopie delle fotografie delle opere esposte DM/contabilit\u00e0: preventivo Allestimenti Portanuova S.r.l. corrispondenti: Prof. Gianfranco Bruno, Dott. Sandro Fontana ",
+		"sigla": "ABL"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Palazzo Reale (Sala delle Cariatidi)",
+		"url_mart": null,
+		"materiali_c": 19,
+		"materiali_dm": 300,
+		"Denominazione": "Mostra \"Il Cinquantanove\", Milano, 1959",
+		"longitude": 9.1911918,
+		"materiali_d": 25,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1959",
+				"fine": "1959"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4631297,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(25)+DM(300)+C(19) DM: appunti, negativi e stampe manifesti futuristi, elenchi artisti, elenchi e fotografie opere esposte  DM/contabilit\u00e0: preventivo Xilografia Milanese S.p.A., parcella L.B. (nota spese e competenze, acconto) corrispondenti: Noemi Baschieri Chiesi, Prof. Caio Mario Cattabeni, Dott. Mario Cavalli, Arch. Maria Pia Matteotti, Porter A. Mc-Cray, Giuseppe Luigi Mele, Romeo Toninelli",
+		"sigla": "AC"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Bologna - Villa San Giacomo",
+		"url_mart": null,
+		"materiali_c": 48,
+		"materiali_dm": 151,
+		"Denominazione": "Mostra Collezione Lercaro, Bologna, 1970",
+		"longitude": 11.378309,
+		"materiali_d": 137,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1970",
+				"fine": "1970"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 44.45785900000001,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(137)+DM(151)+C(48) DM: organizzazione delle Sale, elenco opere esposte, collezione Teresita Fontana (lista manifesti), presentazione della Mostra, elenco ragionato della corrispondenza, appunti, quaderno di appunti (andamento dei lavori, rapporti con la committenza), biglietti da visita e indirizzi, inviti, depliant della Mostra, campioni di colore, stampe di alcune opere esposte, bozzetti, quaderno della Mostra (firme e commenti dei visitatori) DM/contabilit\u00e0: preventivi (Allestimenti Portanuova S.r.l., C.I.E.C.I., ITT Claude S.p.A.), elenco preventivi Allestimenti Portanuova S.r.l., conferme d'ordine di ITT Claude S.r.l., consuntivi ed elenco fatture Allestimenti Portanuova S.r.l., parcella L.B. (note spese e competenze, acconti e saldo) corrispondenti: Allestimenti Portanuova s.r.l. Arch. Sanae Ando, Azucena S.r.l., Prof. Guido Ballo, S. Bertouille, Giorgio Bonfanti, Piero Bottoni, Prof. Gillo Dorfles, Valeria Ernesti, Ing. Carlo Ferrari da Passano, Prof. Tommaso Ferraris, Dott. Vito Fiorellino, Teresita Fontana, Dott. Gatti, Paolo Grassi, Prof. Gino Marotta, Arch. Masayuki Matsukaze, Avv. Gian Paolo Melzi d'Eril, Arch. Zita Mosca, Dott. Paolo Pillitteri, Prof. Franco Russoli, Elio Santarella, Jan Van Lerberghe",
+		"sigla": "ACL"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Palazzo Reale",
+		"url_mart": null,
+		"materiali_c": 2,
+		"materiali_dm": 48,
+		"Denominazione": "Mostra Disegno Francese, Milano, 1960 ",
+		"longitude": 9.1911918,
+		"materiali_d": 88,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1960",
+				"fine": "1960"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4631297,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(88)+DM(48)+C(2) DM: elenco materiale per l'esposizione, modello marchio Siemens, appunti, fotografie stand Siemens (esposizioni precedenti), depliants Siemens (\"Transmetteur-r\u00e9cepteur de fac-simil\u00e9s\", \"Poste T\u00e9l\u00e9phonique mobile\", \"Impianti citofonici\", \"Impianti di elettroacustica per chiese\", \"Installation de transmission \u00e0 fr\u00e9quence vocale pour t\u00e9l\u00e9operation\", \"Interruttore nel vuoto\", \"Centralini telefonici automatici\", \"t\u00e9l\u00e9imprimeur en page\") DM/contabilit\u00e0: preventivo Xilografia Milanese S.p.A., appunti  corrispondenti: Siemens S.p.A. (Ufficio Pubblicit\u00e0)",
+		"sigla": "ADF"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Genova - Giugno Genovese",
+		"url_mart": null,
+		"materiali_c": 7,
+		"materiali_dm": 11,
+		"Denominazione": "Stand D.A.F., Giugno Genovese, Genova, 1933",
+		"longitude": 8.946256,
+		"materiali_d": 2,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1933",
+				"fine": "1933"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 44.4056499,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(2)+DM(11)+C(7) DM/contabilit\u00e0: preventivi di massima dei lavori, fatture (Ditta Venturini & Zanderighi, Ingg. Bonamico Giulietti Nizza, Ditta Luigi Spada, Angelo Bazzi), elenco fatture, ricevuta Ditta Luigi Spada, parcella L.B. (nota spese e competenze)  corrispondenti: \"Deutsche Bauzeitung\" (Amministrazione), Ingg. Bonamico Giulietti Nizza, Arch. Guzzi, ditta Luigi Spada, Tettamanti, ditta Emilio Venturini",
+		"sigla": "ADG"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Torino (Parco del Valentino) - I Mostra Nazionale della Moda",
+		"url_mart": null,
+		"materiali_c": 80,
+		"materiali_dm": 60,
+		"Denominazione": "Stand D.A.F., Mostra Nazionale della Moda, Torino, 1933",
+		"longitude": 7.6850525,
+		"materiali_d": 0,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1933",
+				"fine": "1933"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.0522728,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "DM(60)+C(80) DM: \"Regolamento Generale\", comunicati, elenco categorie progetti esposti, relazioni mostra storica del giornalismo italiano (con elenco quadri), elenco espositori (Salone dei Tessuti), nota per la Ditta Luigi Spada (materiale Telaio Luminoso Snia-Viscosa S.A.), appunti  DM/contabilit\u00e0: premio progetto Citt\u00e0 Cinematografica (e ricevuta), preventivi (Industria Teatrale Ponti, Ditta Luigi Spada), preventivi di spesa e parcella L.B. (Snia-Viscosa S.A., Tessarredo S.A.), conferma d'ordine Industria Teatrale Ponti, distinta delle forniture, fatture (De Angeli Frua S.A., Industria Teatrale Ponti, L. Rubelli & Figlio S.A., Snia-Viscosa S.A., Ditta Antonio Terzaghi), saldo parcella Tessarredo S.A. (e ricevuta), saldo parcella Snia-Viscosa S.A. (e ricevuta), ricevuta De Angeli Frua S.A., parcella L.B. (acconto, saldo e ricevuta)  corrispondenti: \"Architettura\" (il Redattore Capo), Dott. Giulio Barella, G. Brocchi & Figli, Arch. Tommaso Buzzi, Arch. Camus, De Angeli Frua S.A., il Direttorio, \"Edilizia Moderna\" (il direttore), Carlo A. Felice, Arch. Agnoldomenico Pica, Enrico Padovan, Arch. Gio Ponti, Lorenzo Rubelli & Figlio S.A., Aldo Salvadori, Snia-Viscosa S.A., Dott. Strazza, Tessarredo S.A., Torsiello, V Triennale (Ufficio Amministrazione, il Segretario dell'Ente), Rodolfo Zimelli",
+		"sigla": "ADT"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Brescia - Duomo Vecchio",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Mostra Girolamo Romanino, Brescia, 1965",
+		"longitude": 10.2214068,
+		"materiali_d": 2,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1965",
+				"fine": "1965"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.5382797,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(2)",
+		"sigla": "AGR"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Arco (TN) - Palazzo Marchetti dei Conti D'Arco",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 2,
+		"Denominazione": "Mostra Giovanni Segantini, Arco di Trento, 1958",
+		"longitude": 10.88698,
+		"materiali_d": 2,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1958",
+				"fine": "1958"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.91712,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(2)+DM(2) DM: relazione, \"Atti del Collegio Regionale Lombardo Architetti\" novembre 1959 (estratto)",
+		"sigla": "AGS"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Galleria Schettini, via Brera Francoforte (Germania) - Stadelschule Monaco (Germania) - Die Neue Sammlung Trento - Universit\u00e0 Popolare Trentina",
+		"url_mart": null,
+		"materiali_c": 6,
+		"materiali_dm": 15,
+		"Denominazione": "Personale Luciano Baldessari, Milano, Francoforte, Monaco, Trento, 1957-60",
+		"longitude": 9.186516,
+		"materiali_d": 29,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1957",
+				"fine": "1960"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4654542,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(29)+DM(15)+C(6) DM: invito Conferenza Stampa, appunti  DM/contabilit\u00e0: preventivi Xilografia Milanese S.p.A., parcella L.B. (nota spese e competenze, acconti e saldo) corrispondenti: Prof. Caio Mario Cattabeni",
+		"sigla": "ALB"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Palazzo Reale",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Mostra Lucio Fontana, Milano, 1972 ",
+		"longitude": 9.1911918,
+		"materiali_d": 2,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1971",
+				"fine": "1972"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4631297,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(2)",
+		"sigla": "ALF"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Parigi (Francia) - Esposizione Internazionale",
+		"url_mart": null,
+		"materiali_c": 687,
+		"materiali_dm": 852,
+		"Denominazione": "Sala Mescita Vini Italiani, Expo di Parigi, 1937 ",
+		"longitude": 2.3522219,
+		"materiali_d": 26,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1937",
+				"fine": "1937"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 48.856614,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(26)+DM(852)+C(687) DM: programma (proposte di Albini, Baldessari, Bottoni, Nizzoli, Palazzo, Ponti, Spilimbergo; schema; testo definitivo), regolamento generale, il \"Centro Studi Triennale\" (proposte, schema di regolamento), nomina membri Consiglio d'Amministrazione, verbali (Consiglio di Amministrazione, Giunta Esecutiva, Collegio dei Revisori dei Conti), relazione viaggi membri della Giunta Esecutiva, progetti di Luciano Baldessari (relazioni e appunti), elenco architetti stranieri e Nazioni aderenti, mostre e sezioni (proposte, programma, elenco commissioni e curatori, verbali e relazioni), bozze (catalogoe guida breve), congressi e conferenze (relazioni), convegno di studi sull'architettura moderna (relazioni e interventi), convegno de divina proportione (programma, relazioni), concorsi e premi (bandi, regolamenti, relazioni), assegnazione premi (elenchi), locandine, bandi di concorso, inviti (inaugurazioni, conferenze, convegni), varie DM/contabilit\u00e0: mostre e sezioni (preventivi e assegnazioni), spese di viaggio  corrispondenti: Arch. Franco Albini, Ramy Alexander, Ing. Federico Amoroso, Sig. Vincenzo Aragozzini, Dott. Vincenzo Arena, Arch. Giovanni Astengo, Rag. Mario Baldessari, Mario Ballocco, Sig.ra Maria Rosaria Berardi, Ing. Bertolini, Arch. Max Bill, Dott. Bissi, Studio Boggeri, Gerolamo Bombelli, Arch. Piero Bottoni, Sig. T. Bouilhet, Rag. Francesco Bullo, Pitt. Bramante Buffoni, Sig. L.J. Breman, Franco Buzzi Ceriani, Sig. Julien Cain, Raffaele Calzini, Pitt. Ernesto Carboni, Prof. Aldo Carpi, Arch. Mario Cereghini, Arch. Ezio Cerutti, Curia Arcivescovile di Milano, Leonardo Cremonini, Aldo Dacc\u00f2, Ing. Luigi C. Daneri, Comm. G. Dell'Oro, Comm. Dazio, Dott. Kurt Dingelstedt, Sig. Walter Dorwin Teague, Claudio Emmer, Sig. Herbert Falkow, Prof. Tommaso Ferraris, Arch. Anna Ferrieri Castelli, J. Franssens, Arch. Enzo Fratelli, ditta Sig.ra Frette, Arch. Guido Frette, Pitt. Ezio Frigerio, Avv. Gian Giacomo Galligo, Arch. Gentili, Sig.ra Rosa Giolli Menni, Marino Giuffrida, Arch. Gnecchi, Dott. Giuseppe Gorgerino, Arch. Marcello Grisotti, Sig.ra Olga Gueft, Arch. Franca Helg Antonioli, Edgar Kaufmann, Sig. Alberto Israel, Sig. Antero Jarvinen, Arch. Lingeri, Arch. Mario Lab\u00f2, On. Ivan Matteo Lombardo, Sig. Rudolf Lunghard, On. Giuseppe Lupis, Paolo Maggi, Arch. Vico Magistretti, Arch. Augusto Magnaghi, Arch. Antonio Majocchi, Comm. Vincenzo Maercolini, Dario Marchesoni, Sig.ra Carla Marzoli, Arch. Antonio Majocchi, Ing. Franca Matricardi, Dott. Gianni Mazzocchi, Comm. Vincenzo Marcolini, Arch. Franco Marescotti, Dott. Mario Melino, Ministero della Pubblica Istruzione, Arch. Gabriele Mucchi, Pitt. Muratore, Scult. Mario Negri, Arch. Oscar Niemayer, Pitt. Marcello Nizzoli, Arch. Olivieri, Prof. Elio Palazzo, Arch. Palanti, Pastelor S.p.A., Arch. Pea, Arch. C. Perelli, Philips S.p.A., Piccolo Teatro di Milano, Pitt. Giovanni Pintori, Poeverlein, Arch. Gio Ponti, Arch. Porcinai, Pitt. Radice, Arch. Ugo Ratti, Prof. Riccardo Ricas, Arch. Rogers, Giovanni Rossi, Ing. Ernesto Saliva, Dott. Renzo Segala, Prof. Antonio Segni, Sig.ra Emma von Sichart, Sig. Enrico Serventi, Atanasio Soldati, Dott. Giovanni Spagnolli, Rag. Luigi Sperzani, Pitt. Adriano di Spilimbergo, Albe Steiner, Pitt. Orfeo Tamburi, Arch. Mario Terzaghi, Comm. Torsiello, ditta Guerino Tramonti, Pitt. Luigi Veronesi, Arch. Vittoriano Vigan\u00f2, Dott. Dino Villani, Max Wiederanders, Tapio Wirkkala, Arch. Bruno Zevi",
+		"sigla": "AMV"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Palazzo Reale (Sala delle Cariatidi)",
+		"url_mart": null,
+		"materiali_c": 3,
+		"materiali_dm": 0,
+		"Denominazione": "Mostra Premio Marzotto, Milano, 1954 ",
+		"longitude": 9.1911918,
+		"materiali_d": 3,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1954",
+				"fine": "1954"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4631297,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(3)+C(3) corrispondenti: Prof. Caio Mario Cattabeni, Dott. Mario Cavalli, Xilografia Milanese S.p.A.",
+		"sigla": "APM"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Palazzo Reale",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Progetto Mostra Ricerca dell'Identit\u00e0, Milano, 1974",
+		"longitude": 9.1911918,
+		"materiali_d": 3,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1974",
+				"fine": "1974"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4631297,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(3)",
+		"sigla": "ARI"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Mantova - Casa del Mantegna",
+		"url_mart": null,
+		"materiali_c": 17,
+		"materiali_dm": 28,
+		"Denominazione": "Mostra Risorgimento Mantovano, Mantova, 1952",
+		"longitude": 10.7880065,
+		"materiali_d": 28,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1952",
+				"fine": "1952"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.1513195,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(28)+DM(28)+C(17) DM: comunicati stampa, relazione illustrativa, elenchi fotografie disegni e dipinti, precisazioni competenze, biglietto d'invito alla Mostra, fotografie (stato di fatto), appunti DM/contabilit\u00e0: preventivi Xilografia Milanese S.p.A., minuta di fattura (lavori extra preventivo) corrispondenti: Prof. Costantino Baroni, Prof. Caio Mario Cattabeni, Dott. Mario Cavalli, Dott. Ulrich Conrads, Prof. Virgilio Ferrari, Dott. Tommaso Pavone",
+		"sigla": "ARM"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": 4,
+		"materiali_dm": 5,
+		"Denominazione": "Stand Siemens, Fiera Internazionale di Milano, 1956-57, 1961",
+		"longitude": 9.1605538,
+		"materiali_d": 0,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1961",
+				"fine": "1961"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "DM(5)+C(4) DM/contabilit\u00e0: parcella L.B. (nota spese e competenze, saldo e ricevuta) corrispondenti: Ing. G.D. Filogamo, Ing. Carlo A. Forti",
+		"sigla": "AS"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Palazzo Reale",
+		"url_mart": null,
+		"materiali_c": 52,
+		"materiali_dm": 21,
+		"Denominazione": "Mostra Rembrandt e il 600 Olandese, Milano, 1954",
+		"longitude": 9.1911918,
+		"materiali_d": 9,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1954",
+				"fine": "1954"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4631297,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(9)+DM(21)+C(52) DM: Massimo Pallottino \"Etruscologia\" Milano 1955 (estratto da), elenco musei italiani di etruscologia, relazioni, proposte e richieste dell'Ufficio Stampa della Mostra, piano per la Mostra (con indicazione delle singole sale), elenco opere esposte, appunti, depliant della Mostra, programma delle conferenze (Istituto Lombardo di Scienze e Lettere) DM/contabilit\u00e0: preventivo dei lavori corrispondenti: Dott. Gianguido Belloni, Prof. Caio Mario Cattabeni, Dott. Mario Cavalli, Prof. Virgilio Ferrari, Dott. Antonio Frova, Sig.ra Carla Marchetti, Scultore Umberto Milani, Arch. Franco Minissi, Museo di Tarquinia, Rag. Paolo Naizodimo, Prof. Massimo Pallottino, Pinacoteca di Brera (il Direttore), Dott. Ren\u00e9 Wehrli",
+		"sigla": "ASO"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Palazzo dell'Arte al Parco",
+		"url_mart": null,
+		"materiali_c": 61,
+		"materiali_dm": 48,
+		"Denominazione": "Mostra Nazionale dello Sport, Milano, 1935",
+		"longitude": 9.1734204,
+		"materiali_d": 4,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1935",
+				"fine": "1935"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.47179670000001,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(4)+DM(48)+C(61) DM: Invito alla inaugurazione, comunicazione sulla Mostra dell'Abitazione Moderna, domande di partecipazione e schede di notificazione (moduli), appunti, fotografia di un cartone di Gino Severini DM/contabilit\u00e0: preventivo di spesa dei lavori, preventivi (Ditta Arturo Biraghi, Luigi Calderara, Angelo Gazzi, A. Guatelli, Ing. Ugo Pollice, Luigi Saita, Ditta Giuseppe Sala, VIS S.A.), distinte e bolle di consegna (Gerolamo Bombelli, Luigi Calderara, Vittorio Ferrari, Italrayon, Enrico Rosasco, Societ\u00e0 Rhodiaceta Italiana S.A.), fatture (Bernocchi S.A., Lanificio Rosi, VIS S.A.), ricevute (Enrico Ciuti, Scuola Vetrinisti), elenco fatture, parcella L.B. (nota spese e competenze), appunti  corrispondenti: Dott. Giulio Barella, Ditta Arturo Biraghi, Garlinzoni, Carlo A. Felice, Vittorio Ferrari, Figli di Livio Croff S.A., \"L'Italia Letteraria\", Lanificio Rossi, Bernocchi S.A., Dott. Mazzocchi, Officine d'Arti Grafiche Chiattone, Luigi Saita, Ing. Camillo Semenza, Societ\u00e0 Rhodiaceta Italiana S.A., Tessile Serica Italiana, Francis Clivio & C., Tessiture Edoardo Stucchi S.A., Comm. Torsiello, Ezio Volterra & C.",
+		"sigla": "ASP"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Como (Villa Olmo) - Esposizione Voltiana",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Mostra della Seta, Esposizione Voltiana, Como, 1927",
+		"longitude": 9.064551699999999,
+		"materiali_d": 4,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1927",
+				"fine": "1927"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.8176433,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(4)",
+		"sigla": "ASV"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Monza (Villa Reale) - Esposizione Internazionale delle Art decorative e industriali e dell'Architettura moderna",
+		"url_mart": null,
+		"materiali_c": 3,
+		"materiali_dm": 9,
+		"Denominazione": "Stand D.A.F., IV Triennale di Monza, 1930",
+		"longitude": 9.273921099999999,
+		"materiali_d": 0,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1930",
+				"fine": "1930"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.5933819,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "DM(9)+C(3) DM/contabilit\u00e0: preventivo di Romeo Saita, bollette Ufficio Imposte, fatture (Luigi Calderara, Fiorone & Calleri S.A., I.C.E.L. S.A., Ditta Luigi Spada), parcella L.B. (nota spese e competenze)  corrispondenti: Comitato per il \"Giugno Genovese\", Comm. Pozza",
+		"sigla": "AT4"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano (Palazzo dell'Arte al Parco) - Esposizione Internazionale delle Art decorative e industriali e dell'Architettura moderna",
+		"url_mart": null,
+		"materiali_c": 80,
+		"materiali_dm": 64,
+		"Denominazione": "Salone dei Tessuti, V Triennale di Milano, 1933",
+		"longitude": 9.1734204,
+		"materiali_d": 5,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1933",
+				"fine": "1933"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.47179670000001,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(5)+DM(64)+C(80) DM: relazioni (con elenco riproduzioni), didascalie (motti e proclami), \"Bando di concorso per la decorazione delle vetrine milanesi in occasione dell'Esposizione dell'Aeronautica Italiana\", depliant Fabbrica Motorini & Trapani Elettrici Sirius DM/contabilit\u00e0: preventivi (Ingg. Bourelly & Zurhaleg, Aerofotografia Raffaele Calderoni, Fabbriche Riunite Neon S.A., Industria Teatrale Ponti, Ditta Luigi Spada), preventivi di spesa dei lavori, buoni d'ordine (Fabbriche Riunite Neon S.A., Ditta Luigi Spada), bolle di consegna (La Presse S.A., Studio Boggeri, Giuseppe Tamburini fu Camillo), consuntivo Ditta Luigi Spada, fatture (Ditta Rinaldo Pelitti, Aldo Scarpini), ricevute (Achille Broggi, L. Montani & C., Ditta Aldo Scarpini), parcella L.B. (nota spese e competenze, acconti e ricevute, saldo) corrispondenti: Ingg. Bourelly & Zurhaleg, Magg. Luigi Contini, Ditta Costruzioni Meccaniche Aeronautiche, Esposizione dell' Aeronautica Italiana (il Direttorio Ordinatore, il Capo Ufficio Segreteria, il Magazziniere), Fabbriche Riunite Neon S.A., Carlo A. Felice, Cap. Masuero, Piero Mazzucato, L. Montani &C., Ing. Paganini (S.I.A.I.), Arch. Giuseppe Pagano, Innocenzo Pini, Impresa Costruzioni Luigi Rossi, Scuola Aviazone Caproni S.A., Ing. G.D. Solesin, Lucio Sorgoni, Ditta Luigi Spada, Touring Club Italiano, Marcello Visconti di Modrone",
+		"sigla": "AT5"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano (Palazzo dell'Arte al Parco) - Esposizione Internazionale delle Art decorative e industriali e dell'Architettura moderna",
+		"url_mart": null,
+		"materiali_c": 131,
+		"materiali_dm": 73,
+		"Denominazione": "Sezione Tessili, VI Triennale di Milano, 1936",
+		"longitude": 9.1734204,
+		"materiali_d": 26,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1936",
+				"fine": "1936"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.47179670000001,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(26)+DM(73)+C(131) DM: dichiarazioni per le dogane, relazione illustrativa, dichiarazioni di consegna lavori DM/contabilit\u00e0: preventivi fornitori(B. & A. F.lli Scotti, Ditta Biraghi Arturo, Ceramica G. Appiani, Geom. F. De-Min & C, Ghiringhelli Umberto, Gaetano Perego & Fratelli, Stabilimento Ceramico G. Appiani S.A., Turri Mos\u00e8, Universal di Borsa & Ossola), preventivi e consuntivi di spesa, bolla di consegna Ceramiche Piccinelli S.A., consuntivo Ditta Bellini & Sgorlon, fatture fornitori (Luigi Calderara, Ditta Bellini & Sgorlon, Angelo Del Bon, Carlo Conte, Forniture Versea, Angelo Gazzi, Umberto Ghiringhelli, Gaetano Perego & Fratelli, Ditta Sala Giuseppe), ricevute (Teresa Guzzelli, Gaetano Perego & Fratelli), prestazioni collaboratori (ricevute), parcella L.B. (note spese e competenze, acconti, saldo e ricevute), appunti  corrispondenti: Rag. A. Barbarani, Ditta Bellini & Sgorlon, Paolo Bevilacqua, Bombelli, Ditta Anselmo Bucci, Ceramiche Piccinnelli S.A., Dott. Giuseppe Cespa, Commissariato Generale per l'Italia, Carlo Conte, Ing. Enrico De Smaele, Ing. S. Ghilardi & C. S.A., Umberto Ghiringhelli, Angelo Guzzetti, Industria Ceramica Salernitana, \"La Carimali\" S.A., \"La Casa dell'Arte\", \"La Fenice\", \"La Fiamma\", \"La S.P.I.G.A.\", Cesare V. Maranesi, Comm. M. Majnoni, Comm. Achille Mango, Ditta Giuseppe Mazzotti, Cav. Pietro Montuori, Giovanni Monza, Angelo Motta, Prof. Marcello Nizzoli, Arch. Giuseppe Pagano, Gaetano Perego & Fratelli, Anita Pittoni, Arch. Rechicchi, Antonio Veronesi S.A",
+		"sigla": "AT6"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano (Palazzo dell'Arte al Parco) - Esposizione Internazionale delle Art decorative e industriali e dell'Architettura moderna",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Atrio, Scalone d'Onore e Vestibolo superiore, IX Triennale di Milano, 1951",
+		"longitude": 9.1734204,
+		"materiali_d": 1,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1951",
+				"fine": "1951"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.47179670000001,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(1)",
+		"sigla": "AT9"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - IX Fiera Internazionale (Padiglione della Moda, Arch. Gio Ponti 1927)",
+		"url_mart": null,
+		"materiali_c": 6,
+		"materiali_dm": 0,
+		"Denominazione": "Teatro della Moda, Fiera Internazionale di Milano, 1928",
+		"longitude": 9.1605538,
+		"materiali_d": 6,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1928",
+				"fine": "1928"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(6)",
+		"sigla": "ATM"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": 61,
+		"materiali_dm": 95,
+		"Denominazione": "Stand S.I.V., Fiera Internazionale di Milano, 1964 ",
+		"longitude": 9.1605538,
+		"materiali_d": 53,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1964",
+				"fine": "1964"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(53)+DM(95)+C(61) DM: comunicati stampa, presentazione della Galleria d'Arte Moderna, presentazione della Mostra, relazione illustrativa, elenchi opere esposte, elenco inviti, fotografia (G. Romanino, Pala di S. Giustina, Padova), appunti  DM/contabilit\u00e0: preventivi Xilografia Milanese S.p.A., minuta di fattura Xilografia Milanese S.p.A., buono d'ordine (fornitura pannelli), parcella L.B. (note spese e competenze, acconto, saldo e ricevute, bollettino bancario), appunti  corrispondenti: Dell'Acqua, A. Berardi & C., Ing. Raul Franchi, Mulas, Dott. Gaetano Panazza, Prof. Bruno Passamani, Avv. Silvio Pelizzari, Prof. Giovanni Vezzoli, Dott. Manuel Vigliani, Xilografia Milanese S.p.A.",
+		"sigla": "AV"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Palazzo Reale",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 1,
+		"Denominazione": "Mostra Van Gogh, Milano, 1952",
+		"longitude": 9.1911918,
+		"materiali_d": 2,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1952",
+				"fine": "1952"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4631297,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"tipo_1": "Allestimenti",
+		"materiali_raw": "D(2)+DM(1) DM: biglietto d'invito all'inaugurazione",
+		"sigla": "AVG"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - via Cadibona",
+		"url_mart": null,
+		"materiali_c": 17,
+		"materiali_dm": 9,
+		"Denominazione": "Progetto Casa in via Cadibona, Milano, 1933-34",
+		"longitude": 9.2267744,
+		"materiali_d": 0,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1933",
+				"fine": "1934"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4536242,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Case d'abitazione",
+		"materiali_raw": "DM(9)+C(17) DM: contrato di compravendita, convenzione di tacitazione  DM/contabilit\u00e0: parcella Avv. Raimondo Collino Pansa (specifica competenze, saldo), parcella L.B. (saldo e ricevuta) corrispondenti: Giovanni Castigliano, Avv. Raimondo Collino Pansa",
+		"sigla": "CC"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - via Santa Maria Fulcorina",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 3,
+		"Denominazione": "Progetto Casa in via Fulcorina, Milano, 1934-35",
+		"longitude": 9.183005,
+		"materiali_d": 19,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1934",
+				"fine": "1935"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4642804,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Case d'abitazione",
+		"materiali_raw": "D(19)+DM(3) DM/contabilit\u00e0: prestazioni impresa Pietro Castelli, parcella L.B. (nota spese e competenze)",
+		"sigla": "CF"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Berlino (Germania) - Esposizione Internazionale dell'edilizia 1957",
+		"url_mart": null,
+		"materiali_c": 545,
+		"materiali_dm": 852,
+		"Denominazione": "Grattacielo Hansaviertel, Berlino, 1954-55, 1956-58 ",
+		"longitude": 13.4060912,
+		"materiali_d": 455,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1954",
+				"fine": "1955"
+			}, {
+				"inizio": "1956",
+				"fine": "1958"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 52.519171,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Case d'abitazione",
+		"materiali_raw": "D(455)+DM(852)+C(545) DM/Interbau: direttive generali, regolamento tecnico, normativa tecnica, bollettini d'informazione (presentazione esposizione, elenco partecipanti, relazioni illustrative progetti), piantina della esposizione DM/progetti L.B.: relazioni illustrative, descrizioni delle opere, elenco delle tavole, calcolo delle superfici e dei volumi, calcolo struttura in cemento armato, direttive di costruzione, promemoria e appunti, indirizzi e biglietti da visita, campionario colori, presentazione ditte e/o descrizione forniture (AEG, Bergomi S.p.A., Buchtal A.G., Dell'Orto Chieregatti S.p.A., Flohr-Otis G.m.b.H., Kosmos, Axel G.v. Kuhlberg, Schindler G.m.b.H., Sell G.m.b.H.), depliants pubblicitari, fotocopie schizzi acquistati dalla Kunstbiblioteck (Staatlische Museen Berlin)  DM/contabilit\u00e0: consuntivi ditta Onorato Scanagatta, tariffario architetti, disciplinare d'incarico, calcolo dei costi, spese di viaggio (biglietti aerei e ferroviari, conti alberghi e ristoranti), parcella L.B. (rendiconti, note spese e competenze, bollettini bancari, ricevute), appunti corrispondenti: Aktiengesellschaft fur den Hansaaufbau, Aktiengesellschaft fur den Aufbau des Hansaviertels (Societ\u00e0 anonima per la ricostruzione del quartiere Hansa), Banco di Roma, Ing. Hans Baumann, Ing. Beyer, Bender, Prof. E. Berckenhagen, Wolfgang Brieger, Buchtal A.G., Camera di Commercio Italo-Grmanica, Collegio regionale lombardo degli Architetti, Avv. Raimondo Collino Pansa, Colly, Das Beispiel, Dunloplan G.m.b.H., Arch. E. Feidner, Feidnerbauweise, Dott. Marianne Fischer, Ing. Frankenberg, Ing. Werner Gabler, Galleria del Levante, Glasbau Heinrich Hahn, Arch. Hans Gerds, Gino, Dott. Francesco Graziadei, Ing. Roland Grohmann, Guffanti & C., Haensel, Heinrich Hann, Hansaaufbau Hotel, Harbauer & Co., Dott. Wilhelm Hartmann, R.K. Holander, Hermann, Lucien Herv\u00e9, Iduna-Germania, Interbau, Istituto Editoriale Domus S.p.A., Hermann Jacobi, Dott. Willy Lersch, Kaiser-Bau, Kaufmann, Johann Keller G.m.b.H., Dott. Joseph Kghler, Helmut Klawonn, Dott. Klein, Arch. Gerh\u00e0rd Klose, Arch. Gunter Konietzny, Dott. Karl Mahler, Dott. MarchionniIng. Gerhard Mattigk, Ing. Aristide Micco, Arch. Gustav Muller, Murante s.r.l., Prof.ssa Pace, Phenix Works S.A., Arch. Agnoldomenico Pica, Ing. Hansrudolf Plarre, Banca Cesare Ponti, Prof. Pietro Porcinai, Dott. Willy Ruhl, Ing. Ernesto Saliva, Schindler & Die S.A., Schlieren S.p.A., Amtsrat Schmidt, Dott. Schoszberger, Ing. Rolf Schwedler, Ing. Dietrich Schweer, Prof. Hans Schwippert, S.P.I., Steinkampf, Heinz-Kurt Steinkampf, Ing. Hans Stephan, Arch. Franz Heinrich Sobotka, Dott. Thussen, G. Veit, Dott. Hermann Wandersleb, Wanner, Wegner, Woty Werner, Bruno Zevi",
+		"sigla": "CH"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Brescia - Ghedi, Calcinato, Bienno",
+		"url_mart": null,
+		"materiali_c": 37,
+		"materiali_dm": 43,
+		"Denominazione": "Case INA a Brescia, 1958",
+		"longitude": 10.2755113,
+		"materiali_d": 120,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1958",
+				"fine": "1958"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.406043,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Case d'abitazione",
+		"materiali_raw": "D(120)+DM(43)+C(37) DM: \"Criteri e modalit\u00e0 per la costruzione di alloggi per lavoratori\" 20/10/1955, conteggio cubature fabbricati (nuove norme), relazioni illustrative (Ghedi Calcinato Bienno), descrizione delle opere, dimensioni infissi, appunti, campionario colori DM/contabilit\u00e0: computo metrico-estimativo, parcella gruppo L.B. (certificati di pagamento, ricevute)   corrispondenti: Arch. Angelo Boccanera, Arch. Belisario Duca, Arch. Arnaldo Foschini, Gestione INA Casa, Avv. Mario Marchetti, Istituto Autonomo Case Popolari della Provincia di Brescia, Rag. Paolo Rubagotti Vedi anche UF/1958-59 (DM/contabilit\u00e0)",
+		"sigla": "CIB"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Porto Ceresio (VA)",
+		"url_mart": null,
+		"materiali_c": 7,
+		"materiali_dm": 2,
+		"Denominazione": "Case INA a Porto Ceresio, 1958",
+		"longitude": 8.9090724,
+		"materiali_d": 0,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1958",
+				"fine": "1958"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.9047458,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Case d'abitazione",
+		"materiali_raw": "DM(2)+C(7) DM: condizioni di incarico DM/contabilit\u00e0: appunti corrispondenti: Istituto Autonomo Case Popolari della Provincia di Alessandria, Istituto Bancario San Paolo di Torino, Ing. Ernesto Saliva",
+		"sigla": "CIC"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Pavia - Belgioioso, Linarolo, Salimbene",
+		"url_mart": null,
+		"materiali_c": 44,
+		"materiali_dm": 104,
+		"Denominazione": "Case INA a Pavia, 1958-62",
+		"longitude": 9.313989,
+		"materiali_d": 130,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1958",
+				"fine": "1962"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.1596663,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Case d'abitazione",
+		"materiali_raw": "D(130)+DM(104)+C(44) DM: contratto d'appalto, elenco e descrizione delle opere, elenco delle tavole, campionario dei colori, promemoria e appunti, biglietto da visita Gabbianelli S.p.A., fotografie (stato di fatto) DM/contabilit\u00e0: preventivi (Antonio Corti, Angelo Giussani, impresa Mario Panigatti, Angelo Spinelli, Ugo Zanconi), fatture Angelo Giussani, riepilogo fatture da liquidare, parcella L.B. (note spese e competenze, saldo), appunti corrispondenti: Geom. Alfredo Bombelli, ditta Antonio Corti, impresa Salvatore Forni, Pietro Fugazza, Angelo Giussani, Dott. Luigi Mariani, Edith Mariani, impresa Mario Panigatti, Anna Racca, Ugo Zanconi",
+		"sigla": "CIP"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Sale (AL)",
+		"url_mart": null,
+		"materiali_c": 38,
+		"materiali_dm": 12,
+		"Denominazione": "Case INA a Sale, 1958",
+		"longitude": 8.8087191,
+		"materiali_d": 103,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1958",
+				"fine": "1958"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 44.9853971,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Case d'abitazione",
+		"materiali_raw": "D(103)+DM(12)+C(38) DM: relazioni illustrative, appunti, campionario colori DM/Contabilit\u00e0: parcella gruppo L.B. (bollettino bancario, certificati di pagamento) corrispondenti: Arch. Belisario Duca, Gestione INA Casa, Istituto Autonomo Case Popolari della Provincia di Pavia, A. Piccoli, Ing. Vittorio di Tocco, Ing. Togni Vedi anche UF/1958-59 (DM/contabilit\u00e0)",
+		"sigla": "CIS"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Montagano (CB)",
+		"url_mart": null,
+		"materiali_c": 15,
+		"materiali_dm": 8,
+		"Denominazione": "Casa Jannitto, Montagano, 1968",
+		"longitude": 14.670443,
+		"materiali_d": 0,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1968",
+				"fine": "1968"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 41.65525,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Case d'abitazione",
+		"materiali_raw": "DM(8)+C(15) DM: promemoria incontro con Arch. Carlo Perogalli, appunti, biglietto da visita Comm. Giovanni Nones DM/contabilit\u00e0: appunti corrispondenti: Dott. Giuseppe Bernardi, Comm. Giovanni Nones, Prof. Nicol\u00f2 Rasmo",
+		"sigla": "CJ"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Eupilio (CO) - Frazione Carella",
+		"url_mart": null,
+		"materiali_c": 6,
+		"materiali_dm": 18,
+		"Denominazione": "Lazzaretto Mariani, Eupilio, 1959 ",
+		"longitude": 9.2642612,
+		"materiali_d": 32,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1958",
+				"fine": "1962"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.8159584,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Case d'abitazione",
+		"materiali_raw": "D(32)+DM(18)+C(6) DM: appunti DM/contabilit\u00e0: preventivi (Clemente Vicini, Xilografia Milanese S.p.A.), fatture Xilografia Milanese S.p.A., parcella L.B. (nota spese e competenze), appunti corrispondenti: Dott. Luigi Mariani, Anna Racca",
+		"sigla": "CLM"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Eupilio (CO) - Frazione Corneno",
+		"url_mart": null,
+		"materiali_c": 10,
+		"materiali_dm": 4,
+		"Denominazione": "Casa Mariani, Eupilio, 1938-39",
+		"longitude": 9.2642612,
+		"materiali_d": 0,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1938",
+				"fine": "1938"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.8159584,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Case d'abitazione",
+		"materiali_raw": "DM(4)+C(10) DM/contabilit\u00e0: preventivi (Fratelli Corti, impresa Fratelli Panigatti & Figlio)  corrispondenti: impresa Fratelli Panigatti & Figlio, Societ\u00e0 Italiana di Essicamento e di Areazione",
+		"sigla": "CM"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - via Maffei",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Progetto Casa in via Maffei, Milano, 1935",
+		"longitude": 9.2078572,
+		"materiali_d": 4,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1935",
+				"fine": "1935"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4575276,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Case d'abitazione",
+		"materiali_raw": "D (4)",
+		"sigla": "CMF"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Rovereto (TN) - via Paoli 33",
+		"url_mart": null,
+		"materiali_c": 9,
+		"materiali_dm": 55,
+		"Denominazione": "Condominio Milano, Rovereto, 1960-61",
+		"longitude": 11.0403114,
+		"materiali_d": 470,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1960",
+				"fine": "1961"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.8922631,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Case d'abitazione",
+		"materiali_raw": "D(470)+DM(55)+C(9) DM (1961/62): descrizione colori e materiali, promemoria e appunti DM/contabilit\u00e0 (1961/63): preventivo K.G.S., prospetti spese, prestazioni Geom. Giulio Baldessari (nota spese), appunti corrispondenti (1961/62): Geom. Giulio Baldessari, Guelpa Bernardo & Figlio, ditta Guber, Willy Lersch, ditta Pietro Meregalli & Figli, S.A. Radial, impresa Geom. Italo Tobia",
+		"sigla": "CMI"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - via Pancaldo 1/3 (angolo Viale Regina Giovanna)",
+		"url_mart": null,
+		"materiali_c": 172,
+		"materiali_dm": 86,
+		"Denominazione": "Casa in via Pancaldo, Milano, 1934-36",
+		"longitude": 9.209486799999999,
+		"materiali_d": 46,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1934",
+				"fine": "1936"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4757697,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Case d'abitazione",
+		"materiali_raw": "D(46)+DM(86)+C(172) DM: verbale di misurazione e consegna di area, convenzione con il Comune di Milano, calcoli statici, denuncia calcoli cementi armati, verbale di consegna dei punti fissi, capitolato d'appalto, testo cartellone pubblicitario, biglietto da visita Ing. Vincenzo Pivato, appunti DM/concessione edilizia: domanda di licenza edilizia, prescrizioni di prevenzione incendi, notifiche di nulla osta per la costruzione, verbale di consegna dei punti fissi, collaudo delle opere in cemento armato, richieste di visita per l'abitabilit\u00e0, relazioni di visita per l'abitabilit\u00e0, rilievo delle partite di costruzione soggette ad imposta di consumo, sanatoria opere difformi, licenza di occupazione, relazioni dichiarazioni e comunicazioni DM/contabilit\u00e0: \"Capitolato d'Oneri ed Elenco dei Prezzi per l'Esecuzione dei lavori di Edilizia\" Milano 1934, computo metrico e descrizione delle opere, preventivi (impresa Eraldo Carpineti, ditta Giuseppe Sala, Mos\u00e9 Turri, Felice Vitalini, Achille Zampedri & Figli), estratto conto Caimi Luigi & Figlio, ricevuta Carlo Dalgo, liquidazione dei lavori, appunti, prestazioni collaboratori (Lucio Fontana, Santo Lunardon, Ing. Primo Matassoni, Ing. Ernesto Saliva), parcella L.B. (note spese e competenze, ricevute), parcella Avv. Ugo Della Gatta (specifica competenze) corrispondenti: Giuseppe Baldessari, Ing. Italo Bertolini, impresa Eraldo Carpineti, Ing. Carlo Chierichetti, Comune di Milano (Ufficio Tecnico, Ufficio Registro), Comm. Gaetano Dell'Acqua, Ing. Vincenzo D'Al\u00f2, Carlo Dalgo, Il Selletto S.A., Istituto Superiore d'Ingegneria, Rag. Nicola Ugo Faes, Antonio Fossati, Ing. Primo Matassoni, G. Michelini, Nervi & maggioni, Otis S.A., Ing. Ernesto Saliva, S.I.E.L. S.A., Dott. Mino Spadacini",
+		"sigla": "CP"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Trento - via Roma",
+		"url_mart": null,
+		"materiali_c": 20,
+		"materiali_dm": 9,
+		"Denominazione": "Progetto Casa in via Roma, Trento, 1969",
+		"longitude": 11.1198528,
+		"materiali_d": 42,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1969",
+				"fine": "1969"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 46.0695443,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Case d'abitazione",
+		"materiali_raw": "D(42)+DM(9)+C(20) DM/contabilit\u00e0: preventivo Antonio Fossati, parcella L.B. (nota spese e competenze), appunti corrispondenti: principessa Astasia di Grecia, John W. Harris",
+		"sigla": "CR"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Eupilio (CO) - Frazione Carella",
+		"url_mart": null,
+		"materiali_c": 80,
+		"materiali_dm": 45,
+		"Denominazione": "\"Casin di Strii\", Eupilio, 1959",
+		"longitude": 9.2642612,
+		"materiali_d": 213,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1959",
+				"fine": "1959"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.8159584,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Case d'abitazione",
+		"materiali_raw": "D(213)+DM(45)+C(80) DM (1960/61): licenza edilizia, relazione sulla distanza dai confini, relazione tecnica e descrizione delle opere, compionario dei colori, promemoria e appunti, elenco delle tavole, biglietto da visita Schindler S.p.A DM/contabilit\u00e0 (1960/62): parcella L.B. (note spese e competenze), resoconti spese e competenze, appunti corrispondenti (1959/61): Geom. Giulio Baldessari, Comune di Rovereto (il Sindaco), Arch. Maria Pia Matteotti, Comm. Vittorio Rocchetti, Geom. Italo Tobia",
+		"sigla": "CS"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Como",
+		"url_mart": null,
+		"materiali_c": 6,
+		"materiali_dm": 5,
+		"Denominazione": "Casa Trutmann, Como, 1956-57",
+		"longitude": 9.0851765,
+		"materiali_d": 1,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1956",
+				"fine": "1957"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.8080597,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Case d'abitazione",
+		"materiali_raw": "D(1)+DM(5)+C(6) DM: opuscoli impianti zootecnici e agricoli (Farmaid, I.L.R.O., Safiz) corrispondenti: Marta Trutmann",
+		"sigla": "CT"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Palazzo dell'Arte - Esposizione Internazionale delle Arti decorative e industriali moderne e dell'Architettura moderna",
+		"url_mart": null,
+		"materiali_c": 298,
+		"materiali_dm": 178,
+		"Denominazione": "Casette prefabbricate, X Triennale di Milano, 1954 ",
+		"longitude": 9.1734204,
+		"materiali_d": 11,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1954",
+				"fine": "1954"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.47179670000001,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Case d'abitazione",
+		"materiali_raw": "D(11)+DM(178)+C(298) DM/TX: \"Rendere popolare la Triennale di Milano\" (Bottoni), \"Triennalizzare l'Italia\", relazioni viaggi (Baldessari, Zanuso), comunicati stampa (ricordo di Enrico Prampolini, inaugurazione), concorsi (regolamenti, composizione giurie, verbali riunioni, assegnazione premi), \"Norme per la elaborazione e la presentazione di progetti di case per senzatetto per l'UNRRA CASAS\" DM/partecipazioni estere: testo intervista a L.B., calendario Giornate Nazioni, elenco commissari, programmi e dichiarazioni (Canad\u00e0, Messico e Olanda), inviti ad inaugurazioni, indirizzi e biglietti da visita, appunti DM/casette prefabbricate: note tecniche, appunti DM/contabilit\u00e0: piano di spesa \"Casa Tridentina\", bolla di consegna S.A.R.L. Arredo, saldo prestazioni Niu Schiffra Gorstein Canavesi, parcella L.B.- Padiglione Siderurgica Commerciale Italiana (ricevuta), parcella L.B.- coordinamento partecipazioni estere (note spese e competenze, biglietti aerei e ferroviari, conti alberghi, fatture e ricevute, appunti) corrispondenti: Arch. Alvaro Aalto, H. Ahlstrom, B.I. Baggesen, Bauen+Wohnen, Eva Benedicks, Bergsradet, Arch. Karl Augustinus Bieber, Arch. Max Bill, Arch. Aulis Blomstedt, Ruth Bryk, Gaspare Buffa, Arch. Tomaso Buzzi, Nju Shifra Canavesi, Dott. Gianfilippo Carcano, Arch. Carlo De Carli, A.L. Castren, Erling Christophersen, Arch. Robin Day, Arch. Andr\u00e9 De Poerck, S.E. Marcello Del Drago, Deutscher Werkbund West-Nord, Prof. W. Dexel, Die Innenarchitektur, Die Neue Zeitung, Eiermann, Arch. Max Fellerer, Tommaso Ferraris, Giordano Franca, Arch. J. Franssen, Arch. Bengt Gate, Arch. Eugenio Gentili Tedeschi, Willy Graf, Arch. Marcello Grisotti, H.O. Gummerus, Arch. Arne Korsmo, Dott. Kreutzwald, Prof. Oswald Haerdtl, Joseph Hamels, Soren Hansen, Fritz Hansens Eftel, Arch. M. Hauser, Walter Herdeg, Olle Herold, Arch. Erik Herlow, Teiichi Hijikata, Prof. G.H.M. Holt, J.G. Jorg, On. Ivan Matteo Lombardo, ditta F.lli Lovetti, Mantegazza, Astorre Mayer, Arch. Paul-Amaury Michel, Ing. L. Neujokat, Arch. Agnoldomenico Pica, Arch. Friederich Puetz, Dott. Puggioni, studio R.I.C.E.M., Margarete Richter, Arch. Natan Rogers, Ruppert, Salvit a.r.l., Arch. Hans Schwippert, Mia Seeger, Avv. Sette, Ing. A. Scotto, S.E. Carlo Andrea Soardi di S. Antonino, Eva Sobotka, W.J. S. Sons & Cooke Ltd., Dott. Giovanni Spagnolli, S.E. Sakari Severi Tuomioja, L. Van Bellinghen, Arch. Vittoriano Vigan\u00f2, Tapio Wirkkala, Xilografia Milanese, Dott. Irene Zander",
+		"sigla": "CTX"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Vigevano (MI) - via Curiel",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 4,
+		"Denominazione": "Casa a Vigevano, 1962-64",
+		"longitude": 8.8511156,
+		"materiali_d": 18,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1962",
+				"fine": "1964"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.3080612,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Case d'abitazione",
+		"materiali_raw": "D(18)+DM(4) DM: appunti, cartoline turistiche di Montagano",
+		"sigla": "CV"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Rovereto (TN) - Corso Rosmini 53",
+		"url_mart": null,
+		"materiali_c": 50,
+		"materiali_dm": 132,
+		"Denominazione": "Condominio Venezia, Rovereto, 1961-62",
+		"longitude": 11.03932,
+		"materiali_d": 131,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1961",
+				"fine": "1962"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.89109999999999,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Case d'abitazione",
+		"materiali_raw": "D(131)+DM(132)+C(50) DM: calcolo delle superfici e dei volumi, note tecniche e chiarimenti, relazione tecnica, schema di contratto, denuncia delle opere in cemento armato, computo metrico, concessione precaria per immissione acque meteoriche e di rifiuto nella fognatura pubblica, appunti, fotografie plastico DM/contabilit\u00e0: ricevuta Geom. Ercole Grassi (plastico), stati di avanzamento dei lavori, fatture Francesco Oldani, prestazioni impresa Ferrobeton S.p.A. (preventivo, nota spese, fatture), riepilogo importi fatturati, rendiconto definitivo, relazioni (liquidazione Ferrobeton e contabilit\u00e0 finale), aggiornamento computo metrico-estimativo, resoconti spese e competenze, parcella L.B. e C.B. (note spese, acconti spese e competenze, sconto), appunti  corrispondenti: Arch. Carlo Bartoli, Ing. Bertelli, Arch. Belisario Duca, ditta Pietro Ferrari & Figli, Ferrobeton S.p.A., Dott. Giuseppe Masini, Francesco Oldani, Dott. Franco Pastormerlo, Societ\u00e0 Immobiliare Valletta Fogliano, Ing. Tonolo",
+		"sigla": "CVE"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - via Umberto Visconti di Modrone (gi\u00e0 via San Damiano)",
+		"url_mart": null,
+		"materiali_c": 5,
+		"materiali_dm": 21,
+		"Denominazione": "Progetto Grattacielo in via Modrone, Milano, 1937",
+		"longitude": 9.1995388,
+		"materiali_d": 74,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1937",
+				"fine": "1937"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4637994,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Case d'abitazione",
+		"materiali_raw": "D(74)+DM(21)+C(5) DM: calcolo dei volumi e delle superfici, convenzione committente-progettisti (bozza), rigetto domanda di concessione edilizia, fotografie (stato di fatto e collage), biglietti da visita (Ing. Renato Ferrari, O.P.A.R.) DM/contabilit\u00e0: programma finanziario, appunti corrispondenti: Stefano Bonfiglio, Arch. Gino Brunelli, Ing. Ernesto Saliva",
+		"sigla": "CVM"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - via Vittor Pisani",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 6,
+		"Denominazione": "Casa in via Pisani, Milano, 1937-38",
+		"longitude": 9.2003635,
+		"materiali_d": 71,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1937",
+				"fine": "1938"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4820297,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Case d'abitazione",
+		"materiali_raw": "D(71)+DM(6) DM: denuncie di opere edilizie  DM/contabilit\u00e0: valutazioni, stima dei lavori, computo metrico generale di costruzione",
+		"sigla": "CVP"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Roma - Quartiere EUR",
+		"url_mart": null,
+		"materiali_c": 34,
+		"materiali_dm": 29,
+		"Denominazione": "Progetto Palazzo E42, Roma, 1937 ",
+		"longitude": 12.4607737,
+		"materiali_d": 10,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1937",
+				"fine": "1937"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 41.9015141,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per la cultura e lo spettacolo ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(10)+DM(29)+C(34) DM  (1937/38): bando di concorso, relazioni e preventivo di spesa, deleghe, diciture tavole DM/contabilit\u00e0 (1937/38): spese di spedizione, ricevute (Confederazione Fascista Professionisti e Artisti, Officina d'Arte Grafica A. Lucini & C.), nota spese L.B., appunti corrispondenti (1937/38): Prof. Vittorio Casetti, Ente Esposizione Universale di Roma (il Commissario Aggiunto, il Segretario Generale), Prof. Leone Lodi, Comm. Francesco Malgeri, Dott. Silvio Marchesoni, Arch. Plinio Marconi, Arch. Giuseppe Pagano, Ing. C. Palazzo, Dott. Carlo Pascucci, Prof. Piero Portaluppi, Ing. Ernesto Saliva, On Francesco Sacco, Prof. Mario Sironi",
+		"sigla": "E42"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Stresa (NO)",
+		"url_mart": null,
+		"materiali_c": 5,
+		"materiali_dm": 34,
+		"Denominazione": "Progetto Albergo Domus, Stresa, 1958-59",
+		"longitude": 8.5258667,
+		"materiali_d": 44,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1958",
+				"fine": "1959"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.8882031,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici e impianti sportivi, ricreativi e ricettivi",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(44)+DM(34)+C(5) DM (1959): relazioni descrittive (opere e arredi), calcolo dei volumi, elenco degli arredi, promemoria, appunti, opuscolo \"Albergo Domus\", fotografie di interni  DM/contabilit\u00e0 (1959): preventivi (ISA arredamenti Turri Mos\u00e9), comparazione preventivi, preventivo di spesa arredi, domanda di mutuo (bozza) corrispondenti (1958/59): Prof. Davor Band-Brunetti, Walter Ferro",
+		"sigla": "EAD"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Taliedo (MI)",
+		"url_mart": null,
+		"materiali_c": 1,
+		"materiali_dm": 5,
+		"Denominazione": "Progetto \"Aeroporto Forlanini\", Taliedo, 1932-33",
+		"longitude": 9.2476874,
+		"materiali_d": 24,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1932",
+				"fine": "1933"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4438465,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Infrastrutture e impianti ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(24)+DM(5)+C(1) DM (1932): relazione illustrativa, appunti corrispondenti (1932): Ing. G. Solesin",
+		"sigla": "EAE"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Riazzino - Locarno (Svizzera)",
+		"url_mart": null,
+		"materiali_c": 38,
+		"materiali_dm": 96,
+		"Denominazione": "Autocentro Fiat, Riazzino, Locarno, 1968-69, 1970-73, 1981-82 ",
+		"longitude": 8.8971378,
+		"materiali_d": 325,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1968",
+				"fine": "1969"
+			}, {
+				"inizio": "1970",
+				"fine": "1971"
+			}, {
+				"inizio": "1971",
+				"fine": "1973"
+			}, {
+				"inizio": "1981",
+				"fine": "1982"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 46.1746352,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per uffici, commerciali, industriali e produttivi ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(325)+DM(96)+C(38) Contiene descrizione dei lavori, contratto d'appalto e capitolato di Villa Dott. Motta (Bussolengo) DM: norme di sicurezza autorimesse (deroghe), norme legalizzazione e autentificazione firme sui tipi di frazionamento, protocollo riunione nuova esposizione, discorso d'inaugurazione, materiale pubblicitario A. Leoni S.A, biglietti da visita e indirizzi, resoconti di appuntamenti e riunioni, promemoria, appunti, fotografie, depliants (Autounterstande, Hertz, ISCI, Ing. F. Gianese) DM/contabilit\u00e0: capitolato di concorso per opere da capopmastro (Ingg. Giudici e Vanetta), contratto per le opere da capomastro e cemento armato (impresa Ambrogio Dagosto), liquidazione impresa (computo metrico ultimi lavori), preventivi (Carlo Ancillotti S.r.l., ASTOR S.A., Claude S.p.A., ditta F.lli Moncini, F.lli Taglio), conferme d'ordine (ASTOR S.A., Studio Fotografico Pizzigoni), bolle di consegna (Carlo Ancillotti S.r.l., F.lli De Magistris S.A.), fatture (Azucena S.r.l., Antonio Leoni S.A.), ricevute (Ferruccio Crepaldi, Pizzigoni), saldo preventivo Carlo Ancillotti, abbonamento a \"Il Sole 24 Ore\", bollette materiali Antonio Leoni S.A., parcella L.B. (acconti, bollettini bancari), appunti corrispondenti: Antonio Leoni S.A., Astor Arredamenti S.A., Azucena S.r.l., ditta Casarico S.A., Claude S.p.A., Ferruccio Crepaldi, Ernest Fischer, Arch. Paul Frauchiger, Giovanni Gisler, Ing. Marco Giudici, \"Il Sole 24 Ore\" (Ufficio abbonamenti), Dott. Silvio Leoni, ditta Metkon S.A., Arch. Gianfranco Rossi",
+		"sigla": "EAF"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - via Palestro",
+		"url_mart": null,
+		"materiali_c": 2,
+		"materiali_dm": 0,
+		"Denominazione": "Progetto Galleria d'Arte Moderna, Milano, 1936",
+		"longitude": 9.1995921,
+		"materiali_d": 1,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1936",
+				"fine": "1936"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4730177,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per la cultura e lo spettacolo ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(1)+C(2) corrispondenti (1936): Ing. Renzo Gerla, Prof. Giorgio Nicodemi",
+		"sigla": "EAM"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Rovereto (TN) - Corso Rosmini",
+		"url_mart": null,
+		"materiali_c": 27,
+		"materiali_dm": 47,
+		"Denominazione": "Progetto Azienda di Turismo, Rovereto, 1965-67",
+		"longitude": 11.0390078,
+		"materiali_d": 20,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1965",
+				"fine": "1967"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.8909429,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per uffici, commerciali, industriali e produttivi ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(20)+DM(47)+C(27) DM (1966): piano situazione catastale, relazione tecnica, appunti, fotografie (area di progetto, plastico) DM/contabilit\u00e0 (1966/67): preventivo di spesa, piano di finanziamento, parcella L.B. (nota spese e competenze, saldo e ricevuta), appunti corrispondenti (1966/67): Geom. Giulio Baldessari, Preschern & Baroni, Prof. Nicol\u00f2 Rasmo",
+		"sigla": "EAT"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Sesto San Giovanni (MI) - Saronno",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Breda (piccole opere), Sesto San Giovanni, Saronno, 1955-57 ",
+		"longitude": 9.2256875,
+		"materiali_d": 43,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1955",
+				"fine": "1957"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.5328245,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per uffici, commerciali, industriali e produttivi ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D (43)",
+		"sigla": "EBR"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Sesto San Giovanni (MI)",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Progetto Palazzo per uffici Breda, Sesto San Giovanni, 1936",
+		"longitude": 9.2256875,
+		"materiali_d": 2,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1936",
+				"fine": "1936"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.5328245,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per uffici, commerciali, industriali e produttivi ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D (2)",
+		"sigla": "EBS"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "San Remo (IM)/Bordighera",
+		"url_mart": null,
+		"materiali_c": 2,
+		"materiali_dm": 1,
+		"Denominazione": "Progetto Casa di Cura/Albergo, San Remo, 1933",
+		"longitude": 7.7760567,
+		"materiali_d": 15,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1933",
+				"fine": "1933"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 43.81596709999999,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per la salute e l\u2019assistenza sociale ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(15)+DM(1)+C(2) DM (1933): relazione illustrativa corrispondenti (1940): Geom. Alfredo Bombelli, Dott. G. Gomelsky",
+		"sigla": "ECC"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "San Floriano (TN)",
+		"url_mart": null,
+		"materiali_c": 76,
+		"materiali_dm": 51,
+		"Denominazione": "Centrale Elettrica San Floriano, 1954, 1955",
+		"longitude": 11.2410022,
+		"materiali_d": 51,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1954",
+				"fine": "1954"
+			}, {
+				"inizio": "1955",
+				"fine": "1955"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 46.2842108,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Infrastrutture e impianti ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(51)+DM(51)+C(76) DM (1954/55): opuscoli (\"L'impianto idroelettrico di Santa Massenza\", \"La Societ\u00e0 Edison e il suo gruppo nel 1953\", \"Stazioni elettriche all'aperto in elementi SCAC\", \"Impianto di S. Floriano\"), curriculum vitae L.B., relazione illustrativa, cronistoria incarico, fotografie di cantiere, appunti DM/contabilit\u00e0 (1954/55): ricevute (Grisotti, Natali), parcella L.B. (note spese e competenze, saldo), appunti corrispondenti (1954/55): Rag. Mario Baldessari, Ing. Arrigo De Rizzoli, Avv. Tullio Odorizzi, Dott. Dino Rigobello, Emilio Santuari, Studio Avvocati Verdirame",
+		"sigla": "ECE"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Rovereto (TN) - Piazza San Marco",
+		"url_mart": null,
+		"materiali_c": 6,
+		"materiali_dm": 5,
+		"Denominazione": "Progetto Chiesa di San Marco, Rovereto, 1933-34, 1939 ",
+		"longitude": 11.005644,
+		"materiali_d": 17,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1939",
+				"fine": "1939"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.844062,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per il culto e tombe",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(17)+DM(5)+C(6) DM (1939): bando di concorso, relazione  DM/contabilit\u00e0 (1939): ricevuta Esercizio Trasporti Traslochi Automobilistici S.A.  corrispondenti (1939): Don Mario, Mons. Virgilio Parteli",
+		"sigla": "ECH"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Piazzetta De Angeli",
+		"url_mart": null,
+		"materiali_c": 4,
+		"materiali_dm": 3,
+		"Denominazione": "Palazzo per uffici D.A.F., Milano, 1931-32, 1937-38  ",
+		"longitude": 9.1494942,
+		"materiali_d": 13,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1931",
+				"fine": "1932"
+			}, {
+				"inizio": "1937",
+				"fine": "1938"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4665024,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per uffici, commerciali, industriali e produttivi ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(13)+DM(3)+C(4) DM/contabilit\u00e0 (1935): preventivi mobili studio Frua (Luigi Calderara, Mos\u00e9 Turri) corrispondenti (1934/35): Pirelli S.A., D.A.F. S.A. Vedi anche AT5/1933 (Carteggi)",
+		"sigla": "EDF"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - via Legnone 4",
+		"url_mart": null,
+		"materiali_c": 80,
+		"materiali_dm": 172,
+		"Denominazione": "Complesso industriale Italcima, Milano, 1932-39 ",
+		"longitude": 9.1819095,
+		"materiali_d": 90,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1932",
+				"fine": "1939"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.49820589999999,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per uffici, commerciali, industriali e produttivi ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(90)+DM(172)+C(80) DM: capitolato d'appalto, descrizione e prescrizioni tecniche, relazioni (gli edifici, il giardino), promemoria, definizione del gruppo, legenda tavole DM/concessione edilizia (progetto e varianti): domande di licenza edilizia, denuncie delle partite di costruzione, notifiche di nulla osta per la costruzione, riscossione delle imposte di consumo sui materiali da costruzione, certificati di collaudo delle opere in cemento armato, denuncia di esecuzione delle opere, richieste di visite per l'abitabilit\u00e0, nulla osta ufficio prevenzione incendi, relazioni visite per l'abitabilit\u00e0, rilievi delle partite di costruzione, licenze di occupazione, relazioni, ingiunzioni, dichiarazioni e comunicazioni DM/contabilit\u00e0: preventivi (Carlo Sachs, Turri Mos\u00e8), fatture Carlo Sachs, saldo ditta F.lli Perego, parcella L.B (note spese e competenze, ricevute) corrispondenti: ditta Serafino Arrighi, ditta Ing. Besana & Asnaghi, Emilio Cortese, Avv. Ugo Della Gatta, Comm. Achille Levi, ditta Edoardo Lossa, Officine Meccaniche Stigler, Arch. Gi\u00f2 Ponti, Salviati Mosaici, Ing. Soncini Vedi anche AT5/1933 (carteggi)",
+		"sigla": "EIT"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Brione - Locarno (Svizzera)",
+		"url_mart": null,
+		"materiali_c": 2,
+		"materiali_dm": 5,
+		"Denominazione": "Progetto Night-Club \"El Coche\", Brione, Locarno, 1968",
+		"longitude": 8.7904682,
+		"materiali_d": 36,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1968",
+				"fine": "1968"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 46.2963928,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici e impianti sportivi, ricreativi e ricettivi",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(36)+DM(5)+C(2) DM: definizione funzioni, indirizzi, appunti, fotografie (ristorante \"Los Gatos\") corrispondenti: Carlo Bellasi, Silvio Leoni, Roberto Streiff",
+		"sigla": "ELC"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Brione - Locarno (Svizzera)",
+		"url_mart": null,
+		"materiali_c": 11,
+		"materiali_dm": 5,
+		"Denominazione": "Ristorante \"Los Gatos\", Brione, Locarno, 1957",
+		"longitude": 8.7904682,
+		"materiali_d": 68,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1957",
+				"fine": "1957"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 46.2963928,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici e impianti sportivi, ricreativi e ricettivi",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(68)+DM(5)+C(11) DM (s.d.): relazione, appunti DM/contabilit\u00e0 (1957): preventivo Figli fu B. Borradori corrispondenti (1958/59): Dorante Cadlolo, Brigitte Eiermann, Arch. Egon Eiermann, Dott. Masini, Roberto Streiff Vedi anche ELC/1968 (DM)",
+		"sigla": "ELG"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Rovereto (TN)",
+		"url_mart": null,
+		"materiali_c": 29,
+		"materiali_dm": 44,
+		"Denominazione": "Palazzo per uffici ELV, Rovereto, 1963-64",
+		"longitude": 11.0401399,
+		"materiali_d": 163,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1963",
+				"fine": "1964"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.89096,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per uffici, commerciali, industriali e produttivi ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(163)+DM(44)+C(29) DM (1963/64): contratto e capitolato speciale d'appalto (bozza), cronistoria progetto struttura, appunti DM/contabilit\u00e0 (1963/64): parcella L.B. (note spese e competenze, acconti, saldo e ricevuta), appunti corrispondenti (1963/64): Ing. Sisto Campostrini, FEAL S.A.S., Arch. Augusto Savini, Dott. Giuseppe Soncini",
+		"sigla": "ELV"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Crema (CR)",
+		"url_mart": null,
+		"materiali_c": 9,
+		"materiali_dm": 20,
+		"Denominazione": "Mercato Coperto, Crema, 1952",
+		"longitude": 9.6824841,
+		"materiali_d": 6,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1952",
+				"fine": "1952"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.3643375,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per uffici, commerciali, industriali e produttivi ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(6)+DM(20)+C(9)  DM (1953): relazione rapporti con la committenza, promemoria DM/contabilit\u00e0 (1952/53): computo metrico-estimativo, parcella L.B. (note spese e competenze, acconto) DM/causa Baldessari - S.A.R.M.A.S. (1953/55): comparsa conclusionale, deduzioni istruttorie, atto di precetto, atto di opposizione, comparsa di risposta, citazione di testimoni  DM/causa Baldessari-S.A.R.M.A.S./contabilit\u00e0 (1953/55): revisione parcella L.B. dall'Ordine Architetti della Lombardia, parcella Studio Avvocati Verdirame (specifica competenze) corrispondenti (1952/55): Arch. Arturo Cadario, Studio Avvocati Verdirame Vedi anche PBM/1951-59 (DM/contabilit\u00e0)",
+		"sigla": "EMC"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - via Dogana",
+		"url_mart": null,
+		"materiali_c": 8,
+		"materiali_dm": 10,
+		"Denominazione": "Progetto Magazzini Dogana, Milano, 1931-33 ",
+		"longitude": 9.1892851,
+		"materiali_d": 5,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1931",
+				"fine": "1933"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4632991,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per uffici, commerciali, industriali e produttivi ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(5)+DM(10)+C(8) DM (1933): descrizione sommaria delle opere DM/contabilit\u00e0 (1932/33): preventivo di massima dei lavori, preventivi (ditta Angelo Magnoni, Santo Lunardon), fattura Santo Lunardon, ricevute (Enrico Ciuti, Santo Lunardon) corrispondenti (1932/33): Comm. Romeo Farioli, Arch. Mario Musa Vedi anche ESM/1932-34 (Causa Baldessari-Daniel)",
+		"sigla": "EMD"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Rovereto (TN) - via Vannetti",
+		"url_mart": null,
+		"materiali_c": 20,
+		"materiali_dm": 121,
+		"Denominazione": "Progetto Museo Studi Futuristi, Rovereto, 1981-82",
+		"longitude": 11.03679,
+		"materiali_d": 233,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1981",
+				"fine": "1982"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.8899047,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per la cultura e lo spettacolo ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(233)+DM(121)+C(20) DM (1979/82): documentazione storica, linee generali di intervento (Amministrazione Comunale), discorso di ringraziamento, osservazioni alle indicazioni di progetto, relazioni illustrative, superfici e cubature, relazioni tecniche, relazione geotecnica, descrizione tecnica impianto di spegnimento, documentazione impianto termico, documentazione isolamento termico, elenchi tavole di progetto, biglietti da visita (C.I.A. Italiana S.a.s., Nova Imac S.r.l.), appunti, quaderno appuntamenti, fotografie, depliants pubblicitari (Breter S.p.A., C.I.A. Italiana S.a.s., Elkron, Fire Protection Systems, Radio Cine Forniture S.p.A.), bando di concorso (ricostruzione compendio immobiliare delle vie Prati Matteo del Ben e Savioli) DM/contabilit\u00e0 (1982): preventivi (Bassani Ticino S.p.A., C.I.A. Italiana S.a.s., Else S.p.A., Glaverbel Italia S.p.A., La Mave S.r.l., impresa Ing. Alfonso Morganti, Luce Plan S.r.l., Saces S.p.A.), capitolato Alessandro Vandelli S.p.A., capitolato d'appalto (bozza), computo metrico-estimativo, appunti corrispondenti (1981/82): Arch. Renzo Aste, Bassani Ticino S.p.A., Pietro Monti, Arch. Zita Mosca, Nova Imac S.r.l. Dott. Gianfranco Zandonati",
+		"sigla": "EMF"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Brescia - vie Franchi e Marchetti",
+		"url_mart": null,
+		"materiali_c": 234,
+		"materiali_dm": 82,
+		"Denominazione": "Casa della Madre e del Bambino, Brescia, 1935-37 ",
+		"longitude": 10.2077632,
+		"materiali_d": 73,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1935",
+				"fine": "1937"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.5415141,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per la salute e l\u2019assistenza sociale ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(73)+DM(82)+C(234) DM (1937): descrizione delle opere, indicazioni sulla ornamentazione arborea arbustiva e floreale (Dott. Luigi Minguzzi), indirizzi ditte e imprese, elenco dei fornitori, ripartizione copie, promemoria, appunti, indirizzi, fotografie DM/contabilit\u00e0 (1935/38): preventivi (Calderara S.A., Fidenza S.A.), computo metrico e preventivo di spesa, rendiconti prestazioni fornitori, ricevute Santo Lunardon, mandati di pagamento Giovanni Baldessari, prestazioni Dott. Luigi Minguzzi, appunti, parcella L.B. (note spese e competenze, acconti e saldo, bollettini bancari) DM/contabilit\u00e0/pubblicazione (1938/39): versamenti e ricevute, fattura studio Boggeri S.A., saldo spese L.B. corrispondenti (1934/40): Ing. Biemmi, studio Boggeri S.A., G. Bonetti & Figli S.A., O. de Borck, Giuseppe Bottazzi, Ing. Oreste Buffoli, ditta F.lli Burlotti, Cantieri Milanesi S.A., Enrico Cestari, Consorzio Provinciale Antitubercolare, Fidenza S.A., Fornaci R.D.B., ditta Vittorio Francoli, Gorla-Siama S.A., ditta F.lli Lombardi, Santo Lunardon, Carlo Mangini S.A., Dott. Luigi Minguzzi, Municipio di Brescia (il Podest\u00e0), ditta Nicol\u00f2 Ninzatti, Officine di Sesto S. Giovanni & Valsecchi Abramo S.A., O.N.M.I./Brescia (il Segretario), ditta Giovanni Pedruzzi, F.lli Perani, Provincia di Brescia (l'Ufficio Tecnico), S.A.C.I.L. S.A., A. Sanguinetti, Federico Sbardolini, Geom. Silvio Senini, SIAM S.A., Societ\u00e0 Comm. Mario Alberti, Societ\u00e0 del Linoleum, Societ\u00e0 Nazionale dei Radiatori, ditta Alessandro Sottini, Geom. Pietro Taglietti, Giacomo Togni S.A., Turri Mos\u00e9, ditta Giuseppe Ventura, Ing. Andrea Visioli",
+		"sigla": "ESB"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Rovereto (TN) - via San Giovanni Bosco",
+		"url_mart": null,
+		"materiali_c": 219,
+		"materiali_dm": 253,
+		"Denominazione": "Istituto Tecnico F.lli Fontana, Rovereto, 1962-66, 1967-1973",
+		"longitude": 11.0413071,
+		"materiali_d": 189,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1962",
+				"fine": "1966"
+			}, {
+				"inizio": "1967",
+				"fine": "1967"
+			}, {
+				"inizio": "1967",
+				"fine": "1973"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.89349319999999,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Scuole ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(189)+DM(253)+C(219) DM (1960/69): schema di progetto (Arch. Marco Tiella), delibere della Giunta Provinciale (assegnazione incarico, approvazione progetto di massima), descrizione lotti, relazione, disciplinare di incarico, osservazioni al progetto (Giunta e Soprintendenza), promemoria e appunti, indirizzi e biglietti da visita, depliants pubblicitari (Geom. Carlo Chini, Officine Bini, Officine Daldoss, Geom. Nepi & Carenzi, Serrature Meroni, 2S Serramenti) DM/contabilit\u00e0 (1965/70): parcella L.B. (note spese e competenze, bollettini bancari, acconti e ricevute), prestazioni collaboratori (versamenti e ricevute), spese di viaggio (biglietti ferroviari, conti degli alberghi), appunti corrispondenti (1960/70): Ing. Vittorio Armani, Geom. Giulio Baldessari, Guido Benedetti, Guglielmo Banal, Arch. Pasquale Bruno, Dott. Mario Cantaloni, impresa Chini, Ing. Renato Marchi, Arch. Maria Pia Matteotti, Dott. Maurizio Monti, Ministero della Pubblica Istruzione, Arch. Renato Morganti, Prof. N. Rasmo, Geom. Sala, Dott. Alfonso Salvadori, Avv. Giovanni Schejola, Prof. Ferruccio Trentini, Dott. Gabriele Santoni, Dott. Ezio Zadra",
+		"sigla": "ESF"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Lodi (MI)",
+		"url_mart": null,
+		"materiali_c": 7,
+		"materiali_dm": 7,
+		"Denominazione": "Progetto Centro di Assistenza Materna e Infantile, Lodi, 1932",
+		"longitude": -83.8260884,
+		"materiali_d": 18,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1932",
+				"fine": "1932"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 42.2082681,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per la salute e l\u2019assistenza sociale ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(18)+DM(7)+C(7) DM (1929): relazione (Arch. Hugo Virchow) DM/contabilit\u00e0 (1932): preventivo impresa F.lli Calderara, parcella L.B. (mandato di pagamento, ricevute) corrispondenti (1932/33): Avv. Sileno Fabbri, Dott. Maggi  Vedi anche ESM/1932-34 (Causa Baldessari-Daniel)",
+		"sigla": "ESL"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Mortara (PV)",
+		"url_mart": null,
+		"materiali_c": 110,
+		"materiali_dm": 52,
+		"Denominazione": "Centro di Assistenza Materna e Infantile, Mortara, 1932-33 ",
+		"longitude": 8.7380708,
+		"materiali_d": 6,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1932",
+				"fine": "1933"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.2515328,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per la salute e l\u2019assistenza sociale ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(6)+DM(52)+C(110) DM(s.d.): breve relazione illustrativa, biglietti da visita (impresa F.lli Calderara, Famiglia Ing. Quinto Gregotti), appunti DM/contabilit\u00e0 (1932/33): fatture (A. Guatelli, Agostino Pirola), spese di viaggio (biglietti ferroviari, conti degli alberghi, appunti), prestazioni Marcello Nizzoli, parcella L.B (note spese e competenze, acconti, saldo e ricevute), appunti Corrispondenti (1932/34): Quinto Bossi, Cartiere di Verona S.A., impresa Paolo Comeglio & F.llo, T. Confalonieri, Donna Bianca Fabbri, Fratelli Feltrinelli S.A., Ing. Quinto Gregotti fu Edoardo, Comm. Fernando Lanfranconi, Societ\u00e0 Commerciale Bossi, Comm. Ettore Taroni DM/causa Baldessari-Daniel (1930/33): descrizioni brevetto Bohler Stahlbau G.m.b.H., atti (collaborazione, collocamento e sfruttamento brevetto Boehler, liquidazione)  DM/causa Baldessari-Daniel/contabilit\u00e0 (1933/34): fatture Tipografia Mercurio, resoconti spese e competenze Baldessari-Daniel, parcella Avv. Giustino Arpesani (specifica competenze) corrispondenti/Causa Baldessari-Daniel (1932/34): Avv. Giustino Arpesani, Richard Biel, Bohler Stahlbau G.m.b.H., Ing. Ugo Camuri, Arch. Werner Daniel, Italo Finlandese S.A., Francesco Jaeger, Casa Editrice Arnoldo Mondadori, Ing. H. Schmid, Dott. Tullio Scolari, Siemens S.p.A., Spiegelglasfabrik Reisholz S.A. Vedi anche AT5/1933 (Carteggi)",
+		"sigla": "ESM"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Roma - via Cassia Vecchia",
+		"url_mart": null,
+		"materiali_c": 68,
+		"materiali_dm": 13,
+		"Denominazione": "Casa della Madre e del Bambino, Roma, 1935-37 ",
+		"longitude": 12.4107902,
+		"materiali_d": 41,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1935",
+				"fine": "1937"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 41.9880596,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per la salute e l\u2019assistenza sociale ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(41)+DM(13)+C(68) DM (1935): perizia del terreno, legenda tavole DM/contabilit\u00e0 (1936/38): preventivi (Angelo Gazzi, Felice Vitalini), computo metrico-estimativo, parcella L.B. (nota spese, bollettini bancari, saldo e ricevuta), appunti corrispondenti (1935/38): Avv. Bergamaschi, Prof. Luigi Lenzi, Umberto Negri, Dott. Antonio De'Notaristefani, Avv. Sileno Fabbri, Arch. Ettore Rossi, Ing. Cesare Valle, Ing. Raffaele Vespignani, prof. Giuseppe Vidau",
+		"sigla": "ESR"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "--",
+		"url_mart": null,
+		"materiali_c": 47,
+		"materiali_dm": 13,
+		"Denominazione": "Progetto Casa della Madre e del Bambino, 1933-35 ",
+		"longitude": "null",
+		"materiali_d": 16,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1933",
+				"fine": "1935"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": "null",
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per uffici, commerciali, industriali e produttivi ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(16)+DM(13)+C(47) DM (1934): Sileno Fabbri \"Assistenza a Domicilio\" e \"La Casa della Madre e del Bambino\", biglietto da visita Dott. Antonio De'Notaristefani  DM/contabilit\u00e0 (1934/36): dati di costo, preventivi di spesa Calderara S.A., computo metrico estimtivo, fattura Copisteria Venezia, parcella L.B. (nota spese, mandato di pagamento, saldo)  corrispondenti (1933/37): Comitato di Patronato dell'Urbe della O.N.M.I., Dott. Antonio De Stefani, Ing. Capo Amministrazione Provinciale di Fiume, Dott. A. Grosso, Avv. Sileno Fabbri",
+		"sigla": "EST"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Torino",
+		"url_mart": null,
+		"materiali_c": 2,
+		"materiali_dm": 6,
+		"Denominazione": "Progetto Teatro Regio, Torino, 1937 ",
+		"longitude": 7.6784897,
+		"materiali_d": 12,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1937",
+				"fine": "1937"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.0629022,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per la cultura e lo spettacolo ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(12)+DM(6)+C(2) DM (s.d.): riproduzioni di vecchie fotografie corrispondenti (1937): Ing. L. Gustinelli, Municipio di Torino",
+		"sigla": "ETR"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Padiglione 19, Fiera Internazionale di Milano, 1957",
+		"longitude": 9.1605538,
+		"materiali_d": 6,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1957",
+				"fine": "1957"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D (6)",
+		"sigla": "I19"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "New York (U.S.A.) - 103 West 42 nd. St.",
+		"url_mart": null,
+		"materiali_c": 32,
+		"materiali_dm": 12,
+		"Denominazione": "Ristorante self-service Alma Products, New-York, 1941 ",
+		"longitude": -73.9841586,
+		"materiali_d": 19,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1941",
+				"fine": "1941"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 40.7548819999999,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D(19)+DM(12)+C(32) DM: fotografie, estratto del foglio di possesso fondiario DM/contabilit\u00e0: preventivo impresa Villa, preventivo di spesa, appunti (costo di costruzione e costo dell'area), parcella L.B. (nota spese e competenze, saldo e ricevuta) corrispondenti: Dott. B. Andreatta, Direttore Societ\u00e0 Finanziaria Trentina, Dott. Giovanni Spagnolli, impresa Geom. Enrico Villa",
+		"sigla": "IAP"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - via Montenapoleone 27",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Istituto di Bellezza \"Dora Bruschi\", Milano, 1952-53 ",
+		"longitude": 9.1953222,
+		"materiali_d": 8,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1952",
+				"fine": "1953"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.46810869999999,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D (8)",
+		"sigla": "IB"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Venezia - Campo San Basilio",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Appartamento Bernardi, Venezia, 1973",
+		"longitude": 12.3207328,
+		"materiali_d": 4,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1973",
+				"fine": "1973"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4313205,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D (4)",
+		"sigla": "IBD"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Via Mercalli 11",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Appartamento Bertagnolli, Milano, 1977 ",
+		"longitude": 9.1892209,
+		"materiali_d": 39,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1977",
+				"fine": "1977"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4554831,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D (39)",
+		"sigla": "IBL"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 60,
+		"Denominazione": "Appartamento Bolchini, Milano, 1933-34 ",
+		"longitude": 9.186516,
+		"materiali_d": 4,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1933",
+				"fine": "1934"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4654542,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D(4)+DM(60) DM/contabilit\u00e0: preventivi (Luigi Calderara, Giuseppe Sala, Carlo Sartori, Andrea Scoglio, Turri Mos\u00e9), preventivi di spesa dei lavori, elenchi forniture, elenchi fatture, fatture (Cesare Beretta, Ermanno Besozzi, Filippo Bossi, Mario Bragalli, impresa F.lli Calderara, Luigi Calderara, Pietro De Albertis, Luigi Fossati, Scoglio Andrea, Ing. Ugo Pollice, Sala Giuseppe, Turri Mos\u00e8), parcella L.B. (nota spese e competenze, saldo e ricevuta)",
+		"sigla": "IBO"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano",
+		"url_mart": null,
+		"materiali_c": 6,
+		"materiali_dm": 11,
+		"Denominazione": "Breda (grattacielo), Milano, 1955-56",
+		"longitude": 9.186516,
+		"materiali_d": 71,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1955",
+				"fine": "1956"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4654542,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D(71)+DM(11)+C(6) DM/contabilit\u00e0: preventivo Xilografia Milanese S.p.A., ricevute, appunti corrispondenti: Egisto Marconi, Dott. G. Rasini, Luigi Rozza",
+		"sigla": "IBR"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Trento",
+		"url_mart": null,
+		"materiali_c": 16,
+		"materiali_dm": 73,
+		"Denominazione": "Progetto Banca di Trento e Bolzano, Trento, 1949-50",
+		"longitude": 11.1210886,
+		"materiali_d": 97,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1949",
+				"fine": "1950"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 46.0696924,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D(97)+DM(73)+C(16) DM: pro-memoria, relazione rapporti con la commttenza, appunti DM/contabilit\u00e0: preventivi di spesa, descrizione sommaria delle opere, estratto conto generale e complessivo (impresa Battaini S.r.l.), riassunto ore in economia, nota lavori a forfait, elenco lavori extra preventivo, prestazioni geometri Alfredo Bombelli e Ennio Stucchi (note competenze, saldo e ricevute), parcella L.B. (note spese e competenze), appunti corrispondenti: Dora Bruschi, Comm. Camurati, Dott. Guido Grieco, Dott. Mauro Mancia, Avv. Carlo Puricelli, Ing. Ernesto Saliva, Arch. Giovanna Saliva, Ennio Stucchi, Unrra Tess \f",
+		"sigla": "IBT"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - via Ugo Foscolo 3",
+		"url_mart": null,
+		"materiali_c": 8,
+		"materiali_dm": 54,
+		"Denominazione": "Progetto Bar Canova, Milano, 1934",
+		"longitude": 9.190766,
+		"materiali_d": 2,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1934",
+				"fine": "1934"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4655425,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D(2)+DM(54)+C(8) DM: domanda di licenza edilizia DM/contabilit\u00e0: preventivi (ditta Arturo Biraghi, Cesare Biraschi S.A., Angelo Gazzi, ditta Carlo Sachs, Luigi Saita, ditta Giuseppe Sala, Turri Mos\u00e8, A. De Weiss), preventivo di spesa, bolle di consegna (ditta Arturo Biraghi, Calderara S.A., ditta Carlo Sachs), elenchi delle fatture, nota delle spese e delle competenze (parcella L.B.), parcella di L.B. (onorari ricevuti, richiesta di sconto) corrispondenti: ditta Dewiss, Edoardo Mariani, Ugo & Ing. Carlo Spangher, Ultimoda S.A.",
+		"sigla": "IC"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Trento - via Calepina 13",
+		"url_mart": null,
+		"materiali_c": 16,
+		"materiali_dm": 11,
+		"Denominazione": "Camera di Commercio, Trento, 1960-61",
+		"longitude": 11.1229522,
+		"materiali_d": 16,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1959",
+				"fine": "1961"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 46.0668581,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D(16)+DM(11)+C(16) DM: appunti, fotografie, depliant lampada \"Paolina\" (Arch. Ignazio Gardella) DM/contabilit\u00e0: appunti opere in ferro, prestazioni Adriano di Spilimbergo (saldo quadro), parcella L.B. (nota spese e competenze, saldo)  corrispondenti: ditta Azucena, Avv. Luigi Bolner, Dott. Umberto Garbari, Istituto di Credito Fondiario, Geom. Dino Oss",
+		"sigla": "ICC"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Trento - via Calepina 1",
+		"url_mart": null,
+		"materiali_c": 10,
+		"materiali_dm": 2,
+		"Denominazione": "Credito Fondiario, Trento, 1960 ",
+		"longitude": 11.1226111,
+		"materiali_d": 13,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1959",
+				"fine": "1961"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 46.06682439999999,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D(13)+DM(2)+C(10) DM: riproduzioni lavori Cesarina Seppi corrispondenti: Cesarina Seppi",
+		"sigla": "ICF"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Rovereto (TN)",
+		"url_mart": null,
+		"materiali_c": 3,
+		"materiali_dm": 12,
+		"Denominazione": "Appartamento Cagol, Rovereto, 1956-57",
+		"longitude": 11.0401399,
+		"materiali_d": 28,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1956",
+				"fine": "1957"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.89096,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D(28)+DM(12)+C(3) DM: prove di colore, biglietto da visita Ing. Giulio Vignola, depliant pubblicitario Trilux-Auszugliste 56 DM/contabilit\u00e0: preventivi (Arteluce S.A., ditta Onorato Scanagatta, ditta Ing. C.M. Bula), fattura e ricevuta Geom. Ercole Grassi (plastico), parcella L.B. (acconti e bollettini bancari) corrispondenti: Ente Fiera (Ufficio Amministrazione)",
+		"sigla": "ICG"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - via Durini/corso Vittorio Emanuele",
+		"url_mart": null,
+		"materiali_c": 9,
+		"materiali_dm": 0,
+		"Denominazione": "Calzaturificio di Varese, Milano, 1929-33 ",
+		"longitude": 9.1981925,
+		"materiali_d": 0,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1929",
+				"fine": "1933"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4647648,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "C(9) corrispondenti: Arch. Melchiorre Bega, impresa F.lli Calderara, Mos\u00e8 Morgazzini",
+		"sigla": "ICV"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - via Longhi 10",
+		"url_mart": null,
+		"materiali_c": 12,
+		"materiali_dm": 9,
+		"Denominazione": "Appartamento Avv. Dieci, Milano, 1969-70",
+		"longitude": 9.2251151,
+		"materiali_d": 11,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1969",
+				"fine": "1970"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4614574,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D(11)+DM(9)+C(12) DM: ricette mediche (Dott. Matteo Leonardi, Dott. Domenico Sandon\u00e0), appunti DM/contabilit\u00e0: preventivi (Allestimenti Portanuova S.r.l., Ruele), bolla di consegna C.E.F., fattura Azucena S.r.l. corrispondenti: Claudio Leonardi, Dott. Matteo Leonardi",
+		"sigla": "ID"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Piazzetta De Angeli 3",
+		"url_mart": null,
+		"materiali_c": 7,
+		"materiali_dm": 5,
+		"Denominazione": "Appartamento De Angeli Frua, Milano, 1933-35",
+		"longitude": 9.150274,
+		"materiali_d": 12,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1933",
+				"fine": "1934"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4661424,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D(12)+DM(5)+C(7) DM/contabilit\u00e0: preventivi di spesa dei lavori, elenco preventivi (Angelo Gazzi, Turri Mos\u00e8, Ing. Ugo Pollice, Luigi Spada), preventivo ditta Angelo Bazzi, biglietto da visita Leoni & Geinzger corrispondenti: Prof. Giorgio Nicodemi",
+		"sigla": "IDF"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Corso di Porta Romana 6",
+		"url_mart": null,
+		"materiali_c": 12,
+		"materiali_dm": 94,
+		"Denominazione": "Laboratorio Fontana, Milano, 1968 ",
+		"longitude": 9.1896912,
+		"materiali_d": 27,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1968",
+				"fine": "1968"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.459724,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D(27)+DM(94)+C(12) DM: indirizzi fornitori, campioni di colore, appunti DM/contabilit\u00e0: preventivi (Ardeal S.n.c., Xilografia Milanese S.p.A.), buoni d'ordine (Ambienti, Arflex S.p.A., Azucena S.r.l., Figli di Amedeo Cassina S.a.s, Fontana Arte S.p.A., Storck Stoffe S.p.A., Tecno S.p.A.), bolle di consegna (Teclas, Texital), consuntivo di Abele Bartezaghi, fatture (Ambienti, Ardeal S.n.c., Arflex, Arform, Azucena S.r.l., Figli Andrea Cassina S.a.s., Fontana Arte S.p.A., Teclas, Tessiture Riunite Costantino Corsini & Figli, Texital), parcella L.B. (nota spese e competenze, saldo), appunti corrispondenti: Figli di Amedeo Cassina S.a.s., Dott. Eliano Panzeri, Texital",
+		"sigla": "IF"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Paris - rue du Belvedere, oppure Impasse Nansouty 9 (XIV) casa progettata da A. Perret",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Appartamento/studio a Parigi, 1937",
+		"longitude": 2.3341997,
+		"materiali_d": 20,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1937",
+				"fine": "1937"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 48.8217167,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D (20)",
+		"sigla": "IFP"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Piazza Duomo",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Negozio Galtrucco, Milano, 1938 ",
+		"longitude": 9.190021999999999,
+		"materiali_d": 7,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1938",
+				"fine": "1938"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4646878,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D (7)",
+		"sigla": "IG"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Via Pietro Verri, 20121 Milano, Italia",
+		"url_mart": null,
+		"materiali_c": 65,
+		"materiali_dm": 26,
+		"Denominazione": "Negozio Hass, Milano, 1937",
+		"longitude": 9.194511199999999,
+		"materiali_d": 37,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1937",
+				"fine": "1937"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.46769219999999,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D(37)+DM(26)+C(65) DM: appunti, biglietto da visita M.I.T.A. (Manifattura Italiana Tappeti Annodati), ricevute telegrammi DM/contabilit\u00e0: preventivo ditta Riccardo Springer, riassunto liquidazione fatture, parcella L.B. (note spese e competenze, acconti e saldo), appunti corrispondenti: Dott. Renato Castagna, Ing. Attilio Costaguta, Ing. Ugo F. Costaguta, Piero Gilardino, M.I.T.A. (Manifattura Italiana Tappeti Annodati), \"Prezioso\" (Arte Fotografica), Ing. Achille Piazzai, Dott. Giovanni Rasini, Thea Rasini, ditta Carlo Sachs",
+		"sigla": "IH"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Locarno (Svizzera) - Via A. Ciseri 19",
+		"url_mart": null,
+		"materiali_c": 10,
+		"materiali_dm": 29,
+		"Denominazione": "Negozio per esposizioni Leoni, Locarno, 1970",
+		"longitude": 8.7965506,
+		"materiali_d": 30,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1970",
+				"fine": "1970"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 46.16865629999999,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D(30)+DM(29)+C(10) DM: relazione tecnica (costruzione Olon S.A.), elenco ditte di arredamento, indirizzi (Dario Marchesoni, Franco de Juli), biglietto da visita A. Ardia, invito dei Cantieri Magugliani alla Ca' Verza (Mostra Internazionale)  DM/contabilit\u00e0: parcella L.B. (note spese e competenze, saldo), appunti corrispondenti : Geom. Franco de Juli, Dott. Marco Spadacini",
+		"sigla": "IL"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Via Filippo Turati, 56, 20121 Milano, Italia",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 87,
+		"Denominazione": "Parrucchiere Manfredini, Milano, 1956 ",
+		"longitude": 0,
+		"materiali_d": 174,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1956",
+				"fine": "1956"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 0,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D(174)+DM(87) DM/contabilit\u00e0: preventivi (American Kitchens Skofel, Fratelli Ciceri, Philco S.r.l., Saffa S.p.A., S.I.T.R.E., Turri Mos\u00e8), bollette di imposta del Comune di Milano, buono d'ordine Areluce S.A., bolle di consegna (Arteluce S.p.A., Atlantic-Alectric, Luigi Brusotti, Ing. Angelo Gallizio S.r.l., F.lli Gondrand S.p.A., Pastelor S.p.A., S.I.T.R.E., Thermofrigor), conferma d'ordine Lips-Vago S.p.A., bolle per lavori in economia Pietro Rocchinotti, bolle di riparazione S.I.T.R.E., fatture (Pastelor S.p.A., S.I.T.R.E.), elenchi fatture, appunti, depliants pubblicitari (Lips-Vago S.p.A., Philco S.r.l.)",
+		"sigla": "IM"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - via Circo 3",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 1,
+		"Denominazione": "Appartamento Mariani, Milano, 1936",
+		"longitude": 9.1806868,
+		"materiali_d": 13,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1936",
+				"fine": "1939"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.46151829999999,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D (13) + DM (1) DM: relazione illustrativa",
+		"sigla": "IMR"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 5,
+		"Denominazione": "Appartamento Masini, Milano, 1955-56",
+		"longitude": 9.186516,
+		"materiali_d": 20,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1955",
+				"fine": "1956"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4654542,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D(20)+DM(5) DM/contabilit\u00e0: preventivi Reina Zanardini S.p.A., nota forniture Zanardini",
+		"sigla": "IMS"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Voltri (GE) - Cantiere navale Costaguta",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Panfilo \"La Madonnina\", Voltri, 1937-38",
+		"longitude": 8.693068499999999,
+		"materiali_d": 10,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1937",
+				"fine": "1938"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 44.4540365,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D (10)",
+		"sigla": "IP"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Piazza Castello",
+		"url_mart": null,
+		"materiali_c": 14,
+		"materiali_dm": 22,
+		"Denominazione": "Progetto Pinacoteca Castello Sforzesco, Milano, 1933-35  ",
+		"longitude": 9.180460700000001,
+		"materiali_d": 13,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1933",
+				"fine": "1935"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.47186749999999,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D(13)+DM(22)+C(14) DM/contabilit\u00e0: preventivi (ditta Arturo Biraghi, Giovanni Coatti, Angelo Gazzi, A. Mazzei, Luigi Saita, Aldo Scarpini, ditta Luigi Spada), biglietto da visita Angelo Ostuni, parcella L.B. (nota spese e competenze)  DM/causa Baldessari-Ostuni: relazione rapporti con la committenza, prova testimoniale  DM/causa Baldessari-Ostuni/contabilit\u00e0: parcella Avv. Ugo della Gatta (specifica competenze, saldo e ricevuta) corrispondenti: Avv. Ugo della Gatta, Luigi Spada",
+		"sigla": "IPC"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - via San Pietro all'Orto",
+		"url_mart": null,
+		"materiali_c": 9,
+		"materiali_dm": 3,
+		"Denominazione": "Appartamento in via San Pietro all'Orto, Milano, 1938",
+		"longitude": 9.1952133,
+		"materiali_d": 5,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1938",
+				"fine": "1938"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4669155,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D(5)+DM(3)+C(9) DM: relazione sui materiali, preventivo di costo dei materiali corrispondenti: Alma Products inc. Store, A. Fabbri, C.B. Monro, Santelli",
+		"sigla": "IPO"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Rovereto (TN)",
+		"url_mart": null,
+		"materiali_c": 16,
+		"materiali_dm": 8,
+		"Denominazione": "Appartamento Perin, Rovereto, 1933",
+		"longitude": 11.0401399,
+		"materiali_d": 0,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1933",
+				"fine": "1933"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.89096,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "DM(8)+C(16) DM: nota di massima dei cristalli, nota impianto Luceplan, elenchi delle opere in legno e in ferro DM/contabilit\u00e0: preventivo di spesa dei lavori, parcella L.B. (nota spese e competenze, saldo) corrispondenti: Tonini, La Sartotecnica S.A.",
+		"sigla": "IPR"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Vasto (CH)",
+		"url_mart": null,
+		"materiali_c": 1,
+		"materiali_dm": 5,
+		"Denominazione": "Appartamento Panzeri, Vasto, 1968",
+		"longitude": 14.6937674,
+		"materiali_d": 21,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1968",
+				"fine": "1968"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 42.11886980000001,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D(21)+DM(5)+C(1) DM: descrizione delle opere murarie, da elettricista, da verniciatore e di arredamento, appunti DM/contabilit\u00e0: preventivo Xilografia Milanese S.p.A., prestazioni Arch. Zita Mosca (nota spese e competenze), appunti corrispondenti: Ing. Giovanni Zecchini",
+		"sigla": "IPZ"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Corso Vittorio Emanuele II, 20122 Milano, Italia",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Bar Rossi, Milano, 1932",
+		"longitude": 9.1950525,
+		"materiali_d": 68,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1932",
+				"fine": "1932"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4652803,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D (68)",
+		"sigla": "IR"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - via Rastrelli 5",
+		"url_mart": null,
+		"materiali_c": 32,
+		"materiali_dm": 42,
+		"Denominazione": "Appartamento Russoli, Milano, 1958",
+		"longitude": 9.191237500000002,
+		"materiali_d": 11,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1958",
+				"fine": "1958"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4623002,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D(11)+DM(42)+C(32) DM/contabilit\u00e0: preventivi (Arflex S.p.A., Luigi Fontana e & S.p.A., Tecno S.p.A.), preventivo di spesa dei lavori, bolla di consegna Arflex S.p.A., buoni d'ordine (ditta A.G. Herholdt, Tecno S.p.A.), consuntivi (ditta Banfi, Luigi Fontana, Magni), fatture (Albanese, Arflex S.p.A., Danese, Natale Giovannini, Haas, Italo Martieri), resoconto fatture, elenco ed indirizzi fornitori, prospetto spese, appunti  corrispondenti: Arflex S.p.A., Geom. Giulio Baldessari, Umberto Buglioli, Celestino Dal Ri, A. Costi, Leo Detassis, Natale Giovannini, Italo Marteri, Rag. Bruno Scrinzi, Tecno S.p.A.",
+		"sigla": "IRS"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Piazza Cordusio",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Progetto negozio Sartotecnica, Milano, 1933",
+		"longitude": 9.186403499999999,
+		"materiali_d": 15,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1933",
+				"fine": "1933"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4650511,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D (15)",
+		"sigla": "IS"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - via C. Pisacane 35",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 1,
+		"Denominazione": "Studio per Collezionista, Milano, 1930, 1932 ",
+		"longitude": 9.2111477,
+		"materiali_d": 0,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1930",
+				"fine": "1930"
+			}, {
+				"inizio": "1932",
+				"fine": "1932"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4720155,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "DM (1) DM: descrizione dei lavori e delle opere",
+		"sigla": "ISC"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Trento",
+		"url_mart": null,
+		"materiali_c": 7,
+		"materiali_dm": 33,
+		"Denominazione": "Appartamento Seppi, Trento, 1961 ",
+		"longitude": 11.1210886,
+		"materiali_d": 12,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1961",
+				"fine": "1961"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 46.0696924,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D(12)+DM(33)+C(7) DM: biglietti da visita Ardeal S.n.c., \"Arredamento Moderno\" anno VI n\u00b0 44 aprile 1966, appunti DM/contabilit\u00e0: preventivi (Ardeal S.n.c., Ernesto Plotini), bolla di pagamento del Comune di Milano, parcella L.B. (nota spese e competenze, bollettino bancario, saldo), appunti corrispondenti: Bruna Fontana, ditta Angelo Morelli, Luigi Rozza",
+		"sigla": "ISE"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - via A. Sangiorgio 9",
+		"url_mart": null,
+		"materiali_c": 2,
+		"materiali_dm": 33,
+		"Denominazione": "Appartamento Sigurt\u00e0, Milano, 1933-34",
+		"longitude": 9.1694248,
+		"materiali_d": 0,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1933",
+				"fine": "1934"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4757744,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "DM(33)+C(2) DM/contabilit\u00e0: preventivi (impresa F.lli Calderara, Luigi Calderara, impresa G.B. Crosta, Pirelli S.A., ditta Luigi Spada, impresa Adolfo Vercesi, ditta Francesco Villa), preventivi di spesa dei lavori, elenchi fatture, verifiche e liquidazioni fatture, ricevute, parcella L.B. (nota spese e competenze, saldo e ricevuta) corrispondenti: Carlo De Angeli Frua, Antonio Fossati",
+		"sigla": "ISG"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - via Mozart 15",
+		"url_mart": null,
+		"materiali_c": 3,
+		"materiali_dm": 7,
+		"Denominazione": "Appartamento Spadacini, Milano, 1932",
+		"longitude": 9.202566299999999,
+		"materiali_d": 0,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1932",
+				"fine": "1932"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4692243,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "DM(7)+C(3) DM/contabilit\u00e0: preventivi (Luigi Calderara, Turri Mos\u00e8), preventivo di massima dei lavori, parcella L.B. (nota spese e competenze, saldo)  corrispondenti: Maestro Tullio Perin",
+		"sigla": "ISM"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - via Senato 17",
+		"url_mart": null,
+		"materiali_c": 4,
+		"materiali_dm": 2,
+		"Denominazione": "Appartamento via Senato, Milano, 1956",
+		"longitude": 9.1972103,
+		"materiali_d": 38,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1956",
+				"fine": "1956"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4705529,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D(38)+DM(2)+C(4) DM: cartolina pubblicitaria North Electric, depliant pubblicitario Westinghouse corrispondenti: Giuseppe Cagol",
+		"sigla": "ISN"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - via Pancaldo 1/3",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 2,
+		"Denominazione": "Appartamento Spadacini, Milano, 1979",
+		"longitude": 9.209486799999999,
+		"materiali_d": 0,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1979",
+				"fine": "1979"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4757697,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "DM(2) DM: Appunti",
+		"sigla": "ISP"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "St. Moritz (Svizzera) - via Tinus mapp. 106 (costruzione Olon S.A.)",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Appartamento Spadacini, St-Moritz, 1971",
+		"longitude": 9.8338102,
+		"materiali_d": 4,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1971",
+				"fine": "1971"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 46.5016658,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D (4)",
+		"sigla": "ISS"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Palazzo dell'Arte al Parco Esposizione Internazionale delle Arti decorative e Industriali moderne e dell'Architettura moderna",
+		"url_mart": null,
+		"materiali_c": 10,
+		"materiali_dm": 7,
+		"Denominazione": "Progetto Salone d'Onore, VI Triennale di Milano, 1936",
+		"longitude": 9.1734204,
+		"materiali_d": 12,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1936",
+				"fine": "1936"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.47179670000001,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D(12)+DM(7)+C(10) DM(1936/39): ingiunzione del Comune di Milano DM(1956): notifica del Comune di Milano, ricevuta Ufficio Tecnico Erariale, parcella L.B. (nota spese e competenze), appunti corrispondenti (1936/39): Comm. Paolo Castelli, Dalgo, Dott. Giulio Mariani, M.E.S.A. S.A.  corrispondenti (1956): Edoardo Mariani, Ing. Ernesto Saliva",
+		"sigla": "IT6"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - via Ugo Foscolo 2",
+		"url_mart": null,
+		"materiali_c": 4,
+		"materiali_dm": 8,
+		"Denominazione": "Negozio Ultimoda D.A.F., Milano, 1935-36 ",
+		"longitude": 9.1907953,
+		"materiali_d": 15,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1935",
+				"fine": "1936"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4649873,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "D(15)+DM(8)+C(4) DM: bando di concorso, relazioni illustrative, ricevute di consegna del progetto corrispondenti: Giulio Barella, Carlo A. Felice",
+		"sigla": "IU"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Rovereto (TN) - Viale dei Colli 16",
+		"url_mart": null,
+		"materiali_c": 2,
+		"materiali_dm": 12,
+		"Denominazione": "Villa Leonardi, Rovereto, 1972-73",
+		"longitude": 11.0463177,
+		"materiali_d": 0,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1969",
+				"fine": "1973"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.89156209999999,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"tipo_1": "Interni",
+		"materiali_raw": "DM(12)+C(2) DM: dichiarazione di esportazione materiale \"Macralon\", visto di esportazione, appunti DM/contabilit\u00e0: bolla di consegna Italestero, consuntivo del materiale, fatture (Maurizio Andreani e & S.a.s., Italestero), parcella L.B. (nota spese e competenze), appunti  corrispondenti: Italestero, Dott. Silvio Leoni",
+		"sigla": "IVL"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Santo Domingo (Repubblica Domenicana)",
+		"url_mart": null,
+		"materiali_c": 8,
+		"materiali_dm": 0,
+		"Denominazione": "Progetto Monumenti Allegorici, Santo Domingo, 1955",
+		"longitude": -69.9833333,
+		"materiali_d": 0,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1955",
+				"fine": "1955"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 18.5,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Monumenti e spazi urbani ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Monumenti",
+		"materiali_raw": "C(8) corrispondenti: Comm. Tommaso Ferraris",
+		"sigla": "MAL"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Rovereto (TN)",
+		"url_mart": null,
+		"materiali_c": 49,
+		"materiali_dm": 39,
+		"Denominazione": "Progetto Campana dei Caduti, Rovereto, 1961-63, 1964 ",
+		"longitude": 11.0401399,
+		"materiali_d": 23,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1961",
+				"fine": "1963"
+			}, {
+				"inizio": "1964",
+				"fine": "1964"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.89096,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Monumenti e spazi urbani ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Monumenti",
+		"materiali_raw": "D(23)+DM(39)+C(49) DM/contabilit\u00e0: preventivi (V. Bega & figli, ditta Arturo Biraghi, ditta Giuseppe Fontana, Fumagalli & Morandi, Granata & Galbiati, Angelo Magnoni, Ostini & Crespi S.a.s., ditta Andrea Scoglio, Turri Mos\u00e8), fatture (ditta Arturo Biraghi, ditta Botti, Caimi Luigi & figlio, Enrico Ciuti, Angelo Magnoni, Arturo Montalbetti, Turri Mos\u00e9), parcella L.B. (note spese e competenze, acconti e saldo) corrispondenti: V. Bega & figli, Botti Luigi, Calzaturificio di Varese (Sezione Commerciale), Fumagalli & Morandi, Arch. Mario Lab\u00f2, Magnoni Angelo, Granata & Galbiati, Ostini & Crespi, Ing. Armando Testoni, Comm. Ermenegildo Trolli, Turri Mos\u00e9",
+		"sigla": "MCC"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Piazza Garibaldi",
+		"url_mart": null,
+		"materiali_c": 326,
+		"materiali_dm": 196,
+		"Denominazione": "Progetto Fantana del Risparmio, Milano, 1961-62",
+		"longitude": 9.1875847,
+		"materiali_d": 47,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1961",
+				"fine": "1962"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.48503160000001,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Monumenti e spazi urbani ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Monumenti",
+		"materiali_raw": "D(47)+DM(196)+C(326) DM (1961/65): bando di concorso (I grado), ringraziamenti, relazione illustrativa, relazione tecnica-funzionale, calcolo di massima incastellatura di sostegno, elenco materiale consegnato, ricevute di consegna e di ritiro materiale, relazione del Reggente, bando di concorso (II grado), relazioni illustrative, relazione tecnica-funzionale, ricevuta di consegna materiale, relazione della giuria, discorso Morganti, appunti, fotografie e cartoline DM/contabilit\u00e0 (1965/73): bolle di consegna Xilografia Milanese S.p.A., parcella L.B (nota spese e competenze, saldo e ricevuta), appunti corrispondenti (1960/74): Arch. Renzo Aste, Geom. Giulio Baldessari, Rag. Mario Baldessari, Renzo Bee, Cav. Guido Benedetti, Dott. Giuseppe Bernardi, Eugenio Bizzarini, Ing. Enrico Capanni, Prof. Vittorio Casetti Albani, J. Cinti, Avv. Raimondo Collino Pansa, Avv. Nino Ferrari, Arch. Carlo Keller, Arch. Mario Klinger, Padre Eusebio Jori, Romano Manfrini, Ing. Gino Martini, Dott. Maurizio Monti, impresa Ing. A. Morganti, Arch. Renato Morganti, Sergio Mozzi, Arch. Pier Luigi Nervi, Nociti, Opera Internazionale della Campana dei Caduti (La Reggenza), Tonino Piazzi, Preschern & Baroni, Prof. Nicol\u00f2 Rasmo, Arch. Marco Tiella, Cesare Tomasini",
+		"sigla": "MFR"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Parco Sempione",
+		"url_mart": null,
+		"materiali_c": 65,
+		"materiali_dm": 112,
+		"Denominazione": "Progetto Fontana Triennale, Milano, 1957 ",
+		"longitude": 9.173803,
+		"materiali_d": 16,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1957",
+				"fine": "1957"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.472305,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Monumenti e spazi urbani ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Monumenti",
+		"materiali_raw": "D(16)+DM(112)+C(65) DM: bando di concorso, composizione della giuria, relazione illustrativa, relazione tecnica sui giochi d'acqua, Gallieni Vigan\u00f2 & Marazza \"Fontane ornamentali e luminose\", dichiarazione e ricevuta consegna materiale, biglietto da visita Ing. Emilio Levera, appunti DM/contabilit\u00e0: ricevute, preventivo di massima, appunti corrispondenti: Biella, Arch. Paolo Candiani, Giannino Castiglioni, Prof. Caio Mario Cattabeni, Prof. Giordano Dell'Amore, Lucio Fontana, Dott. Michele Guido Franci, Tullio Lo Monaco, Ing. Mainardi, Dott. Gabriele Mazzotta, Umberto Milani, Arch. Gi\u00f2 Ponti, Prof. Piero Portaluppi, Ermenegildo Trolli, Prof. Mario Valsecchi",
+		"sigla": "MFT"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Buenos Aires (Argentina)",
+		"url_mart": null,
+		"materiali_c": 11,
+		"materiali_dm": 9,
+		"Denominazione": "Progetto Monumento \"Generale Roca\", Buenos-Aires, 1936",
+		"longitude": -58.3815931,
+		"materiali_d": 10,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1936",
+				"fine": "1936"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": -34.6037232,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Monumenti e spazi urbani ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Monumenti",
+		"materiali_raw": "D(10)+DM(9)+C(11) DM: bando di concorso, appunti, fotografia (vista aerea della Feria de la Paz), Virgilio Diaz Ordonez \"Estudio biografico del generalisimo doctor Rafael Leonidas Trujillo Molina\" 1936, \"Atti del Collegio regionale lombardo degli Architetti\" 9/1955, \"La Repubblica Dominicana\" 16/5/1955, \"Feria de la paz y confraternidad del mundo libre\" 1955 corrispondenti: Comision Nacional Organizadora de la Feria de la Paz y Confraternidad del Mundo Libre, Arch. Carlo Keller, Victor Isais, V. Alvarez Pina",
+		"sigla": "MGR"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Bari - Fiera del Levante",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Progetto Padiglione Breda, Fiera del Levante, Bari, 1963 ",
+		"longitude": 16.844796,
+		"materiali_d": 20,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1963",
+				"fine": "1963"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 41.1363884,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Padiglioni per esposizioni",
+		"url_casva": null,
+		"tipo_1": "Architettura/Padiglioni",
+		"materiali_raw": "D(20)",
+		"sigla": "PBB"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Padiglione Breda, Fiera Internazionale di Milano, 1951  ",
+		"longitude": 9.1605538,
+		"materiali_d": 35,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1951",
+				"fine": "1955"
+			}, {
+				"inizio": "1956",
+				"fine": "1959"
+			}, {
+				"inizio": "1961",
+				"fine": "1964"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Padiglioni per esposizioni",
+		"url_casva": null,
+		"tipo_1": "Architettura/Padiglioni",
+		"materiali_raw": "D (35) Vedi anche PBM/1951-55 (DM/contabilit\u00e0) e CTX/1954 (DM/contabilit\u00e0)",
+		"sigla": "PB1"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": null,
+		"materiali_dm": null,
+		"Denominazione": "Padiglione Breda, Fiera Internazionale di Milano, 1952  ",
+		"longitude": 9.1605538,
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1952",
+				"fine": "1952"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"tipo_1": null,
+		"materiali_raw": null,
+		"sigla": "PB2"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": null,
+		"materiali_dm": null,
+		"Denominazione": "Padiglione Breda, Fiera Internazionale di Milano, 1953 ",
+		"longitude": 9.1605538,
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1953",
+				"fine": "1953"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"tipo_1": null,
+		"materiali_raw": null,
+		"sigla": "PB3"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": null,
+		"materiali_dm": null,
+		"Denominazione": "Padiglione Breda, Fiera Internazionale di Milano, 1954 ",
+		"longitude": 9.1605538,
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1954",
+				"fine": "1954"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"tipo_1": null,
+		"materiali_raw": null,
+		"sigla": "PB4"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": null,
+		"materiali_dm": null,
+		"Denominazione": "Padiglione Breda, Fiera Internazionale di Milano, 1955 ",
+		"longitude": 9.1605538,
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1955",
+				"fine": "1955"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"tipo_1": null,
+		"materiali_raw": null,
+		"sigla": "PB5"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": null,
+		"materiali_dm": null,
+		"Denominazione": "Padiglione Breda, Fiera Internazionale di Milano, 1956  ",
+		"longitude": 9.1605538,
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1956",
+				"fine": "1956"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"tipo_1": null,
+		"materiali_raw": null,
+		"sigla": "PB6"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": null,
+		"materiali_dm": null,
+		"Denominazione": "Padiglione Breda, Fiera Internazionale di Milano, 1957  ",
+		"longitude": 9.1605538,
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1957",
+				"fine": "1957"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"tipo_1": null,
+		"materiali_raw": null,
+		"sigla": "PB7"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": null,
+		"materiali_dm": null,
+		"Denominazione": "Padiglione Breda, Fiera Internazionale di Milano, 1958 ",
+		"longitude": 9.1605538,
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1958",
+				"fine": "1958"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"tipo_1": null,
+		"materiali_raw": null,
+		"sigla": "PB8"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": null,
+		"materiali_dm": null,
+		"Denominazione": "Padiglione Breda, Fiera Internazionale di Milano, 1959 ",
+		"longitude": 9.1605538,
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1959",
+				"fine": "1959"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"tipo_1": null,
+		"materiali_raw": null,
+		"sigla": "PB9"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": 3,
+		"materiali_dm": 97,
+		"Denominazione": "Padiglione D.A.F., Fiera Internazionale di Milano, 1936",
+		"longitude": 9.1605538,
+		"materiali_d": 121,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1936",
+				"fine": "1936"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Padiglioni per esposizioni",
+		"url_casva": null,
+		"tipo_1": "Architettura/Padiglioni",
+		"materiali_raw": "D(121)+DM(97)+C(3) DM: relazioni illustrative in italiano inglese e tedesco, citazioni, appunti, campionario colori DM/contabilit\u00e0: preventivo Xilografia Milanese S.p.A., parcella L.B. (note spese e competenze), appunti, quaderno di appunti corrispondenti: Ing. Giuseppe Dal Monte, Masini Contiene anche materiali de \"II Concorso In/Arch.- Domosic\" (1964)",
+		"sigla": "PD"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Fiera Internazionale (Porta Giulio Cesare - Porta Meccanica)",
+		"url_mart": null,
+		"materiali_c": 44,
+		"materiali_dm": 61,
+		"Denominazione": "Progetto Padiglioni Fiera, Fiera Internazionale di Milano, 1957-58",
+		"longitude": 9.1605538,
+		"materiali_d": 226,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1957",
+				"fine": "1958"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Padiglioni per esposizioni",
+		"url_casva": null,
+		"tipo_1": "Architettura/Padiglioni",
+		"materiali_raw": "D(226)+DM(61)+C(44) DM:relazioni illustrative, appunti DM/contabilit\u00e0: bolla di consegna Brevetti Bertolini, conferme d'ordine Pastelor S.p.A., fatture (Arteluce, ditta F.lli Greppi di Donato, Succ. di Filippo Haas & Figli S.p.A.), consuntivi (Elio Lovetti, Xilografia Milanese S.p.A.), stato di avanzamento lavori impresa Ing. V. Mandelli, parcella L.B. (note spese e competenze, acconti e saldo) corrispondenti: Battistelli, Arch. Giuseppe Biella, Dott. Michele Guido Franci, ditta F.lli Greppi, Arch. Agnoldomenico Pica",
+		"sigla": "PF"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Terni - Fiera",
+		"url_mart": null,
+		"materiali_c": 40,
+		"materiali_dm": 40,
+		"Denominazione": "Padiglioni I.L.V.A., Fiera di Terni, 1960",
+		"longitude": 12.6426604,
+		"materiali_d": 48,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1960",
+				"fine": "1960"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 42.5636168,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Padiglioni per esposizioni",
+		"url_casva": null,
+		"tipo_1": "Architettura/Padiglioni",
+		"materiali_raw": "D(48)+DM(40)+C(40) DM: capitolato speciale d'esecuzione lavori, appunti, fotografie, depliants pubblicitari A.T.I.S.A DM/contabilit\u00e0: spese di viaggio (biglietti aerei), parcella L.B. (acconti, nota spese), appunti corrispondenti: Arch. Tonino M. Cirielli, Ing. Giuseppe Dal Monte, De Vita, Arch. Zita Mosca Baldessari, Ing. Antonio Musaio, Mara Pancheri, Avv. Pietro Sette",
+		"sigla": "PIL"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": 19,
+		"materiali_dm": 2,
+		"Denominazione": "Padiglione Italsider, Fiera Internazionale di Milano, 1966 ",
+		"longitude": 9.1605538,
+		"materiali_d": 4,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1966",
+				"fine": "1966"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Padiglioni per esposizioni",
+		"url_casva": null,
+		"tipo_1": "Architettura/Padiglioni",
+		"materiali_raw": "D(4)+DM(2)+C(19) DM: scritta sulla lapide DM/contabilit\u00e0: resoconto di acconti e fatture corrispondenti: ditta Angelo Negri, Edoardo Mariani, impresa F.lli Panigatti & Figlio, Prof. Mario Sironi",
+		"sigla": "PIT"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Bruxelles (Belgio) - Esposizione Internazionale",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 23,
+		"Denominazione": "Padiglione Ortofrutticolo-Vinicolo, Expo di Bruxelles, 1935",
+		"longitude": 4.3414128,
+		"materiali_d": 1,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1935",
+				"fine": "1935"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 50.8949468,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Padiglioni per esposizioni",
+		"url_casva": null,
+		"tipo_1": "Architettura/Padiglioni",
+		"materiali_raw": "D(1)+DM(23) DM/contabilit\u00e0: preventivi (Carpenteria Bonfiglio & C., Luigi Saita), bolle di consegna Mario Crimella S.A., bollette materiali e mano d'opera (impresa Carlo Dalgo), ricevute (Chiattone, Enrico Ciuti, impresa Carlo Dalgo, Roberto Nova), elenco fatture, parcella L.B. (acconti e saldo)",
+		"sigla": "POV"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": 9,
+		"materiali_dm": 19,
+		"Denominazione": "Padiglioni Sidercomit, Fiera Internazionale di Milano, 1953-54, 1956-59, 1961",
+		"longitude": 9.1605538,
+		"materiali_d": 69,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1953",
+				"fine": "1954"
+			}, {
+				"inizio": "1956",
+				"fine": "1959"
+			}, {
+				"inizio": "1961",
+				"fine": "1961"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Padiglioni per esposizioni",
+		"url_casva": null,
+		"tipo_1": "Architettura/Padiglioni",
+		"materiali_raw": "D(69)+DM(19)+C(9) DM: relazione illustrativa, appunti corrispondenti: Dott. Michele Guido Franci  Vedi anche PTP/1959-60 (DM/contabilit\u00e0)",
+		"sigla": "PS"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Palazzo dell'Arte - Esposizione Internazionale delle Arti decorative e industriali moderne e dell'Architettura moderna",
+		"url_mart": null,
+		"materiali_c": 13,
+		"materiali_dm": 35,
+		"Denominazione": "Padiglione della Stampa, V Triennale di Milano, 1933 ",
+		"longitude": 9.1734204,
+		"materiali_d": 1,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1933",
+				"fine": "1933"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.47179670000001,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Padiglioni per esposizioni",
+		"url_casva": null,
+		"tipo_1": "Architettura/Padiglioni",
+		"materiali_raw": "D(1)+DM(35)+C(13) DM: biglietto da visita Bindo Poggiali, planimetria generale della Fiera Campionaria DM/contabilit\u00e0: preventivo di massima dei lavori, preventivi (Angelo Bazzi, Cesare Biraschi S.A., ditta Giuseppe Sala), bolle di consegna ditta Luigi Spada, fatture (Angelo Bazzi, Cesare Biraschi S.A., Achille Broggi, impresa F.lli Calderara, Luigi Calderara, Pietro De Albertis S.A., Officine Malugani S.A., Ing. Ugo Pollice & C., ditta Giuseppe Sala, ditta Pietro Tarrano, ditta Wanda), ricevute Enrico Ciuti, note di liquidazione lavori, parcella L.B. (note spese e competenze) corrispondenti: Achille Broggi, impresa F.lli Calderara, Pietro De Albertis S.A., ditta Angelo Gazzi, Officine Malugani S.A., Dott. Mariani, Ing. Ugo Pollice & C., ditta Restani, ditta Luigi Spada, ditta Wanda",
+		"sigla": "PT5"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": 6,
+		"materiali_dm": 30,
+		"Denominazione": "Progetto Tribuna Presidenziale, Fiera Internazionale di Milano, 1959-60",
+		"longitude": 9.1605538,
+		"materiali_d": 69,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1959",
+				"fine": "1960"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Padiglioni per esposizioni",
+		"url_casva": null,
+		"tipo_1": "Architettura/Padiglioni",
+		"materiali_raw": "D(69)+DM(30)+C(6) DM: relazione illustrativa, appunti, fotografie  DM/contabilit\u00e0: preventivo di massima dei lavori, preventivo Xilografia Milanese S.p.A., appunti corrispondenti: Dott. Michele Guido Franci Vedi anche PTP/1959-60 (DM/contabilit\u00e0)",
+		"sigla": "PTP"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": 63,
+		"materiali_dm": 45,
+		"Denominazione": "Padiglione Vesta, Fiera Internazionale di Milano, 1933",
+		"longitude": 9.1605538,
+		"materiali_d": 13,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1933",
+				"fine": "1933"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Padiglioni per esposizioni",
+		"url_casva": null,
+		"tipo_1": "Architettura/Padiglioni",
+		"materiali_raw": "D(13)+DM(45)+C(63) DM: appunti (dati anagrafici ed indirizzi, tra gli altri di Enrico Ciuti, Renato Varesi, Luigi Broggi) DM/contabilit\u00e0: preventivi Luigi Saita, fatture (Bolognesi & Orsini, Achille Broggi, Mario Crimella S.A., Luigi Saita), elenchi fatture, ricevuta Enrico Ciuti, prestazioni collaboratori (Enrico Ciuti, Achille Broggi), parcella L.B. (nota spese e competenze, acconto e saldo, ricevute), appunti corrispondenti: Ing. Biagi, Achille Broggi, Enrico Ciuti, On. Luigi Capri Cruciani, Comm. Loris Carreri, Commissariato Generale per l'Italia, Federazione Consorzi Canapicoltori, Comm. Majnoni, Prof. Achille Mango, Masonite S.A., Dott. Remo Poluzzu, Ing. Roock, Luigi Saita, Salvadori, Van Hove, Volpi di Misurata",
+		"sigla": "PV"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Progetto Viale Editoria, Fiera Internazionale di Milano, 1959-60",
+		"longitude": 9.1605538,
+		"materiali_d": 5,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1959",
+				"fine": "1960"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Padiglioni per esposizioni",
+		"url_casva": null,
+		"tipo_1": "Architettura/Padiglioni",
+		"materiali_raw": "D(5)",
+		"sigla": "PVE"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Cimitero Maggiore",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 7,
+		"Denominazione": "Tomba Bonfanti, Milano, 1973-74",
+		"longitude": 9.1210405,
+		"materiali_d": 15,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1973",
+				"fine": "1974"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.5025683,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per il culto e tombe",
+		"url_casva": null,
+		"tipo_1": "Architettura/Tombe",
+		"materiali_raw": "D(15)+DM(7) DM: relazione tecnica, biglietto da visita A. Cirla & Figlio, appunti",
+		"sigla": "TB"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Giubiano (VA)",
+		"url_mart": null,
+		"materiali_c": 27,
+		"materiali_dm": 19,
+		"Denominazione": "Tomba Cairoli, Giubiano, 1978-79",
+		"longitude": 8.8352772,
+		"materiali_d": 6,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1978",
+				"fine": "1979"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.8148034,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per il culto e tombe",
+		"url_casva": null,
+		"tipo_1": "Architettura/Tombe",
+		"materiali_raw": "D(6) + DM(19) + C(27) DM: bando di concorso, relazione (con costo di costruzione), certificato di spedizione modello in gesso, convenzione Baldessari-Fontana, atto privato Baldessari-Fontana, appunti DM/contabilit\u00e0: fattura Innocente Mangili Adriatica S.A., ricevuta Ufficio di Esportazione d'Oggetti d'Arte e di Antichit\u00e0  corrispondenti: Archivio Lucio Fontana, Banca d'Italia, Vittorio Casetti, Embajada de la Republica Argentina, Lucio Fontana, Innocente Mangili Adriatica S.A., Attilio Rossi",
+		"sigla": "TC"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Rovereto (TN)",
+		"url_mart": null,
+		"materiali_c": 6,
+		"materiali_dm": 15,
+		"Denominazione": "Tomba Dina Baldessari, Rovereto, 1956",
+		"longitude": 11.0401399,
+		"materiali_d": 6,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1956",
+				"fine": "1956"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.89096,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per il culto e tombe",
+		"url_casva": null,
+		"tipo_1": "Architettura/Tombe",
+		"materiali_raw": "D(6)+DM(15)+C(6) DM/contabilit\u00e0: preventivo Fornaroli & C., acconti fornitori e spese L.B., ricevuta Umberto Milani, bolla di consegna Fotogramma S.r.l., resoconto acconti Fornaroli & C., appunti corrispondenti: Geom. Alfredo Bombelli, Fornaroli & C., Attilio & Antonio Panigatti, ditta Ezio Panzeri",
+		"sigla": "TDB"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "--",
+		"url_mart": null,
+		"materiali_c": 3,
+		"materiali_dm": 16,
+		"Denominazione": "Progetto Tomba de Hosszufalussy, 1961",
+		"longitude": "null",
+		"materiali_d": 24,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1961",
+				"fine": "1961"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": "null",
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per il culto e tombe",
+		"url_casva": null,
+		"tipo_1": "Architettura/Tombe",
+		"materiali_raw": "D(24)+DM(16)+C(3) DM: lettere in bronzo, appunti DM/contabilit\u00e0: preventivo Sergio Sberna, ricevuta Fanizzi, parcella L.B. (nota spese e competenze), appunti corrispondenti: Arch. Mario Baccini, Sergio Sberna, Luciana e Arturo Segale",
+		"sigla": "TH"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Eupilio (CO) - Frazione Carella",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Tomba Mariani-Clary, Eupilio, 1956",
+		"longitude": 9.2642612,
+		"materiali_d": 1,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1956",
+				"fine": "1956"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.8159584,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per il culto e tombe",
+		"url_casva": null,
+		"tipo_1": "Architettura/Tombe",
+		"materiali_raw": "D(1)",
+		"sigla": "TMC"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Erba (CO) - Frazione Carella",
+		"url_mart": null,
+		"materiali_c": 16,
+		"materiali_dm": 15,
+		"Denominazione": "Tomba Mariani-Malacrida, Erba, 1936",
+		"longitude": 9.2642612,
+		"materiali_d": 7,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1936",
+				"fine": "1936"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.8159584,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per il culto e tombe",
+		"url_casva": null,
+		"tipo_1": "Architettura/Tombe",
+		"materiali_raw": "D(7)+DM(15)+C(16) DM (1945): relazioni illustrative, biglietto da visita Madre Maria Pergol DM/contabilit\u00e0 (1938): preventivo Fontana, prestazioni Antonio Voltan (acconti e ricevute), parcella L.B. (saldo spese) corrispondenti (1938): Don Silvio Comper, Madre Maria Pergol, Madre Chiara Rossaro",
+		"sigla": "TMM"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Campo (TN)",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Tomba Rasini, Campo, 1938-40",
+		"longitude": 10.915983,
+		"materiali_d": 3,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1938",
+				"fine": "1940"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.798143,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per il culto e tombe",
+		"url_casva": null,
+		"tipo_1": "Architettura/Tombe",
+		"materiali_raw": "D(3)",
+		"sigla": "TR"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Cimitero Monumentale",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Tomba Segale, Milano, 1968",
+		"longitude": 9.1795568,
+		"materiali_d": 9,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1968",
+				"fine": "1968"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4851275,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per il culto e tombe",
+		"url_casva": null,
+		"tipo_1": "Architettura/Tombe",
+		"materiali_raw": "D(9)",
+		"sigla": "TS"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Rovereto (TN)",
+		"url_mart": null,
+		"materiali_c": 92,
+		"materiali_dm": 36,
+		"Denominazione": "Tomba Suore, Rovereto, 1938 ",
+		"longitude": 11.0401399,
+		"materiali_d": 37,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1938",
+				"fine": "1938"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.89096,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per il culto e tombe",
+		"url_casva": null,
+		"tipo_1": "Architettura/Tombe",
+		"materiali_raw": "D(37)+DM(36)+C(92) DM: fotografie, appunti, bando di concorso per piccoli monumenti architettonici (Provincia di Trento)  DM/contabilit\u00e0: dichiarazione di vendita terreno, preventivi (B.& A. F.lli Scotti, Martini & Sartori, Giuseppe Oggioni, ditta Onorato Scanagatta), contratto (Martini & Sartori), computo metrico, bolla di consegna Ceramiche Piccinelli S.A., fatture (Umberto Ghiringhelli, Santo Lunardon, Martini & Sartori), elenco fatture, parcella L.B. (nota spese e competenze) corrispondenti: Geom. Alfredo Bombelli, Francesco Cattoni, Ceramiche Piccinelli S.A., Battista Giordani, Giuseppe Maino, Martini & Sartori, Ing. Gino Martini, ditta Onorato Scanagatta, Vittorio Scanagatta",
+		"sigla": "TSR"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Roma - localit\u00e0 Circeo",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 15,
+		"Denominazione": "Progetto Circeo, Roma, 1933-35",
+		"longitude": 12.5397296,
+		"materiali_d": 4,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1933",
+				"fine": "1935"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 41.9433456,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Quartieri e piani",
+		"url_casva": null,
+		"tipo_1": "Urbanistica",
+		"materiali_raw": "D(4)+DM(15)  DM (s.d.): programma (bozza), memorandum interventi da realizzare (con calocolo costo aree), cartoline, depliants e opuscoli turistici, Luigi Aguet \"Brevi cenni di agricoltura. Pratiche e note diverse intorno a Monte Circeo\" Roma 1936, carta I.G.M. della zona",
+		"sigla": "UC"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - vie Inganni, Lorenteggio, Chinotto",
+		"url_mart": null,
+		"materiali_c": 6,
+		"materiali_dm": 7,
+		"Denominazione": "Progetto Citt\u00e0 Cinematografica, Milano, 1932-33",
+		"longitude": 9.125183,
+		"materiali_d": 7,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1932",
+				"fine": "1933"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4510964,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Quartieri e piani",
+		"url_casva": null,
+		"tipo_1": "Urbanistica",
+		"materiali_raw": "D(7)+DM(7)+C(6) DM (1932/34): relazioni e tabella delle cubature e dei costi (progetto di massima), appunti, \"Deutsche Bauzeitung\" del 26/2/1930 corrispondenti (1933/37): Giulio Barella, Comm. Carlo A. Felice, Arch. Otto Kohtz, Dott. Masetti  Vedi anche AT5/1933 (DM/contabilit\u00e0 e carteggi)",
+		"sigla": "UCC"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano",
+		"url_mart": null,
+		"materiali_c": 14,
+		"materiali_dm": 25,
+		"Denominazione": "Progetto Quartiere Campo dei Fiori, Milano, 1962-63, 1967-68 ",
+		"longitude": 9.186516,
+		"materiali_d": 94,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1962",
+				"fine": "1963"
+			}, {
+				"inizio": "1967",
+				"fine": "1968"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4654542,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Quartieri e piani",
+		"url_casva": null,
+		"tipo_1": "Urbanistica",
+		"materiali_raw": "D(94)+DM(25)+C(14) DM (s.d.) : \"Norme particolari degli edifici da realizzarsi con sistemi di prefabbricazione\" (I.A.C.P.M.), descrizione sommaria delle opere, appunti  DM/contabilit\u00e0 (1968/69): parcella L.B. (note spese e competenze, bollettini bancari), prestazioni coprogettisti (acconti, saldo e ricevute) corrispondenti (1962/68): Prof. Caio Mario Cattabeni, Arch. Ezio Cerutti, I.A.C.P.M., Arch. Camillo Rossetti, Arch. Annig C. Sarian, Ing. Mario Villa, Ing. Pietro Wertenstein",
+		"sigla": "UCF"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Cornaredo (MI) - Statale 11/via Garibaldi",
+		"url_mart": null,
+		"materiali_c": 47,
+		"materiali_dm": 227,
+		"Denominazione": "Progetto Cornaredo, 1966-68 ",
+		"longitude": 8.968542,
+		"materiali_d": 205,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1966",
+				"fine": "1968"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.486703,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Quartieri e piani",
+		"url_casva": null,
+		"tipo_1": "Urbanistica",
+		"materiali_raw": "D(205)+DM(227)+C(47) DM (1967/69): richiesta di licenza edilizia, relazione sommaria opere in calcestruzzo e in c.a., denuncia opere in calcestruzzo e in c.a., licenza di costruzione, definizione dettagliata volumi, descrizione lavori d'impresa, presentazione progetto in Comune e all'ANAS, avvisio inizio opere di costruzione, rifiuto e poi autorizzazione ANAS, incarico progetto e calcolo opere in c.a., prescrizioni prevenzione incendi, richiesta convalida parcella, indirizzi e biglietti da visita, appunti DM/contabilit\u00e0 (1967/72): preventivo Geom. Ercole Grassi (plastico), bolle di consegna F.lli Marri, prestazioni coprogettisti (resoconti spese, acconti, saldo e ricevute), parcella L.B. (note spese e competenze, bollettini bancari, acconti e ricevute), parcella Avv. Luigi Bruciamonti (saldo e ricevuta), appunti DM/causa Baldessari-Gavazzi Giola (1969/72): relazioni rapporti con la committenza, voce \"Professioni intellettuali\" in \"Rep. Foro It.\" nn\u00b0 41-43 1967, atto di citazione, comparsa di risposta, comparsa conclusionale, memoria di replica, sentenze, atto di precetto, documenti prodotti, appunti corrispondenti (1966/72): A.N.A.S. (Azienda Nazionale Autonoma delle Strade), Luigi Bolgiani, Impresa Brioschi, Geom. Gian Maria Gasparotti, Arch. Raul Gattermayer, Carla Gavazzi Giola, Egidio Giola, Arch. Maria Pia Matteotti, impresa Ing. Alfonso Morganti, Ordine Interprovinciale degli Architetti della Lombardia, Ing. Armando Pazzi, Arch. Eliana Ravizza, Ing. Franco Rolla, Ing. Ernesto Saliva, Avv. Filippo Scarabelli",
+		"sigla": "UCO"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Canegrate Sud (MI)",
+		"url_mart": null,
+		"materiali_c": 88,
+		"materiali_dm": 88,
+		"Denominazione": "Quartiere Canegrate Sud, Canegrate, 1963-64 ",
+		"longitude": 8.9242729,
+		"materiali_d": 108,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1963",
+				"fine": "1964"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.5658897,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Quartieri e piani",
+		"url_casva": null,
+		"tipo_1": "Urbanistica",
+		"materiali_raw": "D(108)+DM(88)+C(88) Contiene anche pratica \"Concorso per la formazione dell'Albo Nazionale Gescal\" (1964/66) DM (1962/64): richieste di proroga presentazione del Piano, relazioni illustrative, relazioni tecniche (calcolo superfici, dimensionamento, caratteristiche impianti), depliants pubblicitari De Cardenas S.p.a., appunti, relazione sul quartiere di Gratosoglio (determinazione e dimensionamnto degli edifici e delle attrezzature), \"Bando del primo concorso biennale per la formazione dell'Albo Nazionale dei progettisti per il programma decennale di costruzione di alloggi per lavoratori\" DM/contabilit\u00e0 (1962/65): prospetto ore di lavoro, parcella L.B. (note spese e competenze, bollettini bancari, acconti e saldo) corrispondenti (1962/65): Dott. Virginio Bontadini, Avv. G. Brignola, Collegio Regionale Lombardo degli Architetti, Dott. Alfredo Fragomeni, Geom. Garofalo, Gestione Case per Lavoratori, Bruno Meraviglia, Dott. G. Pinna, Arch. Eliana Ravizza, Ing. Camillo Ripamonti, Studio Disedil, Giuseppe Tito, Ing. Mario Villa",
+		"sigla": "UCS"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Corso Venezia",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 22,
+		"Denominazione": "Progetto Corso Venezia, Milano, 1938-39",
+		"longitude": 9.2010583,
+		"materiali_d": 42,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1938",
+				"fine": "1939"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4706215,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Quartieri e piani",
+		"url_casva": null,
+		"tipo_1": "Urbanistica",
+		"materiali_raw": "D(42)+DM(22) DM/contabilit\u00e0 (s.d.): preventivi finanziari, dinamiche di capitali, determinazione delle spese immobiliari",
+		"sigla": "UCV"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - via Feltre",
+		"url_mart": null,
+		"materiali_c": 297,
+		"materiali_dm": 233,
+		"Denominazione": "Quartiere Feltre, Milano, 1957-61, Milano, 1957-61 ",
+		"longitude": 9.2427112,
+		"materiali_d": 582,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1957",
+				"fine": "1961"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.49127619999999,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Quartieri e piani",
+		"url_casva": null,
+		"tipo_1": "Urbanistica",
+		"materiali_raw": "D(582)+DM(233)+C(297) Comprende anche alcuni disegni dei gruppi Gardella, Mangiarotti, Pollini. DM (1955/59): \"Criteri e modalit\u00e0 per la costruzione di alloggi per lavoratori nel Piano del II Settennio\" Gazzetta Ufficiale 4/3/1957, norme emanate dalla Gestione INA Casa per le costruzioni del II Settennio 9/7/1956, elenco componenti gruppi, relazione criteri di impostazione urbanistica, relazione quartiere del Mulino a Lambrate, relazioni illustrative e relazioni tecniche, convenzione di collaborazione e definizione dei compiti (gruppo L.B.), deleghe, verbali riunioni capigruppi (con appunti e riassunti), programmi dei lavori, programma di costruzione (fabbricati nn\u00b0 1-16), norme generali stazione appaltante (fabbricati nn\u00b0 12-16), programma di appalto (fabbricato n\u00b0 16), dichiarazioni, unificazioni, elenco aziende e cooperative, appunti, scheda UNI-infissi, depliant pubblicitario Ceramiche Baldelli (targhe) DM/contabilit\u00e0 (1958/63): ripartizione introiti tra i diversi gruppi, note riassuntive della situazioni di cassa del gruppo L.B., preventivo ditta Giovanni De Rosa, parcella gruppo L.B. (rendiconti, ripartizione introiti, note spese e competenze, acconti e saldo), appunti, computo metrico (asilo) corrispondenti (1955/62): Ing. Carlo Aitelli, Prof. Roberto Aloi, Prof. Giordano dell'Amore, Gaetano Balducci, Geom. Giuseppe Binda, Ing. Gaetano Blasi, Renato Bonelli, Brizzi, Arch. Giancarlo de Carlo, impresa Cementfer, Ing. Oreste Ciampoli, Arch. Andrea Disertori, Arch. Belisario Duca, Carla Fornelli, Arch. Arnaldo Foschini, Arch. Ignazio Gardella, Ing. Giovanni Genovesi, Angelo de Giuli, arch. Vittorio Gregotti, Ing. Giuseppe Grossi, Ing. Domenico Guggino, Jannotta, Avv. Agostino Labati, Ivan Matteo Lombardo, Arch. Mario Maderna, Mons. Vittorio Maini, Arch. Angelo Mangiarotti, Marconi, Ing. Mauro Mario, Arch. Maria Pia Matteotti, Montecatini S.A., Ing. Mario Mosca, Ing. Antonio Nicola, Liliana Nocera, Ortelli, Avv. Umberto Ortolani, Arch. Gino Pollini, Ing. Camillo Ripamonti, Rispoli, Ing. Ernesto Saliva, Arch. Mario Salvad\u00e8, Ing. Ugo de Simoni, Arch. Mario Terzaghi, Ing. Vittorio di Tocco, Arch. Giuseppe Vaccaro, Arch. Vittoriano Vigan\u00f2, Ezio Vigorelli, Ing. Mario Villa",
+		"sigla": "UF"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - viale Forlanini",
+		"url_mart": null,
+		"materiali_c": 32,
+		"materiali_dm": 63,
+		"Denominazione": "Quartiere Forlanini, Milano,  1960-62",
+		"longitude": 9.2523746,
+		"materiali_d": 208,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1960",
+				"fine": "1962"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.46202479999999,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Quartieri e piani",
+		"url_casva": null,
+		"tipo_1": "Urbanistica",
+		"materiali_raw": "D(208)+DM(63)+C(32) DM (1960/61): relazione illustrativa (con calcolo volumi), ordinativi opere in legno e apparecchi sanitari, negativi e stampe di planimetrie, appunti DM/contabilit\u00e0 (1960): bolla di consegna Copie-Elio-Foto corrispondenti (1960/62): Geom. Spartaco Arnaboldi, Geom. Alfredo Bombelli, Geom. Caldirola, Angelo Cucchi, Errebi-Costruzioni Edili S.r.l., I.A.C.P.M. (la Direzione Tecnica), Arch. Maria Pia Matteotti, Geom. Meregalli, Dott. Antigio de Osma, Ing. Mario Roscio, Arch. Camillo Rossetti, Geom. Rossini, Ing. Mario Villa",
+		"sigla": "UFN"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Campo Elba (LI)",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Progetto Villaggio Navach, Campo Elba, 1964",
+		"longitude": 10.2349299,
+		"materiali_d": 2,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1964",
+				"fine": "1964"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 42.7486833,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Quartieri e piani",
+		"url_casva": null,
+		"tipo_1": "Urbanistica",
+		"materiali_raw": "D (2)",
+		"sigla": "UN"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Riazzino - Locarno (Svizzera) a Nord della Strada Comunale Locarno/Bellinzona",
+		"url_mart": null,
+		"materiali_c": 2,
+		"materiali_dm": 5,
+		"Denominazione": "Progetto Lottizzazione Riazzino, Locarno, 1971-72",
+		"longitude": 8.8971378,
+		"materiali_d": 25,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1971",
+				"fine": "1972"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 46.1746352,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Quartieri e piani",
+		"url_casva": null,
+		"tipo_1": "Urbanistica",
+		"materiali_raw": "D(25)+DM(5)+C(2) DM (s.d.): calcolo superfici e volumi, schede tecniche Associazione Svizzera di Normalizzazione DM/contabilit\u00e0 (1972): fattura Leonmotor S.A. corrispondenti (1971): Dott. Silvio Leoni",
+		"sigla": "UR"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Rovereto (TN) - corso Rosmini e via Paganini",
+		"url_mart": null,
+		"materiali_c": 17,
+		"materiali_dm": 9,
+		"Denominazione": "Progetto Rovereto, 1960 ",
+		"longitude": 11.0390078,
+		"materiali_d": 37,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1960",
+				"fine": "1960"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.8909429,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Quartieri e piani",
+		"url_casva": null,
+		"tipo_1": "Urbanistica",
+		"materiali_raw": "D(37)+DM(9)+C(17) DM (1960): calcolo dei volumi e delle aree, rilievo tavolare, modello in cartoncino DM/contabilit\u00e0 (1960): calcolo di massima del costo di costruzione, computo metrico di massima (asilo) corrispondenti (1960/82): Arch. Renzo Aste, Secchi, Geom. Giulio Baldessari, Paolo Baldessari, Dott. Massimiliano Zini",
+		"sigla": "URO"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - Piazza San Babila",
+		"url_mart": null,
+		"materiali_c": 116,
+		"materiali_dm": 117,
+		"Denominazione": "Progetto San Babila, Milano, 1936-37",
+		"longitude": 9.1973951,
+		"materiali_d": 85,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1936",
+				"fine": "1937"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4664154,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Quartieri e piani",
+		"url_casva": null,
+		"tipo_1": "Urbanistica",
+		"materiali_raw": "D(85)+DM(117)+C(116) DM (1936/39): relazione sul mercato immobiliare in Italia (Ernesto Marini), promemoria e memoriali, questionario per esercenti cinema, legende tavole, appunti   DM/contabilit\u00e0 (1936/37): computi metrici e prospetti spese/redditi (diverse soluzioni di lottizzazione), preventivo di massima e programma finanziario (soluzione definitiva), prestazioni collaboratori (Geom. Fabbri, Leonardo Garbagnati, Geom. Savini, Ing. Primo Matassoni, Geom. Giuseppe Tognini), spese di viaggio (conti degli alberghi e dei ristoranti, biglietti ferroviari e aerei), parcella L.B. (nota spese e competenze), appunti corrispondenti (1934/39): Barwich, G. Belche, Faye Evans, Luigi Freddi (vice Segretario PNF), Carlo De Angeli Frua, G. Grey, John W. Harris, Lawrence (Direttore Generale per l'Europa della Metro Goldwin Mayer), Avv. Dino Mattoli, Ing. Geny B. Panero, P. Pearse, Arch. John Root",
+		"sigla": "USB"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Santa Margherita Ligure (GE)",
+		"url_mart": null,
+		"materiali_c": 18,
+		"materiali_dm": 53,
+		"Denominazione": "Progetto Santa Margherita Ligure, 1948-50",
+		"longitude": 9.2136594,
+		"materiali_d": 61,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1948",
+				"fine": "1950"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 44.3345737,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Quartieri e piani",
+		"url_casva": null,
+		"tipo_1": "Urbanistica",
+		"materiali_raw": "D(61)+DM(53)+C(18) DM (s.d.): appunti (telefonate, appuntamenti, indirizzi)  DM/contabilit\u00e0 (1949/50): bolle di consegna e ricevute Studio Fotografico G. Bombelli, spese di viaggio (conti degli alberghi e biglietti ferroviari), prestazioni Nicola Rossi (plastico), prestazioni Geom. Alfredo Bombelli (saldo e ricevuta), parcella L.B. (nota spese e competenze), appunti  corrispondenti (1949/50): Resy Barbarani Bonomi, Arch. Carlo Ceschi, Nicola Rossi",
+		"sigla": "USM"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano - via Tibaldi",
+		"url_mart": null,
+		"materiali_c": 5,
+		"materiali_dm": 12,
+		"Denominazione": "Progetto Quartiere Tibaldi, Milano, 1961",
+		"longitude": 9.044979999999999,
+		"materiali_d": 15,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1961",
+				"fine": "1961"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.5300238,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Quartieri e piani",
+		"url_casva": null,
+		"tipo_1": "Urbanistica",
+		"materiali_raw": "D(15)+DM(12)+C(5) DM (1961): relazione illustrativa (criteri informativi soluzione urbanistica), appunti corrispondenti (1961/62): I.A.C.P.M. (la Direzione Affari Generali), Dott. Antigio de Osma, Ing. Mario Villa",
+		"sigla": "UT"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Orselina - Locarno (Svizzera)",
+		"url_mart": null,
+		"materiali_c": 16,
+		"materiali_dm": 53,
+		"Denominazione": "Villa Archidea, Orselina, Locarno, 1968-69",
+		"longitude": 8.799999999999999,
+		"materiali_d": 43,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1968",
+				"fine": "1969"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 46.1833333,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Ville",
+		"materiali_raw": "D(43)+DM(53)+C(16) DM: dichiarazione di vincolo ai sensi della legge 1089/1939, nulla osta (e prescrizioni) della Soprintendenza ai Monumenti della Lombardia, licenza edilizia, disegno di legge concernente l'istituzione e l'ordinamento della Cassa Nazionale di Previdenza ed Assistenza per gli ingegneri e gli architetti, progetto di disegno di legge per l'ordinamento delle libere professioni, relazione sulle caratteristiche della propriet\u00e0, relazioni illustrative, legenda, biglietto da visita F.lli Massironi, appunti, fotografie DM/contabilit\u00e0: preventivo di spesa (con calcolo superfici), offerta di vendita F.lli Massironi, relazione tecnica (e costi), pianta geografica, appunti  Corrispondenti: Dott.Mario Biasi, Dott. Enzo Cazzaniga, F.lli Massironi, Comm. Attilio Prazzoli, Carlo Usuelli",
+		"sigla": "VA"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Venezia - La Giudecca",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Progetto Villa alla Giudecca, Venezia, 1936-37",
+		"longitude": 12.321629,
+		"materiali_d": 8,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1936",
+				"fine": "1937"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4259204,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Ville",
+		"materiali_raw": "D (8)",
+		"sigla": "VH"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Brione - Locarno (Svizzera)",
+		"url_mart": null,
+		"materiali_c": 200,
+		"materiali_dm": 106,
+		"Denominazione": "Progetto Villa Kauffungen, Brione, Locarno, 1981-82",
+		"longitude": 8.7904682,
+		"materiali_d": 39,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1981",
+				"fine": "1982"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 46.2963928,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Ville",
+		"materiali_raw": "D(39)+DM(106)+C(200) Comprende anche materiali inerenti il prestito del basorilievo Sironi alla Biennale di Venezia del 1962 DM: relazioni illustrative, verifica della stabilit\u00e0 delle strutture (Ing. Pilade Rizzi), appunti DM/contabilit\u00e0: preventivi (Aeromeccanica Marelli S.A., Carpenteria Bonfiglio & C., impresa Figli di Pietro Castelli, Pietro De Albertis S.A., Giuseppe Fontana, Forniture Edili S.A., impresa Ing. Gadda, impresa Luigi Gadola, ditta Michele Galli, Alfonso Gardini, Industria Teatrale Ponti, Industria Vernici Italiane S.A., Luce Applicazioni Elettriche S.A., Officine Malugani, Osram S.A., Luigi Pagano, Ing. Ugo Pollice & C., F.lli Remuzzi, ditta Ing. Gino Rimini, Ing. Camillo Rodi, Romeo Saita, ditta Luigi Spada), consuntivo e distinta materiali impresa F.lli Calderara, bolle di consegna (Gerolamo Bombelli, De Angeli Frua S.A., Giuseppe Fontana, Industria Teatrale Ponti, Officine Malugani, ditta Luigi Spada), fatture (Industria Teatrale Ponti, Officina d'Arte Grafica A. Lucini & C., Andrea Scoglio, Societ\u00e0 del Linoleum S.A., ditta Luigi Spada), elenchi fatture, ricevuta Egidio Spada, parcella L.B. (nota di liquidazione lavori) corrispondenti: Aeromeccanica Marelli S.A., Dott. Giulio Barella, Bertieri S.A., ditta Arturo Biraghi, Avv. Franco Bonora, Prof. Oreste Broggi, impresa F.lli Calderara, impresa Figli di Pietro Castelli, Ceramica Mantovana S.A., ditta Consonni Innocente & Marco, Dino Cornali, Costruzioni Metalliche Mario Rocca, Pietro De Albertis S.A, Prof. Gian Alberto Dell'Acqua, Prof. Giordano Dell'Amore, il Direttorio, rivista \"Domus\" (la Redazione), rivista \"Edilizia Moderna\" (il Direttore), Eraclit Venier S.A., Carlo A. Felice, Arch. Luigi Figini, Giuseppe Fontana, Ing. Paolo Gadda, impresa Luigi Gadola, Ing. Enrico Garnier, Giacomelli, Ettore Gian Ferrari, Dott. Deuglesse Grassi, D. Herbatschek, Julius Hoffman, Industria Teatrale Ponti, John Kennedy, Prof. Leone Lodi, Luce Applicazioni Eletttriche S.A., Prof. Monti, Officine Malugani, Messaggerie Musicali Gondrand, Prof. Monti & Gemelli, Ugo Nebbia, Avv. Mario Niceforo, Origoni & C. S.A., Luigi Pagano, Arch. Mario Pagano, Dott. Piccinato, Arch. Gino Pollini, Arch. Gi\u00f2 Ponti, F.lli Remuzzi, Ing. Gino Rimini, Ing. Camillo Rodi, Prof. Italo Siciliano, Mario Sironi, Societ\u00e0 del Linoleum S.A., Soresine, ditta Luigi Spada, Ing. Torri, V Triennale (ufficio Pubblicit\u00e0, ufficio Stampa e Propaganda), Trollori, Avv. Antonio Verdirame, Mos\u00e9 Way, Cav. Carlo Zerbi",
+		"sigla": "VK"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Caravate (VA)",
+		"url_mart": null,
+		"materiali_c": 115,
+		"materiali_dm": 100,
+		"Denominazione": "Complesso di Villa Letizia, Caravate, 1962-64, 1964-66, 1968 ",
+		"longitude": 8.6481809,
+		"materiali_d": 235,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1962",
+				"fine": "1964"
+			}, {
+				"inizio": "1964",
+				"fine": "1966"
+			}, {
+				"inizio": "1968",
+				"fine": "1968"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.8755043,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Ville",
+		"materiali_raw": "D(235)+DM(100)+C(115) DM: domanda per ottenere il permesso di esecuzione lavori edili, rapporti con la Soprintendenza dei Monumenti di Torino (presentazione del progetto, diniego, precisazioni e ultima risposta), individuazione mappali Bottacchi, \"Regolamento Edilizio\" (Comune di Cannero), \"Gazzetta Ufficiale\" n\u00b0139/1968 e n\u00b0304/1968, testo di legge 1497/1939, biglietti da visita e indirizzi, appunti, fotografie (e fotomontaggio) DM/contabilit\u00e0: ricevute (\"Il Consiglio di Stato\", Geom. Ercole Grassi, Ufficio Imposte Dirette), bolle di consegna e saldo Carlo Ancillotti, parcella L.B. (note spese e competenze), prestazioni coprogettisti (saldo spese), spese di viaggio (biglietti ferroviari), appunti corrispondenti: Carlo Ancillotti, Antonio Bottacchi, Kurheim Alexanderhaus, Ingeborg Brand, Prof. Umberto Chierici, Prof. Gian Alberto Dell'Acqua, Dott. Luigi Grancini, Dott. Benno Metzger, Arch. Zita Mosca, Avv. Filippo Scarabelli, Ufficio Distrettuale delle Imposte Dirette, Xanti",
+		"sigla": "VL"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Cannero (MI)",
+		"url_mart": null,
+		"materiali_c": 45,
+		"materiali_dm": 169,
+		"Denominazione": "Progetto Villa Metzger, Cannero, 1967, 1968-69",
+		"longitude": 9.183164999999999,
+		"materiali_d": 270,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1967",
+				"fine": "1967"
+			}, {
+				"inizio": "1968",
+				"fine": "1969"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.5050782,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Ville",
+		"materiali_raw": "D(270)+DM(169)+C(45) DM: domanda e licenza di costruzione (Ing. Giacinto Leoni), descrizione delle opere, referenze finanziarie Dott. Benno Metzger, brevi note sul pittore Giovanni Battista Salvi (Luisella Ramat Bernardini), appunti, biglietti da visita, depliants pubblicitari Hertz, fotografie DM/contabilit\u00e0: preventivi (Allestimenti Portanuova S.r.l., F.lli JAM, Losinger Ticino S.A., Montorfano & Marcantonio S.A., impresa Aurelio Rampazzi, ditta Rizzi), materiale pubblicitario Silvio Castelli & Figli, computo metrico-estimativo (Ing. Giovanni Vespignani), conferme d'ordine (Marco Engler, Carlo Giugni & Fratelli), consuntivo All Overland Transport S.r.l., bolle di consegna (Allestimenti Portanuova S.r.l., ditta Guido Eller), prestazioni Ing. Giovanni Vespignani e Allestimenti Portanuova S.r.l. (saldo), ricevute (Allestimenti Portanuova s.r.l., Ferruccio Crepaldi), parcella L.B. (note spese e competenze, acconto), appunti corrispondenti: Allestimenti Portanuova S.r.l., Arianna S.A., Dott. Giuseppe Bernardi, ditta Biscara, F.lli Marki & Co., Geom. Forni, Carlo Giugni & F.lli, Fratelli, Dott. Silvio Leoni, impresa Losinger & Co. S.A., Industrie Meccaniche Mottensi, Flaminio Montorfano, Montorfano & Marcantonio S.A., Arch. Zita Mosca, Ing. Ernesto Staub, Alessandro Stucchi, Ing. Giovanni Vespignani",
+		"sigla": "VM"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Roma - via del Foro Trionfale 36",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 1,
+		"Denominazione": "Villa Maria Pia, Roma, 1950-52, 1959, 1969",
+		"longitude": 12.4809055,
+		"materiali_d": 25,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1950",
+				"fine": "1952"
+			}, {
+				"inizio": "1959",
+				"fine": "1959"
+			}, {
+				"inizio": "1969",
+				"fine": "1969"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 41.9402651,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Ville",
+		"materiali_raw": "D(25)+DM(1) DM: descrizione arredamento",
+		"sigla": "VMP"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Merate (CO)",
+		"url_mart": null,
+		"materiali_c": 179,
+		"materiali_dm": 929,
+		"Denominazione": "Progetto Villa Masini, Merate, 1960",
+		"longitude": 9.4193862,
+		"materiali_d": 980,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1960",
+				"fine": "1960"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.7010137,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Ville",
+		"materiali_raw": "D(980)+DM(929)+C(179) DM: relazioni illustrative (stato di fatto e progetto), relazioni tecniche (con calcolo superfici e cubature), computo di stima (fondazioni), contratto e capitolato d'appalto, descrizione dei lavori, assegnazione vigilanza lavori in c.a., richiesta di autorizzazione per taglio di un tratto di strada, estratto dal regolamento edilizio, elenco elementi di arredo, autorizzazione vescovile, nulla osta del Comune per il pollaio, domanda di ricostruzione di muro di confine, verbali riunioni in sito e programma dei lavori, norme E.N.P.I., elenco materiale consegnato a \"Casabella\", inviti, indirizzi e biglietti da visita, appunti, quaderni (appunti e promemoria), campioni di colore e di tessuti, depliants pubblicitari (A.I.A.P., Bagno Ideale S.p.A., E.F.A., Erbatschek, Estfeller S.a.s., Eukema, F.I.A.M., Lombarda Mosaicisti S.a.s., Carlo Manenti, Picowa, Guido Rossi, Roto, Sicurbox, ditta Fabio Spinelli, Antonio Veronesi S.r.l.), citazioni, quaderni copia corrispondenza DM/contabilit\u00e0: preventivi (ditta Paolo Beretta & Figli, ditta Germano Gilardoni, F.lli Lualdi, ditta Mina, Mischler S.r.l., impresa Ing. Alfonso Morganti, Federico dell'Orto S.p.A., Simpel S.a.s., ditta Ing. Alberto Tadini, Xilografia Milanese S.p.A.), preventivo di massima arredamento, conferme d'ordine (Axucena S.r.l., ditta Paolo Beretta & Figli, ditta Ceriani & Gabaglio, F.I.A.M., ditta Germano Gilardoni, Mann & Rossi S.p.A., impresa Ing. Alfonso Morganti, Federico dell'Orto S.p.A., Simpel S.a.s., ditta Ing. Alberto Tadini, Antonio Veronesi S.r.l., Xilografia Milanese S.p.A.), stato di avanzamento lavori, buoni d'ordine (Arteluce S.A., Estfeller), bolle di consegna (Arteluce S.A., Xilografia Milanese S.p.A.), fatture Xilografia Milanese S.p.A., saldo prestazioni (e reclamo liquidazione) impresa Ing. Alfonso Morganti, prestazioni Arch. Belisario Duca (note spese e comptenze, ricevuta acconto), parcella L.B. (note spese e competenze, resoconto acconti), prestazioni disegnatori (conteggio ore), appunti, \"Listino dei prezzi delle opere edili in Milano\" DM/pubblicazione: testo introduttivo di L.B., testo di Prof. Gian Alberto dell'Acqua, relazioni tecniche, cronistoria dei rapporti Braem, didascalie e legende, ricevute (Arti Grafiche Moretti, Buttinoni, Grandi), appunti DM/pubblicazione/contabilit\u00e0: preventivi (Advertising & Design, Fotolitomec), note spese (Advertising & Design, Carlo Ancillotti S.r.l., Jurgen Becker, Costa, Geom. Ercole Grassi), bolle di consegna (Carlo Ancillotti S.r.l., Casali, C.E.F., Costa, F.lli De Magistris S.A., Fototecnica Bartolini, F.lli Marri, Publifoto), fatture (C. Balzarini, Giorgio Casali, Fotolitomec, Fototecnica Bartolini, Toni Nicolini, Publifoto, Cesare Rezzonico), riepilogo fatturazioni, saldo prestazioni (C. Balzarini, Jurgen Becker, Carlo Grandi, Cesare Rezzonico), parcella L.B. (note spese, bollettini bancari), appunti  corrispondenti: Armati, Geom. Angelo Asperges, Geom. Giulio Baldessari, ditta Paolo Beretta, Geom. Vittorio Bianchi, Peter Braem, Davide Campari S.p.A., Giorgio Casali, Arch. Ovidio Cazzola, Ceriani & Gabaglio, ditta Chiappe, Claude S.p.A., Comune di Caravate (il Sindaco), Costa, Dell'Acqua, ditta Enrico Delmonte, Arch. Belisario Duca, F.I.A.M. S.p.A., Ing. Maurizio Galimberti, ditta Antonio Gervasini, Germano Gilardoni, Don Pietro Gini, Geom. Giuseppe Melgara, Lorenzo Manconi, Prof.ssa Angiola Maria Migliavacca, impresa Ing.. Alfonso Morganti, Prof. Mosca, Arch. Zita Mosca, Arch. Marcello Pietrantoni, Publifoto, Riello Bruciatori, ditta Mario Rossi, Livio Rossi, Benedetto Sgaravatti, Simpel, ditta Ing. Alberto Tadini, Antonio Veronesi S.r.l., Xilografia Milanese S.p.A., Enzo Zaniboni, Prof. Bruno Zevi",
+		"sigla": "VMS"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Intra (NO)",
+		"url_mart": null,
+		"materiali_c": 25,
+		"materiali_dm": 38,
+		"Denominazione": "Progetto Villa Meyerhofer, Intra, 1955",
+		"longitude": 8.574892,
+		"materiali_d": 22,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1955",
+				"fine": "1955"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.942745,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Ville",
+		"materiali_raw": "D(22)+DM(38)+C(25) DM: appunti, fotografie DM/Contabilit\u00e0: preventivo Sacime S.p.A., prestazioni Geom. Ercole Grassi (plastico), parcella L.B. (nota spese e competenze), appunti Corrispondenti: Ing. Aleardo Gregoris, Krahn, Ing. Franco Pozzali, Sacime S.p.A., Vitali",
+		"sigla": "VMY"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Lodi (MI)",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 4,
+		"Denominazione": "Progetto Villa Pozzali, Lodi, 1958-59",
+		"longitude": -83.8260884,
+		"materiali_d": 35,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1958",
+				"fine": "1959"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 42.2082681,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Ville",
+		"materiali_raw": "D (35) + DM (4)",
+		"sigla": "VP"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Lomnago (VA)",
+		"url_mart": null,
+		"materiali_c": 3,
+		"materiali_dm": 16,
+		"Denominazione": "Ex scuderia di Villa Puricelli, Lomnago, 1973-74  ",
+		"longitude": 8.7477793,
+		"materiali_d": 20,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1973",
+				"fine": "1974"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.7905273,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Ville",
+		"materiali_raw": "D(20)+DM(16)+C(3) DM: estratto dal regime fondiario, relazione tecnica, A. Sedari \"Commentario della Legge Edilizia\" (estratto), biglietto da visita Dott. Eva Kauffungen, appunti, fotografie DM/contabilit\u00e0: ricevute (Carlo Dani, Dott. Eva Kauffungen), parcella L.B. (nota competenze), appunti  corrispondenti: Dott. Eva Kauffungen, Studio Respini & Genazzi",
+		"sigla": "VPR"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Campiglio (TN)",
+		"url_mart": null,
+		"materiali_c": 0,
+		"materiali_dm": 0,
+		"Denominazione": "Progetto Villa a Madonna di Campiglio, 1938-39",
+		"longitude": 10.827885,
+		"materiali_d": 12,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1938",
+				"fine": "1939"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 46.230343,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Ville",
+		"materiali_raw": "D (12)",
+		"sigla": "VSC"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Sal\u00f2 (BS)",
+		"url_mart": null,
+		"materiali_c": 130,
+		"materiali_dm": 76,
+		"Denominazione": "Progetto Villa a Sal\u00f2, 1938-39",
+		"longitude": 10.527769,
+		"materiali_d": 82,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1938",
+				"fine": "1939"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.6114249,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Ville",
+		"materiali_raw": "D(82)+DM(76)+C(130) DM: dichiarazione di L.B., biglietto da visita Ing. Aldo Borile, appunti, fotografie stato di fatto DM/contabilit\u00e0: preventivo di massima, parcella L.B. (note spese e competenze), spese di viaggio (biglietti ferroviari, conto albergo), appunti Corrispondenti: Roberto Bettoja, Ing. Aldo Borile, Prof. Vittorio Casetti Albani, Arch. Marcello Grisotti, Emilia Martinotti, Dott. Giovanni Martinotti \tVedi anche PBM/1951-59 (DM/contabilit\u00e0)",
+		"sigla": "VSS"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Merate (CO)",
+		"url_mart": null,
+		"materiali_c": 74,
+		"materiali_dm": 116,
+		"Denominazione": "Progetto Villa Ved\u00f9, Merate, 1968-69 ",
+		"longitude": 9.4193862,
+		"materiali_d": 143,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1968",
+				"fine": "1969"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.7010137,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"tipo_1": "Architettura/Ville",
+		"materiali_raw": "D(143)+DM(116)+C(74) DM: contratto d'appalto (impresa Franco Dal Magro), domanda di ampliamento (San Lazzaro di Savena - BO), perizia extra giudiziale (Allestimenti Portanuova S.r.l.), omelia tenuta da S.E. il Cardinale Giacomo Lercaro, appunti, fotografie, depliants pubblicitari (Ceramiche Artistiche Piemme, Ovidio Vignoni & Figlio)c DM/contabilit\u00e0: preventivi di spesa impianti di riscaldamento ed idrico-sanitario, preventivi (Akron, Allestimenti Portanuova S.r.l., Azucena S.r.l., Filippo Balzarini, Ceam, Corrado Negri), prestazioni Allestimenti Portanuova S.r.l. (consuntivo, bolle di consegna, aggiornamento fornitura, note ore in economia), bolle di consegna (F.lli Marri, C.E.F.)  corrispondenti: Saba Al Fakis Boulos, Allestimenti Portanuova S.r.l., Fioravante Beghelli, impresa Franco Dal Magro, Ing. Alfredo De Bernardi, Mons. Arnaldo Fraccaroli, Geom. G.M. Gasparotti, Prof. Gino Gianfale, S.E. Giacomo Lercaro, Teresa Lercaro, Angiola Maria Migliavacca, Arch. Zita Mosca, Opera Diocesana \"Madonna della Fiducia\" (gli studenti)",
+		"sigla": "VV"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Taliedo (MI)",
+		"url_mart": null,
+		"materiali_c": 15,
+		"materiali_dm": 12,
+		"Denominazione": "Club \"Emilio Pensuti\", Taliedo, 1935",
+		"longitude": 9.2476874,
+		"materiali_d": 13,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1935",
+				"fine": "1935"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4438465,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici e impianti sportivi, ricreativi e ricettivi",
+		"url_casva": null,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_raw": "D(13)+DM(12)+C(15) DM (1935): domanda di costruzione, insegna, appunti  DM/Contabilit\u00e0 (1935): preventivi (Calderara S.A., E. Mauri S.A., Turri Mos\u00e9), bolla di consegna Ing. Ugo Pollice, note delle fatture, appunti Corrispondenti (1935/36): Leonardo Bonzi, Calderara S.A., A.L. Colombo, Giuseppe Galli & Figli, Cav. Ostali, ditta Luigi Spada, Turri Mos\u00e9, Ing. Manillo Zerbinati",
+		"sigla": "ECP"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "--",
+		"url_mart": null,
+		"materiali_c": null,
+		"materiali_dm": null,
+		"Denominazione": "Teatro della Moda di Elisabeth Arden, New-York, 1940",
+		"longitude": "null",
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1940",
+				"fine": "1940"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": "null",
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"tipo_1": null,
+		"materiali_raw": null,
+		"sigla": "AEA"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "--",
+		"url_mart": null,
+		"materiali_c": null,
+		"materiali_dm": null,
+		"Denominazione": "Mostra della Moda, Hotel Excelsior, Venezia, 1928 ",
+		"longitude": "null",
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1928",
+				"fine": "1928"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": "null",
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"tipo_1": null,
+		"materiali_raw": null,
+		"sigla": "AEX"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "--",
+		"url_mart": null,
+		"materiali_c": null,
+		"materiali_dm": null,
+		"Denominazione": "Stand Tessili Italiani, Expo di Barcellona, 1929",
+		"longitude": "null",
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1929",
+				"fine": "1929"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": "null",
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"tipo_1": null,
+		"materiali_raw": null,
+		"sigla": "ATL"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "--",
+		"url_mart": null,
+		"materiali_c": null,
+		"materiali_dm": null,
+		"Denominazione": "Biblioteca Notari, Milano, 1927",
+		"longitude": "null",
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1927",
+				"fine": "1927"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": "null",
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"tipo_1": null,
+		"materiali_raw": null,
+		"sigla": "IBN"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "--",
+		"url_mart": null,
+		"materiali_c": null,
+		"materiali_dm": null,
+		"Denominazione": "Seminterrato Cantoni, Milano, 1929",
+		"longitude": "null",
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1929",
+				"fine": "1929"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": "null",
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"tipo_1": null,
+		"materiali_raw": null,
+		"sigla": "ICT"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "--",
+		"url_mart": null,
+		"materiali_c": null,
+		"materiali_dm": null,
+		"Denominazione": "Bar Craja, Milano, 1930",
+		"longitude": "null",
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1930",
+				"fine": "1930"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": "null",
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"tipo_1": null,
+		"materiali_raw": null,
+		"sigla": "ICY"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "--",
+		"url_mart": null,
+		"materiali_c": null,
+		"materiali_dm": null,
+		"Denominazione": "Padiglione Bernocchi, Fiera Internazionale di Milano, 1929",
+		"longitude": "null",
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1929",
+				"fine": "1929"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": "null",
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"tipo_1": null,
+		"materiali_raw": null,
+		"sigla": "PBL"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "--",
+		"url_mart": null,
+		"materiali_c": null,
+		"materiali_dm": null,
+		"Denominazione": "Disegni futuristi, 1915",
+		"longitude": "null",
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1915",
+				"fine": "1915"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": "null",
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"tipo_1": null,
+		"materiali_raw": null,
+		"sigla": "DF"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "--",
+		"url_mart": null,
+		"materiali_c": null,
+		"materiali_dm": null,
+		"Denominazione": "Progetto Padiglione Breda, Fiera del Levante, Bari, 1963 ",
+		"longitude": "null",
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1963",
+				"fine": "1963"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": "null",
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"tipo_1": null,
+		"materiali_raw": null,
+		"sigla": "PBB"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "--",
+		"url_mart": null,
+		"materiali_c": null,
+		"materiali_dm": null,
+		"Denominazione": "Scenografie, 1923/29",
+		"longitude": "null",
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1923",
+				"fine": "1929"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": "null",
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"tipo_1": null,
+		"materiali_raw": null,
+		"sigla": "SCN1"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "--",
+		"url_mart": null,
+		"materiali_c": null,
+		"materiali_dm": null,
+		"Denominazione": "Scenografie, 1929/32",
+		"longitude": "null",
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1929",
+				"fine": "1932"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": "null",
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"tipo_1": null,
+		"materiali_raw": null,
+		"sigla": "SCN2"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "--",
+		"url_mart": null,
+		"materiali_c": null,
+		"materiali_dm": null,
+		"Denominazione": "Scenografie, 1940/44",
+		"longitude": "null",
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1940",
+				"fine": "1944"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": "null",
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"tipo_1": null,
+		"materiali_raw": null,
+		"sigla": "SCN3"
+	}, {
+		"percorsi_tematici": null,
+		"indirizzo": "Milano",
+		"url_mart": null,
+		"materiali_c": null,
+		"materiali_dm": null,
+		"Denominazione": "Mostra Mosaico Oggi, Milano, 1980",
+		"longitude": 9.186516,
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1980",
+				"fine": "1980"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": 45.4654542,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"tipo_1": null,
+		"materiali_raw": null,
+		"sigla": "AMO"
+	}
+]

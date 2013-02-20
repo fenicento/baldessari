@@ -1,0 +1,5561 @@
+[
+    {
+      "ID" : 1,
+      "Sigla" : "UCC",
+      "Titolo" : "Studi Cinematografici, In Mostra Dei Progetti, V Triennale Di Milano, Milano 1933",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.149-50",
+      "Figura" : null
+    },
+    {
+      "ID" : 2,
+      "Sigla" : "UCC",
+      "Titolo" : "V Triennale Di Milano, Programma, Milano, 1933",
+      "Tipo" : "altro",
+      "Pagina" : "Pp.11-15",
+      "Figura" : null
+    },
+    {
+      "ID" : 3,
+      "Sigla" : "UCC",
+      "Titolo" : "Giulia Veronesi, Luciano Baldessari Architetto, Collana Artisti Trentini, Trento, 1957",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.21",
+      "Figura" : null
+    },
+    {
+      "ID" : 4,
+      "Sigla" : "UCC",
+      "Titolo" : "Carlo Perogalli, Mostra Di Baldessari, In \"Atti Del Collegio Regionale Lombardo Architetti\", N°12, Dicembre 1957",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.31",
+      "Figura" : null
+    },
+    {
+      "ID" : 6,
+      "Sigla" : "UCC",
+      "Titolo" : "Michele Cennamo (A Cura Di), Materiali Per L'analisi Dell'architettura Moderna - 1A. Esposizione Italiana Di Architettura Razionale, Fausto Fiorentino Editore, Napoli, 1973",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.226",
+      "Figura" : null
+    },
+    {
+      "ID" : 7,
+      "Sigla" : "UCC",
+      "Titolo" : "Cinquant'anni Di Contributi Dei Trentini Alla \"Triennale\", In \"L'adige\", 23/9/1973",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 11,
+      "Sigla" : "UCC",
+      "Titolo" : "Accademia Nazionale Dei Lincei, Premio \"Antonio Feltrinelli\", Roma, 1978",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.50",
+      "Figura" : null
+    },
+    {
+      "ID" : 12,
+      "Sigla" : "UCC",
+      "Titolo" : "Ettore Camesasca (A Cura Di), Mario Sironi - Scritti Editi E Inediti, Feltrinelli, Milano, 1980",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.279",
+      "Figura" : null
+    },
+    {
+      "ID" : 13,
+      "Sigla" : "UCC",
+      "Titolo" : "Aa.Vv., Gli Anni Trenta, Arte E Cultura In Italia, Catalogo Della Mostra, Mazzotta, Milano, 1982",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.275,400-401,544, 643",
+      "Figura" : null
+    },
+    {
+      "ID" : 14,
+      "Sigla" : "UCC",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : "P.62",
+      "Figura" : "Figg.59-60"
+    },
+    {
+      "ID" : 15,
+      "Sigla" : "UCC",
+      "Titolo" : "Riccardo Mariani, Luciano Baldessari, In Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : "P.38",
+      "Figura" : null
+    },
+    {
+      "ID" : 16,
+      "Sigla" : "UCC",
+      "Titolo" : "Gian Pacher, Architetto, Cittadino Del Mondo Ecco Chi Era Luciano Baldessari, In \"Alto Adige\", 8/6/1985",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 17,
+      "Sigla" : "UCC",
+      "Titolo" : "Anty Pansera, alla riscoperta di un vero maestro, in \"Il Giorno\", 24/6/1985; L'architetto Luciano Baldessari e la scenografia teatrale, in \"Grazia\",  30/6/1985\" ATTENZIONE SONO DUE ARTICOLI DISTINTI",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : null,
+      "Figura" : null
+    },
+    {
+      "ID" : 18,
+      "Sigla" : "UCC",
+      "Titolo" : "Fulvio Irace, L'\"Officina Di Dedalo\": Itinerari Milanesi Tra Progetti E Realizzazioni, In \"Rassegna\", Bologna, Marzo 1988",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.52",
+      "Figura" : null
+    },
+    {
+      "ID" : 19,
+      "Sigla" : "UCC",
+      "Titolo" : "Giuseppe Anderi, Il cinema fra le arti nella Milano degli anni '30, in Francesco Casetti, Raffaele De Berti (a cura di), Il cinema a Milano tra le due guerre, in \"Comunicazioni Sociali\" n° 3-4, luglio-dicembre 1988",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.187",
+      "Figura" : null
+    },
+    {
+      "ID" : 20,
+      "Sigla" : "UCC",
+      "Titolo" : "Luciano Caramel, Enrico Crispolti, Veit loers, italiens moderne - vanguardia italiana de entreguerras, cataloghi della mostra, Mazzotta, Milano, 1990",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.353",
+      "Figura" : null
+    },
+    {
+      "ID" : 21,
+      "Sigla" : "UCC",
+      "Titolo" : "Paolo Mereghetti, Marzo 1896, Milano Scopre Il Cinema - Gli Studios? Il Lorenteggio Era Pronto Ad Ospitarli, In \"Corriere Della Sera\", 29/3/1996",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.48",
+      "Figura" : null
+    },
+    {
+      "ID" : 22,
+      "Sigla" : "UCC",
+      "Titolo" : "Raffaele De Berti (A Cura Di), Un Secolo Di Cinema A Milano, Il Castoro, Milano, 1996",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.191,251",
+      "Figura" : null
+    },
+    {
+      "ID" : 23,
+      "Sigla" : "USB",
+      "Titolo" : "Bruno Moretti, Baldessari O Della Versatilità, In \"Rassegna D'architettura\", N°4, Aprile 1940",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.99",
+      "Figura" : null
+    },
+    {
+      "ID" : 25,
+      "Sigla" : "USB",
+      "Titolo" : "Giulia Veronesi, Luciano Baldessari Architetto, Collana Artisti Trentini, Trento, 1957",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.21,72-73",
+      "Figura" : null
+    },
+    {
+      "ID" : 26,
+      "Sigla" : "USB",
+      "Titolo" : "Gio Ponti, A Berlino, Nell'hansaviertel, Il Grattacielo Italiano, In \"Domus\", N°332, Luglio 1957",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.2-3",
+      "Figura" : null
+    },
+    {
+      "ID" : 28,
+      "Sigla" : "USB",
+      "Titolo" : "Carlo Perogalli, Mostra Di Baldessari, In \"Atti Del Collegio Regionale Lombardo Architetti\", N°12, Dicembre 1957",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.30,31",
+      "Figura" : null
+    },
+    {
+      "ID" : 29,
+      "Sigla" : "USB",
+      "Titolo" : "Luciano Baldessari, Catalogo Della Mostra A Francoforte E Monaco, Saggio Di Giulia Veronesi, 1958",
+      "Tipo" : "altro",
+      "Pagina" : "P.6",
+      "Figura" : null
+    },
+    {
+      "ID" : 31,
+      "Sigla" : "USB",
+      "Titolo" : "Giulia Veronesi, Luciano Baldessari Architetto, In \"Edilizia Moderna\", N°63, Aprile 1958",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.88",
+      "Figura" : null
+    },
+    {
+      "ID" : 33,
+      "Sigla" : "USB",
+      "Titolo" : "F.C.P., La Mostra Di Luciano Baldessari E La Versatilità Del Suo Ingegno, In \"Il Gazzettino\", 24/12/1959",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.5",
+      "Figura" : null
+    },
+    {
+      "ID" : 34,
+      "Sigla" : "USB",
+      "Titolo" : "Giulio De Carli, Luciano Baldessari, In \"L'adige\", 30/12/1959",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 35,
+      "Sigla" : "USB",
+      "Titolo" : "Italo Cinti, Luciano Baldessari, Architetto Integrale, In \"Economia Trentina\", N°5-6, 1959",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.13",
+      "Figura" : null
+    },
+    {
+      "ID" : 36,
+      "Sigla" : "USB",
+      "Titolo" : "Italo Cinti, Luciano Baldessari Architetto, Tamari, Bologna, 1963",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.35",
+      "Figura" : "Fig.14"
+    },
+    {
+      "ID" : 37,
+      "Sigla" : "USB",
+      "Titolo" : "Guido Ballo, Designers Italiani (2), In \"Idealstandard\", Settembre-Novembre 1964",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.40-41",
+      "Figura" : null
+    },
+    {
+      "ID" : 38,
+      "Sigla" : "USB",
+      "Titolo" : "Enrico D. Bona, Baldessari testimone e protagonista, in \"Casabella\", n° 342 (estratto), novembre 1969",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : null,
+      "Figura" : "Figg.16-17"
+    },
+    {
+      "ID" : 39,
+      "Sigla" : "USB",
+      "Titolo" : "Componenti Neofuturiste Nell'architettura Degli Anni '30, In \"Controspazio\", Aprile-Maggio 1971",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.76",
+      "Figura" : null
+    },
+    {
+      "ID" : 41,
+      "Sigla" : "USB",
+      "Titolo" : "Michele Cennamo (A Cura Di), Materiali Per L'analisi Dell'architettura Moderna - 1A. Esposizione Italiana Di Architettura Razionale, Fausto Fiorentino Editore, Napoli, 1973",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.226",
+      "Figura" : null
+    },
+    {
+      "ID" : 42,
+      "Sigla" : "USB",
+      "Titolo" : "Mario Monteverdi, La Cultura Architettonica Tra Le Due Guerre, In \"Socialità\", Maggio 1973",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.5",
+      "Figura" : null
+    },
+    {
+      "ID" : 43,
+      "Sigla" : "USB",
+      "Titolo" : "Giovanni Cagnoni, Baldessari o il rapporto estetica-socialità, in \"Immagine Technika\", n° 12, 1975",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.28",
+      "Figura" : "Fig.8"
+    },
+    {
+      "ID" : 48,
+      "Sigla" : "USB",
+      "Titolo" : "Accademia Nazionale Dei Lincei, Premio \"Antonio Feltrinelli\", Roma, 1978",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.50",
+      "Figura" : null
+    },
+    {
+      "ID" : 52,
+      "Sigla" : "USB",
+      "Titolo" : "Luciano Baldessari, in \"Controspazio\", n° 2-3 (numero monografico), marzo-giugno 1978",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.28-29",
+      "Figura" : null
+    },
+    {
+      "ID" : 53,
+      "Sigla" : "USB",
+      "Titolo" : "Enrico Crispolti (A Cura Di), Immaginazione Megastrutturale Dal Futurismo Ad Oggi, Edizioni La Biennale Di Venezia, 1979",
+      "Tipo" : "saggio in volume",
+      "Pagina" : null,
+      "Figura" : "Fig.68"
+    },
+    {
+      "ID" : 54,
+      "Sigla" : "USB",
+      "Titolo" : "Angelo Villa, L'architettura Novecentista E Le Trasformazioni Del Centro, In \"Casabella\", N°451-452, Ottobre-Novembre 1979",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.32,35-36",
+      "Figura" : "Figg.11-12"
+    },
+    {
+      "ID" : 55,
+      "Sigla" : "USB",
+      "Titolo" : "Maurizio Grandi, Attilio Pracchi, Milano - Guida All'architettura Moderna, Zanichelli, Bologna, 1980",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.216-217",
+      "Figura" : null
+    },
+    {
+      "ID" : 56,
+      "Sigla" : "USB",
+      "Titolo" : "Anni Creativi Al \"Milione\" 1932-1939, Catalogo Della Mostra, Silvana Editoriale, Milano, 1980",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.115",
+      "Figura" : null
+    },
+    {
+      "ID" : 59,
+      "Sigla" : "USB",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.7, 18,82",
+      "Figura" : "Figg.94-101"
+    },
+    {
+      "ID" : 60,
+      "Sigla" : "USB",
+      "Titolo" : "Cesare De Seta, Il Regime: La Questione Delle Arti, In Attraverso Gli Anni Trenta, In \"Domus\", N°624, Gennaio 1982",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.13",
+      "Figura" : null
+    },
+    {
+      "ID" : 64,
+      "Sigla" : "USB",
+      "Titolo" : "J. Glancey, Baldessari, in \"The architectural review\", n° 1028, ottobre 1982",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.79",
+      "Figura" : "Fig.16"
+    },
+    {
+      "ID" : 65,
+      "Sigla" : "USB",
+      "Titolo" : "Aa.Vv., Gli Anni Trenta, Arte E Cultura In Italia, Catalogo Della Mostra, Mazzotta, Milano, 1982",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.544,572,641",
+      "Figura" : null
+    },
+    {
+      "ID" : 66,
+      "Sigla" : "USB",
+      "Titolo" : "Carlo De Carli, Architettura Spazio Primario, Hoepli, Milano, 1982",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.186",
+      "Figura" : null
+    },
+    {
+      "ID" : 67,
+      "Sigla" : "USB",
+      "Titolo" : "La Scomparsa Dell'architetto Baldessari, In Relazione Del Presidente Del Circolo Trentino All'assemblea Generale Dei Soci, Dattiloscritto, Milano, 25/5/1984",
+      "Tipo" : null,
+      "Pagina" : "P.11",
+      "Figura" : null
+    },
+    {
+      "ID" : 68,
+      "Sigla" : "USB",
+      "Titolo" : "Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : null,
+      "Figura" : "Figg.56-59"
+    },
+    {
+      "ID" : 71,
+      "Sigla" : "USB",
+      "Titolo" : "Ugo Lo Russo, Un architetto che respirò l'avanguardia, in \"La provincia di Como\", 2/10/1985",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 74,
+      "Sigla" : "USB",
+      "Titolo" : "Fulvio Irace, L'\"Officina Dedalo\": Itinerari Milanesi Tra Progetti E Realizzazioni, In \"Rassegna\", Marzo, 1988",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.52",
+      "Figura" : null
+    },
+    {
+      "ID" : 75,
+      "Sigla" : "USB",
+      "Titolo" : "Luca Basso Peressut, Ilaria Valente (a cura di), Luoghi e temi della trasformazione - Forma e trasformazione dei luoghi centrali, Milano - Architetture per la città 1980-1990, Editoriale Domus, Milano, 1989",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp. 26-27",
+      "Figura" : null
+    },
+    {
+      "ID" : 76,
+      "Sigla" : "USB",
+      "Titolo" : "Fulvio Irace (A Cura Di), Italia Anni Trenta: Problematiche Del Razionalismo, In Luciano Caramel (A Cura Di), L'europa Dei Razionalisti, Catalogo Della Mostra, Electa, Milano, 1989",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.248,380",
+      "Figura" : null
+    },
+    {
+      "ID" : 172,
+      "Sigla" : "EIT",
+      "Titolo" : "Paolo Marconi, I Recenti Sviluppi Dell'architettura Italiana In Rapporto Alle Loro Origini, In \"Aad\", X, Novembre 1931",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.801",
+      "Figura" : null
+    },
+    {
+      "ID" : 173,
+      "Sigla" : "EIT",
+      "Titolo" : "Giuseppe Pagano-Pogatschnig, Uno Stabilimento Industriale Moderno A Milano, In \"Casabella\", Marzo 1933",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.43-44",
+      "Figura" : null
+    },
+    {
+      "ID" : 174,
+      "Sigla" : "EIT",
+      "Titolo" : "Raffaello Giolli, Architetti italiani - Baldessari, in \"Colosseo\", n° 7, marzo 1934",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.325,326",
+      "Figura" : null
+    },
+    {
+      "ID" : 175,
+      "Sigla" : "EIT",
+      "Titolo" : "Agnoldomenico Pica, Nuova Architettura Italiana, Quaderni Della Triennale, Hoepli, Milano, 1936",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.58-59,218-220)",
+      "Figura" : null
+    },
+    {
+      "ID" : 176,
+      "Sigla" : "EIT",
+      "Titolo" : "Gli edifici dell'Italcima a Milano, in \"Rassegna d'Architettura\", giugno 1939",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.261-269",
+      "Figura" : null
+    },
+    {
+      "ID" : 177,
+      "Sigla" : "EIT",
+      "Titolo" : "Gli edifici della \"Italcima\" a Milano, in \"Architettura\", 1939",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.1-10",
+      "Figura" : null
+    },
+    {
+      "ID" : 178,
+      "Sigla" : "EIT",
+      "Titolo" : "Bruno Moretti, Baldessari O Della Versatilità, In \"Rassegna D'architettura\", N°4, Aprile 1940",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.102",
+      "Figura" : null
+    },
+    {
+      "ID" : 179,
+      "Sigla" : "EIT",
+      "Titolo" : "Agnoldomenico Pica, Architettura Moderna In Italia, Hoepli, Milano, 1941",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.60,99,127,244-249",
+      "Figura" : null
+    },
+    {
+      "ID" : 182,
+      "Sigla" : "EIT",
+      "Titolo" : "Piero Bottoni, Antologia Di Edifici Moderni In Milano, Editoriale Domus, Milano, 1954",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.251,260",
+      "Figura" : null
+    },
+    {
+      "ID" : 183,
+      "Sigla" : "EIT",
+      "Titolo" : "Giulia Veronesi, Luciano Baldessari Architetto, Collana Artisti Trentini, Trento, 1957",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.66-69",
+      "Figura" : null
+    },
+    {
+      "ID" : 184,
+      "Sigla" : "EIT",
+      "Titolo" : "Gio Ponti, A Berlino, Nell'hansaviertel, Il Grattacielo Italiano, In \"Domus\", N°332, Luglio 1957",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.2",
+      "Figura" : null
+    },
+    {
+      "ID" : 185,
+      "Sigla" : "EIT",
+      "Titolo" : "Carlo Perogalli, Mostra Di Baldessari, In \"Atti Del Collegio Regionale Lombardo Architetti\", N°12, Dicembre 1957",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.31",
+      "Figura" : null
+    },
+    {
+      "ID" : 187,
+      "Sigla" : "EIT",
+      "Titolo" : "Luciano Baldessari, Catalogo Della Mostra A Francoforte E Monaco, Saggio Di Giulia Veronesi, 1958",
+      "Tipo" : "altro",
+      "Pagina" : "P.15",
+      "Figura" : null
+    },
+    {
+      "ID" : 188,
+      "Sigla" : "EIT",
+      "Titolo" : "Gillo Dorfles, La mostra di Luciano Baldessari in Germania, in \"Domus\", n° 352 (estratto), marzo 1958",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.30",
+      "Figura" : "Fig.14"
+    },
+    {
+      "ID" : 189,
+      "Sigla" : "EIT",
+      "Titolo" : "Giulia Veronesi, Luciano Baldessari Architetto, In \"Edilizia Moderna\", N°63, Aprile 1958",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.88",
+      "Figura" : null
+    },
+    {
+      "ID" : 191,
+      "Sigla" : "EIT",
+      "Titolo" : "Giulio De Carli, Luciano Baldessari, In \"L'adige\", 30/12/1959",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 192,
+      "Sigla" : "EIT",
+      "Titolo" : "Italo Cinti, Luciano Baldessari, Architetto Integrale, In \"Economia Trentina\", N°5-6, 1959",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.10,12, Pubblicato A Parte Da Arti Grafiche \"Saturnia\", Trento, 1959",
+      "Figura" : null
+    },
+    {
+      "ID" : 193,
+      "Sigla" : "EIT",
+      "Titolo" : "Agnoldomenico Pica, il \"Gruppo 7\" e la polemica razionalista, in La Casa. Quaderni di architettura e critica n° 6 (diretti da Pio Montesi), De Luca Editore, Roma, 1960",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.159",
+      "Figura" : null
+    },
+    {
+      "ID" : 194,
+      "Sigla" : "EIT",
+      "Titolo" : "Agnoldomenico Pica, Diagramma Storico Dell'architettura Moderna, In \"Le Arti\", N°4, Aprile 1960",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.23,24",
+      "Figura" : null
+    },
+    {
+      "ID" : 195,
+      "Sigla" : "EIT",
+      "Titolo" : "Giulia Veronesi, La Torre Di Berlino E L'opera Dell'architetto Luciano Baldessari, In \"L'architettura Cronache E Storia\", N°58 (Estratto), Agosto 1960",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.232,233",
+      "Figura" : null
+    },
+    {
+      "ID" : 196,
+      "Sigla" : "EIT",
+      "Titolo" : "Italo Cinti, Luciano Baldessari Architetto, Tamari, Bologna, 1963",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.24-26,36",
+      "Figura" : "Fig.9"
+    },
+    {
+      "ID" : 197,
+      "Sigla" : "EIT",
+      "Titolo" : "Guido Ballo, Designers Italiani (2), In \"Idealstandard\", Settembre-Novembre 1964",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.38,40",
+      "Figura" : null
+    },
+    {
+      "ID" : 198,
+      "Sigla" : "EIT",
+      "Titolo" : "Mia Cinotti, Razionalismo di Baldessari, in \"Le arti\", n° 10, ottobre 1969",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.32",
+      "Figura" : null
+    },
+    {
+      "ID" : 199,
+      "Sigla" : "EIT",
+      "Titolo" : "Enrico D. Bona, Baldessari testimone e protagonista, in \"Casabella\", n° 342 (estratto), novembre 1969",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : null,
+      "Figura" : "Figg.13,14"
+    },
+    {
+      "ID" : 201,
+      "Sigla" : "EIT",
+      "Titolo" : "Raffaello Giolli, L'architettura Razionale, A Cura Di Cesare De Seta, Laterza, Bari, 1972",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.184,Fig.45",
+      "Figura" : null
+    },
+    {
+      "ID" : 202,
+      "Sigla" : "EIT",
+      "Titolo" : "Michele Cennamo (A Cura Di), Materiali Per L'analisi Dell'architettura Moderna - 1A. Esposizione Italiana Di Architettura Razionale, Fausto Fiorentino Editore, Napoli, 1973",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.226",
+      "Figura" : null
+    },
+    {
+      "ID" : 203,
+      "Sigla" : "EIT",
+      "Titolo" : "Giovanni Cagnoni, Baldessari o il rapporto estetica-socialità, in \"Immagine Technika\", n° 12, 1975",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.27",
+      "Figura" : "Fig.7"
+    },
+    {
+      "ID" : 208,
+      "Sigla" : "EIT",
+      "Titolo" : "Giuseppe Pagano, Architettura E Città Durante Il Fascismo, A Cura Di Cesare De Seta, Laterza, Bari, 1976",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.263",
+      "Figura" : null
+    },
+    {
+      "ID" : 209,
+      "Sigla" : "EIT",
+      "Titolo" : "Maurizio Tafuri, Francesco Dal Co, Architettura Contemporanea, Electa, Milano, 1976",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.288",
+      "Figura" : null
+    },
+    {
+      "ID" : 210,
+      "Sigla" : "EIT",
+      "Titolo" : "Accademia Nazionale Dei Lincei, Premio \"Antonio Feltrinelli\", Roma, 1978",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.49",
+      "Figura" : null
+    },
+    {
+      "ID" : 211,
+      "Sigla" : "EIT",
+      "Titolo" : "Daniele Baroni, Le architetture semipermanenti di Luciano Baldessari, in \"Ottagono\", n° 51,  dicembre 1978",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.28",
+      "Figura" : null
+    },
+    {
+      "ID" : 212,
+      "Sigla" : "EIT",
+      "Titolo" : "Luciano Baldessari, in \"Controspazio\", n° 2-3 (numero monografico), marzo-giugno 1978",
+      "Tipo" : "monografia",
+      "Pagina" : "P.25",
+      "Figura" : null
+    },
+    {
+      "ID" : 213,
+      "Sigla" : "EIT",
+      "Titolo" : "Maurizio Grandi, Attilio Pracchi, Milano - Guida All'architettura Moderna, Zanichelli, Bologna, 1980",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.169",
+      "Figura" : "Fig.212"
+    },
+    {
+      "ID" : 214,
+      "Sigla" : "EIT",
+      "Titolo" : "Anni Creativi Al \"Milione\" 1932-1939, Catalogo Della Mostra, Silvana Editoriale, Milano, 1980",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.113",
+      "Figura" : null
+    },
+    {
+      "ID" : 215,
+      "Sigla" : "EIT",
+      "Titolo" : "Franco Raggi, La Vita È Un Magnifico Incidente - Colloquio Con Luciano Baldessari.., In \"Modo\", N°40, Giugno 1981",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.18",
+      "Figura" : null
+    },
+    {
+      "ID" : 217,
+      "Sigla" : "EIT",
+      "Titolo" : "Cesare De Seta, L'architettura Del Novecento, Utet, Torino, 1981",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.80,277",
+      "Figura" : null
+    },
+    {
+      "ID" : 218,
+      "Sigla" : "EIT",
+      "Titolo" : "Aa.Vv., Gli Anni Trenta, Arte E Cultura In Italia, Catalogo Della Mostra, Mazzotta, Milano, 1982",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.226,544,639",
+      "Figura" : null
+    },
+    {
+      "ID" : 219,
+      "Sigla" : "EIT",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.17,76",
+      "Figura" : "Figg.86-88"
+    },
+    {
+      "ID" : 223,
+      "Sigla" : "EIT",
+      "Titolo" : "Talieno Manfrini, In Ricordo Di Luciano Baldessari, In \"Il Castello - Notiziario Culturale Della Regione Trentino/Alto Adige\", In \"Nuova Rivista Europea\", N°31, Settembre-Novembre 1982",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.153",
+      "Figura" : null
+    },
+    {
+      "ID" : 224,
+      "Sigla" : "EIT",
+      "Titolo" : "J. Glancey, Baldessari, in \"The architectural review\", n° 1028, ottobre 1982",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : null,
+      "Figura" : "Figg.13-15"
+    },
+    {
+      "ID" : 225,
+      "Sigla" : "EIT",
+      "Titolo" : "Aa.Vv., La Lombardia E Le Sue Grandi Stagioni - Dall'umanesimo All'età Contemporanea, Jaca Book, Milano, 1985",
+      "Tipo" : "saggio in volume",
+      "Pagina" : null,
+      "Figura" : "Fig.18"
+    },
+    {
+      "ID" : 227,
+      "Sigla" : "EIT",
+      "Titolo" : "Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : null,
+      "Figura" : "Figg.36,37,40"
+    },
+    {
+      "ID" : 229,
+      "Sigla" : "EIT",
+      "Titolo" : "Anty Pansera, alla riscoperta di un vero maestro, in \"Il Giorno\", 24/6/1985; L'architetto Luciano Baldessari e la scenografia teatrale, in \"Grazia\",  30/6/1985\" ATTENZIONE SONO DUE ARTICOLI DISTINTI",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : null,
+      "Figura" : null
+    },
+    {
+      "ID" : 231,
+      "Sigla" : "EIT",
+      "Titolo" : "Mariapia Matteotti, Luciano Baldessari, in \"Ufficiostile\", n° 4, aprile 1986",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.41,44",
+      "Figura" : null
+    },
+    {
+      "ID" : 233,
+      "Sigla" : "EIT",
+      "Titolo" : "Giorgio Ciucci, Gli Architetti E Il Fascismo, Piccola Biblioteca Einaudi, Torino, 1989",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.159",
+      "Figura" : "Fig.77"
+    },
+    {
+      "ID" : 234,
+      "Sigla" : "EIT",
+      "Titolo" : "Fulvio Irace (A Cura Di), Italia Anni Trenta: Problematiche Del Razionalismo, In Luciano Caramel (A Cura Di), L'europa Dei Razionalisti, Catalogo Della Mostra, Electa, Milano, 1989",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.249,379",
+      "Figura" : null
+    },
+    {
+      "ID" : 235,
+      "Sigla" : "EIT",
+      "Titolo" : "Luciano Caramel, Enrico Crispolti, Veit loers, italiens moderne - vanguardia italiana de entreguerras, cataloghi della mostra, Mazzotta, Milano, 1990",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.391",
+      "Figura" : null
+    },
+    {
+      "ID" : 236,
+      "Sigla" : "EIT",
+      "Titolo" : "Anty Pansera, alla riscoperta di un vero maestro, in \"Il Giorno\", 24/6/1985; L'architetto Luciano Baldessari e la scenografia teatrale, in \"Grazia\",  30/6/1985\" ATTENZIONE SONO DUE ARTICOLI DISTINTI",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : null,
+      "Figura" : null
+    },
+    {
+      "ID" : 238,
+      "Sigla" : "EIT",
+      "Titolo" : "Maria Grazia Folli, Tra Novecento E Razionalismo: Architetture Milanesi 1920/1940, Clup, Milano 1991",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.120-123",
+      "Figura" : null
+    },
+    {
+      "ID" : 240,
+      "Sigla" : "EIT",
+      "Titolo" : "Enciclopedia Zanichelli, Voce \"Baldessari Luciano\", Zanichelli, Bologna, 1992",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.188",
+      "Figura" : null
+    },
+    {
+      "ID" : 241,
+      "Sigla" : "EIT",
+      "Titolo" : "Sebastiano Grasso, Lucio Fontana, Furto D'autore, In \"Corriere Della Sera\", 11/9/1993",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 242,
+      "Sigla" : "EIT",
+      "Titolo" : "Aa.Vv., Espressione Oggettività - Aspetti Dell'arte Negli Anni Venti E Trenta, Tirolo, Alto Adige, Trentino, Catalogo Della Mostra, Herausgeber, Innsbruck, 1994",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.128",
+      "Figura" : null
+    },
+    {
+      "ID" : 243,
+      "Sigla" : "EIT",
+      "Titolo" : "Alberto Mioni, Antonello Negri, Sergio Zaninelli, Il Sogno Del Moderno - Architettura E Produzione A Milano Tra Le Due Guerre, Camera Di Commercio Industria Artigianato E Agricoltura Di Milano, Pacini Editore, Ospedaletto, 1994",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.50,145-149",
+      "Figura" : null
+    },
+    {
+      "ID" : 244,
+      "Sigla" : "EIT",
+      "Titolo" : "Francesco Augelli, La modernità del legno, ovvero il legno nella modernità, in \"A-Letheia\", n° 4, 1994",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.87",
+      "Figura" : null
+    },
+    {
+      "ID" : 245,
+      "Sigla" : "EIT",
+      "Titolo" : "Dizionario Enciclopedico Universale, Voce \"Baldessari Luciano\", Supplemento Del \"Corriere Della Sera\", Sansoni, Milano, 1995, Fasc. N°6",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.135",
+      "Figura" : null
+    },
+    {
+      "ID" : 682,
+      "Sigla" : "VH",
+      "Titolo" : "Bruno Moretti, Baldessari O Della Versatilità, In \"Rassegna D'architettura\", N°4, Aprile 1940",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.100,101",
+      "Figura" : null
+    },
+    {
+      "ID" : 683,
+      "Sigla" : "VH",
+      "Titolo" : "Agnoldomenico Pica, Architettura Moderna In Italia, Hoepli, Milano, 1941",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.60,251-255",
+      "Figura" : null
+    },
+    {
+      "ID" : 684,
+      "Sigla" : "VH",
+      "Titolo" : "Agnoldomenico Pica, Villa alla Giudecca a Venezia e piante, in \"Case d'Oggi\", n° 6, giugno 1941",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.28-29",
+      "Figura" : null
+    },
+    {
+      "ID" : 685,
+      "Sigla" : "VH",
+      "Titolo" : "Giulia Veronesi, Luciano Baldessari Architetto, Collana Artisti Trentini, Trento, 1957",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.21,74-75",
+      "Figura" : null
+    },
+    {
+      "ID" : 686,
+      "Sigla" : "VH",
+      "Titolo" : "Gio Ponti, A Berlino, Nell'hansaviertel, Il Grattacielo Italiano, In \"Domus\", N°332, Luglio 1957",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.2",
+      "Figura" : null
+    },
+    {
+      "ID" : 687,
+      "Sigla" : "VH",
+      "Titolo" : "Carlo Perogalli, Mostra Di Baldessari, In \"Atti Del Collegio Regionale Lombardo Architetti\", N°12, Dicembre 1957",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.31",
+      "Figura" : null
+    },
+    {
+      "ID" : 688,
+      "Sigla" : "VH",
+      "Titolo" : "Luciano Baldessari, Catalogo Della Mostra A Francoforte E Monaco, Saggio Di Giulia Veronesi, 1958",
+      "Tipo" : "altro",
+      "Pagina" : "P.6",
+      "Figura" : null
+    },
+    {
+      "ID" : 690,
+      "Sigla" : "VH",
+      "Titolo" : "Enrico D. Bona, Baldessari testimone e protagonista, in \"Casabella\", n° 342 (estratto), novembre 1969",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : null,
+      "Figura" : "Fig.15"
+    },
+    {
+      "ID" : 691,
+      "Sigla" : "VH",
+      "Titolo" : "Italo Cinti, Luciano Baldessari Architetto, Tamari, Bologna, 1963",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.35-36",
+      "Figura" : null
+    },
+    {
+      "ID" : 692,
+      "Sigla" : "VH",
+      "Titolo" : "Cesare De Seta, La Cultura Architettonica In Italia Fra Le Due Guerre, Laterza, Bari, 1972",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.243-245",
+      "Figura" : "Fig.103"
+    },
+    {
+      "ID" : 693,
+      "Sigla" : "VH",
+      "Titolo" : "Michele Cennamo (A Cura Di), Materiali Per L'analisi Dell'architettura Moderna - 1A. Esposizione Italiana Di Architettura Razionale, Fausto Fiorentino Editore, Napoli, 1973",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.226",
+      "Figura" : null
+    },
+    {
+      "ID" : 694,
+      "Sigla" : "VH",
+      "Titolo" : "Mario Monteverdi, La Cultura Architettonica Tra Le Due Guerre, In \"Socialità\", Maggio 1973",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.5",
+      "Figura" : null
+    },
+    {
+      "ID" : 695,
+      "Sigla" : "VH",
+      "Titolo" : "Giovanni Cagnoni, Baldessari o il rapporto estetica-socialità, in \"Immagine Technika\", n° 12, 1975",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.28",
+      "Figura" : null
+    },
+    {
+      "ID" : 699,
+      "Sigla" : "VH",
+      "Titolo" : "Intervista Di Luciano Baldessari Alla Radio Svizzera, Dattiloscritto, Interventi Di Giancarlo De Carlo, Agnoldomenico Pica E Vittorio Fagone, 1978",
+      "Tipo" : null,
+      "Pagina" : "Pp.3,14",
+      "Figura" : null
+    },
+    {
+      "ID" : 700,
+      "Sigla" : "VH",
+      "Titolo" : "Luciano Baldessari, in \"Controspazio\", n° 2-3 (numero monografico), marzo-giugno 1978",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.26-27",
+      "Figura" : null
+    },
+    {
+      "ID" : 702,
+      "Sigla" : "VH",
+      "Titolo" : "Eleonora Maltese (A Cura Di), Il Progetto Nella Città, Iuav, Venezia, 1981",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.253,254,261",
+      "Figura" : null
+    },
+    {
+      "ID" : 703,
+      "Sigla" : "VH",
+      "Titolo" : "Mario Cossali, Appartengo alla libertà, in \"Il Leno\", n° 1, gennaio 1981",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.38",
+      "Figura" : null
+    },
+    {
+      "ID" : 704,
+      "Sigla" : "VH",
+      "Titolo" : "Aa.Vv., Gli Anni Trenta, Arte E Cultura In Italia, Catalogo Della Mostra, Mazzotta, Milano, 1982",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.639",
+      "Figura" : null
+    },
+    {
+      "ID" : 705,
+      "Sigla" : "VH",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.18,88",
+      "Figura" : "Figg.102-105"
+    },
+    {
+      "ID" : 706,
+      "Sigla" : "VH",
+      "Titolo" : "Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : "P.19",
+      "Figura" : "Fig.60"
+    },
+    {
+      "ID" : 708,
+      "Sigla" : "VH",
+      "Titolo" : "Carlotta De Bevilacqua, Alberto Ferlenga, Le Città Immaginate: Un Viaggio In Italia, Nove Progetti Per Nove Città, Catalogo Della Mostra, Xvii Triennale Di Milano, Electa, Milano",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.118,300",
+      "Figura" : null
+    },
+    {
+      "ID" : 787,
+      "Sigla" : "PT5",
+      "Titolo" : "V Triennale Di Milano - Padiglione Della Stampa, Stralcio Dal Catalogo Generale, Milano, 1933",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.5-11,73-81",
+      "Figura" : null
+    },
+    {
+      "ID" : 788,
+      "Sigla" : "PT5",
+      "Titolo" : "Giuseppe Pagano-Pogatschnig, Alla Fiera Di Milano, In \"Casabella\", N°5, Maggio 1933",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.33",
+      "Figura" : null
+    },
+    {
+      "ID" : 789,
+      "Sigla" : "PT5",
+      "Titolo" : "Ugo Nebbia, Il Palazzo Della Stampa, In \"Lidel\", (Numero Speciale), Giugno 1933",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.26-29",
+      "Figura" : null
+    },
+    {
+      "ID" : 790,
+      "Sigla" : "PT5",
+      "Titolo" : "Il Padiglione Della Stampa, In \"La Rivista Illustrata Del Popolo D'italia\", (Numero Speciale), Agosto 1933",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.18,117-127,167",
+      "Figura" : null
+    },
+    {
+      "ID" : 791,
+      "Sigla" : "PT5",
+      "Titolo" : "Edoardo Persico, Il Padiglione Della Stampa, In \"Casabella\", N°8-9, Agosto-Settembre 1933",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.14-17",
+      "Figura" : null
+    },
+    {
+      "ID" : 792,
+      "Sigla" : "PT5",
+      "Titolo" : "Franco Albini, Padiglione Della Stampa, In \"Edilizia Moderna\", N°10-11, Agosto-Dicembre 1933",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.12-15",
+      "Figura" : null
+    },
+    {
+      "ID" : 793,
+      "Sigla" : "PT5",
+      "Titolo" : "Padiglione Della Stampa Dell'architetto Luciano Baldessari, In \"Colosseo\", Settembre 1933",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.96-97 E Copertina",
+      "Figura" : null
+    },
+    {
+      "ID" : 794,
+      "Sigla" : "PT5",
+      "Titolo" : "Raffaello Giolli, Architetti italiani - Baldessari, in \"Colosseo\", n° 7, marzo 1934",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.326, 327,332,333",
+      "Figura" : null
+    },
+    {
+      "ID" : 795,
+      "Sigla" : "PT5",
+      "Titolo" : "Thirteen Years Of Fair-Building Reviewed In Current Exhibit, In \"The Architectural Record\", Luglio 1936",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 796,
+      "Sigla" : "PT5",
+      "Titolo" : "Bruno Moretti, Baldessari O Della Versatilità, In \"Rassegna D'architettura\", N°4, Aprile 1940",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.102",
+      "Figura" : null
+    },
+    {
+      "ID" : 797,
+      "Sigla" : "PT5",
+      "Titolo" : "Agnoldomenico Pica, Architettura Moderna In Italia, Hoepli, Milano, 1941",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.99",
+      "Figura" : null
+    },
+    {
+      "ID" : 799,
+      "Sigla" : "PT5",
+      "Titolo" : "Franco Albini, Eugenio Gentili, Esperienze Della T9, In \"Metron\", N°43, Settembre-Dicembre 1951",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.21",
+      "Figura" : null
+    },
+    {
+      "ID" : 800,
+      "Sigla" : "PT5",
+      "Titolo" : "Agnoldomenico Pica (A Cura Di), X Triennale Di Milano, Catalogo Dell'esposizione, Milano, 1954",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.325,342",
+      "Figura" : null
+    },
+    {
+      "ID" : 801,
+      "Sigla" : "PT5",
+      "Titolo" : "F.J. Zechlin, Basuliche Gestaltungen Des Architekten Luciano Baldessari Mailland, In \"Bauwelt\", N°41, 10/10/1955",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.810",
+      "Figura" : null
+    },
+    {
+      "ID" : 802,
+      "Sigla" : "PT5",
+      "Titolo" : "François Stahly, Luciano Baldessari, In \"Graphis\", N°61 (Estratto), 1955",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : null,
+      "Figura" : "Fig.1"
+    },
+    {
+      "ID" : 803,
+      "Sigla" : "PT5",
+      "Titolo" : "1855-1955 Centenario Dell'istituto Tecnico Di Rovereto, 1956",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.65",
+      "Figura" : null
+    },
+    {
+      "ID" : 805,
+      "Sigla" : "PT5",
+      "Titolo" : "Agnoldomenico Pica, Storia Della Triennale 1918-1957, Edizioni Del Milione, Milano, 1957",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.32, Tav.Xlviii",
+      "Figura" : null
+    },
+    {
+      "ID" : 806,
+      "Sigla" : "PT5",
+      "Titolo" : "Giulia Veronesi, Luciano Baldessari Architetto, Collana Artisti Trentini, Trento, 1957",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.11, 19,54-57",
+      "Figura" : null
+    },
+    {
+      "ID" : 807,
+      "Sigla" : "PT5",
+      "Titolo" : "Gio Ponti, A Berlino, Nell'hansaviertel, Il Grattacielo Italiano, In \"Domus\", N°332, Luglio 1957",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.2",
+      "Figura" : null
+    },
+    {
+      "ID" : 809,
+      "Sigla" : "PT5",
+      "Titolo" : "Mostra Di Luciano Baldessari Alla Galleria Schettini Di Milano, In \"Domus\", N°335, Ottobre 1957",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.42A",
+      "Figura" : null
+    },
+    {
+      "ID" : 811,
+      "Sigla" : "PT5",
+      "Titolo" : "Carlo Perogalli, Mostra Di Baldessari, In \"Atti Del Collegio Regionale Lombardo Architetti\", N°12, Dicembre 1957",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.30,31",
+      "Figura" : null
+    },
+    {
+      "ID" : 812,
+      "Sigla" : "PT5",
+      "Titolo" : "Luciano Baldessari, Catalogo Della Mostra A Francoforte E Monaco, Saggio Di Giulia Veronesi, 1958",
+      "Tipo" : "altro",
+      "Pagina" : "Pp.3,5,16,17",
+      "Figura" : null
+    },
+    {
+      "ID" : 815,
+      "Sigla" : "PT5",
+      "Titolo" : "Gillo Dorfles, La mostra di Luciano Baldessari in Germania, in \"Domus\", n° 352 (estratto), marzo 1958",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.30",
+      "Figura" : "Figg.8-11"
+    },
+    {
+      "ID" : 816,
+      "Sigla" : "PT5",
+      "Titolo" : "Giulia Veronesi, Luciano Baldessari Architetto, In \"Edilizia Moderna\", N°63, Aprile 1958",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.88",
+      "Figura" : null
+    },
+    {
+      "ID" : 820,
+      "Sigla" : "PT5",
+      "Titolo" : "Conferenza a Monaco su Baldessari Architetto, in \"Atti del Collegio Regionale Lombardo degli Architetti\", n° 3, marzo 1959",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.15",
+      "Figura" : null
+    },
+    {
+      "ID" : 821,
+      "Sigla" : "PT5",
+      "Titolo" : "Giulio De Carli, Luciano Baldessari, In \"L'adige\", 30/12/1959",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 822,
+      "Sigla" : "PT5",
+      "Titolo" : "Italo Cinti, Luciano Baldessari, Architetto Integrale, In \"Economia Trentina\", N°5-6, 1959",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.11,12,20",
+      "Figura" : null
+    },
+    {
+      "ID" : 823,
+      "Sigla" : "PT5",
+      "Titolo" : "Agnoldomenico Pica, il \"Gruppo 7\" e la polemica razionalista, in La Casa. Quaderni di architettura e critica n° 6 (diretti da Pio Montesi), De Luca Editore, Roma, 1960",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.154,158",
+      "Figura" : null
+    },
+    {
+      "ID" : 826,
+      "Sigla" : "PT5",
+      "Titolo" : "Giulia Veronesi, La Torre Di Berlino E L'opera Dell'architetto Luciano Baldessari, In \"L'architettura Cronache E Storia\", N°58 (Estratto), Agosto 1960",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.233,234",
+      "Figura" : null
+    },
+    {
+      "ID" : 827,
+      "Sigla" : "PT5",
+      "Titolo" : "Luciano Baldessari, in \"Aujourd'hui\", n° 31, maggio 1961",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.80",
+      "Figura" : null
+    },
+    {
+      "ID" : 828,
+      "Sigla" : "PT5",
+      "Titolo" : "Italo Cinti, Luciano Baldessari Architetto, Tamari, Bologna, 1963",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.22-24,29,30,50,54",
+      "Figura" : "Figg. 6-8"
+    },
+    {
+      "ID" : 829,
+      "Sigla" : "PT5",
+      "Titolo" : "S.B., Baldessari Luciano, In \"Le Muse\", N°23, 28/3/1964",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.2",
+      "Figura" : null
+    },
+    {
+      "ID" : 830,
+      "Sigla" : "PT5",
+      "Titolo" : "Giulia Veronesi, L'architettura Moderna In Italia - La Polemica Del \"Razionalismo\", In \"Il Nostro Mondo\",  31/3/1964",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 831,
+      "Sigla" : "PT5",
+      "Titolo" : "Guido Ballo, Designers Italiani (2), In \"Idealstandard\", Settembre-Novembre 1964",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.38,40",
+      "Figura" : null
+    },
+    {
+      "ID" : 832,
+      "Sigla" : "PT5",
+      "Titolo" : "Agnoldomenico Pica, Storia Della Triennale 1918-1957, In \"Atti Del Collegio Regionale Lombardo Degli Architetti\", N°11-12, Dicembre 1964",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.21",
+      "Figura" : null
+    },
+    {
+      "ID" : 835,
+      "Sigla" : "PT5",
+      "Titolo" : "Garibaldo Marussi, Sironi, In \"Le Arti\", N°7-8, Luglio/Agosto 1965",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.8",
+      "Figura" : null
+    },
+    {
+      "ID" : 836,
+      "Sigla" : "PT5",
+      "Titolo" : "Carlo Melograni, Passato E Presente Nell'architettura Italiana Contemporanea (1926-1945), In \"Rassegna Dell'istituto Di Architettura E Urbanistica\", Aprile-Agosto 1969",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.14",
+      "Figura" : null
+    },
+    {
+      "ID" : 837,
+      "Sigla" : "PT5",
+      "Titolo" : "Mia Cinotti, Razionalismo di Baldessari, in \"Le arti\", n° 10, ottobre 1969",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.32",
+      "Figura" : null
+    },
+    {
+      "ID" : 838,
+      "Sigla" : "PT5",
+      "Titolo" : "Enrico D. Bona, Baldessari testimone e protagonista, in \"Casabella\", n° 342 (estratto), novembre 1969",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : null,
+      "Figura" : "Figg.11,12"
+    },
+    {
+      "ID" : 840,
+      "Sigla" : "PT5",
+      "Titolo" : "Raffaello Giolli, L'architettura Razionale, A Cura Di Cesare De Seta, Laterza, Bari, 1972",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.184,186, Tavv.Xix,Xx",
+      "Figura" : "Fig.44"
+    },
+    {
+      "ID" : 841,
+      "Sigla" : "PT5",
+      "Titolo" : "Galleria San Fedele, Gli astrattisti del \"Gruppo Como\" dagli Anni Trenta ad oggi. Radice, Rho, Badiali, Galli, Prina, catalogo della mostra, Hoepli, Milano, 1972",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.24",
+      "Figura" : null
+    },
+    {
+      "ID" : 842,
+      "Sigla" : "PT5",
+      "Titolo" : "Grande Enciclopedia, Istituto Geografico De Agostini Novara, Novara, 1972",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.206",
+      "Figura" : null
+    },
+    {
+      "ID" : 843,
+      "Sigla" : "PT5",
+      "Titolo" : "Cesare De Seta, Milano '70/'70, Un Secolo D'arte..., In \"Opera Cit.\", Settembre 1972",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.114",
+      "Figura" : null
+    },
+    {
+      "ID" : 844,
+      "Sigla" : "PT5",
+      "Titolo" : "Michele Cennamo (A Cura Di), Materiali Per L'analisi Dell'architettura Moderna - 1A. Esposizione Italiana Di Architettura Razionale, Fausto Fiorentino Editore, Napoli, 1973",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.226",
+      "Figura" : null
+    },
+    {
+      "ID" : 845,
+      "Sigla" : "PT5",
+      "Titolo" : "Carlo Dradi, Millenovecentotrentatre: Nasce A Milano La Grafica Moderna, Comune Di Milano, 1973",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.12",
+      "Figura" : null
+    },
+    {
+      "ID" : 846,
+      "Sigla" : "PT5",
+      "Titolo" : "Agnoldomenico Pica, I Cinquant'anni Della Triennale 1923-1973 - Mostra Storica, In Piero Giangaspro (A Cura Di), Quindicesima Triennale, Catalogo Dell'esposizione, Centro Di, Firenze, 1973",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.75",
+      "Figura" : null
+    },
+    {
+      "ID" : 847,
+      "Sigla" : "PT5",
+      "Titolo" : "Enciclopedia Dell'arte Garzanti, Voce \"Baldessari Luciano\", Garzanti, Milano, 1973",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.38",
+      "Figura" : null
+    },
+    {
+      "ID" : 848,
+      "Sigla" : "PT5",
+      "Titolo" : "Mario Monteverdi, La Cultura Architettonica Tra Le Due Guerre, In \"Socialità\", Maggio 1973",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.5",
+      "Figura" : null
+    },
+    {
+      "ID" : 849,
+      "Sigla" : "PT5",
+      "Titolo" : "Cinquant'anni Di Contributi Dei Trentini Alla \"Triennale\", In \"L'adige\", 23/9/1973",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 850,
+      "Sigla" : "PT5",
+      "Titolo" : "Giovanni Cagnoni, Baldessari o il rapporto estetica-socialità, in \"Immagine Technika\", n° 12, 1975",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.24",
+      "Figura" : null
+    },
+    {
+      "ID" : 852,
+      "Sigla" : "PT5",
+      "Titolo" : "Silvia Danesi, Luciano Patetta (A Cura Di), Il Razionalismo E L'architettura In Italia Durante Il Fascismo, Edizioni La Biennale Di Venezia, Milano, 1976",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.87",
+      "Figura" : null
+    },
+    {
+      "ID" : 854,
+      "Sigla" : "PT5",
+      "Titolo" : "Giuseppe Pagano, Architettura E Città Durante Il Fascismo, A Cura Di Cesare De Seta, Laterza, Bari, 1976",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.Xlviii",
+      "Figura" : null
+    },
+    {
+      "ID" : 856,
+      "Sigla" : "PT5",
+      "Titolo" : "Giandomenico Romanelli, Architetto? Faccia Come Se Fosse A Casa Sua, In \"D'ars\", N°81-82, Febbraio 1976",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.40",
+      "Figura" : "Fig.53"
+    },
+    {
+      "ID" : 857,
+      "Sigla" : "PT5",
+      "Titolo" : "Pier Carlo Santini, Ombre E Luci Dell'attuale Rassegna Veneziana, In \"Ottagono\", N°43, Dicembre 1976",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.26,27",
+      "Figura" : null
+    },
+    {
+      "ID" : 860,
+      "Sigla" : "PT5",
+      "Titolo" : "Anty Pansera, Storia E Cronaca Della Triennale, Longanesi, Milano, 1978",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.260,261,266,291",
+      "Figura" : null
+    },
+    {
+      "ID" : 861,
+      "Sigla" : "PT5",
+      "Titolo" : "Intervista Di Luciano Baldessari Alla Radio Svizzera, Dattiloscritto, Interventi Di Giancarlo De Carlo, Agnoldomenico Pica E Vittorio Fagone, 1978",
+      "Tipo" : null,
+      "Pagina" : "Pp.3-4",
+      "Figura" : null
+    },
+    {
+      "ID" : 862,
+      "Sigla" : "PT5",
+      "Titolo" : "Luciano Baldessari, in \"Controspazio\", n° 2-3 (numero monografico), marzo-giugno 1978",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.20-21",
+      "Figura" : null
+    },
+    {
+      "ID" : 863,
+      "Sigla" : "PT5",
+      "Titolo" : "Aa. Vv., 1928-1978 \"Casabella\" E Cinquant'anni Di Architettura - Gli Anni '28-'33 \"Novecento\" E Razionalismo, In \"Casabella\", Ottobre-Novembre 1978",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : null,
+      "Figura" : "Fig.34"
+    },
+    {
+      "ID" : 864,
+      "Sigla" : "PT5",
+      "Titolo" : "Lorenzo Berni, Architettura - I Disegni Di Luciano Baldessari 1915/1972.., In \"Panorama\", 19/12/1978",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.30",
+      "Figura" : null
+    },
+    {
+      "ID" : 867,
+      "Sigla" : "PT5",
+      "Titolo" : "Mario Radice, Memorie Del Primo Astrattismo Italiano Degli Anni '30 E '40, Edizioni Pantarei, Lugano, 1979",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.36",
+      "Figura" : null
+    },
+    {
+      "ID" : 868,
+      "Sigla" : "PT5",
+      "Titolo" : "Paolo Farina, Luciano Baldessari, In \"Il Giornale Della Lombardia\", N°8, Gennaio 1979",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.48",
+      "Figura" : null
+    },
+    {
+      "ID" : 869,
+      "Sigla" : "PT5",
+      "Titolo" : "Alessandro Mendini, Cento Progetti Da Ricordare: I Risultati Del Referendum Di Modo, In \"Modo\", N°25, Dicembre 1979",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.47-48",
+      "Figura" : null
+    },
+    {
+      "ID" : 870,
+      "Sigla" : "PT5",
+      "Titolo" : "Ettore Camesasca (A Cura Di), Mario Sironi - Scritti Editi E Inediti, Feltrinelli, Milano, 1980",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.279",
+      "Figura" : null
+    },
+    {
+      "ID" : 871,
+      "Sigla" : "PT5",
+      "Titolo" : "Enrico Crispolti (A Cura Di), Ricostruzione Futurista Dell'universo, Catalogo Della Mostra, Museo Civico Di Torino, 1980",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.521",
+      "Figura" : null
+    },
+    {
+      "ID" : 872,
+      "Sigla" : "PT5",
+      "Titolo" : "Raffaele De Grada, Jenni - Jenni Wiegmann Mucchi, Vangelista, Milano, 1980",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.41",
+      "Figura" : null
+    },
+    {
+      "ID" : 873,
+      "Sigla" : "PT5",
+      "Titolo" : "Maria Grazia Folli, Danilo Samsa (A Cura Di), Milano, Parco Sempione - Spazio Pubblico, Progetto Architettura 1796-1980, Catalogo Della Mostra, Clup, Milano, 1980",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.124",
+      "Figura" : "Figg.29-32"
+    },
+    {
+      "ID" : 874,
+      "Sigla" : "PT5",
+      "Titolo" : "Anni Creativi Al \"Milione\" 1932-1939, Catalogo Della Mostra, Silvana Editoriale, Milano, 1980",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.110",
+      "Figura" : null
+    },
+    {
+      "ID" : 875,
+      "Sigla" : "PT5",
+      "Titolo" : "Werner Blaser, Il Design Di Alvar Aalto, Electa, Milano, 1981",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.35",
+      "Figura" : "Figg.37-38"
+    },
+    {
+      "ID" : 876,
+      "Sigla" : "PT5",
+      "Titolo" : "Cesare De Seta, L'architettura Del Novecento, Utet, Torino, 1981",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.76-77,277",
+      "Figura" : null
+    },
+    {
+      "ID" : 877,
+      "Sigla" : "PT5",
+      "Titolo" : "Mario Cossali, Appartengo alla libertà, in \"Il Leno\", n° 1, gennaio 1981",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.38",
+      "Figura" : null
+    },
+    {
+      "ID" : 878,
+      "Sigla" : "PT5",
+      "Titolo" : "Cecilia De Carli, Luciano Baldessari architetto artista, in \"Città e Società\", n° 2, aprile-giugno 1981",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.90",
+      "Figura" : null
+    },
+    {
+      "ID" : 879,
+      "Sigla" : "PT5",
+      "Titolo" : "Franco Raggi, La Vita È Un Magnifico Incidente - Colloquio Con Luciano Baldessari.., In \"Modo\", N°40, Giugno 1981",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.18-19",
+      "Figura" : null
+    },
+    {
+      "ID" : 880,
+      "Sigla" : "PT5",
+      "Titolo" : "Aa.Vv., Gli Anni Trenta, Arte E Cultura In Italia, Catalogo Della Mostra, Mazzotta, Milano, 1982",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.226,313,318,544, 643",
+      "Figura" : null
+    },
+    {
+      "ID" : 881,
+      "Sigla" : "PT5",
+      "Titolo" : "Ezio Bonfanti, Scritti Di Architettura, Clup, Milano, 1982",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.369",
+      "Figura" : null
+    },
+    {
+      "ID" : 882,
+      "Sigla" : "PT5",
+      "Titolo" : "Carlo De Carli, Architettura Spazio Primario, Hoepli, Milano, 1982",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.176-177, 758",
+      "Figura" : null
+    },
+    {
+      "ID" : 883,
+      "Sigla" : "PT5",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.7,18,63-64",
+      "Figura" : "Figg.61-67"
+    },
+    {
+      "ID" : 885,
+      "Sigla" : "PT5",
+      "Titolo" : "Ivan Chiappa, I Progetti Di Luciano Baldessari E I Saggi Futuristici Di Depero, In \"Alto Adige\", 8/3/1982",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 887,
+      "Sigla" : "PT5",
+      "Titolo" : "Giacomo Polin, Un libro su Luciano Baldessari. Il celibato degli schizzi, in \"Casabella\", n° 481, giugno 1982",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.28",
+      "Figura" : null
+    },
+    {
+      "ID" : 892,
+      "Sigla" : "PT5",
+      "Titolo" : "Cesare De Seta, Baldessari, L'effimero Rigore, In \"Il Mattino\", 3/10/1982",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 893,
+      "Sigla" : "PT5",
+      "Titolo" : "J. Glancey, Baldessari, in \"The architectural review\", n° 1028, ottobre 1982",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.79",
+      "Figura" : "Figg.8-11"
+    },
+    {
+      "ID" : 894,
+      "Sigla" : "PT5",
+      "Titolo" : "Giacomo Polin, E' morto Luciano Baldessari il più europeo degli architetti italiani, in \"Prospettiva d'Arte\", n° 57, novembre-dicembre 1982",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.38-39",
+      "Figura" : null
+    },
+    {
+      "ID" : 895,
+      "Sigla" : "PT5",
+      "Titolo" : "Michelangelo Lupo, Giovanni Marzari (A Cura Di), Istituto Di Credito Fondiario Della Regione Trentino Alto Adige, Bi Quattro, Rovereto, 1983",
+      "Tipo" : "altro",
+      "Pagina" : "P.16",
+      "Figura" : null
+    },
+    {
+      "ID" : 896,
+      "Sigla" : "PT5",
+      "Titolo" : "Aa.Vv., La Lombardia E Le Sue Grandi Stagioni - Dall'umanesimo All'età Contemporanea, Jaca Book, Milano, 1985",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.140",
+      "Figura" : "Figg.20-21"
+    },
+    {
+      "ID" : 897,
+      "Sigla" : "PT5",
+      "Titolo" : "Dario Marchesoni (A Cura Di), La Triennale Di Milano E Il Palazzo Dell'arte, Electa, Milano, 1985",
+      "Tipo" : "saggio in volume",
+      "Pagina" : null,
+      "Figura" : "Figg.15,17,Cop."
+    },
+    {
+      "ID" : 898,
+      "Sigla" : "PT5",
+      "Titolo" : "Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.19,20,25,28",
+      "Figura" : "Fig.44"
+    },
+    {
+      "ID" : 901,
+      "Sigla" : "PT5",
+      "Titolo" : "Riccardo Mariani, Baldessari E La Bella Addormentata, In \"Il Giornale\", 2/6/1985",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.11",
+      "Figura" : null
+    },
+    {
+      "ID" : 902,
+      "Sigla" : "PT5",
+      "Titolo" : "Rossana Bossaglia, L'architetto Che Coltivò L'effimero, In \"Corriere Della Sera\", 24/6/1985",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 908,
+      "Sigla" : "PT5",
+      "Titolo" : "Mariapia Matteotti, Luciano Baldessari, in \"Ufficiostile\", n° 4, aprile 1986",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.41,43",
+      "Figura" : null
+    },
+    {
+      "ID" : 909,
+      "Sigla" : "PT5",
+      "Titolo" : "Luciano Caramel, Enrico Crispolti, Veit loers, italiens moderne - vanguardia italiana de entreguerras, cataloghi della mostra, Mazzotta, Milano, 1990",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.252,267,353,390",
+      "Figura" : null
+    },
+    {
+      "ID" : 910,
+      "Sigla" : "PT5",
+      "Titolo" : "Sebastiano Grasso, Lucio Fontana, Furto D'autore, In \"Corriere Della Sera\", 11/9/1993",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 911,
+      "Sigla" : "PT5",
+      "Titolo" : "Archivio Cesare Andreoni (A Cura Di), Cesare Andreoni E Il Futurismo A Milano Tra Le Due Guerre, Catalogo Della Mostra, Bolis, Bergamo, 1993",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.208",
+      "Figura" : null
+    },
+    {
+      "ID" : 912,
+      "Sigla" : "PT5",
+      "Titolo" : "Aa.Vv., Espressione Oggettività - Aspetti Dell'arte Negli Anni Venti E Trenta, Tirolo, Alto Adige, Trentino, Catalogo Della Mostra, Herausgeber, Innsbruck, 1994",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.128",
+      "Figura" : null
+    },
+    {
+      "ID" : 913,
+      "Sigla" : "PT5",
+      "Titolo" : "Ivan Klima, Die Gunst Des Zuschauers, In Jan Tabor (A Cura Di), Kunst Und Diktatur, Catalogo Della Mostra, Grasl, Baden, 1994",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.377",
+      "Figura" : null
+    },
+    {
+      "ID" : 914,
+      "Sigla" : "PT5",
+      "Titolo" : "Giuseppe Appella (A Cura Di), Umberto Milani, Catalogo Della Mostra, Edizioni Della Cometa, Roma, 1996",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.92",
+      "Figura" : null
+    },
+    {
+      "ID" : 915,
+      "Sigla" : "PV",
+      "Titolo" : "Il Padiglione Vesta, In \"Casabella\", Agosto-Settembre 1933",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.13",
+      "Figura" : null
+    },
+    {
+      "ID" : 916,
+      "Sigla" : "PV",
+      "Titolo" : "Raffaello Giolli, Architetti italiani - Baldessari, in \"Colosseo\", n° 7, marzo 1934",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.326-327,334",
+      "Figura" : null
+    },
+    {
+      "ID" : 917,
+      "Sigla" : "PV",
+      "Titolo" : "Mario Labò, Architettura E Arredamento Del Negozio, Hoepli, Milano 1936",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.201",
+      "Figura" : null
+    },
+    {
+      "ID" : 918,
+      "Sigla" : "PV",
+      "Titolo" : "Agnoldomenico Pica, Architettura Moderna In Italia, Hoepli, Milano, 1941",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.99",
+      "Figura" : null
+    },
+    {
+      "ID" : 920,
+      "Sigla" : "PV",
+      "Titolo" : "Agnoldomenico Pica, Architettura delle esposizioni, in \"Suggestione Pubblicitaria\", supplemento de \"L'Ufficio Moderno. La pubblicità\", n° 9, 1953",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.129,134",
+      "Figura" : null
+    },
+    {
+      "ID" : 922,
+      "Sigla" : "PV",
+      "Titolo" : "François Stahly, Luciano Baldessari, In \"Graphis\", N°61 (Estratto), 1955",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : null,
+      "Figura" : "Fig.3"
+    },
+    {
+      "ID" : 923,
+      "Sigla" : "PV",
+      "Titolo" : "Giulia Veronesi, Luciano Baldessari Architetto, Collana Artisti Trentini, Trento, 1957",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.19,52-53",
+      "Figura" : null
+    },
+    {
+      "ID" : 924,
+      "Sigla" : "PV",
+      "Titolo" : "Gio Ponti, A Berlino, Nell'hansaviertel, Il Grattacielo Italiano, In \"Domus\", N°332, Luglio 1957",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.2",
+      "Figura" : null
+    },
+    {
+      "ID" : 925,
+      "Sigla" : "PV",
+      "Titolo" : "Carlo Perogalli, Mostra Di Baldessari, In \"Atti Del Collegio Regionale Lombardo Architetti\", N°12, Dicembre 1957",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.31",
+      "Figura" : null
+    },
+    {
+      "ID" : 927,
+      "Sigla" : "PV",
+      "Titolo" : "Italo Cinti, Luciano Baldessari, Architetto Integrale, In \"Economia Trentina\", N°5-6, 1959",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.9-11",
+      "Figura" : null
+    },
+    {
+      "ID" : 929,
+      "Sigla" : "PV",
+      "Titolo" : "Giulia Veronesi, La Torre Di Berlino E L'opera Dell'architetto Luciano Baldessari, In \"L'architettura Cronache E Storia\", N°58 (Estratto), Agosto 1960",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.232,233",
+      "Figura" : null
+    },
+    {
+      "ID" : 930,
+      "Sigla" : "PV",
+      "Titolo" : "Italo Cinti, Luciano Baldessari Architetto, Tamari, Bologna, 1963",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.23-29",
+      "Figura" : null
+    },
+    {
+      "ID" : 931,
+      "Sigla" : "PV",
+      "Titolo" : "Guido Ballo, Designers Italiani (2), In \"Idealstandard\", Settembre-Novembre 1964",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.38,40",
+      "Figura" : null
+    },
+    {
+      "ID" : 932,
+      "Sigla" : "PV",
+      "Titolo" : "Enrico D. Bona, Baldessari testimone e protagonista, in \"Casabella\", n° 342 (estratto), novembre 1969",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.9,13",
+      "Figura" : null
+    },
+    {
+      "ID" : 934,
+      "Sigla" : "PV",
+      "Titolo" : "Raffaello Giolli, L'architettura Razionale, A Cura Di Cesare De Seta, Laterza, Bari, 1972",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.184,186",
+      "Figura" : "Fig.43"
+    },
+    {
+      "ID" : 937,
+      "Sigla" : "PV",
+      "Titolo" : "Luciano Baldessari, in \"Controspazio\", n° 2-3 (numero monografico), marzo-giugno 1978",
+      "Tipo" : "monografia",
+      "Pagina" : "P.19",
+      "Figura" : null
+    },
+    {
+      "ID" : 938,
+      "Sigla" : "PV",
+      "Titolo" : "Franco Raggi, La Vita È Un Magnifico Incidente - Colloquio Con Luciano Baldessari.., In \"Modo\", N°40, Giugno 1981",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.19",
+      "Figura" : null
+    },
+    {
+      "ID" : 939,
+      "Sigla" : "PV",
+      "Titolo" : "Aa.Vv., Gli Anni Trenta, Arte E Cultura In Italia, Catalogo Della Mostra, Mazzotta, Milano, 1982",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.226,544",
+      "Figura" : null
+    },
+    {
+      "ID" : 940,
+      "Sigla" : "PV",
+      "Titolo" : "Carlo De Carli, Architettura Spazio Primario, Hoepli, Milano, 1982",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.176",
+      "Figura" : null
+    },
+    {
+      "ID" : 941,
+      "Sigla" : "PV",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : "P.70",
+      "Figura" : "Figg.74-77"
+    },
+    {
+      "ID" : 942,
+      "Sigla" : "PV",
+      "Titolo" : "Alessandra Quattordio, L'eredità Del Futurismo Nell'opera Di Luciano Baldessari, In \"La Martinella\", Fasc. Vii-Viii, Luglio-Agosto 1982",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.148",
+      "Figura" : null
+    },
+    {
+      "ID" : 944,
+      "Sigla" : "PV",
+      "Titolo" : "J. Glancey, Baldessari, in \"The architectural review\", n° 1028, ottobre 1982",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : null,
+      "Figura" : "Fig.12"
+    },
+    {
+      "ID" : 945,
+      "Sigla" : "PV",
+      "Titolo" : "Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.19,25",
+      "Figura" : null
+    },
+    {
+      "ID" : 952,
+      "Sigla" : "PD",
+      "Titolo" : "Bruno Moretti, Baldessari O Della Versatilità, In \"Rassegna D'architettura\", N°4, Aprile 1940",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.103",
+      "Figura" : null
+    },
+    {
+      "ID" : 1169,
+      "Sigla" : "PS",
+      "Titolo" : "M.G. Franci, Fiera di ieri oggi e domani, in \"Fiera di Milano - Rassegna dell'Ente Autonomo Fiera\", settembre 1953",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.30,32",
+      "Figura" : null
+    },
+    {
+      "ID" : 1170,
+      "Sigla" : "PS",
+      "Titolo" : "La Siderurgica Commerciale Italiana, In \"Fiera Di Milano - Rassegna Dell'ente Autonomo Fiera\", Settembre 1953",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.17",
+      "Figura" : null
+    },
+    {
+      "ID" : 1171,
+      "Sigla" : "PS",
+      "Titolo" : "Mostre Speciali, In \"Fiera Di Milano - Rassegna Dell'ente Autonomo Fiera\", Settembre 1953",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.138,207",
+      "Figura" : null
+    },
+    {
+      "ID" : 1172,
+      "Sigla" : "PS",
+      "Titolo" : "Diego Boca, Scale Di Ferro, Scale Di Legno, In \"Architettura-Cantiere\", N°3, 1953",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.32-33",
+      "Figura" : null
+    },
+    {
+      "ID" : 1173,
+      "Sigla" : "PS",
+      "Titolo" : "Agnoldomenico Pica, Architettura delle esposizioni, in \"Suggestione Pubblicitaria\", supplemento de \"L'Ufficio Moderno. La pubblicità\", n° 9, 1953",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.136",
+      "Figura" : null
+    },
+    {
+      "ID" : 1174,
+      "Sigla" : "PS",
+      "Titolo" : "Karl Augustinus Bieber, Präsentation... re-präsentation..., in \"Die innenarchitektur\", n °12, giugno 1954",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.10-11",
+      "Figura" : null
+    },
+    {
+      "ID" : 1175,
+      "Sigla" : "PS",
+      "Titolo" : "Vittoriano Viganò, 33Ème Foire De Milan, In \"Aujourd'hui\", N°3, Maggio-Giugno 1955",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.86",
+      "Figura" : null
+    },
+    {
+      "ID" : 1177,
+      "Sigla" : "PS",
+      "Titolo" : "Agnoldomenico Pica, Architettura pubblicitaria per la Sidercomit alla Fiera di Milano, in \"Architettura Cantiere\", n° 7, maggio-giugno 1955",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.5-13",
+      "Figura" : null
+    },
+    {
+      "ID" : 1178,
+      "Sigla" : "PS",
+      "Titolo" : "Roberto Aloi, Esempi Di Decorazione Moderna Di Tutto Il Mondo - Illuminazione Oggi, Hoepli, Milano, 1956",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.56",
+      "Figura" : null
+    },
+    {
+      "ID" : 1179,
+      "Sigla" : "PS",
+      "Titolo" : "Walter Köhler, Leuchtende Plastik - Werbende Architektur, In W. Luckhardt, W. Köhler, Licht Architektur, Bauwelt Verlag, Berlin, 1956",
+      "Tipo" : "altro",
+      "Pagina" : "P.229",
+      "Figura" : null
+    },
+    {
+      "ID" : 1180,
+      "Sigla" : "PS",
+      "Titolo" : "Roberto Aloi, Architetture Per Lo Spettacolo, Hoepli, Milano, 1958",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.477-478,498",
+      "Figura" : null
+    },
+    {
+      "ID" : 1181,
+      "Sigla" : "PS",
+      "Titolo" : "Agnoldomenico Pica, Architettura Italiana Ultima, Edizioni Del Milione, Milano, 1959",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.Xxxviii",
+      "Figura" : null
+    },
+    {
+      "ID" : 1182,
+      "Sigla" : "PS",
+      "Titolo" : "Italo Cinti, Luciano Baldessari Architetto, Tamari, Bologna, 1963",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.44",
+      "Figura" : null
+    },
+    {
+      "ID" : 1183,
+      "Sigla" : "PS",
+      "Titolo" : "Karl Augustinus Bieber, Licht Als Raumbilden Des Element, Gennaio 1967",
+      "Tipo" : "altro",
+      "Pagina" : "Pp.8,9",
+      "Figura" : null
+    },
+    {
+      "ID" : 1185,
+      "Sigla" : "PS",
+      "Titolo" : "Centrokappa (A Cura Di), Il Design Italiano Degli Anni '50, Editoriale Domus, Milano, 1980",
+      "Tipo" : "saggio in volume",
+      "Pagina" : null,
+      "Figura" : "Fig.546"
+    },
+    {
+      "ID" : 1186,
+      "Sigla" : "PS",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.21,132",
+      "Figura" : "Figg.182-185"
+    },
+    {
+      "ID" : 1187,
+      "Sigla" : "PS",
+      "Titolo" : "Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : null,
+      "Figura" : "Fig.92-94"
+    },
+    {
+      "ID" : 1189,
+      "Sigla" : "PS",
+      "Titolo" : "Aa.Vv., Lucio Fontana E Milano, Catalogo Della Mostra, Electa, Milano, 1996",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp. 64-66,150",
+      "Figura" : null
+    },
+    {
+      "ID" : 1190,
+      "Sigla" : "PS",
+      "Titolo" : "Luciano Caramel (A Cura Di), Attilio Rossi, Le Opere 1933-1994, Giunti, Milano, 1996",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.173,206",
+      "Figura" : null
+    },
+    {
+      "ID" : 1197,
+      "Sigla" : "PTP",
+      "Titolo" : "E.D. Bona, Baldessari testimone e protagonista, in \"Casabella\", n° 342, novembre 1969",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : null,
+      "Figura" : "Figg.30-31"
+    },
+    {
+      "ID" : 1198,
+      "Sigla" : "PTP",
+      "Titolo" : "Zita Mosca (A Cura Di), Il Disegno Di Luciano Baldessari 1915-1972, Catalogo Della Mostra, Presentazione Di Anna Maria Brizio, Fondazione Corrente, Milano, 1978",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.11, Tav.Xvii",
+      "Figura" : null
+    },
+    {
+      "ID" : 1199,
+      "Sigla" : "PTP",
+      "Titolo" : "Daniele Baroni, Le architetture semipermanenti di Luciano Baldessari, in \"Ottagono\", n° 51,  dicembre 1978",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : null,
+      "Figura" : "Fig.19"
+    },
+    {
+      "ID" : 1200,
+      "Sigla" : "PTP",
+      "Titolo" : "Luciano Baldessari, in \"Controspazio\", n° 2-3 (numero monografico), marzo-giugno 1978",
+      "Tipo" : "monografia",
+      "Pagina" : "P.60",
+      "Figura" : null
+    },
+    {
+      "ID" : 1201,
+      "Sigla" : "PTP",
+      "Titolo" : "Cecilia De Carli, Luciano Baldessari architetto artista, in \"Città e Società\", n° 2, aprile-giugno 1981",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.88",
+      "Figura" : null
+    },
+    {
+      "ID" : 1202,
+      "Sigla" : "PTP",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.22,162",
+      "Figura" : "Figg.238-242"
+    },
+    {
+      "ID" : 1203,
+      "Sigla" : "PTP",
+      "Titolo" : "Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.19,25",
+      "Figura" : "Fig.104"
+    },
+    {
+      "ID" : 1204,
+      "Sigla" : "PTP",
+      "Titolo" : "Mariapia Matteotti, Luciano Baldessari, in \"Ufficiostile\", n° 4, aprile 1986",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.44",
+      "Figura" : null
+    },
+    {
+      "ID" : 1205,
+      "Sigla" : "PTP",
+      "Titolo" : "Aa.Vv., Lucio Fontana E Milano, Catalogo Della Mostra, Electa, Milano, 1996",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.69",
+      "Figura" : null
+    },
+    {
+      "ID" : 1206,
+      "Sigla" : "PVE",
+      "Titolo" : "Italo Cinti, Luciano Baldessari Architetto, Tamari, Bologna, 1963",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.41",
+      "Figura" : "Fig.23"
+    },
+    {
+      "ID" : 1207,
+      "Sigla" : "PVE",
+      "Titolo" : "Zita Mosca (A Cura Di), Il Disegno Di Luciano Baldessari 1915-1972, Catalogo Della Mostra, Presentazione Di Anna Maria Brizio, Fondazione Corrente, Milano, 1978",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.13,14, Tav.Xvi",
+      "Figura" : null
+    },
+    {
+      "ID" : 1208,
+      "Sigla" : "PVE",
+      "Titolo" : "Luciano Baldessari, in \"Controspazio\", n° 2-3 (numero monografico), marzo-giugno 1978",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.58-59",
+      "Figura" : null
+    },
+    {
+      "ID" : 1209,
+      "Sigla" : "PVE",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.22,158",
+      "Figura" : "Figg.233-235"
+    },
+    {
+      "ID" : 1210,
+      "Sigla" : "PVE",
+      "Titolo" : "Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : null,
+      "Figura" : "Fig.103"
+    },
+    {
+      "ID" : 1213,
+      "Sigla" : "PVE",
+      "Titolo" : "Mariapia Matteotti, Luciano Baldessari, in \"Ufficiostile\", n° 4, aprile 1986",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.44",
+      "Figura" : null
+    },
+    {
+      "ID" : 1228,
+      "Sigla" : "PIT",
+      "Titolo" : "Enrico D. Bona, Baldessari testimone e protagonista, in \"Casabella\", n° 342 (estratto), novembre 1969",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : null,
+      "Figura" : "Figg.34-38"
+    },
+    {
+      "ID" : 1229,
+      "Sigla" : "PIT",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : "P.186",
+      "Figura" : "Figg.285-287"
+    },
+    {
+      "ID" : 1230,
+      "Sigla" : "PIT",
+      "Titolo" : "Michelangelo Lupo, Giovanni Marzari (A Cura Di), Istituto Di Credito Fondiario Della Regione Trentino Alto Adige, Bi Quattro Editrice, Rovereto, 1983",
+      "Tipo" : "altro",
+      "Pagina" : "Pp.16,17",
+      "Figura" : null
+    },
+    {
+      "ID" : 1231,
+      "Sigla" : "PIT",
+      "Titolo" : "Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : null,
+      "Figura" : "Figg.125-126"
+    },
+    {
+      "ID" : 1232,
+      "Sigla" : "PIT",
+      "Titolo" : "Giorgio Mascherpa, Luciano Baldessari, In \"Avvenire\", 4/7/1985",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.13",
+      "Figura" : null
+    },
+    {
+      "ID" : 1421,
+      "Sigla" : "ICV",
+      "Titolo" : "Raffaello Giolli, Architetti italiani - Baldessari, in \"Colosseo\", n° 7, marzo 1934",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.326",
+      "Figura" : null
+    },
+    {
+      "ID" : 1422,
+      "Sigla" : "ICV",
+      "Titolo" : "Mario Labò, Architettura E Arredamento Del Negozio, Hoepli, Milano 1936",
+      "Tipo" : "saggio in volume",
+      "Pagina" : null,
+      "Figura" : "Tavv.93-94"
+    },
+    {
+      "ID" : 1423,
+      "Sigla" : "ICV",
+      "Titolo" : "Giulia Veronesi, Luciano Baldessari Architetto, Collana Artisti Trentini, Trento, 1957",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.44-45",
+      "Figura" : null
+    },
+    {
+      "ID" : 1425,
+      "Sigla" : "ICV",
+      "Titolo" : "Guido Ballo, Designers Italiani (2), In \"Idealstandard\", Settembre-Novembre 1964",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.38",
+      "Figura" : null
+    },
+    {
+      "ID" : 1426,
+      "Sigla" : "ICV",
+      "Titolo" : "Mia Cinotti, Razionalismo di Baldessari, in \"Le arti\", n° 10, ottobre 1969",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.31",
+      "Figura" : null
+    },
+    {
+      "ID" : 1429,
+      "Sigla" : "ICV",
+      "Titolo" : "Raffaello Giolli, L'architettura Razionale, A Cura Di Cesare De Seta, Laterza, Bari, 1972",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.184",
+      "Figura" : null
+    },
+    {
+      "ID" : 1430,
+      "Sigla" : "ICV",
+      "Titolo" : "Mario Monteverdi, La Cultura Architettonica Tra Le Due Guerre, In \"Socialità\", Maggio 1973",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.5",
+      "Figura" : null
+    },
+    {
+      "ID" : 1432,
+      "Sigla" : "ICV",
+      "Titolo" : "Cesare De Seta, Intervista A Luciano Baldessari (Trascrizione), Biennale Di Venezia, 9/7/1976",
+      "Tipo" : null,
+      "Pagina" : "P.4",
+      "Figura" : null
+    },
+    {
+      "ID" : 1433,
+      "Sigla" : "ICV",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.17,44",
+      "Figura" : "Figg.29-30"
+    },
+    {
+      "ID" : 1434,
+      "Sigla" : "ICV",
+      "Titolo" : "Anty Pansera, Ricordando Luciano Baldessari Il Più Europeo Degli Architetti Italiani, In \"Prospettiva D'arte\", N°57, Novembre-Dicembre 1982",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.38",
+      "Figura" : null
+    },
+    {
+      "ID" : 1435,
+      "Sigla" : "ICV",
+      "Titolo" : "Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : null,
+      "Figura" : "Fig.21"
+    },
+    {
+      "ID" : 1436,
+      "Sigla" : "ISC",
+      "Titolo" : "M.I.A.R., Architettura Razionale Italiana 1931, In \"La Casa Bella\", N°40, Aprile 1931",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.73",
+      "Figura" : null
+    },
+    {
+      "ID" : 1437,
+      "Sigla" : "ISC",
+      "Titolo" : "Eugenio Giovanetti, Due Arredamenti - 1: Baldessari/Figini/Pollini, In \"La Casa Bella\", N°42, Giugno 1931",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.23-25",
+      "Figura" : null
+    },
+    {
+      "ID" : 1438,
+      "Sigla" : "ISC",
+      "Titolo" : "Raffaello Giolli, Architetti italiani - Baldessari, in \"Colosseo\", n° 7, marzo 1934",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.326",
+      "Figura" : null
+    },
+    {
+      "ID" : 1439,
+      "Sigla" : "ISC",
+      "Titolo" : "Giulia Veronesi, Luciano Baldessari Architetto, Collana Artisti Trentini, Trento, 1957",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.44-45",
+      "Figura" : null
+    },
+    {
+      "ID" : 1440,
+      "Sigla" : "ISC",
+      "Titolo" : "Luciano Baldessari, Catalogo Della Mostra A Francoforte E Monaco, Saggio Di Giulia Veronesi, 1958",
+      "Tipo" : "altro",
+      "Pagina" : "P.20",
+      "Figura" : null
+    },
+    {
+      "ID" : 1441,
+      "Sigla" : "ISC",
+      "Titolo" : "Raffaello Giolli, L'architettura Razionale, A Cura Di Cesare De Seta, Laterza, Bari, 1972",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.184",
+      "Figura" : null
+    },
+    {
+      "ID" : 1442,
+      "Sigla" : "ISC",
+      "Titolo" : "Daniele Baroni, Torna lo stile Novecento, in \"La rivista dell'arredamento\", n° 268, maggio 1977",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : null,
+      "Figura" : "Fig.48"
+    },
+    {
+      "ID" : 1444,
+      "Sigla" : "ISC",
+      "Titolo" : "Aa.Vv., Gli Anni Trenta, Arte E Cultura In Italia, Catalogo Della Mostra, Mazzotta, Milano, 1982",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.544",
+      "Figura" : null
+    },
+    {
+      "ID" : 1447,
+      "Sigla" : "ISC",
+      "Titolo" : "Luigi Serravalli, L'impeccabile \"irregolare\", in \"Nuova rivista europea\", n° 61, giugno 1985",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.76",
+      "Figura" : null
+    },
+    {
+      "ID" : 1448,
+      "Sigla" : "ISC",
+      "Titolo" : "M. Cristina Tonelli Michail, Il Design In Italia 1925-43, Laterza, Bari, 1987",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.38,39,135",
+      "Figura" : null
+    },
+    {
+      "ID" : 1449,
+      "Sigla" : "ISC",
+      "Titolo" : "Giacomo Polin, Gli Interni Di Figini E Pollini Come Paesaggio Artificiale, In \"Rassegna\", N°31, Settembre 1987",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : null,
+      "Figura" : "Figg.14-17"
+    },
+    {
+      "ID" : 1450,
+      "Sigla" : "ISC",
+      "Titolo" : "Franco Raggi, Piccole Architetture Mobili, In \"Rassegna\", N°31, Settembre 1987",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.63",
+      "Figura" : null
+    },
+    {
+      "ID" : 1451,
+      "Sigla" : "ISC",
+      "Titolo" : "Marcello Nizzoli, Introduzione Di Arturo Carlo Quintavalle, Electa, Milano, 1989",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.32,35",
+      "Figura" : null
+    },
+    {
+      "ID" : 1452,
+      "Sigla" : "ISM",
+      "Titolo" : "Edoardo Persico, Un Alloggio A Milano, In \"Casabella\", N°4, Aprile 1933",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.30-33",
+      "Figura" : null
+    },
+    {
+      "ID" : 1453,
+      "Sigla" : "ISM",
+      "Titolo" : "Un arredamento di gran classe, in \"Domus\", n° 64, aprile 1933",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.191-193",
+      "Figura" : null
+    },
+    {
+      "ID" : 1454,
+      "Sigla" : "ISM",
+      "Titolo" : "Raffaello Giolli, Architetti italiani - Baldessari, in \"Colosseo\", n° 7, marzo 1934",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.326,328-331",
+      "Figura" : null
+    },
+    {
+      "ID" : 1455,
+      "Sigla" : "ISM",
+      "Titolo" : "Agnoldomenico Pica, Architettura Moderna In Italia, Hoepli, Milano, 1941",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.99",
+      "Figura" : null
+    },
+    {
+      "ID" : 1456,
+      "Sigla" : "ISM",
+      "Titolo" : "Giulia Veronesi (A Cura Di), Luciano Baldessari Architetto, Collana Artisti Trentini, Trento, 1957",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.58-59",
+      "Figura" : null
+    },
+    {
+      "ID" : 1458,
+      "Sigla" : "ISM",
+      "Titolo" : "Raffaello Giolli, L'architettura Razionale, A Cura Di Cesare De Seta, Laterza, Bari, 1972",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.184",
+      "Figura" : null
+    },
+    {
+      "ID" : 1459,
+      "Sigla" : "ISM",
+      "Titolo" : "Daniele Baroni, Torna lo stile Novecento, in \"La rivista dell'arredamento\", n° 268, maggio 1977",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : null,
+      "Figura" : "Fig.47"
+    },
+    {
+      "ID" : 1460,
+      "Sigla" : "ISM",
+      "Titolo" : "Edoardo Persico, Oltre L'architettura - Scritti Scelti E Lettere, Feltrinelli, Milano, 1977",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.91-92",
+      "Figura" : null
+    },
+    {
+      "ID" : 1461,
+      "Sigla" : "ISM",
+      "Titolo" : "Luciano Baldessari, in \"Controspazio\", n° 2-3 (numero monografico), marzo-giugno 1978",
+      "Tipo" : "monografia",
+      "Pagina" : "P.22",
+      "Figura" : null
+    },
+    {
+      "ID" : 1462,
+      "Sigla" : "ISM",
+      "Titolo" : "Ornella Selvafolta, Studi, progetti, modelli e oggetti del razionalismo italiano, in \"Rassegna\", n° 4, ottobre 1980",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.29-32",
+      "Figura" : null
+    },
+    {
+      "ID" : 1463,
+      "Sigla" : "ISM",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.56",
+      "Figura" : "Figg.49-55"
+    },
+    {
+      "ID" : 1464,
+      "Sigla" : "ISM",
+      "Titolo" : "Alessandra Quattordio, L'eredità Del Futurismo Nell'opera Di Luciano Baldessari, In \"La Martinella\", Fasc. Vii-Viii, Luglio-Agosto 1982",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.148",
+      "Figura" : null
+    },
+    {
+      "ID" : 1466,
+      "Sigla" : "ISM",
+      "Titolo" : "Aa.Vv., Gli Anni Trenta, Arte E Cultura In Italia, Catalogo Della Mostra, Mazzotta, Milano, 1982",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.544",
+      "Figura" : null
+    },
+    {
+      "ID" : 1467,
+      "Sigla" : "ISM",
+      "Titolo" : "Michelangelo Lupo, Giovanni Marzari (A Cura Di), Istituto Di Credito Fondiario Della Regione Trentino Alto Adige, Bi Quattro, Rovereto, 1983",
+      "Tipo" : "altro",
+      "Pagina" : "P.16",
+      "Figura" : null
+    },
+    {
+      "ID" : 1468,
+      "Sigla" : "ISM",
+      "Titolo" : "Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : null,
+      "Figura" : "Figg.31-34"
+    },
+    {
+      "ID" : 1470,
+      "Sigla" : "ISM",
+      "Titolo" : "Fulvio Irace (A Cura Di), Italia Anni Trenta: Problematiche Del Razionalismo, In Luciano Caramel (A Cura Di), L'europa Dei Razionalisti, Catalogo Della Mostra, Electa, Milano, 1989",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.248,379",
+      "Figura" : null
+    },
+    {
+      "ID" : 1471,
+      "Sigla" : "ISM",
+      "Titolo" : "Marcello Nizzoli, Introduzione Di Arturo Carlo Quintavalle, Electa, Milano, 1989",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.32,38",
+      "Figura" : null
+    },
+    {
+      "ID" : 1472,
+      "Sigla" : "IBO",
+      "Titolo" : "Giulia Veronesi, Luciano Baldessari Architetto, Collana Artisti Trentini, Trento, 1957",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.58-59",
+      "Figura" : null
+    },
+    {
+      "ID" : 1473,
+      "Sigla" : "IBO",
+      "Titolo" : "Luciano Baldessari, in \"Controspazio\", n° 2-3 (numero monografico), marzo-giugno 1978",
+      "Tipo" : "monografia",
+      "Pagina" : "P.23",
+      "Figura" : null
+    },
+    {
+      "ID" : 1474,
+      "Sigla" : "IBO",
+      "Titolo" : "Aa.Vv., Gli Anni Trenta, Arte E Cultura In Italia, Catalogo Della Mostra, Mazzotta, Milano, 1982",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.544,639",
+      "Figura" : null
+    },
+    {
+      "ID" : 1475,
+      "Sigla" : "IBO",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.17,67",
+      "Figura" : "Figg.69-70"
+    },
+    {
+      "ID" : 1476,
+      "Sigla" : "IBO",
+      "Titolo" : "Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : null,
+      "Figura" : "Figg.41-42,45"
+    },
+    {
+      "ID" : 1479,
+      "Sigla" : "IC",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : "P.78",
+      "Figura" : null
+    },
+    {
+      "ID" : 1480,
+      "Sigla" : "IC",
+      "Titolo" : "Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : null,
+      "Figura" : "Fig.46"
+    },
+    {
+      "ID" : 1481,
+      "Sigla" : "IU",
+      "Titolo" : "Agnoldomenico Pica, Architettura Moderna In Italia, Hoepli, Milano, 1941",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.99",
+      "Figura" : null
+    },
+    {
+      "ID" : 1482,
+      "Sigla" : "IU",
+      "Titolo" : "Componenti Neofuturiste Nell'architettura Degli Anni '30, In \"Controspazio\", Aprile-Maggio 1971",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.76",
+      "Figura" : null
+    },
+    {
+      "ID" : 1483,
+      "Sigla" : "IU",
+      "Titolo" : "Cesare De Seta, La Cultura Architettonica In Italia Fra Le Due Guerre, Laterza, Bari, 1972",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.231-232",
+      "Figura" : null
+    },
+    {
+      "ID" : 1484,
+      "Sigla" : "IU",
+      "Titolo" : "Luciano Baldessari, in \"Controspazio\", n° 2-3 (numero monografico), marzo-giugno 1978",
+      "Tipo" : "monografia",
+      "Pagina" : "P.23",
+      "Figura" : null
+    },
+    {
+      "ID" : 1486,
+      "Sigla" : "IU",
+      "Titolo" : "Ornella Selvafolta, Studi, progetti, modelli e oggetti del razionalismo italiano, in \"Rassegna\", n° 4, ottobre 1980",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.27",
+      "Figura" : null
+    },
+    {
+      "ID" : 1487,
+      "Sigla" : "IU",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : "P.79",
+      "Figura" : "Fig.90"
+    },
+    {
+      "ID" : 1488,
+      "Sigla" : "IU",
+      "Titolo" : "Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : null,
+      "Figura" : "Figg.51-53"
+    },
+    {
+      "ID" : 1493,
+      "Sigla" : "IP",
+      "Titolo" : "Gio Ponti, Un Panfilo Italiano, In \"Domus\", Agosto 1939",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.25-29",
+      "Figura" : null
+    },
+    {
+      "ID" : 1494,
+      "Sigla" : "IP",
+      "Titolo" : "Bruno Moretti, Baldessari O Della Versatilità, In \"Rassegna D'architettura\", N°4, Aprile 1940",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.103",
+      "Figura" : null
+    },
+    {
+      "ID" : 1495,
+      "Sigla" : "IP",
+      "Titolo" : "Dormire In Cabina, In \"Albergo In Italia\",  Novembre-Dicembre 1940",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.404-405",
+      "Figura" : null
+    },
+    {
+      "ID" : 1496,
+      "Sigla" : "IP",
+      "Titolo" : "Agnoldomenico Pica, Architettura Moderna In Italia, Hoepli, Milano, 1941",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.99",
+      "Figura" : null
+    },
+    {
+      "ID" : 1497,
+      "Sigla" : "IP",
+      "Titolo" : "Carlo Perogalli, Mostra Di Baldessari, In \"Atti Del Collegio Regionale Lombardo Architetti\", N°12, Dicembre 1957",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.31",
+      "Figura" : null
+    },
+    {
+      "ID" : 1498,
+      "Sigla" : "IP",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : "P.96",
+      "Figura" : "Figg.116-120"
+    },
+    {
+      "ID" : 1499,
+      "Sigla" : "IP",
+      "Titolo" : "Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : null,
+      "Figura" : "Fig.62"
+    },
+    {
+      "ID" : 1500,
+      "Sigla" : "IAP",
+      "Titolo" : "Cesare De Seta, Intervista A Luciano Baldessari (Trascrizione), Biennale Di Venezia, 9/7/1976",
+      "Tipo" : null,
+      "Pagina" : "P.5",
+      "Figura" : null
+    },
+    {
+      "ID" : 1502,
+      "Sigla" : "IAP",
+      "Titolo" : "Gian Pacher, Architetto, Cittadino Del Mondo Ecco Chi Era Luciano Baldessari, In \"Alto Adige\", 8/6/1985",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1503,
+      "Sigla" : "IAP",
+      "Titolo" : "Giorgio Mascherpa, Baldessari Tanto Misterioso, In \"Arte\", N°153, Giugno 1985",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.73",
+      "Figura" : null
+    },
+    {
+      "ID" : 1504,
+      "Sigla" : "IAP",
+      "Titolo" : "Giorgio Mascherpa, Luciano Baldessari, In \"Avvenire\", 4/7/1985",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.13",
+      "Figura" : null
+    },
+    {
+      "ID" : 1507,
+      "Sigla" : "I19",
+      "Titolo" : "Fiera, In \"Corriere D'informazione\", 26-27/3/1957",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.4",
+      "Figura" : null
+    },
+    {
+      "ID" : 1508,
+      "Sigla" : "I19",
+      "Titolo" : "Novità Da Tutto Il Mondo - Le Nuove Costruzioni, In \"Corriere Lombardo\", 30-31/3/1957",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.5",
+      "Figura" : null
+    },
+    {
+      "ID" : 1510,
+      "Sigla" : "ASV",
+      "Titolo" : "Onoranze A Volta - Mostra Nazionale D'arte, Catalogo Della Mostra, 1927",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.3, Tav.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1511,
+      "Sigla" : "ASV",
+      "Titolo" : "F.C., Le onoranze voltiane. La mostra della seta a Como, in \"Corriere della Sera\", 2/6/1927",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "Pp.4-5 E Cop.",
+      "Figura" : null
+    },
+    {
+      "ID" : 1513,
+      "Sigla" : "ASV",
+      "Titolo" : "I Esposizione Italiana Di Architettura Razionale, Catalogo Della Mostra, De Alberti, Roma, 1928",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.11,14",
+      "Figura" : null
+    },
+    {
+      "ID" : 1514,
+      "Sigla" : "ASV",
+      "Titolo" : "Agnoldomenico Pica, Architettura Moderna In Italia, Hoepli, Milano, 1941",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.99",
+      "Figura" : null
+    },
+    {
+      "ID" : 1515,
+      "Sigla" : "ASV",
+      "Titolo" : "Agnoldomenico Pica, Architettura delle esposizioni, in \"Suggestione Pubblicitaria\", supplemento de \"L'Ufficio Moderno. La pubblicità\", n° 9, 1953",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.128",
+      "Figura" : null
+    },
+    {
+      "ID" : 1516,
+      "Sigla" : "ASV",
+      "Titolo" : "Carola Giedion-Welcker, Plastik Des Xx. Jahrhunderts Volumen-Und Raumgestaltung, Gerd Hatje, Stuttgart, 1955",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.259",
+      "Figura" : null
+    },
+    {
+      "ID" : 1517,
+      "Sigla" : "ASV",
+      "Titolo" : "Giulia Veronesi, Luciano Baldessari Architetto, Collana Artisti Trentini, Trento, 1957",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.11,17,36-37",
+      "Figura" : null
+    },
+    {
+      "ID" : 1518,
+      "Sigla" : "ASV",
+      "Titolo" : "Carlo Perogalli, Mostra Di Baldessari, In \"Atti Del Collegio Regionale Lombardo Architetti\", N°12, Dicembre 1957",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.31",
+      "Figura" : null
+    },
+    {
+      "ID" : 1521,
+      "Sigla" : "ASV",
+      "Titolo" : "Gillo Dorfles, La mostra di Luciano Baldessari in Germania, in \"Domus\", n° 352 (estratto), marzo 1958",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.36",
+      "Figura" : "Figg.1-2"
+    },
+    {
+      "ID" : 1522,
+      "Sigla" : "ASV",
+      "Titolo" : "Giulia Veronesi, Luciano Baldessari Architetto, In \"Edilizia Moderna\", N°63, Aprile 1958",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.88",
+      "Figura" : null
+    },
+    {
+      "ID" : 1526,
+      "Sigla" : "ASV",
+      "Titolo" : "Giulio De Carli, Luciano Baldessari, In \"L'adige\", 30/12/1959",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1527,
+      "Sigla" : "ASV",
+      "Titolo" : "Italo Cinti, Luciano Baldessari, Architetto Integrale, In \"Economia Trentina\", N°5-6, 1959",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.7,10,18",
+      "Figura" : null
+    },
+    {
+      "ID" : 1529,
+      "Sigla" : "ASV",
+      "Titolo" : "Luciano Baldessari, in \"Aujourd'hui\", n° 31, maggio 1961",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.80",
+      "Figura" : null
+    },
+    {
+      "ID" : 1530,
+      "Sigla" : "ASV",
+      "Titolo" : "Italo Cinti, Luciano Baldessari Architetto, Tamari, Bologna, 1963",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.16,51",
+      "Figura" : null
+    },
+    {
+      "ID" : 1531,
+      "Sigla" : "ASV",
+      "Titolo" : "Giulia Veronesi, Non Si Trova Una Fontana Per Milano, In \"Zodiac\", N°12, 1963",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.201,203",
+      "Figura" : null
+    },
+    {
+      "ID" : 1532,
+      "Sigla" : "ASV",
+      "Titolo" : "Guido Ballo, Designers Italiani (2), In \"Idealstandard\", Settembre-Novembre 1964",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.36-37",
+      "Figura" : null
+    },
+    {
+      "ID" : 1533,
+      "Sigla" : "ASV",
+      "Titolo" : "Enrico D. Bona, Baldessari testimone e protagonista, in \"Casabella\", n° 342 (estratto), novembre 1969",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : null,
+      "Figura" : "Figg.3,5"
+    },
+    {
+      "ID" : 1535,
+      "Sigla" : "ASV",
+      "Titolo" : "Mario Monteverdi (A Cura Di), Avanguardia A Teatro Dal 1915 Al 1955 Nell'opera Scenografica Di Depero Baldessari Prampolini, Catalogo Della Mostra, Trento, 1970",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.23",
+      "Figura" : null
+    },
+    {
+      "ID" : 1536,
+      "Sigla" : "ASV",
+      "Titolo" : "Marco Valsecchi, Le Avanguardie Italiane Della Scenografia, In \"Il Giorno\", 3/1/1970",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.7",
+      "Figura" : null
+    },
+    {
+      "ID" : 1537,
+      "Sigla" : "ASV",
+      "Titolo" : "Francesco Vincitorio, Avanguardia A Teatro, In \"Notiziario Arte Contemporanea\", N°29,  15/1/1970",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.13",
+      "Figura" : null
+    },
+    {
+      "ID" : 1538,
+      "Sigla" : "ASV",
+      "Titolo" : "Guido Ballo (A Cura Di), Mario Radice, Catalogo Della Mostra, Roma, 1971",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.27",
+      "Figura" : null
+    },
+    {
+      "ID" : 1539,
+      "Sigla" : "ASV",
+      "Titolo" : "Marlborough Galleria D'arte, Mario Radice, Catalogo Della Mostra, Roma, 1971",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.27",
+      "Figura" : null
+    },
+    {
+      "ID" : 1541,
+      "Sigla" : "ASV",
+      "Titolo" : "Raffaello Giolli, L'architettura Razionale, A Cura Di Cesare De Seta, Laterza, Bari, 1972",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.182, Tavv.Xvii-Xviii",
+      "Figura" : null
+    },
+    {
+      "ID" : 1542,
+      "Sigla" : "ASV",
+      "Titolo" : "Mario Monteverdi, La Cultura Architettonica Tra Le Due Guerre, In \"Socialità\", Maggio 1973",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.5",
+      "Figura" : null
+    },
+    {
+      "ID" : 1544,
+      "Sigla" : "ASV",
+      "Titolo" : "Rossana Bossaglia, Il \"Déco\" Italiano, Biblioteca Universale Rizzoli, Milano, 1975",
+      "Tipo" : "saggio in volume",
+      "Pagina" : null,
+      "Figura" : "Fig.88"
+    },
+    {
+      "ID" : 1547,
+      "Sigla" : "ASV",
+      "Titolo" : "Maurizio Tafuri, Francesco Dal Co, Architettura Contemporanea, Electa, Milano, 1976",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.307",
+      "Figura" : null
+    },
+    {
+      "ID" : 1548,
+      "Sigla" : "ASV",
+      "Titolo" : "Accademia Nazionale Dei Lincei, Premio \"Antonio Feltrinelli\", Roma, 1978",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.48",
+      "Figura" : null
+    },
+    {
+      "ID" : 1550,
+      "Sigla" : "ASV",
+      "Titolo" : "Intervista Di Luciano Baldessari Alla Radio Svizzera, Dattiloscritto, Interventi Di Giancarlo De Carlo, Agnoldomenico Pica E Vittorio Fagone, 1978",
+      "Tipo" : null,
+      "Pagina" : "P.2",
+      "Figura" : null
+    },
+    {
+      "ID" : 1551,
+      "Sigla" : "ASV",
+      "Titolo" : "Luciano Baldessari, in \"Controspazio\", n° 2-3 (numero monografico), marzo-giugno 1978",
+      "Tipo" : "monografia",
+      "Pagina" : "P.14",
+      "Figura" : null
+    },
+    {
+      "ID" : 1553,
+      "Sigla" : "ASV",
+      "Titolo" : "Daniele Baroni, Le architetture semipermanenti di Luciano Baldessari, in \"Ottagono\", n° 51,  dicembre 1978",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.28",
+      "Figura" : "Fig.2"
+    },
+    {
+      "ID" : 1554,
+      "Sigla" : "ASV",
+      "Titolo" : "Bruno Alfieri, cos'era il \"Luminator\", in \"La rivista dell'arredamento\", n° 287, febbraio 1979",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.45",
+      "Figura" : null
+    },
+    {
+      "ID" : 1555,
+      "Sigla" : "ASV",
+      "Titolo" : "Anni Creativi Al \"Milione\" 1932-1939, Catalogo Della Mostra, Silvana Editoriale, Milano, 1980",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.106",
+      "Figura" : null
+    },
+    {
+      "ID" : 1556,
+      "Sigla" : "ASV",
+      "Titolo" : "Mario Cossali, Appartengo alla libertà, in \"Il Leno\", n° 1, gennaio 1981",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.38",
+      "Figura" : null
+    },
+    {
+      "ID" : 1557,
+      "Sigla" : "ASV",
+      "Titolo" : "Cecilia De Carli, Luciano Baldessari architetto artista, in \"Città e Società\", n° 2, aprile-giugno 1981",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.86",
+      "Figura" : null
+    },
+    {
+      "ID" : 1558,
+      "Sigla" : "ASV",
+      "Titolo" : "Franco Raggi, La Vita È Un Magnifico Incidente - Colloquio Con Luciano Baldessari.., In \"Modo\", N°40, Giugno 1981",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.17",
+      "Figura" : null
+    },
+    {
+      "ID" : 1559,
+      "Sigla" : "ASV",
+      "Titolo" : "Cesare De Seta, L'architettura Del Novecento, Utet, Torino, 1981",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.219",
+      "Figura" : null
+    },
+    {
+      "ID" : 1560,
+      "Sigla" : "ASV",
+      "Titolo" : "Aa.Vv., Gli Anni Trenta, Arte E Cultura In Italia, Catalogo Della Mostra, Mazzotta, Milano, 1982",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.544",
+      "Figura" : null
+    },
+    {
+      "ID" : 1561,
+      "Sigla" : "ASV",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.14,32",
+      "Figura" : "Figg.9-15"
+    },
+    {
+      "ID" : 1562,
+      "Sigla" : "ASV",
+      "Titolo" : "Anty Pansera, Ricordando Luciano Baldessari Il Più Europeo Degli Architetti Italiani, In \"Prospettiva D'arte\", N°57, Novembre-Dicembre 1982",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.38",
+      "Figura" : null
+    },
+    {
+      "ID" : 1563,
+      "Sigla" : "ASV",
+      "Titolo" : "Michelangelo Lupo, Giovanni Marzari (A Cura Di), Istituto Di Credito Fondiario Della Regione Trentino Alto Adige, Bi Quattro Editrice, Rovereto, 1983",
+      "Tipo" : "altro",
+      "Pagina" : "P.16",
+      "Figura" : null
+    },
+    {
+      "ID" : 1564,
+      "Sigla" : "ASV",
+      "Titolo" : "Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.20,26",
+      "Figura" : "Figg.7-10"
+    },
+    {
+      "ID" : 1566,
+      "Sigla" : "ASV",
+      "Titolo" : "Nelia Mazza, A Palazzo Delle Albere L'eclettico Luciano Baldessari, In \"L'adige\", 2/6/1985",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1567,
+      "Sigla" : "ASV",
+      "Titolo" : "Anty Pansera, alla riscoperta di un vero maestro, in \"Il Giorno\", 24/6/1985; L'architetto Luciano Baldessari e la scenografia teatrale, in \"Grazia\",  30/6/1985\" ATTENZIONE SONO DUE ARTICOLI DISTINTI",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : null,
+      "Figura" : null
+    },
+    {
+      "ID" : 1568,
+      "Sigla" : "ASV",
+      "Titolo" : "Giorgio Mascherpa, Luciano Baldessari, In \"Avvenire\", 4/7/1985",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.13",
+      "Figura" : null
+    },
+    {
+      "ID" : 1571,
+      "Sigla" : "ASV",
+      "Titolo" : "Ugo Lo Russo, Un architetto che respirò l'avanguardia, in \"La provincia di Como\", 2/10/1985",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1577,
+      "Sigla" : "ASV",
+      "Titolo" : "Mara Pancheri (A Cura Di), Omaggio A Paolo Orsi - Opere Di Baldessari, Belli, Melotti, Catalogo Della Mostra, La Ediprinteditrice, Siracusa, 1990",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.19",
+      "Figura" : null
+    },
+    {
+      "ID" : 1578,
+      "Sigla" : "ASV",
+      "Titolo" : "Monica Amari, Le Arti Decorative A Milano: Dall'artista-Artigiano All'architetto-Designer, In Paolo Biscottini (A Cura Di), Arte A Milano 1906-1929, Catalogo Della Mostra, Electa, Milano",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.251",
+      "Figura" : null
+    },
+    {
+      "ID" : 1579,
+      "Sigla" : "ASV",
+      "Titolo" : "Paolo Campiglio, Lucio Fontana - La Scultura Architettonica Negli Anni Trenta, Ilisso, Nuoro, 1995",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.55",
+      "Figura" : null
+    },
+    {
+      "ID" : 1609,
+      "Sigla" : "AT4",
+      "Titolo" : "Agnoldomenico Pica, La versione italiana dell'architettura, in \"Il Secolo d'Italia\", 27/2/1973",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1610,
+      "Sigla" : "AT4",
+      "Titolo" : "Rossana Bossaglia, Il \"Déco\" Italiano, Biblioteca Universale Rizzoli, Milano, 1975",
+      "Tipo" : "saggio in volume",
+      "Pagina" : null,
+      "Figura" : "Fig.121"
+    },
+    {
+      "ID" : 1611,
+      "Sigla" : "AT4",
+      "Titolo" : "Daniele Baroni, I mobili '900 ieri, in \"La rivista dell'arredamento\", n° 269, giugno 1977",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.34",
+      "Figura" : null
+    },
+    {
+      "ID" : 1612,
+      "Sigla" : "AT4",
+      "Titolo" : "Luigi Tallarico, Le \"Cento Anime\" Di F.T. Marinetti, Carta Editore, Roma, 1977",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.65",
+      "Figura" : null
+    },
+    {
+      "ID" : 1613,
+      "Sigla" : "AT4",
+      "Titolo" : "Anty Pansera, Storia E Cronaca Della Triennale, Longanesi, Milano, 1978",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.221,235",
+      "Figura" : null
+    },
+    {
+      "ID" : 1614,
+      "Sigla" : "AT4",
+      "Titolo" : "Daniele Baroni, Le architetture semipermanenti di Luciano Baldessari, in \"Ottagono\", n° 51,  dicembre 1978",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.28",
+      "Figura" : null
+    },
+    {
+      "ID" : 1615,
+      "Sigla" : "AT4",
+      "Titolo" : "Luciano Baldessari, in \"Controspazio\", n° 2-3 (numero monografico), marzo-giugno 1978",
+      "Tipo" : "monografia",
+      "Pagina" : "P.15",
+      "Figura" : null
+    },
+    {
+      "ID" : 1616,
+      "Sigla" : "AT4",
+      "Titolo" : "Anni Creativi Al \"Milione\" 1932-1939, Catalogo Della Mostra, Silvana Editoriale, Milano, 1980",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.108",
+      "Figura" : null
+    },
+    {
+      "ID" : 1617,
+      "Sigla" : "AT4",
+      "Titolo" : "Ornella Selvafolta, Studi, progetti, modelli e oggetti del razionalismo italiano, in \"Rassegna\", n° 4, ottobre 1980",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.27",
+      "Figura" : null
+    },
+    {
+      "ID" : 1618,
+      "Sigla" : "AT4",
+      "Titolo" : "Cecilia De Carli, Luciano Baldessari architetto artista, in \"Città e Società\", n° 2, aprile-giugno 1981",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.90",
+      "Figura" : null
+    },
+    {
+      "ID" : 1619,
+      "Sigla" : "AT4",
+      "Titolo" : "Luigi Tallarico, Luciano Baldessari: Un Testimone Tra Costruttivismo E Purismo, In Avanguardia E Tradizione Da Bocconi A Burri, Giovanni Volpe Editore, Roma",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.166",
+      "Figura" : null
+    },
+    {
+      "ID" : 1620,
+      "Sigla" : "AT4",
+      "Titolo" : "Aa.Vv., Gli Anni Trenta, Arte E Cultura In Italia, Catalogo Della Mostra, Mazzotta, Milano, 1982",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.544,642",
+      "Figura" : null
+    },
+    {
+      "ID" : 1621,
+      "Sigla" : "AT4",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.17, 50",
+      "Figura" : "Fig.39"
+    },
+    {
+      "ID" : 1624,
+      "Sigla" : "AT4",
+      "Titolo" : "Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : null,
+      "Figura" : "Fig.26"
+    },
+    {
+      "ID" : 1626,
+      "Sigla" : "AT4",
+      "Titolo" : "Ida Gianelli (A Cura Di), Arte Italiana Presenze 1900-1945, Catalogo Della Mostra, Bompiani, Milano, 1989",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.675",
+      "Figura" : null
+    },
+    {
+      "ID" : 1627,
+      "Sigla" : "AT4",
+      "Titolo" : "Fulvio Irace (A Cura Di), Italia Anni Trenta: Problematiche Del Razionalismo, In Luciano Caramel (A Cura Di), L'europa Dei Razionalisti, Catalogo Della Mostra, Electa, Milano, 1989",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.247,379",
+      "Figura" : null
+    },
+    {
+      "ID" : 1628,
+      "Sigla" : "AT4",
+      "Titolo" : "Luciano Caramel, Enrico Crispolti, Veit loers, italiens moderne - vanguardia italiana de entreguerras, cataloghi della mostra, Mazzotta, Milano, 1990",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.353",
+      "Figura" : null
+    },
+    {
+      "ID" : 1636,
+      "Sigla" : "AT5",
+      "Titolo" : "Giuseppe Pagano-Pogatschnig, Alla Fiera Di Milano, In \"Casabella\", N°5, Maggio 1933",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.32",
+      "Figura" : null
+    },
+    {
+      "ID" : 1639,
+      "Sigla" : "AT5",
+      "Titolo" : "Anty Pansera, Storia E Cronaca Della Triennale, Longanesi, Milano, 1978",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.247,261,271, 276,291",
+      "Figura" : null
+    },
+    {
+      "ID" : 1640,
+      "Sigla" : "AT5",
+      "Titolo" : "Daniele Baroni, Le architetture semipermanenti di Luciano Baldessari, in \"Ottagono\", n° 51,  dicembre 1978",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.28",
+      "Figura" : null
+    },
+    {
+      "ID" : 1641,
+      "Sigla" : "AT5",
+      "Titolo" : "Ornella Selvafolta, Studi, progetti, modelli e oggetti del razionalismo italiano, in \"Rassegna\", n° 4, ottobre 1980",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.27",
+      "Figura" : null
+    },
+    {
+      "ID" : 1642,
+      "Sigla" : "AT5",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : "P.66",
+      "Figura" : "Fig.68"
+    },
+    {
+      "ID" : 1643,
+      "Sigla" : "AT5",
+      "Titolo" : "Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : null,
+      "Figura" : "Fig.43"
+    },
+    {
+      "ID" : 1646,
+      "Sigla" : "AT5",
+      "Titolo" : "Ida Gianelli (A Cura Di), Arte Italiana Presenze 1900-1945, Catalogo Della Mostra, Bompiani, Milano, 1989",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.689",
+      "Figura" : null
+    },
+    {
+      "ID" : 1647,
+      "Sigla" : "AT5",
+      "Titolo" : "Fulvio Irace (A Cura Di), Italia Anni Trenta: Problematiche Del Razionalismo, In Luciano Caramel (A Cura Di), L'europa Dei Razionalisti, Catalogo Della Mostra, Electa, Milano, 1989",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.248,379",
+      "Figura" : null
+    },
+    {
+      "ID" : 1648,
+      "Sigla" : "AT5",
+      "Titolo" : "Aa.Vv., Il Mondo Di Carlo Belli, Catalogo Della Mostra, Electa, Milano, 1991",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.140,236",
+      "Figura" : null
+    },
+    {
+      "ID" : 1649,
+      "Sigla" : "AA",
+      "Titolo" : "Luigi Contini, Aviazione E Fascismo, Aviazione Civile, In Esposizione Dell'aeronautica Italiana, Catalogo Della Mostra, Milano, 1934",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.129-133,213-220",
+      "Figura" : null
+    },
+    {
+      "ID" : 1650,
+      "Sigla" : "AA",
+      "Titolo" : "L'ordinamento Delle Sale All'esposizione Dell'aeronautica Italiana, In \"Casabella\", N°80, Agosto 1934",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.13,15,19 E Controcop.",
+      "Figura" : null
+    },
+    {
+      "ID" : 1651,
+      "Sigla" : "AA",
+      "Titolo" : "Bruno Moretti, Baldessari O Della Versatilità, In \"Rassegna D'architettura\", N°4, Aprile 1940",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.102",
+      "Figura" : null
+    },
+    {
+      "ID" : 1652,
+      "Sigla" : "AA",
+      "Titolo" : "Agnoldomenico Pica, Architettura Moderna In Italia, Hoepli, Milano, 1941",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.99",
+      "Figura" : null
+    },
+    {
+      "ID" : 1653,
+      "Sigla" : "AA",
+      "Titolo" : "Giulia Veronesi, Luciano Baldessari Architetto, Collana Artisti Trentini, Trento, 1957",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.60-61",
+      "Figura" : null
+    },
+    {
+      "ID" : 1654,
+      "Sigla" : "AA",
+      "Titolo" : "Italo Cinti, Luciano Baldessari, Architetto Integrale, In \"Economia Trentina\", N°5-6, 1959",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.10,13",
+      "Figura" : null
+    },
+    {
+      "ID" : 1656,
+      "Sigla" : "AA",
+      "Titolo" : "Eugenio Gentili, Profezia di Persico, in La casa - quaderni di architettura e critica n° 6, De Luca editore, Roma, 1960",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.163",
+      "Figura" : null
+    },
+    {
+      "ID" : 1657,
+      "Sigla" : "AA",
+      "Titolo" : "Italo Cinti, Luciano Baldessari Architetto, Tamari, Bologna, 1963",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.26",
+      "Figura" : null
+    },
+    {
+      "ID" : 1658,
+      "Sigla" : "AA",
+      "Titolo" : "Guido Ballo, Designers Italiani (2), In \"Idealstandard\", Settembre-Novembre 1964",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.40",
+      "Figura" : null
+    },
+    {
+      "ID" : 1660,
+      "Sigla" : "AA",
+      "Titolo" : "Michele Cennamo (A Cura Di), Materiali Per L'analisi Dell'architettura Moderna - 1A. Esposizione Italiana Di Architettura Razionale, Fausto Fiorentino Editore, Napoli, 1973",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.226",
+      "Figura" : null
+    },
+    {
+      "ID" : 1661,
+      "Sigla" : "AA",
+      "Titolo" : "Giovanni Cagnoni, Baldessari o il rapporto estetica-socialità, in \"Immagine Technika\", n° 12, 1975",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.24",
+      "Figura" : null
+    },
+    {
+      "ID" : 1662,
+      "Sigla" : "AA",
+      "Titolo" : "Edoardo Persico, Oltre L'architettura - Scritti Scelti E Lettere, Feltrinelli, Milano, 1977",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.180-181",
+      "Figura" : null
+    },
+    {
+      "ID" : 1663,
+      "Sigla" : "AA",
+      "Titolo" : "Zita Mosca (A Cura Di), Il Disegno Di Luciano Baldessari 1915-1972, Catalogo Della Mostra, Presentazione Di Anna Maria Brizio, Fondazione Corrente, Milano, 1978",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.11",
+      "Figura" : null
+    },
+    {
+      "ID" : 1664,
+      "Sigla" : "AA",
+      "Titolo" : "Luciano Baldessari, in \"Controspazio\", n° 2-3 (numero monografico), marzo-giugno 1978",
+      "Tipo" : "monografia",
+      "Pagina" : "P.24",
+      "Figura" : null
+    },
+    {
+      "ID" : 1665,
+      "Sigla" : "AA",
+      "Titolo" : "Daniele Baroni, Le architetture semipermanenti di Luciano Baldessari, in \"Ottagono\", n° 51,  dicembre 1978",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : null,
+      "Figura" : "Fig.4"
+    },
+    {
+      "ID" : 1666,
+      "Sigla" : "AA",
+      "Titolo" : "Anni Creativi Al \"Milione\" 1932-1939, Catalogo Della Mostra, Silvana Editoriale, Milano, 1980",
+      "Tipo" : "saggio in volume",
+      "Pagina" : null,
+      "Figura" : null
+    },
+    {
+      "ID" : 1667,
+      "Sigla" : "AA",
+      "Titolo" : "Aa.Vv., Gli Anni Trenta, Arte E Cultura In Italia, Catalogo Della Mostra, Mazzotta, Milano, 1982",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.50,544",
+      "Figura" : null
+    },
+    {
+      "ID" : 1668,
+      "Sigla" : "AA",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.18,72",
+      "Figura" : "Figg.78-80"
+    },
+    {
+      "ID" : 1671,
+      "Sigla" : "AA",
+      "Titolo" : "Minnie Gastel, Luisa Somaini, Guida Agli Anni Trenta - 3. Arte E Propaganda, 6. Mobili, Auto E Triennali, In \"La Repubblica\", 26/1/1982",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.23",
+      "Figura" : null
+    },
+    {
+      "ID" : 1672,
+      "Sigla" : "AA",
+      "Titolo" : "Roberto Tassi, A Chi Piace Piacentini, In \"La Repubblica\", 2/3/1982",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.21",
+      "Figura" : null
+    },
+    {
+      "ID" : 1673,
+      "Sigla" : "AA",
+      "Titolo" : "Ivan Chiappa, I Progetti Di Luciano Baldessari E I Saggi Futuristici Di Depero, In \"Alto Adige\", 8/3/1982",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1674,
+      "Sigla" : "AA",
+      "Titolo" : "Caterina Lelj, Gli Anni Trenta, In \"L'osservatore Politico Letterario\", N°5, Maggio 1982",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.102-103",
+      "Figura" : null
+    },
+    {
+      "ID" : 1675,
+      "Sigla" : "AA",
+      "Titolo" : "Alessandra Quattordio, L'eredità Del Futurismo Nell'opera Di Luciano Baldessari, In \"La Martinella\", Fasc. Vii-Viii, Luglio-Agosto 1982",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.148",
+      "Figura" : null
+    },
+    {
+      "ID" : 1676,
+      "Sigla" : "AA",
+      "Titolo" : "Cesare De Seta, Baldessari, L'effimero Rigore, In \"Il Mattino\", 3/10/1982",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1677,
+      "Sigla" : "AA",
+      "Titolo" : "J. Glancey, Baldessari, in \"The architectural review\", n° 1028, ottobre 1982",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : null,
+      "Figura" : "Fig.2"
+    },
+    {
+      "ID" : 1678,
+      "Sigla" : "AA",
+      "Titolo" : "Anty Pansera, Ricordando Luciano Baldessari Il Più Europeo Degli Architetti Italiani, In \"Prospettiva D'arte\", N°57, Novembre-Dicembre 1982",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.39",
+      "Figura" : null
+    },
+    {
+      "ID" : 1679,
+      "Sigla" : "AA",
+      "Titolo" : "Michelangelo Lupo, Giovanni Marzari (A Cura Di), Istituto Di Credito Fondiario Della Regione Trentino Alto Adige, Bi Quattro Editrice, Rovereto, 1983",
+      "Tipo" : "altro",
+      "Pagina" : "P.16",
+      "Figura" : null
+    },
+    {
+      "ID" : 1680,
+      "Sigla" : "AA",
+      "Titolo" : "Anty Pansera (a cura di), È design, catalogo della mostra, Alinari, Firenze, 1983",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.114",
+      "Figura" : null
+    },
+    {
+      "ID" : 1682,
+      "Sigla" : "AA",
+      "Titolo" : "Sotto Gli Archi Di Luciano Baldessari Forse Una Promenade In Riva Al Leno, In \"Alto Adige\", 24/5/1984",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.10",
+      "Figura" : null
+    },
+    {
+      "ID" : 1684,
+      "Sigla" : "AA",
+      "Titolo" : "Alla Pancheri Si Presenta Il Progetto Per Gli Archi Di Baldessari Lungo Il Leno, In \"Alto Adige\", 25/5/1984",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.8",
+      "Figura" : null
+    },
+    {
+      "ID" : 1685,
+      "Sigla" : "AA",
+      "Titolo" : "P.B., Archi D'acciaio Sfidano Il Cielo, In \"L'adige\", 26/5/1984",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.5",
+      "Figura" : null
+    },
+    {
+      "ID" : 1686,
+      "Sigla" : "AA",
+      "Titolo" : "P.M., Un Museo Urbano All'aperto Sotto Gli Archi Di Baldessari, In \"Alto Adige\", 26/5/1984",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.10",
+      "Figura" : null
+    },
+    {
+      "ID" : 1687,
+      "Sigla" : "AA",
+      "Titolo" : "Agnoldomenico Pica, Luciano Baldessari: Architetture Compiute E Architetture Sperate, In Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.9,11",
+      "Figura" : null
+    },
+    {
+      "ID" : 1688,
+      "Sigla" : "AA",
+      "Titolo" : "Zita Mosca Baldessari, Luciano Baldessari e l'architettura eclettica, in Luciano Baldessari, catalogo della mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : "P.23",
+      "Figura" : null
+    },
+    {
+      "ID" : 1692,
+      "Sigla" : "AA",
+      "Titolo" : "Fulvio Irace (A Cura Di), Italia Anni Trenta: Problematiche Del Razionalismo, In Luciano Caramel (A Cura Di), L'europa Dei Razionalisti, Catalogo Della Mostra, Electa, Milano, 1989",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.249,379,380",
+      "Figura" : null
+    },
+    {
+      "ID" : 1693,
+      "Sigla" : "AA",
+      "Titolo" : "Paolo Campiglio, Lucio Fontana - La Scultura Architettonica Negli Anni Trenta, Ilisso, Nuoro, 1995",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.62",
+      "Figura" : null
+    },
+    {
+      "ID" : 1696,
+      "Sigla" : "AT6",
+      "Titolo" : "Renato Pacini, Arredamento Ed Arte Decorativa Alla Vi Triennale Di Milano, In \"Architettura\", Febbraio 1937",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.82",
+      "Figura" : null
+    },
+    {
+      "ID" : 1697,
+      "Sigla" : "AT6",
+      "Titolo" : "Agnoldomenico Pica, Architettura Moderna In Italia, Hoepli, Milano, 1941",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.99",
+      "Figura" : null
+    },
+    {
+      "ID" : 1698,
+      "Sigla" : "AT6",
+      "Titolo" : "Aa.Vv., Gli Anni Trenta, Arte E Cultura In Italia, Catalogo Della Mostra, Mazzotta, Milano, 1982",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.226",
+      "Figura" : null
+    },
+    {
+      "ID" : 1699,
+      "Sigla" : "AT6",
+      "Titolo" : "Sergio Polano, Mostrare - L'allestimento In Italia Dagli Anni Venti Agli Anni Ottanta, Edizioni Lybra Immagine, Milano, 1988",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.186",
+      "Figura" : null
+    },
+    {
+      "ID" : 1702,
+      "Sigla" : "AMV",
+      "Titolo" : "Agnoldomenico Pica, Architettura Moderna In Italia, Hoepli, Milano, 1941",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.99",
+      "Figura" : null
+    },
+    {
+      "ID" : 1724,
+      "Sigla" : "AT9",
+      "Titolo" : "Agnoldomenico Pica (A Cura Di), Ix Triennale Di Milano, Catalogo Dell'esposizione, Milano, 1951",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.23-24,29,338-347",
+      "Figura" : null
+    },
+    {
+      "ID" : 1725,
+      "Sigla" : "AT9",
+      "Titolo" : "Friedrich Putz, Die Triennale in Mailand, in \"Bauen und Wohnen\", n° 7,  1951",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.393-395",
+      "Figura" : null
+    },
+    {
+      "ID" : 1731,
+      "Sigla" : "AT9",
+      "Titolo" : "Leonardo Borgese, Si Apre Oggi A Milano La Triennale D'arti Decorative, In \"Corriere Della Sera\", 12/5/1951",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1734,
+      "Sigla" : "AT9",
+      "Titolo" : "Leonardo Sinisgalli, La Triennale Labirinto, In \"Tempo\", 26/5/1951",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "Pp.18-19",
+      "Figura" : null
+    },
+    {
+      "ID" : 1737,
+      "Sigla" : "AT9",
+      "Titolo" : "Gillo Dorfles, Piccola Guida Per La Ix Triennale, In \"Pirelli\", Giugno 1951",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.41",
+      "Figura" : null
+    },
+    {
+      "ID" : 1738,
+      "Sigla" : "AT9",
+      "Titolo" : "Gio Ponti, IX Triennale di Milano: insegnamento altrui e fantasia degli italiani, in \"Domus\", giugno 1951",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P. 10",
+      "Figura" : null
+    },
+    {
+      "ID" : 1739,
+      "Sigla" : "AT9",
+      "Titolo" : "Luciano Baldessari architetto, in \"Trentino\", n° 4, giugno 1951",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.34",
+      "Figura" : null
+    },
+    {
+      "ID" : 1740,
+      "Sigla" : "AT9",
+      "Titolo" : "Agnoldomenico Pica, Alla IX Triennale. Impegno degli architetti, in \"Le Arti\", giugno-luglio 1951",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.34",
+      "Figura" : null
+    },
+    {
+      "ID" : 1741,
+      "Sigla" : "AT9",
+      "Titolo" : "Arne Remlov, Ix Triennale I Milano, In \"Bonytt\", N°11-12, Luglio 1951",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.204",
+      "Figura" : null
+    },
+    {
+      "ID" : 1742,
+      "Sigla" : "AT9",
+      "Titolo" : "Luigi Moretti, Forma e contenuto delle triennali, in \"Spazio\", n° 5, luglio-agosto 1951",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.17-19",
+      "Figura" : null
+    },
+    {
+      "ID" : 1743,
+      "Sigla" : "AT9",
+      "Titolo" : "Agnoldomenico Pica, Propositi E Forme Nella Ix Triennale, In \"Spazio\", N°5, Luglio-Agosto 1951",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.92",
+      "Figura" : null
+    },
+    {
+      "ID" : 1745,
+      "Sigla" : "AT9",
+      "Titolo" : "Irene Zander, Die Mailander Triennale Ein Alarmruf, In \"Die Neue Zeitung\", 17/8/1951",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.4",
+      "Figura" : null
+    },
+    {
+      "ID" : 1747,
+      "Sigla" : "AT9",
+      "Titolo" : "Mailander Triennale 1951, In \"Wiener Illustrierte\", 18/8/1951",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "Pp.8-9",
+      "Figura" : null
+    },
+    {
+      "ID" : 1748,
+      "Sigla" : "AT9",
+      "Titolo" : "Irene Zander, Poetische Sensazion In Glas, In \"Die Neue Zeitung\", 25/8/1951",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.14",
+      "Figura" : null
+    },
+    {
+      "ID" : 1749,
+      "Sigla" : "AT9",
+      "Titolo" : "Walter Dorwin Teague, The Ninth Triennale, In \"Interiors\", Settembre 1951",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.93-96",
+      "Figura" : null
+    },
+    {
+      "ID" : 1750,
+      "Sigla" : "AT9",
+      "Titolo" : "Maria Netter, Panorama des formexperiments an der 9. Triennale von Mailand, in \"Werk\", n° 9, settembre 1951",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.257",
+      "Figura" : null
+    },
+    {
+      "ID" : 1751,
+      "Sigla" : "AT9",
+      "Titolo" : "Joost vadn der Grinten, Bij de negende Triennale di Milano, in \"Forum\", n° 9, settembre 1951",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.228-238 E Cop.",
+      "Figura" : null
+    },
+    {
+      "ID" : 1752,
+      "Sigla" : "AT9",
+      "Titolo" : "Giulia Veronesi, La fantasia alla Triennale, in \"Le vie d'Italia\", n° 9, settembre 1951",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.1074",
+      "Figura" : null
+    },
+    {
+      "ID" : 1753,
+      "Sigla" : "AT9",
+      "Titolo" : "Franco Albini, Eugenio Gentili, Esperienze Della T9, In \"Metron\", N°43, Settembre-Dicembre 1951",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.23",
+      "Figura" : null
+    },
+    {
+      "ID" : 1754,
+      "Sigla" : "AT9",
+      "Titolo" : "Carlo Doglio, Accademia e formalismo alla base della IX Triennale, in \"Metron\", n° 43, settembre-dicembre 1951",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.19",
+      "Figura" : null
+    },
+    {
+      "ID" : 1755,
+      "Sigla" : "AT9",
+      "Titolo" : "Atrio della 9.a Triennale di Milano, in \"Metron\", n° 43, settembre-dicembre 1951",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.17",
+      "Figura" : null
+    },
+    {
+      "ID" : 1756,
+      "Sigla" : "AT9",
+      "Titolo" : "Bruno E. Werner, Kommt Ein Neues Barock?, In \"Schweitzer Journal\", N°11-12, Novembre-Dicembre 1951",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.14,16",
+      "Figura" : null
+    },
+    {
+      "ID" : 1757,
+      "Sigla" : "AT9",
+      "Titolo" : "Die architekten schnappschusse anlasslich der Triennale in Mailand, in \"Schweitzer Journal\", n° 11-12, novembre-dicembre 1951",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1759,
+      "Sigla" : "AT9",
+      "Titolo" : "Gio Ponti, Dalla IX alla X Triennale, in \"Domus\", n° 264-265, dicembre 1951",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.1-3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1760,
+      "Sigla" : "AT9",
+      "Titolo" : "Karl Augustinus Bieber, Die ausstellungen des jahres 1951, in \"Graphik\", n° 12, 1951",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.641-642",
+      "Figura" : null
+    },
+    {
+      "ID" : 1761,
+      "Sigla" : "AT9",
+      "Titolo" : "Jean Royère, A Milan un style s'élabore, in \"Le décor d'aujourd'hui\", n° 66, 1951",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.14-15",
+      "Figura" : null
+    },
+    {
+      "ID" : 1762,
+      "Sigla" : "AT9",
+      "Titolo" : "François Stahly, A new style of three-dimensional exhibition design, in \"Graphis\", n° 38, 1951",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.459",
+      "Figura" : null
+    },
+    {
+      "ID" : 1764,
+      "Sigla" : "AT9",
+      "Titolo" : "Giulia Veronesi, L'effort créateur à l'étranger. 2. les italiens à la IX Triennale de Milan, in \"Art & Décoration\", n° 24, 1951",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.32-33",
+      "Figura" : null
+    },
+    {
+      "ID" : 1767,
+      "Sigla" : "AT9",
+      "Titolo" : "Nelly Inghilleri Crespi, Un architetto trentino alla mostra di Van Gogh, in \"Trentino\", n° 3-4, marzo-aprile 1952",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.38",
+      "Figura" : null
+    },
+    {
+      "ID" : 1768,
+      "Sigla" : "AT9",
+      "Titolo" : "Bruno Colorio, Il Dinamismo Della X Triennale S'impone Agli Artisti Di Tutto Il Mondo, In \"Alto Adige\", 25/5/1954",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1770,
+      "Sigla" : "AT9",
+      "Titolo" : "Karl Augustinus Bieber, Decima Triennale Di Milano, In \"Die Innenarchitektur\", N°4, Ottobre 1954",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.222",
+      "Figura" : null
+    },
+    {
+      "ID" : 1771,
+      "Sigla" : "AT9",
+      "Titolo" : "Walter Dexel, Vom Vettstreit Der Nationen In Mailand, In \"Glas Im Raum\", N°10, Ottobre 1954",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.1",
+      "Figura" : null
+    },
+    {
+      "ID" : 1772,
+      "Sigla" : "AT9",
+      "Titolo" : "François Stahly, Luciano Baldessari, In \"Graphis\", N°61 (Estratto), 1955",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.435",
+      "Figura" : "Figg.4-5,9"
+    },
+    {
+      "ID" : 1773,
+      "Sigla" : "AT9",
+      "Titolo" : "Giampiero Giani, Spazialismo, Conchiglia, Milano, 1956",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.26",
+      "Figura" : null
+    },
+    {
+      "ID" : 1774,
+      "Sigla" : "AT9",
+      "Titolo" : "Wassili Luckhardt, Licht Als Bauelement - Eine Bildfolge, In W. Luckhardt, W. Kohler, Licht Architektur, Bauwelt Verlag, Berlin, 1956",
+      "Tipo" : "altro",
+      "Pagina" : "Pp.14-15,24",
+      "Figura" : null
+    },
+    {
+      "ID" : 1777,
+      "Sigla" : "AT9",
+      "Titolo" : "Giulia Veronesi, Luciano Baldessari Architetto, Collana Artisti Trentini, Trento, 1957",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.20,22,84-85",
+      "Figura" : null
+    },
+    {
+      "ID" : 1778,
+      "Sigla" : "AT9",
+      "Titolo" : "Agnoldomenico Pica, Storia Della Triennale 1918-1957, Edizioni Del Milione, Milano, 1957",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.45-46,Tav.Xciv",
+      "Figura" : null
+    },
+    {
+      "ID" : 1779,
+      "Sigla" : "AT9",
+      "Titolo" : "Milano Oggi, Edizioni Milano Moderna, Milano, 1957",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.62",
+      "Figura" : null
+    },
+    {
+      "ID" : 1782,
+      "Sigla" : "AT9",
+      "Titolo" : "Vincenzo Costantini, Salverà Orfeo La Tecnica D'oggi?, In \"Corriere Lombardo\", 16-17/5/1957",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1784,
+      "Sigla" : "AT9",
+      "Titolo" : "Agnoldomenico Pica, L'architettura Alla Triennale, In \"Tempo Di Milano\",  15/6/1957",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1785,
+      "Sigla" : "AT9",
+      "Titolo" : "Gio Ponti, A Berlino, Nell'hansaviertel, Il Grattacielo Italiano, In \"Domus\", N°332, Luglio 1957",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1789,
+      "Sigla" : "AT9",
+      "Titolo" : "Carlo Perogalli, Mostra Di Baldessari, In \"Atti Del Collegio Regionale Lombardo Architetti\", N°12, Dicembre 1957",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.31",
+      "Figura" : null
+    },
+    {
+      "ID" : 1793,
+      "Sigla" : "AT9",
+      "Titolo" : "Gillo Dorfles, La mostra di Luciano Baldessari in Germania, in \"Domus\", n° 352 (estratto), marzo 1958",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.36",
+      "Figura" : null
+    },
+    {
+      "ID" : 1794,
+      "Sigla" : "AT9",
+      "Titolo" : "Giulia Veronesi, Luciano Baldessari Architetto, In \"Edilizia Moderna\", N°63, Aprile 1958",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.88",
+      "Figura" : null
+    },
+    {
+      "ID" : 1797,
+      "Sigla" : "AT9",
+      "Titolo" : "Giulio De Carli, Luciano Baldessari, In \"L'adige\", 30/12/1959",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1798,
+      "Sigla" : "AT9",
+      "Titolo" : "Italo Cinti, Luciano Baldessari, Architetto Integrale, In \"Economia Trentina\", N°5-6, 1959",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.10,16",
+      "Figura" : null
+    },
+    {
+      "ID" : 1799,
+      "Sigla" : "AT9",
+      "Titolo" : "Giulia Veronesi, La Torre Di Berlino E L'opera Dell'architetto Luciano Baldessari, In \"L'architettura Cronache E Storia\", N°58 (Estratto), Agosto 1960",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.234",
+      "Figura" : null
+    },
+    {
+      "ID" : 1800,
+      "Sigla" : "AT9",
+      "Titolo" : "Luciano Baldessari, in \"Aujourd'hui\", n° 31, maggio 1961",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.81",
+      "Figura" : null
+    },
+    {
+      "ID" : 1801,
+      "Sigla" : "AT9",
+      "Titolo" : "Italo Cinti, Luciano Baldessari Architetto, Tamari, Bologna, 1963",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.26-27,40,50",
+      "Figura" : "Figg.10-11"
+    },
+    {
+      "ID" : 1802,
+      "Sigla" : "AT9",
+      "Titolo" : "Guido Ballo, Designers Italiani (2), In \"Idealstandard\", Settembre-Novembre 1964",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.42",
+      "Figura" : null
+    },
+    {
+      "ID" : 1804,
+      "Sigla" : "AT9",
+      "Titolo" : "Franco Russoli, Spazialismo E Altri Aspetti Dell'arte Europea Del Dopoguerra, In L'arte Moderna - Il Dopoguerra: Dall'astrazione Geometrica Alla Pop Art, Parte Terza, Fabbri Editori, Milano, 1967",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.288,313",
+      "Figura" : null
+    },
+    {
+      "ID" : 1805,
+      "Sigla" : "AT9",
+      "Titolo" : "Franco Russoli, Un'astrazione Mai Vacua, In \"Le Arti\", Gennaio-Febbraio 1968",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.15",
+      "Figura" : null
+    },
+    {
+      "ID" : 1806,
+      "Sigla" : "AT9",
+      "Titolo" : "Mia Cinotti, Razionalismo di Baldessari, in \"Le arti\", n° 10, ottobre 1969",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.32",
+      "Figura" : null
+    },
+    {
+      "ID" : 1807,
+      "Sigla" : "AT9",
+      "Titolo" : "Enrico D. Bona, Baldessari testimone e protagonista, in \"Casabella\", n° 342 (estratto), novembre 1969",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.13",
+      "Figura" : "Figg.22-23"
+    },
+    {
+      "ID" : 1808,
+      "Sigla" : "AT9",
+      "Titolo" : "Francesco Vincitorio, Avanguardia A Teatro, In \"Notiziario Arte Contemporanea\", N°29,  15/1/1970",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.13",
+      "Figura" : null
+    },
+    {
+      "ID" : 1809,
+      "Sigla" : "AT9",
+      "Titolo" : "Mostre in Italia: il circuito è ancora chiuso, in \"Domus\", n° 484, marzo 1970",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.51-54",
+      "Figura" : null
+    },
+    {
+      "ID" : 1810,
+      "Sigla" : "AT9",
+      "Titolo" : "Lucio Fontana, Catalogo Della Mostra, Fiorin, Milano, 1972",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.28,46-47",
+      "Figura" : null
+    },
+    {
+      "ID" : 1811,
+      "Sigla" : "AT9",
+      "Titolo" : "Guido Ballo, Gli Ambienti Spaziali Di Fontana, In \"Casa Vogue\", Luglio-Agosto 1972",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.35",
+      "Figura" : null
+    },
+    {
+      "ID" : 1812,
+      "Sigla" : "AT9",
+      "Titolo" : "Agnoldomenico Pica, I Cinquant'anni Della Triennale 1923-1973 - Mostra Storica, In Piero Giangaspro (A Cura Di), Quindicesima Triennale, Catalogo Dell'esposizione, Centro Di, Firenze, 1973",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.77",
+      "Figura" : null
+    },
+    {
+      "ID" : 1814,
+      "Sigla" : "AT9",
+      "Titolo" : "Cinquant'anni Di Contributi Dei Trentini Alla \"Triennale\", In \"L'adige\", 23/9/1973",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1815,
+      "Sigla" : "AT9",
+      "Titolo" : "Eduardo Vittoria, Architettura Senza Muri, In \"Caleidoscopio\", N°14, Settembre 1973",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.24",
+      "Figura" : null
+    },
+    {
+      "ID" : 1818,
+      "Sigla" : "AT9",
+      "Titolo" : "Giovanni Cagnoni, Baldessari o il rapporto estetica-socialità, in \"Immagine Technika\", n° 12, 1975",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.20,28",
+      "Figura" : "Figg.10-11"
+    },
+    {
+      "ID" : 1820,
+      "Sigla" : "AT9",
+      "Titolo" : "Giovanna Massobrio, Paolo Portoghesi, Album Degli Anni Cinquanta, Laterza, Bari, 1977",
+      "Tipo" : "saggio in volume",
+      "Pagina" : null,
+      "Figura" : "Fig.322"
+    },
+    {
+      "ID" : 1822,
+      "Sigla" : "AT9",
+      "Titolo" : "Paul Maenz, Die 50Er Jahre, Gerd Hatje, Stuttgart, 1978",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.36",
+      "Figura" : null
+    },
+    {
+      "ID" : 1823,
+      "Sigla" : "AT9",
+      "Titolo" : "Zita Mosca (A Cura Di), Il Disegno Di Luciano Baldessari 1915-1972, Catalogo Della Mostra, Presentazione Di Anna Maria Brizio, Fondazione Corrente, Milano, 1978",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.0,12-13, Tav.X",
+      "Figura" : null
+    },
+    {
+      "ID" : 1824,
+      "Sigla" : "AT9",
+      "Titolo" : "Anty Pansera, Storia E Cronaca Della Triennale, Longanesi, Milano, 1978",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.368,370-372,387",
+      "Figura" : null
+    },
+    {
+      "ID" : 1825,
+      "Sigla" : "AT9",
+      "Titolo" : "Christian Borngraber, Stilnovo, Design In Den 50 Er Jahren, 1979",
+      "Tipo" : "saggio in volume",
+      "Pagina" : null,
+      "Figura" : "Figg.3.9,3.11"
+    },
+    {
+      "ID" : 1826,
+      "Sigla" : "AT9",
+      "Titolo" : "Centrokappa (A Cura Di), Il Design Italiano Degli Anni '50, Editoriale Domus, Milano, 1980",
+      "Tipo" : "saggio in volume",
+      "Pagina" : null,
+      "Figura" : "Figg.544,547-548"
+    },
+    {
+      "ID" : 1828,
+      "Sigla" : "AT9",
+      "Titolo" : "Daniele Baroni, L'oggetto Lampada - Forma E Funzione, Catalogo Della Mostra, Electa, Milano, 1981",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.118",
+      "Figura" : null
+    },
+    {
+      "ID" : 1829,
+      "Sigla" : "AT9",
+      "Titolo" : "Carlo De Carli, Architettura Spazio Primario, Hoepli, Milano, 1982",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.178-179,764,768",
+      "Figura" : null
+    },
+    {
+      "ID" : 1830,
+      "Sigla" : "AT9",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : null,
+      "Figura" : "Figg.134-140"
+    },
+    {
+      "ID" : 1831,
+      "Sigla" : "AT9",
+      "Titolo" : "Margherita del Favero, I documenti di Vogue: Luciano Baldessari, in \"Vogue\", n° 388, maggio 1982",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.228",
+      "Figura" : null
+    },
+    {
+      "ID" : 1832,
+      "Sigla" : "AT9",
+      "Titolo" : "J. Glancey, Baldessari, in \"The architectural review\", n° 1028, ottobre 1982",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : null,
+      "Figura" : "Fig.3"
+    },
+    {
+      "ID" : 1833,
+      "Sigla" : "AT9",
+      "Titolo" : "Galleria Salamon Augustoni Algranti, Arte Moderna E Contemporanea, Catalogo Dell'esposizione (Asta), Litostampa, Milano, 1985",
+      "Tipo" : "saggio in volume",
+      "Pagina" : null,
+      "Figura" : "Figg.36-39"
+    },
+    {
+      "ID" : 1834,
+      "Sigla" : "AT9",
+      "Titolo" : "Dario Marchesoni (A Cura Di), La Triennale Di Milano E Il Palazzo Dell'arte, Electa, Milano, 1985",
+      "Tipo" : "saggio in volume",
+      "Pagina" : null,
+      "Figura" : "Figg.46-49"
+    },
+    {
+      "ID" : 1835,
+      "Sigla" : "AT9",
+      "Titolo" : "Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : null,
+      "Figura" : "Figg.72-73,78-82"
+    },
+    {
+      "ID" : 1837,
+      "Sigla" : "AT9",
+      "Titolo" : "Giorgio Mascherpa, Luciano Baldessari o dell'\"invenzione\", in Zita Mosca Baldessari (a cura di), Luciano Baldessari, catalogo della mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : "P.30",
+      "Figura" : null
+    },
+    {
+      "ID" : 1839,
+      "Sigla" : "AT9",
+      "Titolo" : "Ugo Lo Russo, Un architetto che respirò l'avanguardia, in \"La provincia di Como\", 2/10/1985",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1843,
+      "Sigla" : "AT9",
+      "Titolo" : "Mariapia Matteotti, Luciano Baldessari, in \"Ufficiostile\", n° 4, aprile 1986",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.44",
+      "Figura" : null
+    },
+    {
+      "ID" : 1844,
+      "Sigla" : "AT9",
+      "Titolo" : "Enrico Crispolti, Presencia Creativa, Colocaciòn Politica Y Herencia Del Futurismo, In Germano Celant, Ida Gianelli (A Cura Di), Memoria Del Futuro, Catalogo Della Mostra, Bompiani, Milano, 1990",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.80",
+      "Figura" : null
+    },
+    {
+      "ID" : 1847,
+      "Sigla" : "AT9",
+      "Titolo" : "Aa.Vv., Espressione Oggettività - Aspetti Dell'arte Negli Anni Venti E Trenta, Tirolo, Alto Adige, Trentino, Catalogo Della Mostra, Herausgeber, Innsbruck, 1994",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.128",
+      "Figura" : null
+    },
+    {
+      "ID" : 1848,
+      "Sigla" : "AT9",
+      "Titolo" : "Anna Tavernari, Luigi Piatti (A Cura Di), Lettere A Vittorio Tavernari, Nicolin, Gavirate, 1994",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.31,285,287",
+      "Figura" : null
+    },
+    {
+      "ID" : 1849,
+      "Sigla" : "AT9",
+      "Titolo" : "Paolo Campiglio, Lucio Fontana - La Scultura Architettonica Negli Anni Trenta, Ilisso, Nuoro, 1995",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.64",
+      "Figura" : null
+    },
+    {
+      "ID" : 1851,
+      "Sigla" : "AT9",
+      "Titolo" : "Giuseppe Appella (A Cura Di), Umberto Milani, Catalogo Della Mostra, Edizioni Della Cometa, Roma, 1996",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.108",
+      "Figura" : null
+    },
+    {
+      "ID" : 1852,
+      "Sigla" : "AT9",
+      "Titolo" : "Luciano Caramel (A Cura Di), Attilio Rossi, Le Opere 1933-1994, Giunti, Milano, 1996",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.172",
+      "Figura" : null
+    },
+    {
+      "ID" : 1853,
+      "Sigla" : "AT9",
+      "Titolo" : "Aa.Vv., Lucio Fontana E Milano, Catalogo Della Mostra, Electa, Milano, 1996",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp. 31,32,57-59,62-63,69,147,150)",
+      "Figura" : null
+    },
+    {
+      "ID" : 1854,
+      "Sigla" : "AT9",
+      "Titolo" : "Sebastiano Grasso, Retrospettiva Di Umberto Milani Ai Sassi Di Matera - Se La Scultura Riposa Nel Vuoto, In \"Corriere Della Sera\", 15/7/1996",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P. 27",
+      "Figura" : null
+    },
+    {
+      "ID" : 1862,
+      "Sigla" : "AVG",
+      "Titolo" : "Vincent a Milano, in \"Spazio\", n° 6, dicembre 1951-aprile 1952",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.109",
+      "Figura" : null
+    },
+    {
+      "ID" : 1864,
+      "Sigla" : "AVG",
+      "Titolo" : "Ente Manifestazioni Milanesi, Van Gogh - Dipinti E Disegni, Catalogo Della Mostra, 1952",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.7",
+      "Figura" : null
+    },
+    {
+      "ID" : 1869,
+      "Sigla" : "AVG",
+      "Titolo" : "Agnoldomenico Pica, Allestimento Di Una Mostra, In \"Le Arti\", Marzo 1952",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.6",
+      "Figura" : null
+    },
+    {
+      "ID" : 1870,
+      "Sigla" : "AVG",
+      "Titolo" : "Nelly Inghilleri Crespi, Un architetto trentino alla mostra di Van Gogh, in \"Trentino\", n° 3-4, marzo-aprile 1952",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.38",
+      "Figura" : null
+    },
+    {
+      "ID" : 1872,
+      "Sigla" : "AVG",
+      "Titolo" : "A.M. Hammacher, Opmerkelijke Van Gogh - Tentoonstelling, In \"De Groene Amsterdammer\", 5/4/1952",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.9",
+      "Figura" : null
+    },
+    {
+      "ID" : 1877,
+      "Sigla" : "AVG",
+      "Titolo" : "Urlich Conrads, Anmerkungen zur mailander Van Gogh ausstellung 1952, in \"Baukunst und werkform\", n° 8, 1952",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.51-52",
+      "Figura" : null
+    },
+    {
+      "ID" : 1878,
+      "Sigla" : "AVG",
+      "Titolo" : "T. Hijikata, Projet De L. Baldessari Pour L'exposition De Van Gogh, In \"Mizue\", Marzo 1954",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.42-45",
+      "Figura" : null
+    },
+    {
+      "ID" : 1880,
+      "Sigla" : "AVG",
+      "Titolo" : "Roberto Aloi, Esempi Di Decorazione Moderna Di Tutto Il Mondo - Illuminazione Oggi, Hoepli, Milano, 1956",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.35",
+      "Figura" : null
+    },
+    {
+      "ID" : 1881,
+      "Sigla" : "AVG",
+      "Titolo" : "Alfred Schüler, Luciano Baldessari Mailander Architek - Eine Melodie Uber Die Technik, In \"Der Tagesspiegel\", 3/6/1956",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.4",
+      "Figura" : null
+    },
+    {
+      "ID" : 1882,
+      "Sigla" : "AVG",
+      "Titolo" : "Alfred Schüler, Luciano Baldessari Mailander Architek - Eine Melodie Uber Die Technik, In \"Der Standpunkt\", 27/7/1956",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "Pp.7-8",
+      "Figura" : null
+    },
+    {
+      "ID" : 1884,
+      "Sigla" : "AVG",
+      "Titolo" : "Galleria Schettini, Luciano Baldessari, Catalogo Della Mostra, Milano, 1957",
+      "Tipo" : "saggio in volume",
+      "Pagina" : null,
+      "Figura" : null
+    },
+    {
+      "ID" : 1885,
+      "Sigla" : "AVG",
+      "Titolo" : "Giulia Veronesi, Luciano Baldessari Architetto, Collana Artisti Trentini, Trento, 1957",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.12,22, 86-87",
+      "Figura" : null
+    },
+    {
+      "ID" : 1886,
+      "Sigla" : "AVG",
+      "Titolo" : "Milano Oggi, Edizioni Milano Moderna, Milano, 1957",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.26",
+      "Figura" : null
+    },
+    {
+      "ID" : 1887,
+      "Sigla" : "AVG",
+      "Titolo" : "Gio Ponti, A Berlino, Nell'hansaviertel, Il Grattacielo Italiano, In \"Domus\", N°332, Luglio 1957",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1889,
+      "Sigla" : "AVG",
+      "Titolo" : "Antonio Frova, Kunstausstellungen in Mailand, in \"Werk\", n° 10, ottobre 1957",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.354-358",
+      "Figura" : null
+    },
+    {
+      "ID" : 1893,
+      "Sigla" : "AVG",
+      "Titolo" : "Carlo Perogalli, Mostra Di Baldessari, In \"Atti Del Collegio Regionale Lombardo Architetti\", N°12, Dicembre 1957",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.31",
+      "Figura" : null
+    },
+    {
+      "ID" : 1896,
+      "Sigla" : "AVG",
+      "Titolo" : "Gillo Dorfles, La mostra di Luciano Baldessari in Germania, in \"Domus\", n° 352 (estratto), marzo 1958",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.36",
+      "Figura" : "Fig.20"
+    },
+    {
+      "ID" : 1897,
+      "Sigla" : "AVG",
+      "Titolo" : "Giulia Veronesi, Luciano Baldessari Architetto, In \"Edilizia Moderna\", N°63, Aprile 1958",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.88",
+      "Figura" : null
+    },
+    {
+      "ID" : 1901,
+      "Sigla" : "AVG",
+      "Titolo" : "B. Majorick, Moderne Museumtechniek, In Ontwerpen En Verwerpen, Amsterdam, 1959",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.60-62",
+      "Figura" : null
+    },
+    {
+      "ID" : 1903,
+      "Sigla" : "AVG",
+      "Titolo" : "F.C.P., La Mostra Di Luciano Baldessari E La Versatilità Del Suo Ingegno, In \"Il Gazzettino\", 24/12/1959",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.5",
+      "Figura" : null
+    },
+    {
+      "ID" : 1904,
+      "Sigla" : "AVG",
+      "Titolo" : "Giulio De Carli, Luciano Baldessari, In \"L'adige\", 30/12/1959",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1905,
+      "Sigla" : "AVG",
+      "Titolo" : "Italo Cinti, Luciano Baldessari, Architetto Integrale, In \"Economia Trentina\", N°5-6, 1959",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.17-18,20",
+      "Figura" : null
+    },
+    {
+      "ID" : 1907,
+      "Sigla" : "AVG",
+      "Titolo" : "Giulia Veronesi, La Torre Di Berlino E L'opera Dell'architetto Luciano Baldessari, In \"L'architettura Cronache E Storia\", N°58 (Estratto), Agosto 1960",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.234",
+      "Figura" : null
+    },
+    {
+      "ID" : 1908,
+      "Sigla" : "AVG",
+      "Titolo" : "Luciano Baldessari, in \"Aujourd'hui\", n° 31, maggio 1961",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.81",
+      "Figura" : null
+    },
+    {
+      "ID" : 1909,
+      "Sigla" : "AVG",
+      "Titolo" : "Klaus Franck, Ausstellungen Exhibitions, Gerd Hatje, Stuttgart, 1961",
+      "Tipo" : "altro",
+      "Pagina" : "P.80",
+      "Figura" : null
+    },
+    {
+      "ID" : 1910,
+      "Sigla" : "AVG",
+      "Titolo" : "Milano Com'è - Inchiesta, Grandi Mostre Temporanee, Feltrinelli, Milano, 1962",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.908",
+      "Figura" : null
+    },
+    {
+      "ID" : 1911,
+      "Sigla" : "AVG",
+      "Titolo" : "Italo Cinti, Luciano Baldessari Architetto, Tamari, Bologna, 1963",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.51-53",
+      "Figura" : null
+    },
+    {
+      "ID" : 1912,
+      "Sigla" : "AVG",
+      "Titolo" : "S.B., Baldessari Luciano, In \"Le Muse\", N°23, 28/3/1964",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.2",
+      "Figura" : null
+    },
+    {
+      "ID" : 1913,
+      "Sigla" : "AVG",
+      "Titolo" : "Guido Ballo, Designers Italiani (2), In \"Idealstandard\", Settembre-Novembre 1964",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.42",
+      "Figura" : null
+    },
+    {
+      "ID" : 1914,
+      "Sigla" : "AVG",
+      "Titolo" : "Mia Cinotti, Razionalismo di Baldessari, in \"Le arti\", n° 10, ottobre 1969",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.32",
+      "Figura" : null
+    },
+    {
+      "ID" : 1915,
+      "Sigla" : "AVG",
+      "Titolo" : "Enrico D. Bona, Baldessari testimone e protagonista, in \"Casabella\", n° 342 (estratto), novembre 1969",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.13",
+      "Figura" : "Fig.28"
+    },
+    {
+      "ID" : 1916,
+      "Sigla" : "AVG",
+      "Titolo" : "Mario Monteverdi (A Cura Di), Avanguardia A Teatro Dal 1915 Al 1955 Nell'opera Scenografica Di Depero Baldessari Prampolini, Catalogo Della Mostra, Trento, 1970",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.24",
+      "Figura" : null
+    },
+    {
+      "ID" : 1917,
+      "Sigla" : "AVG",
+      "Titolo" : "Michele Cennamo (A Cura Di), 1A. Esposizione Italiana Di Architettura Razionale, Fausto Fiorentino, Napoli, 1973",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.226",
+      "Figura" : null
+    },
+    {
+      "ID" : 1918,
+      "Sigla" : "AVG",
+      "Titolo" : "Cinquant'anni Di Contributi Dei Trentini Alla \"Triennale\", In \"L'adige\", 23/9/1973",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1919,
+      "Sigla" : "AVG",
+      "Titolo" : "Luciano Baldessari, in \"Controspazio\", n° 2-3 (numero monografico), marzo-giugno 1978",
+      "Tipo" : "monografia",
+      "Pagina" : "P.50",
+      "Figura" : null
+    },
+    {
+      "ID" : 1920,
+      "Sigla" : "AVG",
+      "Titolo" : "Paolo Farina, Luciano Baldessari, In \"Il Giornale Della Lombardia\", N°8, Gennaio 1979",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.48",
+      "Figura" : null
+    },
+    {
+      "ID" : 1921,
+      "Sigla" : "AVG",
+      "Titolo" : "Cecilia De Carli, Luciano Baldessari architetto artista, in \"Città e Società\", n° 2, aprile-giugno 1981",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.82,88",
+      "Figura" : null
+    },
+    {
+      "ID" : 1922,
+      "Sigla" : "AVG",
+      "Titolo" : "Carlo De Carli, Architettura Spazio Primario, Hoepli, Milano, 1982",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.179",
+      "Figura" : null
+    },
+    {
+      "ID" : 1923,
+      "Sigla" : "AVG",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.22,130",
+      "Figura" : "Figg. 177-181"
+    },
+    {
+      "ID" : 1925,
+      "Sigla" : "AVG",
+      "Titolo" : "Cesare De Seta, Baldessari, L'effimero Rigore, In \"Il Mattino\", 3/10/1982",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1926,
+      "Sigla" : "AVG",
+      "Titolo" : "Anty Pansera, Ricordando Luciano Baldessari Il Più Europeo Degli Architetti Italiani, In \"Prospettiva D'arte\", N°57, Novembre-Dicembre 1982",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.39",
+      "Figura" : null
+    },
+    {
+      "ID" : 1927,
+      "Sigla" : "AVG",
+      "Titolo" : "Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.20,28",
+      "Figura" : "Fig.879"
+    },
+    {
+      "ID" : 1928,
+      "Sigla" : "AVG",
+      "Titolo" : "Giorgio Mascherpa, Baldessari Tanto Misterioso, In \"Arte\", N°153, Giugno 1985",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.73",
+      "Figura" : null
+    },
+    {
+      "ID" : 1932,
+      "Sigla" : "AVG",
+      "Titolo" : "Archivio Cesare Andreoni (A Cura Di), Cesare Andreoni, Artista, Artigiano, Protodesigner, Bolis, Bergamo, 1992",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.47",
+      "Figura" : null
+    },
+    {
+      "ID" : 1934,
+      "Sigla" : "AVG",
+      "Titolo" : "Luciano Caramel (A Cura Di), Attilio Rossi, Le Opere 1933-1994, Giunti, Milano, 1996",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.172,206",
+      "Figura" : null
+    },
+    {
+      "ID" : 1935,
+      "Sigla" : "AVG",
+      "Titolo" : "Gian Alberto dell'Acqua, L'attività di promotore culturale di Attilio Rossi, in Luciano Caramel, Attilio Rossi, Le opere 1933-1994, Giunti, Milano, 1996",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P. 170",
+      "Figura" : null
+    },
+    {
+      "ID" : 1940,
+      "Sigla" : "ASO",
+      "Titolo" : "Milano Com'è - Inchiesta, Grandi Mostre Temporanee, Feltrinelli, Milano, 1962",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.908",
+      "Figura" : null
+    },
+    {
+      "ID" : 1941,
+      "Sigla" : "AAE",
+      "Titolo" : "Ente Manifestazioni Milanesi (A Cura Di), Mostra Della Arte E Della Civiltà Etrusca, Catalogo Della Mostra, Silvana Editoriale, Milano, 1955",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.Ix,2",
+      "Figura" : null
+    },
+    {
+      "ID" : 1952,
+      "Sigla" : "AAE",
+      "Titolo" : "Dino Campini, Gli etruschi a Palazzo Reale, in \"Orizzonti italiani\", n° 5, giugno 1955",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.29",
+      "Figura" : null
+    },
+    {
+      "ID" : 1953,
+      "Sigla" : "AAE",
+      "Titolo" : "Liana, Incontro Con Un Grande Cultore Dell'arte Etrusca, In \"Metropoli\", N°1, Novembre 1955",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.18",
+      "Figura" : null
+    },
+    {
+      "ID" : 1954,
+      "Sigla" : "AAE",
+      "Titolo" : "Sibylle Von Cles-Reden, Die Botschaft Der Etrusker, In \"Magnum\", N°6, 1955",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.82",
+      "Figura" : null
+    },
+    {
+      "ID" : 1955,
+      "Sigla" : "AAE",
+      "Titolo" : "François Stahly, Luciano Baldessari, In \"Graphis\", N°61 (Estratto), 1955",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.435",
+      "Figura" : "Fig.6"
+    },
+    {
+      "ID" : 1956,
+      "Sigla" : "AAE",
+      "Titolo" : "Roberto Aloi, Esempi Di Decorazione Moderna Di Tutto Il Mondo - Illuminazione Oggi, Hoepli, Milano, 1956",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.36",
+      "Figura" : null
+    },
+    {
+      "ID" : 1961,
+      "Sigla" : "AAE",
+      "Titolo" : "Galleria Schettini, Luciano Baldessari, Catalogo Della Mostra, Milano, 1957",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.6",
+      "Figura" : null
+    },
+    {
+      "ID" : 1962,
+      "Sigla" : "AAE",
+      "Titolo" : "Giulia Veronesi, Luciano Baldessari Architetto, Collana Artisti Trentini, Trento, 1957",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.12,23,88-89",
+      "Figura" : null
+    },
+    {
+      "ID" : 1963,
+      "Sigla" : "AAE",
+      "Titolo" : "Milano Oggi, Edizioni Milano Moderna, Milano, 1957",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.26-27",
+      "Figura" : null
+    },
+    {
+      "ID" : 1964,
+      "Sigla" : "AAE",
+      "Titolo" : "Gio Ponti, A Berlino, Nell'hansaviertel, Il Grattacielo Italiano, In \"Domus\", N°332, Luglio 1957",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1969,
+      "Sigla" : "AAE",
+      "Titolo" : "Carlo Perogalli, Mostra Di Baldessari, In \"Atti Del Collegio Regionale Lombardo Architetti\", N°12, Dicembre 1957",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.31",
+      "Figura" : null
+    },
+    {
+      "ID" : 1972,
+      "Sigla" : "AAE",
+      "Titolo" : "Gillo Dorfles, La mostra di Luciano Baldessari in Germania, in \"Domus\", n° 352 (estratto), marzo 1958",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.36",
+      "Figura" : "Figg.18-19,22"
+    },
+    {
+      "ID" : 1973,
+      "Sigla" : "AAE",
+      "Titolo" : "Giulia Veronesi, Luciano Baldessari Architetto, In \"Edilizia Moderna\", N°63, Aprile 1958",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.88",
+      "Figura" : null
+    },
+    {
+      "ID" : 1977,
+      "Sigla" : "AAE",
+      "Titolo" : "F.C.P., La Mostra Di Luciano Baldessari E La Versatilità Del Suo Ingegno, In \"Il Gazzettino\", 24/12/1959",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.5",
+      "Figura" : null
+    },
+    {
+      "ID" : 1978,
+      "Sigla" : "AAE",
+      "Titolo" : "Giulio De Carli, Luciano Baldessari, In \"L'adige\", 30/12/1959",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1979,
+      "Sigla" : "AAE",
+      "Titolo" : "Italo Cinti, Luciano Baldessari, Architetto Integrale, In \"Economia Trentina\", N°5-6, 1959",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.17-18",
+      "Figura" : null
+    },
+    {
+      "ID" : 1980,
+      "Sigla" : "AAE",
+      "Titolo" : "B. Majorick, Moderne Museumtechniek, In Ontwerpen En Verwerpen, Amsterdam, 1959",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.59",
+      "Figura" : null
+    },
+    {
+      "ID" : 1982,
+      "Sigla" : "AAE",
+      "Titolo" : "Giulia Veronesi, La Torre Di Berlino E L'opera Dell'architetto Luciano Baldessari, In \"L'architettura Cronache E Storia\", N°58 (Estratto), Agosto 1960",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.235",
+      "Figura" : null
+    },
+    {
+      "ID" : 1983,
+      "Sigla" : "AAE",
+      "Titolo" : "Klaus Franck, Ausstellungen Exhibitions, Gerd Hatje, Stuttgart, 1961",
+      "Tipo" : "altro",
+      "Pagina" : "P.81",
+      "Figura" : null
+    },
+    {
+      "ID" : 1984,
+      "Sigla" : "AAE",
+      "Titolo" : "Luciano Baldessari, in \"Aujourd'hui\", n° 31, maggio 1961",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.81",
+      "Figura" : null
+    },
+    {
+      "ID" : 1985,
+      "Sigla" : "AAE",
+      "Titolo" : "Milano Com'è - Inchiesta, Grandi Mostre Temporanee, Feltrinelli, Milano, 1962",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.908",
+      "Figura" : null
+    },
+    {
+      "ID" : 1986,
+      "Sigla" : "AAE",
+      "Titolo" : "Italo Cinti, Luciano Baldessari Architetto, Tamari, Bologna, 1963",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.51,52-53",
+      "Figura" : null
+    },
+    {
+      "ID" : 1987,
+      "Sigla" : "AAE",
+      "Titolo" : "S.B., Baldessari Luciano, In \"Le Muse\", N°23, 28/3/1964",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.2",
+      "Figura" : null
+    },
+    {
+      "ID" : 1988,
+      "Sigla" : "AAE",
+      "Titolo" : "Guido Ballo, Designers Italiani (2), In \"Idealstandard\", Settembre-Novembre 1964",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.42",
+      "Figura" : null
+    },
+    {
+      "ID" : 1989,
+      "Sigla" : "AAE",
+      "Titolo" : "Mia Cinotti, Razionalismo di Baldessari, in \"Le arti\", n° 10, ottobre 1969",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.32",
+      "Figura" : null
+    },
+    {
+      "ID" : 1990,
+      "Sigla" : "AAE",
+      "Titolo" : "Enrico D. Bona, Baldessari testimone e protagonista, in \"Casabella\", n° 342 (estratto), novembre 1969",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.13",
+      "Figura" : "Fig.29"
+    },
+    {
+      "ID" : 1991,
+      "Sigla" : "AAE",
+      "Titolo" : "Mario Monteverdi (A Cura Di), Avanguardia A Teatro Dal 1915 Al 1955 Nell'opera Scenografica Di Depero Baldessari Prampolini, Catalogo Della Mostra, Trento, 1970",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.24",
+      "Figura" : null
+    },
+    {
+      "ID" : 1992,
+      "Sigla" : "AAE",
+      "Titolo" : "Enciclopedia Dell'arte Garzanti, Voce \"Baldessari Luciano\", Garzanti, Milano, 1973",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.38",
+      "Figura" : null
+    },
+    {
+      "ID" : 1993,
+      "Sigla" : "AAE",
+      "Titolo" : "Cinquant'anni Di Contributi Dei Trentini Alla \"Triennale\", In \"L'adige\", 23/9/1973",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 1994,
+      "Sigla" : "AAE",
+      "Titolo" : "Luciano Baldessari, in \"Controspazio\", n° 2-3 (numero monografico), marzo-giugno 1978",
+      "Tipo" : "monografia",
+      "Pagina" : "P.51",
+      "Figura" : null
+    },
+    {
+      "ID" : 1995,
+      "Sigla" : "AAE",
+      "Titolo" : "Carlo De Carli, Architettura Spazio Primario, Hoepli, Milano, 1982",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.182",
+      "Figura" : null
+    },
+    {
+      "ID" : 1996,
+      "Sigla" : "AAE",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.22,140",
+      "Figura" : "Figg.198-201"
+    },
+    {
+      "ID" : 1997,
+      "Sigla" : "AAE",
+      "Titolo" : "Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : null,
+      "Figura" : "Figg.97-98"
+    },
+    {
+      "ID" : 1999,
+      "Sigla" : "AAE",
+      "Titolo" : "Giorgio Mascherpa, Baldessari Tanto Misterioso, In \"Arte\", N°153, Giugno 1985",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.73",
+      "Figura" : null
+    },
+    {
+      "ID" : 2000,
+      "Sigla" : "AAE",
+      "Titolo" : "Giorgio Mascherpa, Luciano Baldessari, In \"Avvenire\", 4/7/1985",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.13",
+      "Figura" : null
+    },
+    {
+      "ID" : 2004,
+      "Sigla" : "AAE",
+      "Titolo" : "Giuseppe Appella (A Cura Di), Umberto Milani, Catalogo Della Mostra, Edizioni Della Cometa, Roma, 1996",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.111",
+      "Figura" : null
+    },
+    {
+      "ID" : 2005,
+      "Sigla" : "AAE",
+      "Titolo" : "Luciano Caramel (A Cura Di), Attilio Rossi, Le Opere 1933-1994, Giunti, Milano, 1996",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.206",
+      "Figura" : null
+    },
+    {
+      "ID" : 2006,
+      "Sigla" : "AAE",
+      "Titolo" : "Gian Alberto dell'Acqua, L'attività di promotore culturale di Attilio Rossi, in Luciano Caramel, Attilio Rossi, Le opere 1933-1994, Giunti, Milano, 1996",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P. 170",
+      "Figura" : null
+    },
+    {
+      "ID" : 2067,
+      "Sigla" : "AAM",
+      "Titolo" : "Gillo Dorfles, La mostra di Luciano Baldessari in Germania, in \"Domus\", n° 352 (estratto), marzo 1958",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : null,
+      "Figura" : "Fig.23"
+    },
+    {
+      "ID" : 2071,
+      "Sigla" : "AAM",
+      "Titolo" : "Ugo Nebbia, Le Arti, In \"La Ceramica\", Dicembre 1958",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.51",
+      "Figura" : null
+    },
+    {
+      "ID" : 2072,
+      "Sigla" : "AAM",
+      "Titolo" : "Dino Villani, A Milano Si Parla D'arte: La Grande Mostra Di Modigliani, In \"Ufficio Moderno\", Dicembre 1958",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.2095",
+      "Figura" : null
+    },
+    {
+      "ID" : 2074,
+      "Sigla" : "AAM",
+      "Titolo" : "Ente Manifestazioni Milanesi, Milano Fuori Milano, In Milano Oggi, Milano Moderna, Milano, 1959",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.29",
+      "Figura" : null
+    },
+    {
+      "ID" : 2075,
+      "Sigla" : "AAM",
+      "Titolo" : "Milano Com'è - Inchiesta, Grandi Mostre Temporanee, Feltrinelli, Milano, 1962",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.909",
+      "Figura" : null
+    },
+    {
+      "ID" : 2146,
+      "Sigla" : "AC",
+      "Titolo" : "Ente Manifestazioni Milanesi, Milano Fuori Milano, In Milano Oggi, Milano Moderna, Milano, 1959",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.28",
+      "Figura" : null
+    },
+    {
+      "ID" : 2162,
+      "Sigla" : "AC",
+      "Titolo" : "Comune Di Milano, Il Cinquantanove, Dal Convegno Di Plombières All'armistizio Di Villafranca, Catalogo Della Mostra, Agnelli, Milano-Firenze, Aprile-Giugno 1959",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.V",
+      "Figura" : null
+    },
+    {
+      "ID" : 2164,
+      "Sigla" : "AC",
+      "Titolo" : "Diario cittadino, in \"Città di Milano\", n° 5, maggio 1959",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.313",
+      "Figura" : null
+    },
+    {
+      "ID" : 2166,
+      "Sigla" : "AC",
+      "Titolo" : "Il Cinquantanove Dal Convegno Di Plombière All'armistizio Di Villafranca, In \"Domus\", Settembre 1959",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.26-28",
+      "Figura" : null
+    },
+    {
+      "ID" : 2167,
+      "Sigla" : "AC",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : "P.160",
+      "Figura" : "Figg.236-237"
+    },
+    {
+      "ID" : 2168,
+      "Sigla" : "AC",
+      "Titolo" : "Agnoldomenico Pica, Luciano Baldessari: Architetture Compiute E Architetture Sperate, In Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : "P.11",
+      "Figura" : null
+    },
+    {
+      "ID" : 2169,
+      "Sigla" : "AC",
+      "Titolo" : "Giorgio Mascherpa, Luciano Baldessari, In \"Avvenire\", 4/7/1985",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.13",
+      "Figura" : null
+    },
+    {
+      "ID" : 2171,
+      "Sigla" : "AAI",
+      "Titolo" : "Ente Manifestazioni Milanesi, Arte Italiana Del Xx Secolo Da Collezioni Americane, Catalogo Della Mostra, Silvana Editoriale, Milano, 1960",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.8",
+      "Figura" : null
+    },
+    {
+      "ID" : 2172,
+      "Sigla" : "AAI",
+      "Titolo" : "Ente Manifestazioni Milanesi, L'anno Culturale 1960, Milano, 1960",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.9",
+      "Figura" : null
+    },
+    {
+      "ID" : 2193,
+      "Sigla" : "AAI",
+      "Titolo" : "Carlo Munari, Una Mostra A Palazzo Reale - Italiani In America, In \"Via!\", N°5, Maggio 1960",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.12",
+      "Figura" : null
+    },
+    {
+      "ID" : 2195,
+      "Sigla" : "AAI",
+      "Titolo" : "Ugo Nebbia, Le Arti, In \"La Ceramica\", Maggio 1960",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.28",
+      "Figura" : null
+    },
+    {
+      "ID" : 2196,
+      "Sigla" : "AAI",
+      "Titolo" : "Marco Valsecchi, Sono Arrivati Dai Film Alla Pittura, In \"L'illustrazione Italiana\", Giugno 1960",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.66",
+      "Figura" : null
+    },
+    {
+      "ID" : 2198,
+      "Sigla" : "AAI",
+      "Titolo" : "Mezzo secolo d'arte italiana in America, in \"Vie d'Italia\", giugno 1960, Marco Valsecchi, Maestri italiani in America, in \"Arte club\", n° 5, giugno/agosto 1960\" ATTENZIONE SONO DUE ARTICOLI",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.16",
+      "Figura" : null
+    },
+    {
+      "ID" : 2200,
+      "Sigla" : "ADF",
+      "Titolo" : "Ente Manifestazioni Milanesi, L'anno Culturale 1960, Milano, 1960",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.5",
+      "Figura" : null
+    },
+    {
+      "ID" : 2305,
+      "Sigla" : "ALF",
+      "Titolo" : "Guido Ballo, Fontana: idea per un ritratto, Torino, 1970",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.133,149,152-154,179,261",
+      "Figura" : null
+    },
+    {
+      "ID" : 2306,
+      "Sigla" : "ALF",
+      "Titolo" : "P. Fossati, Lucio Fontana - Concetti Spaziali, Torino, 1970",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.151",
+      "Figura" : null
+    },
+    {
+      "ID" : 2307,
+      "Sigla" : "ALF",
+      "Titolo" : "Lucio Fontana, Catalogo Della Mostra, Musée D'art Moderne De La Ville De Paris, Paris, 1970",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.22,25-28",
+      "Figura" : null
+    },
+    {
+      "ID" : 2312,
+      "Sigla" : "ALF",
+      "Titolo" : "Lucio Fontana, Catalogo Della Mostra, Fiorin, Milano, 1972",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.9,28,46,47,284",
+      "Figura" : null
+    },
+    {
+      "ID" : 2314,
+      "Sigla" : "ALF",
+      "Titolo" : "Gillo Dorfles, Ha Squarciato La Tela Come I Muri Di Una Prigione, In \"Bolaffi Arte\", N°18, Marzo 1972",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.52",
+      "Figura" : null
+    },
+    {
+      "ID" : 2323,
+      "Sigla" : "ALF",
+      "Titolo" : "Marco Valsecchi, Lucio Fontana Grande Innovatore, In \"Il Giorno\", 22/4/1972",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.9",
+      "Figura" : null
+    },
+    {
+      "ID" : 2361,
+      "Sigla" : "ALF",
+      "Titolo" : "Raffaele Carrieri, Alla Mostra Di Lucio Fontana Mi Pare Di Volare Fra Le Comete, In \"Epoca\", 21/5/1972",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.151",
+      "Figura" : null
+    },
+    {
+      "ID" : 2369,
+      "Sigla" : "ALF",
+      "Titolo" : "Ida Boni, L'aldilà Di Lucio Fontana, In \"Studi Cattolici\", N°135, Maggio 1972",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.390",
+      "Figura" : null
+    },
+    {
+      "ID" : 2372,
+      "Sigla" : "ALF",
+      "Titolo" : "Luigi Bracchi, Palazzo Reale, piazza Duomo, in \"La Martinella\", maggio-giugno 1972",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.224",
+      "Figura" : null
+    },
+    {
+      "ID" : 2375,
+      "Sigla" : "ALF",
+      "Titolo" : "Roberto Sanesi, Milano Onora Il Silenzio Di Fontana, In \"Il Dramma\", N°6, Giugno 1972",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.120-123",
+      "Figura" : null
+    },
+    {
+      "ID" : 2376,
+      "Sigla" : "ALF",
+      "Titolo" : "T. Trini, Vedi, È L'idea Che Conta, In \"Domus\", N°511, Giugno 1965",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.52-53 E Cop.",
+      "Figura" : null
+    },
+    {
+      "ID" : 2377,
+      "Sigla" : "ALF",
+      "Titolo" : "Marcello Venturoli, Omaggio A Fontana, In \"Playmen\", Giugno 1972",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.9",
+      "Figura" : null
+    },
+    {
+      "ID" : 2379,
+      "Sigla" : "ALF",
+      "Titolo" : "Renzo Beltrame, Retrospettiva di Lucio Fontana, in \"Nac\", n° 6-7, giugno-luglio 1972",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.18-19",
+      "Figura" : null
+    },
+    {
+      "ID" : 2382,
+      "Sigla" : "ALF",
+      "Titolo" : "E.D. Bona, Spazialismo, in \"Casabella\", n° 367, luglio 1972",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.6",
+      "Figura" : null
+    },
+    {
+      "ID" : 2385,
+      "Sigla" : "ALF",
+      "Titolo" : "Milano, Un Appuntamento Per Il Turista, In \"L'italia\", N°3, Luglio 1972",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.82",
+      "Figura" : null
+    },
+    {
+      "ID" : 2386,
+      "Sigla" : "ALF",
+      "Titolo" : "Guido Ballo, Gli Ambienti Spaziali Di Fontana, In \"Casa Vogue\", Luglio-Agosto 1972",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.34-35",
+      "Figura" : null
+    },
+    {
+      "ID" : 2387,
+      "Sigla" : "ALF",
+      "Titolo" : "Franco Russoli, Arti Figurative, In \"Zoom\", Luglio-Agosto 1972",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.6",
+      "Figura" : null
+    },
+    {
+      "ID" : 2390,
+      "Sigla" : "ALF",
+      "Titolo" : "Ambienti Spaziali Di Lucio Fontana, In \"Ottagono\", N°26, Settembre 1972",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "Pp.106-109",
+      "Figura" : null
+    },
+    {
+      "ID" : 2393,
+      "Sigla" : "ALF",
+      "Titolo" : "Giovanni Cagnoni, Baldessari o il rapporto estetica-socialità, in \"Immagine Technika\", n° 12, 1975",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.29",
+      "Figura" : null
+    },
+    {
+      "ID" : 2395,
+      "Sigla" : "ALF",
+      "Titolo" : "Luciano Baldessari, in \"Controspazio\", n° 2-3 (numero monografico), marzo-giugno 1978",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.70-71",
+      "Figura" : null
+    },
+    {
+      "ID" : 2396,
+      "Sigla" : "ALF",
+      "Titolo" : "Francesco Vincitorio, La parte dell'occhio, in \"L'Espresso\", 12/11/1978",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.167",
+      "Figura" : null
+    },
+    {
+      "ID" : 2398,
+      "Sigla" : "ALF",
+      "Titolo" : "Daniele Baroni, Le architetture semipermanenti di Luciano Baldessari, in \"Ottagono\", n° 51,  dicembre 1978",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.28",
+      "Figura" : "Fig.3"
+    },
+    {
+      "ID" : 2399,
+      "Sigla" : "ALF",
+      "Titolo" : "Zita Mosca (A Cura Di), Il Disegno Di Luciano Baldessari 1915-1972, Catalogo Della Mostra, Presentazione Di Anna Maria Brizio, Fondazione Corrente, Milano, 1978",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "Pp.13-14, Tav.Xx",
+      "Figura" : null
+    },
+    {
+      "ID" : 2401,
+      "Sigla" : "ALF",
+      "Titolo" : "Paolo Farina, Luciano Baldessari, In \"Il Giornale Della Lombardia\", N°8, Gennaio 1979",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.48",
+      "Figura" : null
+    },
+    {
+      "ID" : 2402,
+      "Sigla" : "ALF",
+      "Titolo" : "Guido Ballo, Fontana A Palazzo Reale Di Milano, In \"Studio Marconi\", N°8-9, Febbraio 1979",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.39",
+      "Figura" : null
+    },
+    {
+      "ID" : 2403,
+      "Sigla" : "ALF",
+      "Titolo" : "Mario Cossali, Appartengo alla libertà, in \"Il Leno\", n° 1, gennaio 1981",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.38",
+      "Figura" : null
+    },
+    {
+      "ID" : 2404,
+      "Sigla" : "ALF",
+      "Titolo" : "Carlo De Carli, Architettura Spazio Primario, Hoepli, Milano, 1982",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.185",
+      "Figura" : null
+    },
+    {
+      "ID" : 2405,
+      "Sigla" : "ALF",
+      "Titolo" : "Vittorio Fagone, Baldessari - Progetti E Scenografie, Electa, Milano, 1982",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.22,190",
+      "Figura" : "Figg.291-295"
+    },
+    {
+      "ID" : 2407,
+      "Sigla" : "ALF",
+      "Titolo" : "Cesare De Seta, Baldessari, L'effimero Rigore, In \"Il Mattino\", 3/10/1982",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 2408,
+      "Sigla" : "ALF",
+      "Titolo" : "Panorama, 11/10/1982",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.213",
+      "Figura" : null
+    },
+    {
+      "ID" : 2409,
+      "Sigla" : "ALF",
+      "Titolo" : "Anty Pansera, Ricordando Luciano Baldessari Il Più Europeo Degli Architetti Italiani, In \"Prospettiva D'arte\", N°57, Novembre-Dicembre 1982",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.39",
+      "Figura" : null
+    },
+    {
+      "ID" : 2410,
+      "Sigla" : "ALF",
+      "Titolo" : "Zita Mosca Baldessari (A Cura Di), Luciano Baldessari, Catalogo Della Mostra, Mondadori, Milano, 1985",
+      "Tipo" : "monografia",
+      "Pagina" : "Pp.20,27",
+      "Figura" : "Fig.127"
+    },
+    {
+      "ID" : 2411,
+      "Sigla" : "ALF",
+      "Titolo" : "Il Dizionario Di Casa Campari, Voce \"Filantropo\", Campari, Milano, 1985",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.85",
+      "Figura" : null
+    },
+    {
+      "ID" : 2412,
+      "Sigla" : "ALF",
+      "Titolo" : "Rossana Bossaglia, L'architetto Che Coltivò L'effimero, In \"Corriere Della Sera\", 24/6/1985",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.3",
+      "Figura" : null
+    },
+    {
+      "ID" : 2413,
+      "Sigla" : "ALF",
+      "Titolo" : "Giorgio Mascherpa, Luciano Baldessari, In \"Avvenire\", 4/7/1985",
+      "Tipo" : "articolo di giornale",
+      "Pagina" : "P.13",
+      "Figura" : null
+    },
+    {
+      "ID" : 2416,
+      "Sigla" : "ALF",
+      "Titolo" : "Mariapia Matteotti, Luciano Baldessari, in \"Ufficiostile\", n° 4, aprile 1986",
+      "Tipo" : "articolo di rivista",
+      "Pagina" : "P.44",
+      "Figura" : null
+    },
+    {
+      "ID" : 2419,
+      "Sigla" : "ALF",
+      "Titolo" : "Aa.Vv., Lucio Fontana E Milano, Catalogo Della Mostra, Electa, Milano, 1996",
+      "Tipo" : "saggio in volume",
+      "Pagina" : "P.148",
+      "Figura" : null
+    }]

@@ -1,0 +1,473 @@
+{% extends "archivio/layout.html" %}
+
+{% block title %}Archivio Baldessari | Opere{% endblock %}
+
+{% block header %}
+
+<!-- Active tab of the menu -->
+{% block active_opere %}active{% endblock %}
+
+<!-- <script type="text/javascript">
+//defining the name of the section for the menu
+{% load static %}
+{% get_static_prefix as STATIC_PREFIX %}
+var static_prefix = '{{ STATIC_PREFIX }}';
+
+{%if section_name %}
+var section_name = "{{ section_name }}";
+{% endif%}
+
+</script> -->
+
+{{ block.super }}
+{% load static %}
+{% get_static_prefix as STATIC_PREFIX %}
+<!-- Styles -->
+<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/opere_style.css">
+<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/views_style.css">
+<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/galleria_progetti-style.css">
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.4.5/leaflet.css" />
+<link rel="stylesheet" href="{{ STATIC_PREFIX }}scripts/leaflet-cluster/MarkerCluster.css" />
+<link rel="stylesheet" href="{{ STATIC_PREFIX }}scripts/leaflet-cluster/MarkerCluster.Default.css" />
+<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/slider.css">
+<!-- <link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/masonry-style.css"> -->
+<!-- Scripts -->
+
+{% endblock %}
+
+{% block upper-bar %}
+<div id="opere_modes">
+	<div id="types">
+		<form method="post" id="opere_switchtype_form" action="/switchtype/">
+			<ul id="opere_switchtype_ul">
+				<li>
+					<label class="filter firstBtn">
+						<input checked="checked" type="radio" name="typeviz" id="doctype" value="documents">
+						<img src="{% get_static_prefix %}img_interface/docs_off.png"/>DOCUMENTI</label>
+				</li>
+				<li>
+					<label class="filter lastBtn sel">
+						<input type="radio" name="typeviz" id="projtype" value="projects">
+						<img src="{% get_static_prefix %}img_interface/projects_on.png"/>PROGETTI</label>
+				</li>
+			</ul>
+		</form>
+	</div>
+	<div id="modes">
+		<div id="opere_modes_form">
+
+			<ul id="opere_modes_ul">
+				<li>
+					<a href="{% url archivio.views.opere %}"><label class="filter firstBtn"><img src="{% get_static_prefix %}img_interface/list_off.png"/>ELENCO</label></a>
+				</li>
+				<li>
+					<a href="{% url archivio.views.galleria_progetti %}"><label class="filter"><img src="{% get_static_prefix %}img_interface/gallery_off.png"/>GALLERIA</label></a>
+				</li>
+				<li>
+					<a href="{% url archivio.views.timeline_progetti %}"><label class="filter"><img src="{% get_static_prefix %}img_interface/timeline_off.png"/>TIMELINE</label></a>
+					</li>
+				<li>
+					<a href="#"><label class="filter lastBtn sel"><img src="{% get_static_prefix %}img_interface/map_on.png"/>MAPPA</label></a>
+				</li>
+
+			</ul>
+		</div>
+		<!-- </form> -->
+	</div>
+</div>
+
+<!-- <h1 id="section-title">Elenco delle opere</h1> -->
+{% endblock %}
+
+{% block content %}
+
+<div id="opere_viz_space" ng-app="myApp" ng-controller="ProjCtrl" ng-cloak>
+	<div id="params">
+		<div id='params1'>
+			<div id="filtri">
+				<div class="filter" id='firstFilter'>
+					FILTRI
+				</div>
+				<div class='filter' ng-repeat='filt in filters' ng-switch on="filt.field">
+					<span onClick="$('#searchFilt').slideToggle()" ng-switch-when="search">CERCA NEL TITOLO</span>
+					<span onClick="$('#dateFilt').slideToggle()" ng-switch-when="dates"><img src="{% get_static_prefix %}img_interface/dates_off.png"/>DAL [[start]] AL [[end]]</span>
+					<span onClick="$('#typeFilt').slideToggle()" ng-switch-when="types"><img src="{% get_static_prefix %}img_interface/types_off.png"/>TIPOLOGIA</span>
+				</div>
+				<div class="filter" id='lastFilter' onClick="$('#filt-types').slideToggle()"><img src="{% get_static_prefix %}img_interface/plus-filt.png"/>AGGIUNGI
+
+					<ul id='filt-types'>
+						<li id='descOpt' ng-click="addSearchFilter()" my-data="Cerca nel titolo">
+							Denominazione
+						</li>
+						<li id='dateOpt' ng-click="addDatesFilter()" my-data="Dal [[start]] al [[end]]">
+							Periodo
+						</li>
+						<li id='typeOpt' ng-click="addTypeFilter()" my-data="Tipi di progetto">
+							Tipologia
+						</li>
+					</ul>
+
+				</div>
+
+			</div>
+
+			<!--SEARCH FILTER-->
+			<div id='searchFilt'>
+				<div class='remove' ng-click="removeSearchFilter()"><img src="{% get_static_prefix %}img_interface/del-filt.png"/>Rimuovi
+				</div>
+				Cerca:
+				<input name="input" ng-model="query" ng-change="update('sf')">
+			</div>
+
+			<!--TYPE FILTER-->
+			<form id='typeFilt' name='typeFilt'>
+				<div class='remove' ng-click="removeTypeFilter()"><img src="{% get_static_prefix %}img_interface/del-filt.png"/>Rimuovi
+				</div>
+				<my-checkboxes field="filterValues.types"></my-checkboxes>
+			</form>
+
+			<!--DATES FILTER-->
+			<div id="dateFilt" >
+				<div class='remove-date' ng-click="removeDatesFilter()"><img src="{% get_static_prefix %}img_interface/del-filt.png"/>Rimuovi
+				</div>
+				<div id="sliderContainer" class='updateArea' ng-mouseup="update('df')">
+					<span id="tooltip1" class='tooltip'>[[start]]</span>
+					<span id="tooltip2" class='tooltip'>[[end]]</span>
+
+					<div slider  id="slider1"></div>
+				</div>
+			</div>
+
+		</div>
+
+		{% load static %}
+		{% get_static_prefix as STATIC_PREFIX %}
+		<script type='text/javascript' src='http://maps.google.com/maps/api/js?sensor=true'></script>
+		<script type='text/javascript' src="http://ajax.googleapis.com/ajax/libs/angularjs/1.0.4/angular.min.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js"></script>
+
+		<script type='text/javascript'>
+			var media_prefix =  {% get_media_prefix %};
+		</script>
+		<script type='text/javascript' src='{{ STATIC_PREFIX}}scripts/opere.js'></script>
+
+	</div>
+
+	<leaflet id='l-map'></leaflet>
+
+</div>
+
+<script src="{{ STATIC_PREFIX}}libs/jquery-1.7.2.min.js"></script>
+<!-- jQuery -->
+<script src="http://cdn.leafletjs.com/leaflet-0.5/leaflet.js"></script>
+<script type='text/javascript' src="{{ STATIC_PREFIX}}scripts/jquery-cookies.js"></script>
+<script src="{{ STATIC_PREFIX}}scripts/leaflet-cluster/leaflet.markercluster-src.js"></script>
+
+<script type="text/javascript">
+	//----------------------Angular----------------------
+
+	var myApp = angular.module('myApp', [], function($interpolateProvider) {
+		$interpolateProvider.startSymbol('[[');
+		$interpolateProvider.endSymbol(']]');
+	});
+
+	function ProjCtrl($scope, $http, $compile, $filter, $location) {
+
+		var urlparams = window.location.search;
+
+		$scope.jprojects = {{projects|safe}};
+	$scope.query = urlparams.match(/desc=([^&;]+?)(&|#|;|$)/i) ? urlparams.match(/desc=([^&;]+?)(&|#|;|$)/i)[1] : null;
+	$scope.markers = angular.copy($scope.jprojects);
+	$scope.markerLayer = null;
+	$scope.filterValues = {{filterValues|safe}};
+	$scope.type_data = urlparams.match(/type=([^&;]+?)(&|#|;|$)/i) ? urlparams.match(/type=([^&;]+?)(&|#|;|$)/i)[1] : null;
+	$scope.start = urlparams.match(/bdate=(.*)([^&;]+?)(&|#|;|$)/i) ? urlparams.match(/bdate=([^&;]+?)(&|#|;|$)/i)[1] : $scope.filterValues.minDate;
+	$scope.end = urlparams.match(/edate=([^&;]+?)(&|#|;|$)/i) ? urlparams.match(/edate=([^&;]+?)(&|#|;|$)/i)[1] : $scope.filterValues.maxDate;
+	$scope.map = null;
+	$scope.filters = [];
+
+	//function to be called on variables update
+	$scope.update = function() {
+
+		$scope.markers = angular.copy($scope.jprojects);
+		$scope.markers = $filter('bySearch')($scope.markers, $scope.query);
+		$scope.markers = $filter('byDate')($scope.markers, $scope.start, $scope.end);
+		$scope.markers = $filter('byType')($scope.markers, $scope.type_data);
+
+		$scope.markerLayer.clearLayers();
+
+		var geoJsonLayer = L.geoJson($scope.markers, {
+			onEachFeature : function(feature, layer) {
+				layer.bindPopup(feature.properties.nome);
+			}
+		});
+		$scope.markerLayer.addLayer(geoJsonLayer);
+		console.log($scope.jprojects);
+
+		//look at filters, add cookies
+		for (var i = 0; i < $scope.filters.length; i++) {
+			if ($scope.filters[i].field == "search") {
+				$.cookie("csearch", $scope.query, {
+					path : "/"
+				});
+			} else if ($scope.filters[i].field == "types") {
+				$.cookie("ctypes", $scope.type_data, {
+					path : "/"
+				});
+			} else if ($scope.filters[i].field == "dates") {
+				$.cookie("cdates", $scope.start + "," + $scope.end, {
+					path : "/"
+				});
+			}
+		}
+
+	};
+
+	$scope.addSearchFilter = function() {
+		$scope.filters.push({
+			'field' : 'search'
+		})
+		$("#descOpt").hide();
+		$("#searchFilt").show();
+
+	};
+
+	$scope.addDatesFilter = function() {
+		$scope.filters.push({
+			'field' : 'dates'
+		})
+		if ($('#slider1').length == 0) {
+			$('#sliderContainer').append($compile('<div slider  id="slider1"></div>')($scope));
+		}
+		$("#dateOpt").hide();
+		$("#dateFilt").show();
+	};
+
+	$scope.addTypeFilter = function() {
+		$scope.filters.push({
+			'field' : 'types'
+		})
+		$("#typeOpt").hide();
+		$("#typeFilt").show();
+	};
+
+	$scope.removeSearchFilter = function(element) {
+		var ind = $scope.filters.indexOf(element);
+		$scope.filters.splice(ind, 1);
+		$scope.query = null;
+		$("#descOpt").show();
+		$("#searchFilt").hide();
+		$.removeCookie('csearch', {
+			path : '/'
+		});
+		$scope.update();
+	};
+
+	$scope.removeDatesFilter = function(element) {
+		$('#slider1').remove();
+		$("#dateFilt").hide();
+		var ind = $scope.filters.indexOf(element);
+		$scope.filters.splice(ind, 1);
+		$scope.start = $scope.filterValues.minDate;
+		$scope.end = $scope.filterValues.maxDate;
+		$("#dateOpt").show();
+		$('#tooltip1').css('left', 0);
+		$('#tooltip2').css('left', '95%');
+		$scope.update();
+		$.removeCookie('cdates', {
+			path : '/'
+		});
+	};
+
+	$scope.removeTypeFilter = function(element) {
+		var ind = $scope.filters.indexOf(element);
+		$scope.filters.splice(ind, 1);
+		$scope.type_data = null;
+		$("#typeOpt").show();
+		$("#typeFilt").hide();
+		$scope.update();
+		$.removeCookie('ctypes', {
+			path : '/'
+		});
+	};
+
+	//look at cookies, add filters
+	if ($.cookie("csearch") != null && !$scope.query) {
+		$scope.query = $.cookie("csearch");
+
+	}
+	if ($.cookie("cdates") != null && $scope.start == $scope.filterValues.minDate && $scope.end == $scope.filterValues.maxDate) {
+		$scope.start = $.cookie("cdates").split(",")[0];
+		$scope.end = $.cookie("cdates").split(",")[1];
+
+	}
+	if ($.cookie("ctypes") != null && !$scope.type_data) {
+		$scope.type_data = $.cookie("ctypes");
+	}
+
+	//look at filter values, add filters and cookies
+	if ($scope.query) {
+
+		$scope.addSearchFilter();
+		$.cookie("csearch", $scope.query, {
+			path : "/"
+		});
+	}
+	if ($scope.type_data) {
+		$scope.addTypeFilter();
+		$.cookie("ctypes", $scope.type_data, {
+			path : "/"
+		});
+
+	}
+	if ($scope.start > $scope.filterValues.minDate || $scope.end < $scope.filterValues.maxDate) {
+		$scope.addDatesFilter();
+		$.cookie("cdates", $scope.start + "," + $scope.end, {
+			path : "/"
+		});
+		var sliderWidth = $('#tooltip2').position().left;
+		var step = sliderWidth / ($scope.filterValues.maxDate - $scope.filterValues.minDate);
+		$('#tooltip1').css('left', ($scope.start - $scope.filterValues.minDate) * step + 3);
+		$('#tooltip2').css('left', ($scope.end - $scope.filterValues.minDate) * step + 3);
+	}
+	}
+
+	angular.module('myApp', [], function($interpolateProvider) {
+		$interpolateProvider.startSymbol('[[');
+		$interpolateProvider.endSymbol(']]');
+	}).directive('slider', function() {
+		return {
+			restrict : 'A',
+			link : function(scope, element, attrs) {
+				element.slider({
+					range : true,
+					min : scope.filterValues.minDate,
+					max : scope.filterValues.maxDate,
+					values : [scope.start, scope.end],
+					slide : function(event, ui) {
+						var step = $('#slider1').width() / (scope.filterValues.maxDate - scope.filterValues.minDate);
+						scope.start = ui.values[0];
+						scope.end = ui.values[1];
+						$('#tooltip1').css('left', (ui.values[0] - scope.filterValues.minDate) * step + 3);
+						$('#tooltip2').css('left', (ui.values[1] - scope.filterValues.minDate) * step + 3);
+
+						scope.$apply();
+					}
+				});
+			}
+		};
+	}).filter('bySearch', function() {
+		return function(input, query) {
+			//control input query
+			if (query) {
+				var i = input.features.length - 1;
+				for (; i > -1; i--) {
+					//check string
+					if (input.features[i].properties.nome.toLowerCase().indexOf(query.toLowerCase()) < 0) {
+						input.features.splice(i, 1);
+					}
+				}
+			}
+			return input;
+		}
+	}).filter('byType', function() {
+		return function(input, str) {
+			if (str) {
+				var i = input.features.length - 1;
+				keys = str.split(",");
+				for (; i > -1; i--) {
+					//check string
+					var c = 0;
+					for (var j = 0; j < keys.length; j++) {
+						if (input.features[i].properties.tipo != keys[j]) {
+							c++;
+						}
+					}
+					if (c >= keys.length)
+						input.features.splice(i, 1);
+				}
+			}
+			return input;
+		}
+	}).filter('byDate', function() {
+		return function(input, st, en) {
+			var i = input.features.length - 1;
+			for (; i > -1; i--) {
+				//convert both ids to numbers to be sure
+				if (input.features[i].properties.start < +st || input.features[i].properties.end > +en) {
+					input.features.splice(i, 1);
+				}
+			}
+			return input;
+		}
+	}).directive('leaflet', function($filter) {
+		return {
+			restrict : 'E',
+			link : function(scope, element, attrs) {
+				//filtering
+				scope.markers = $filter('bySearch')(scope.markers, scope.query);
+				scope.markers = $filter('byDate')(scope.markers, scope.start, scope.end);
+				if (scope.type_data) {
+					scope.markers = $filter('byType')(scope.markers, scope.type_data);
+				}
+				var cloudmade = L.tileLayer('http://{s}.tile.cloudmade.com/{key}/22677/256/{z}/{x}/{y}.png', {
+					maxZoom : 18,
+					attribution : 'Map data &copy; 2011 OpenStreetMap contributors, Imagery &copy; 2011 CloudMade',
+					key : 'BC9A493B41014CAABB98F0471D759707'
+				});
+
+				scope.map = L.map('l-map', {
+					spiderfyOnMaxZoom : false,
+					center : [45.470725, 9.188347],
+					zoom : 12
+				}).addLayer(cloudmade);
+
+				scope.markerLayer = new L.MarkerClusterGroup();
+
+				var geoJsonLayer = L.geoJson(scope.markers, {
+					onEachFeature : function(feature, layer) {
+						layer.bindPopup(feature.properties.nome);
+					}
+				});
+				scope.markerLayer.addLayer(geoJsonLayer);
+
+				scope.map.addLayer(scope.markerLayer);
+			}
+		};
+	}).directive('myCheckboxes', function() {
+		return {
+			restrict : 'E',
+			//scope: { field: 'accessor' },
+			template : '<div ng-repeat="option in filterValues.types">' + '<label>' + '<input type="checkbox" ng-model="cbModel[option.des]" ' + 'value="[[option.des]]" ng-change="checkvalues()" ng-checked=initValues(option.des) />' + '[[option.des]]' + '</label>' + '</div>',
+			link : function(scope, element, attrs, ctrl) {
+				scope.cbModel = {};
+				scope.checkvalues = function() {
+					var val = [];
+					angular.forEach(scope.cbModel, function(v, k) {
+						if (v)
+							val.push(k);
+					});
+					if (val.length > 0)
+						scope.type_data = val.join(",");
+					else
+						scope.type_data = null;
+					scope.update('tf');
+				};
+
+				scope.initValues = function(el) {
+					if (scope.type_data != null) {
+						var fs = scope.type_data.split(",");
+						for ( i = 0; i < fs.length; i++) {
+							scope.cbModel[fs[i]] = true;
+						}
+						return scope.type_data.indexOf(el) >= 0
+					} else
+						return false;
+
+				};
+			}
+		};
+	}); 
+</script>
+
+{% endblock %}

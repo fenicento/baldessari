@@ -1,19 +1,23 @@
 #-*- coding:Latin-1 -*
 # Create your views here.
+from django.conf import settings
+from django.core import serializers
+from django.forms.models import model_to_dict
 from django.core.management import call_command
-from django.http import HttpResponse
+from django.utils.safestring import SafeString
+from django.http import HttpResponse, HttpResponseRedirect
 from django.shortcuts import render_to_response, get_object_or_404
-from archivio.models import *
-from django.http import HttpResponseRedirect
-from django.utils import simplejson
 from django.template import RequestContext
-import json
 from management.commands import update_from_json
-import os.path
 from os.path import exists
 from string import split
-import re
+import json, os.path, re
+
+# import models
+from archivio.models import *
+
 FILE_PATH = os.path.dirname(os.path.abspath(__file__))
+MEDIA_PATH = settings.MEDIA_ROOT
 
 
 #return the view of the index - for now, it corresponds to the opere view
@@ -21,49 +25,432 @@ def index(request):
     return render_to_response('archivio/index.html')
 
 def redirect_to_opere(request):
-    return HttpResponseRedirect("/opere/")
+    return HttpResponseRedirect("/opere/progetti/elenco")
+    # return HttpResponseRedirect("/opere/")
+
+def redirect_to_elenco_progetti(request):
+    return HttpResponseRedirect("/opere/progetti/elenco/")
 
 #returns the global view biografia
 def biografia(request):
-    return render_to_response('archivio/test_arguments.html', {'section_name': 'biografia'})
+    # dettagli = BioDetail.objects.all();
+    args = {
+           'section_name': 'biografia',
+           # 'dettagli': dettagli ,
+           }
+    return render_to_response('archivio/biografia.html', args)
 
 #returns the global view bibliografia
 def bibliografia(request):
     liste  = Publication.objects.all()
     projets = Project.objects.all()
-        
-    return render_to_response('archivio/bibliografia.html', {'section_name': 'bibliografia','publications' : liste, 'projets' : projets})
+    args = {'section_name': 'bibliografia', 
+			'publications' : liste, 
+			'projets' : projets}
+    return render_to_response('archivio/bibliografia.html', args)
 
 def ricerca(request):
-    return render_to_response('archivio/test_arguments.html', {'section_name': 'ricerca'})
+    arg = {'section_name': 'ricerca'}
+    return render_to_response('archivio/test_arguments.html', arg)
 
 def museo_virtuale(request):
-    return render_to_response('archivio/test_arguments.html', {'section_name': 'museovirtuale'})
+    arg = {'section_name': 'museovirtuale'}
+    return render_to_response('archivio/test_arguments.html', arg)
 
 def contatti(request):
-    return render_to_response('archivio/test_arguments.html', {'section_name': 'contatti'})
+    arg = {'section_name': 'contatti'}
+    return render_to_response('archivio/test_arguments.html', arg)
 
 def login(request):
-    return render_to_response('archivio/test_arguments.html', {'section_name': 'login'})
+    arg = {'section_name': 'login'}
+    return render_to_response('archivio/test_arguments.html', arg)
 
 
 #returns the global view opere
 def opere(request):  
+    return HttpResponseRedirect("/opere/progetti/elenco")
+
+    # projects = Project.objects.all()
+    #     draws = Drawing.objects.all()
+    #     drawings = []
+    #     for p in projects:
+    #         ds = draws.filter(project__sigla = p.sigla)
+    #         if len(ds) > 0:	# at least one document
+    #             d = ds[0]
+    #             drawings.append(d)
+    # 
+    # 
+    #     args = {
+    #            'section_name': 'opere',
+    #            'projects': projects,
+    #            'drawings': drawings,
+    #            }
+    #     return render_to_response('archivio/opere.html', args)
+
+    # arg = {'section_name': 'opere'}
+    # return render_to_response('archivio/opere.html', arg)
+
+
+#returns the global view opere
+def elenco_progetti(request):
+    # projects = Project.objects.all()
+    # draws = Drawing.objects.all()
+    # drawings = []
+    # for p in projects:
+        # ds = draws.filter(project__sigla = p.sigla)
+        # if len(ds) > 0:	# at least one document
+            # d = ds[0]
+            # drawings.append(d)
+# 
+# 
+    # args = {
+           # 'section_name': 'opere',
+           # 'projects': projects,
+           # 'drawings': drawings,
+           # }
+    type = request.GET.get('type')
+    bdate = request.GET.get('bdate')
+    edate = request.GET.get('edate')
+    desc = request.GET.get('desc')
+    
+    filterValues=dict();
+    minDate=2000
+    maxDate=0
+    types=[]
+    
+    #define filters from query string
+    if type is not None:
+        types=type.split(",")
+        variables = {'tipo__in':types,'timeinterval__beginningYear__gte':bdate,'timeinterval__endYear__lte':edate,'denominazione__icontains':desc}
+        
+    else:
+        variables = {'timeinterval__beginningYear__gte':bdate,'timeinterval__endYear__lte':edate,'denominazione__icontains':desc}
+        
+    projects = Project.objects.all()
+    
+    #filter the project list
+    for key, value in variables.items():
+        if value is not None:
+            projects = projects.filter(**{key: value})
+        
+    #projects=projects.order_by('timeinterval__beginningYear')
+    projects=projects.distinct()
+    jsonProjs=[]
+    
+    for p in projects:
+        currProj=dict()
+        currProj['sigla']=p.sigla
+        currProj['nome']=p.denominazione
+        currProj['lat']=p.latitude
+        currProj['long']=p.longitude
+        currProj['tipo']=p.tipo
+        currProj['start']=TimeInterval.objects.filter(target=p)[0].beginningYear
+        currProj['end']=TimeInterval.objects.filter(target=p).reverse()[0].endYear
+        try:
+            currProj['thumb']=p.related_drawing().thumbAdress
+        except:
+            currProj['thumb']='img_documents/nothumb.jpg'
+        jsonProjs.append(currProj)
+        
+        if currProj['start']<minDate:
+            minDate=currProj['start']
+        
+        if currProj['end']>maxDate:
+            maxDate=currProj['end']
+        
+        if currProj['tipo'] is not None and {'des':currProj['tipo'],'checked':False} not in types:
+            types.append({'des':currProj['tipo'],'checked':False})
+        
+        
+    filterValues['minDate']=minDate;
+    filterValues['maxDate']=maxDate;
+    filterValues['types']=types;
+    
+                       
+    jsonProj=json.dumps(jsonProjs)
+    jFilterValues=json.dumps(filterValues)
+        
     args = {
-                'section_name': 'opere'
+            'section_name': 'opere',
+            #'projects': projects,
+            'jsonProj': jsonProj,
+            'filterValues' : jFilterValues
             }
     return render_to_response('archivio/opere.html', args)
 
+    # arg = {'section_name': 'opere'}
+    # return render_to_response('archivio/opere.html', arg)
+
+# Show documents
+def documenti(request):
+    drawings = Drawing.objects.all()[1:10]	# TODO eliminare limite di 10 elementi
+    args = {
+            'section_name': 'opere',
+            'drawings': drawings,
+            }
+    return render_to_response('archivio/documenti.html', args)
 
 
+# Show progetti
+def progetti(request):
+    projects = Project.objects.all()[1:10]
+    args = {
+            'section_name': 'opere',
+            'drawings': projects,
+            }
+    return render_to_response('archivio/progetti.html', args)
+
+# Show progetti as a gallery - STARTING FILTER DEVELOPMENT HERE
+def galleria_progetti(request):
+    type = request.GET.get('type')
+    bdate = request.GET.get('bdate')
+    edate = request.GET.get('edate')
+    desc = request.GET.get('desc')
+    
+    filterValues=dict();
+    minDate=2000
+    maxDate=0
+    types=[]
+    
+    #define filters from query string
+    if type is not None:
+        types=type.split(",")
+        variables = {'tipo__in':types,'timeinterval__beginningYear__gte':bdate,'timeinterval__endYear__lte':edate,'denominazione__icontains':desc}
+        
+    else:
+        variables = {'timeinterval__beginningYear__gte':bdate,'timeinterval__endYear__lte':edate,'denominazione__icontains':desc}
+        
+    projects = Project.objects.all()
+    
+    #filter the project list
+    for key, value in variables.items():
+        if value is not None:
+            projects = projects.filter(**{key: value})
+        
+    #projects=projects.order_by('timeinterval__beginningYear')
+    projects=projects.distinct()
+    jsonProjs=[]
+    
+    for p in projects:
+        currProj=dict()
+        currProj['sigla']=p.sigla
+        currProj['nome']=p.denominazione
+        currProj['lat']=p.latitude
+        currProj['long']=p.longitude
+        currProj['tipo']=p.tipo
+        currProj['start']=TimeInterval.objects.filter(target=p)[0].beginningYear
+        currProj['end']=TimeInterval.objects.filter(target=p).reverse()[0].endYear
+        try:
+            currProj['thumb']=p.related_drawing().thumbAdress
+        except:
+            currProj['thumb']='img_documents/nothumb.jpg'
+        jsonProjs.append(currProj)
+        
+        if currProj['start']<minDate:
+            minDate=currProj['start']
+        
+        if currProj['end']>maxDate:
+            maxDate=currProj['end']
+        
+        if currProj['tipo'] is not None and {'des':currProj['tipo'],'checked':False} not in types:
+            types.append({'des':currProj['tipo'],'checked':False})
+        
+        
+    filterValues['minDate']=minDate;
+    filterValues['maxDate']=maxDate;
+    filterValues['types']=types;
+    
+                       
+    jsonProj=json.dumps(jsonProjs)
+    jFilterValues=json.dumps(filterValues)
+        
+    args = {
+            'section_name': 'opere',
+            #'projects': projects,
+            'jsonProj': jsonProj,
+            'filterValues' : jFilterValues
+            }
+    return render_to_response('archivio/galleria_progetti.html', args)
+
+
+
+#####################
+### JSON SERVICES ###
+#####################
+
+def filtraProgettiJson(request):
+    type = request.GET.get('type')
+    bdate = request.GET.get('bdate')
+    edate = request.GET.get('edate')
+    desc = request.GET.get('desc')
+    
+    if type is not None and type!="null":
+        types=type.split(",")
+        variables = {'tipo__in':types,'timeinterval__beginningYear__gte':bdate,'timeinterval__endYear__lte':edate,'denominazione__icontains':desc}
+        
+    else:
+        variables = {'timeinterval__beginningYear__gte':bdate,'timeinterval__endYear__lte':edate,'denominazione__icontains':desc}
+    #define filters from query string
+    
+    projects = Project.objects.all()
+    
+    #filter the project list
+    for key, value in variables.items():
+        if value is not None:
+            projects = projects.filter(**{key: value})
+    
+    projects=projects.distinct()
+    
+    jsonProjs=[]
+    
+    for p in projects:
+        currProj=dict()
+        currProj['sigla']=p.sigla
+        currProj['nome']=p.denominazione
+        currProj['lat']=p.latitude
+        currProj['long']=p.longitude
+        currProj['tipo']=p.tipo
+        currProj['start']=TimeInterval.objects.filter(target=p)[0].beginningYear
+        currProj['end']=TimeInterval.objects.filter(target=p).reverse()[0].endYear
+        try:
+            currProj['thumb']=p.related_drawing().thumbAdress
+        except:
+            currProj['thumb']='img_documents/nothumb.jpg'
+        jsonProjs.append(currProj)
+        print p.sigla
+        
+        
+                       
+    jsonProj=json.dumps(jsonProjs)
+    
+    return HttpResponse(jsonProj, mimetype='application/json')
+
+
+
+
+
+# Show progetti as a map
+def mappa_progetti(request):
+    projects = Project.objects.all()
+    filterValues=dict();
+    minDate=2000
+    maxDate=0
+    types=[]
+    
+    geoProj={"type": "FeatureCollection", 
+             "features":[]}
+    
+    
+    for p in projects:
+        if p.latitude is None:
+            continue
+        currProj=dict()
+        currProj["type"]="Feature"
+        currProj["id"]=p.id
+        
+        props=dict()
+        props["tipo"]=p.tipo
+        props["start"]=TimeInterval.objects.filter(target=p)[0].beginningYear
+        props["end"]=TimeInterval.objects.filter(target=p).reverse()[0].endYear        
+        props["sigla"]=p.sigla
+        props["nome"]=p.denominazione
+        
+        geom=dict()
+        geom["type"]="Point"
+        geom["coordinates"]=[p.longitude,p.latitude]
+        
+        currProj["properties"]=props
+        currProj["geometry"]=geom
+        
+        geoProj["features"].append(currProj);
+        
+        if props['start']<minDate:
+            minDate=props['start']
+        
+        if props['end']>maxDate:
+            maxDate=props['end']
+        
+        if props['tipo'] is not None and {'des':props['tipo'],'checked':False} not in types:
+            types.append({'des':props['tipo'],'checked':False})
+        
+        
+    filterValues['minDate']=minDate;
+    filterValues['maxDate']=maxDate;
+    filterValues['types']=types;
+    jFilterValues=json.dumps(filterValues)
+    
+    args = {
+            'section_name': 'opere',
+            'projects': json.dumps(geoProj),
+            'filterValues' : jFilterValues
+            }
+    return render_to_response('archivio/mappa_progetti.html', args)
+
+
+
+def timeline_progetti(self):
+    
+    projects = Project.objects.all()
+    filterValues=dict();
+    minDate=2000
+    maxDate=0
+    types=[]
+    
+    timeline={
+    "timeline":
+    {
+        "headline":"Progetti di Baldessari",
+        "type":"default",
+        "text":"Visualizzazione grafica della cronologia dei progetti",
+        "startDate":"1927,0,0",
+        'date':[]}
+    }
+    
+    for p in projects:
+        
+        date=dict()
+        date['startDate']=str(TimeInterval.objects.filter(target=p)[0].beginningYear)+",0,0"
+        date['endDate']=str(TimeInterval.objects.filter(target=p)[0].endYear)+",0,0"
+        date['headline']='<a href="/opere/project/'+p.sigla+'">'+p.denominazione+"</a>"
+        date['type']=p.tipo
+        if p.related_drawing() is not None:
+            date['asset']={"media":'/media/'+p.related_drawing().thumbAdress}
+        timeline['timeline']['date'].append(date)
+        
+        
+        if TimeInterval.objects.filter(target=p)[0].beginningYear<minDate:
+            minDate=TimeInterval.objects.filter(target=p)[0].beginningYear
+        
+        if TimeInterval.objects.filter(target=p)[0].endYear>maxDate:
+            maxDate=TimeInterval.objects.filter(target=p)[0].endYear
+        
+        if p.tipo is not None and {'des':p.tipo,'checked':False} not in types:
+            types.append({'des':p.tipo,'checked':False})
+        
+        
+    filterValues['minDate']=minDate;
+    filterValues['maxDate']=maxDate;
+    filterValues['types']=types;
+    jFilterValues=json.dumps(filterValues)
+    
+    print json.dumps(timeline)
+    
+    args = {
+            'section_name': 'opere',
+            'projects': json.dumps(timeline),
+            'filterValues' : jFilterValues
+            }
+    return render_to_response('archivio/timeline_progetti.html', args)
+    
 
 #returns the metadata for one particular document
 def viewdoc(request, docsigle):
     document = Drawing.objects.get(segnatura=docsigle)
     project = document.project
+    # a project may have more than one TimeInterval - get the first
     date = TimeInterval.objects.filter(target=project)[0]
-    related_documents = Drawing.objects.filter(project=project)
-    
+
+    related_documents = Drawing.objects.filter(project=project)    
     
     biblio = project.bibliografia.all()
     
@@ -91,6 +478,7 @@ def viewdoc(request, docsigle):
             'date' : date,
             'related_documents' : related_documents,
             'biblio' : biblio,
+
             'committente' : committente,
             'coproj' : coproj,
             'collab' : collab,
@@ -116,9 +504,9 @@ def viewdoc(request, docsigle):
 #return the metadata for the display of one particular project
 def viewproj(requestion, projsigle):
     project = Project.objects.get(sigla=projsigle)
+    # a project may have more than one TimeInterval - get the first
     date = TimeInterval.objects.filter(target=project)[0]
     related_documents = Drawing.objects.filter(project=project)
-    
     
     biblio = project.bibliografia.all()
     
@@ -147,6 +535,7 @@ def viewproj(requestion, projsigle):
             'date' : date,
             'related_documents' : related_documents,
             'biblio' : biblio,
+
             'committente' : committente,
             'coproj' : coproj,
             'collab' : collab
@@ -167,7 +556,8 @@ def getInfo(request):
  #returns the metadata for all documents       
 def getAllDocsList(request, get):
     
-    static_img_path = os.path.join(FILE_PATH, '../static/img_documents/')
+    # static_img_path = MEDIA_PATH + 'img_documents/'
+    # static_img_path = os.path.join(FILE_PATH, '../static/img_documents/')	#TODO da static a media
     
     info = {}
     info['list'] = []
@@ -179,8 +569,6 @@ def getAllDocsList(request, get):
         document['tipo'] = doc.project.tipo
         document['projectid'] = doc.project.sigla
         document['address'] = doc.project.address
-        
-        
         
         document['cornicce']=doc.formato_cornice,
         document['supporto']= doc.supporto,
@@ -212,12 +600,14 @@ def getAllDocsList(request, get):
         info['list'].append(document)
     return json.dumps(info)
 
-#returns the metadata for all projects
+# returns the metadata for all projects
 def getAllProjectsList(request, get):
-    static_img_path = os.path.join(FILE_PATH, '../static/img_documents/')
+    # static_img_path = os.path.join(FILE_PATH, '../media/img_documents/')
+    # static_img_path = os.path.join(FILE_PATH, '../static/img_documents/')
     info = {}
     info['list'] = []
     listOfProjs = Project.objects.all()
+
     for proj in listOfProjs:
         project = {}
         project['denominazione'] = proj.denominazione
@@ -232,7 +622,6 @@ def getAllProjectsList(request, get):
             project['segnatura'] = firstdocument.segnatura
             
             #image
-            
             imgFound = False
             adresseT = ''
             adresseI = ''
@@ -263,7 +652,7 @@ def getAllProjectsList(request, get):
     return json.dumps(info)
 
 
-#returns all the types of the projects in order to build the filter menu
+# returns all the types of the projects in order to build the filter menu
 def getTipi(request, get):
     info = {}
     info['tipi'] = []
@@ -280,7 +669,7 @@ def getTipi(request, get):
                     info['tipi'].append(proj.tipo)
     return json.dumps(info)
 
-#returns a representation of the number of documents per year in Baldessari's life
+# returns a representation of the number of documents per year in Baldessari's life
 def getDatesOverview(request, get):
     info = {}
     info['dates'] = []
@@ -308,7 +697,8 @@ def getDatesOverview(request, get):
 
 
 
-#dictionnary with all get fonctions
+
+# dictionary with all get fonctions
 functions_dict = {
                   'getAllDocsList': getAllDocsList,
                   'getAllProjectsList': getAllProjectsList,
@@ -320,7 +710,7 @@ functions_dict = {
 
 
 
-#-----FUNCTIONS OF IMPORT AND EXPORT -----------------------------
+#-----FUNCTIONS FOR IMPORT AND EXPORT -----------------------------
 
 def saveDataBase(request):
     call_command('save_json')
@@ -329,6 +719,11 @@ def saveDataBase(request):
 
 def loadDataBase(request):
     call_command('load_json')
+    #update_from_json.parseJson((os.path.join(FILE_PATH, 'management/commands/baldessari.json'), BaseCommand.handle(self)))
+    return HttpResponseRedirect("admin/")
+
+def saveProjects(request):
+    call_command('saveProjects')
     #update_from_json.parseJson((os.path.join(FILE_PATH, 'management/commands/baldessari.json'), BaseCommand.handle(self)))
     return HttpResponseRedirect("admin/")
 

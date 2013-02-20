@@ -6,6 +6,10 @@ from baldessari_sketch import settings
 import os.path
 FILE_PATH = os.path.dirname(os.path.abspath(__file__))
 
+# Create csv file containing relations between Baldessari and actors
+# Including project, actor and role
+
+# (After db is created)
 
 def get_relation_csv(self):
     file = open(os.path.join(FILE_PATH, 'relazioni.csv'), 'wb+')

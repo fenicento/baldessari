@@ -1,0 +1,1184 @@
+[
+	{
+		"indirizzo": "Milano (Palazzo dell'Arte al Parco)",
+		"url_mart": null,
+		"materiali_c": 14,
+		"tipo_1": "Allestimenti",
+		"materiali_dm": 17,
+		"Denominazione": "Mostra Aeronautica Italiana, Milano, 1934",
+		"longitude": 9.1734204,
+		"materiali_d": 1,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1934",
+				"fine": "1934"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.47179670000001,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"materiali_raw": "D(1)+DM(17)+C(14) DM/contabilit\u00e0: preventivi (Enrico Ciuti, Industria Teatrale Ponti, Luigi Saita), preventivi di spesa dei lavori, ricevuta Achille Broggi, elenco fatture, parcella L.B. (acconto e saldo) corrispondenti: Ing. Alberto Bonacossa, Cav. Ambrogio Ferrario, Fontana Arte, Piero Mazzucato, Mostra Nazionale dello Sport (Ufficio Amministrazione, Segreteria), Virgilio Torniamenti, Comm. Vigorelli",
+		"sigla": "AA"
+	}, {
+		"indirizzo": "Milano - Palazzo Reale",
+		"url_mart": null,
+		"materiali_c": 0,
+		"tipo_1": "Allestimenti",
+		"materiali_dm": 1,
+		"Denominazione": "Mostra Arte e Civilt\u00e0 Etrusca, Milano, 1955",
+		"longitude": 9.1911918,
+		"materiali_d": 9,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1955",
+				"fine": "1955"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4631297,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"materiali_raw": "D(9)+DM(1) DM: Discorso di apertura a Francoforte (Sig. Bieber)",
+		"sigla": "AAE"
+	}, {
+		"indirizzo": "Milano - Palazzo Reale",
+		"url_mart": null,
+		"materiali_c": 2,
+		"tipo_1": "Allestimenti",
+		"materiali_dm": 24,
+		"Denominazione": "Mostra Arte Italiana in collezioni U.S.A., Milano, 1960 ",
+		"longitude": 9.1911918,
+		"materiali_d": 4,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1960",
+				"fine": "1960"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4631297,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"materiali_raw": "D(4)+DM(24)+C(2) DM: appunti, fotografie (opere esposte) DM/contabilit\u00e0: preventivo Xilografia Milanese S.p.A., prestazioni Arch. Maria Pia Matteotti (ricevuta) corrispondenti: Ente Manifestazioni Milanesi (la Presidenza), Dott. Giuseppe Luigi Mele",
+		"sigla": "AAI"
+	}, {
+		"indirizzo": "Milano - Palazzo Reale",
+		"url_mart": null,
+		"materiali_c": 0,
+		"tipo_1": "Allestimenti",
+		"materiali_dm": 0,
+		"Denominazione": "Mostra Amedeo Modigliani, Milano, 1958",
+		"longitude": 9.1911918,
+		"materiali_d": 10,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1958",
+				"fine": "1958"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4631297,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"materiali_raw": "D(10)",
+		"sigla": "AAM"
+	}, {
+		"indirizzo": "Milano - Palazzo Reale (Sala delle Cariatidi)",
+		"url_mart": null,
+		"materiali_c": 19,
+		"tipo_1": "Allestimenti",
+		"materiali_dm": 300,
+		"Denominazione": "Mostra \"Il Cinquantanove\", Milano, 1959",
+		"longitude": 9.1911918,
+		"materiali_d": 25,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1959",
+				"fine": "1959"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4631297,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"materiali_raw": "D(25)+DM(300)+C(19) DM: appunti, negativi e stampe manifesti futuristi, elenchi artisti, elenchi e fotografie opere esposte  DM/contabilit\u00e0: preventivo Xilografia Milanese S.p.A., parcella L.B. (nota spese e competenze, acconto) corrispondenti: Noemi Baschieri Chiesi, Prof. Caio Mario Cattabeni, Dott. Mario Cavalli, Arch. Maria Pia Matteotti, Porter A. Mc-Cray, Giuseppe Luigi Mele, Romeo Toninelli",
+		"sigla": "AC"
+	}, {
+		"indirizzo": "Milano - Palazzo Reale",
+		"url_mart": null,
+		"materiali_c": 2,
+		"tipo_1": "Allestimenti",
+		"materiali_dm": 48,
+		"Denominazione": "Mostra Disegno Francese, Milano, 1960 ",
+		"longitude": 9.1911918,
+		"materiali_d": 88,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1960",
+				"fine": "1960"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4631297,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"materiali_raw": "D(88)+DM(48)+C(2) DM: elenco materiale per l'esposizione, modello marchio Siemens, appunti, fotografie stand Siemens (esposizioni precedenti), depliants Siemens (\"Transmetteur-r\u00e9cepteur de fac-simil\u00e9s\", \"Poste T\u00e9l\u00e9phonique mobile\", \"Impianti citofonici\", \"Impianti di elettroacustica per chiese\", \"Installation de transmission \u00e0 fr\u00e9quence vocale pour t\u00e9l\u00e9operation\", \"Interruttore nel vuoto\", \"Centralini telefonici automatici\", \"t\u00e9l\u00e9imprimeur en page\") DM/contabilit\u00e0: preventivo Xilografia Milanese S.p.A., appunti  corrispondenti: Siemens S.p.A. (Ufficio Pubblicit\u00e0)",
+		"sigla": "ADF"
+	}, {
+		"indirizzo": "Milano - Palazzo Reale",
+		"url_mart": null,
+		"materiali_c": 0,
+		"tipo_1": "Allestimenti",
+		"materiali_dm": 0,
+		"Denominazione": "Mostra Lucio Fontana, Milano, 1972 ",
+		"longitude": 9.1911918,
+		"materiali_d": 2,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1971",
+				"fine": "1972"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4631297,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"materiali_raw": "D(2)",
+		"sigla": "ALF"
+	}, {
+		"indirizzo": "Parigi (Francia) - Esposizione Internazionale",
+		"url_mart": null,
+		"materiali_c": 687,
+		"tipo_1": "Allestimenti",
+		"materiali_dm": 852,
+		"Denominazione": "Sala Mescita Vini Italiani, Expo di Parigi, 1937 ",
+		"longitude": 2.3522219,
+		"materiali_d": 26,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1937",
+				"fine": "1937"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 48.856614,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"materiali_raw": "D(26)+DM(852)+C(687) DM: programma (proposte di Albini, Baldessari, Bottoni, Nizzoli, Palazzo, Ponti, Spilimbergo; schema; testo definitivo), regolamento generale, il \"Centro Studi Triennale\" (proposte, schema di regolamento), nomina membri Consiglio d'Amministrazione, verbali (Consiglio di Amministrazione, Giunta Esecutiva, Collegio dei Revisori dei Conti), relazione viaggi membri della Giunta Esecutiva, progetti di Luciano Baldessari (relazioni e appunti), elenco architetti stranieri e Nazioni aderenti, mostre e sezioni (proposte, programma, elenco commissioni e curatori, verbali e relazioni), bozze (catalogoe guida breve), congressi e conferenze (relazioni), convegno di studi sull'architettura moderna (relazioni e interventi), convegno de divina proportione (programma, relazioni), concorsi e premi (bandi, regolamenti, relazioni), assegnazione premi (elenchi), locandine, bandi di concorso, inviti (inaugurazioni, conferenze, convegni), varie DM/contabilit\u00e0: mostre e sezioni (preventivi e assegnazioni), spese di viaggio  corrispondenti: Arch. Franco Albini, Ramy Alexander, Ing. Federico Amoroso, Sig. Vincenzo Aragozzini, Dott. Vincenzo Arena, Arch. Giovanni Astengo, Rag. Mario Baldessari, Mario Ballocco, Sig.ra Maria Rosaria Berardi, Ing. Bertolini, Arch. Max Bill, Dott. Bissi, Studio Boggeri, Gerolamo Bombelli, Arch. Piero Bottoni, Sig. T. Bouilhet, Rag. Francesco Bullo, Pitt. Bramante Buffoni, Sig. L.J. Breman, Franco Buzzi Ceriani, Sig. Julien Cain, Raffaele Calzini, Pitt. Ernesto Carboni, Prof. Aldo Carpi, Arch. Mario Cereghini, Arch. Ezio Cerutti, Curia Arcivescovile di Milano, Leonardo Cremonini, Aldo Dacc\u00f2, Ing. Luigi C. Daneri, Comm. G. Dell'Oro, Comm. Dazio, Dott. Kurt Dingelstedt, Sig. Walter Dorwin Teague, Claudio Emmer, Sig. Herbert Falkow, Prof. Tommaso Ferraris, Arch. Anna Ferrieri Castelli, J. Franssens, Arch. Enzo Fratelli, ditta Sig.ra Frette, Arch. Guido Frette, Pitt. Ezio Frigerio, Avv. Gian Giacomo Galligo, Arch. Gentili, Sig.ra Rosa Giolli Menni, Marino Giuffrida, Arch. Gnecchi, Dott. Giuseppe Gorgerino, Arch. Marcello Grisotti, Sig.ra Olga Gueft, Arch. Franca Helg Antonioli, Edgar Kaufmann, Sig. Alberto Israel, Sig. Antero Jarvinen, Arch. Lingeri, Arch. Mario Lab\u00f2, On. Ivan Matteo Lombardo, Sig. Rudolf Lunghard, On. Giuseppe Lupis, Paolo Maggi, Arch. Vico Magistretti, Arch. Augusto Magnaghi, Arch. Antonio Majocchi, Comm. Vincenzo Maercolini, Dario Marchesoni, Sig.ra Carla Marzoli, Arch. Antonio Majocchi, Ing. Franca Matricardi, Dott. Gianni Mazzocchi, Comm. Vincenzo Marcolini, Arch. Franco Marescotti, Dott. Mario Melino, Ministero della Pubblica Istruzione, Arch. Gabriele Mucchi, Pitt. Muratore, Scult. Mario Negri, Arch. Oscar Niemayer, Pitt. Marcello Nizzoli, Arch. Olivieri, Prof. Elio Palazzo, Arch. Palanti, Pastelor S.p.A., Arch. Pea, Arch. C. Perelli, Philips S.p.A., Piccolo Teatro di Milano, Pitt. Giovanni Pintori, Poeverlein, Arch. Gio Ponti, Arch. Porcinai, Pitt. Radice, Arch. Ugo Ratti, Prof. Riccardo Ricas, Arch. Rogers, Giovanni Rossi, Ing. Ernesto Saliva, Dott. Renzo Segala, Prof. Antonio Segni, Sig.ra Emma von Sichart, Sig. Enrico Serventi, Atanasio Soldati, Dott. Giovanni Spagnolli, Rag. Luigi Sperzani, Pitt. Adriano di Spilimbergo, Albe Steiner, Pitt. Orfeo Tamburi, Arch. Mario Terzaghi, Comm. Torsiello, ditta Guerino Tramonti, Pitt. Luigi Veronesi, Arch. Vittoriano Vigan\u00f2, Dott. Dino Villani, Max Wiederanders, Tapio Wirkkala, Arch. Bruno Zevi",
+		"sigla": "AMV"
+	}, {
+		"indirizzo": "Milano - Palazzo Reale",
+		"url_mart": null,
+		"materiali_c": 52,
+		"tipo_1": "Allestimenti",
+		"materiali_dm": 21,
+		"Denominazione": "Mostra Rembrandt e il 600 Olandese, Milano, 1954",
+		"longitude": 9.1911918,
+		"materiali_d": 9,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1954",
+				"fine": "1954"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4631297,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"materiali_raw": "D(9)+DM(21)+C(52) DM: Massimo Pallottino \"Etruscologia\" Milano 1955 (estratto da), elenco musei italiani di etruscologia, relazioni, proposte e richieste dell'Ufficio Stampa della Mostra, piano per la Mostra (con indicazione delle singole sale), elenco opere esposte, appunti, depliant della Mostra, programma delle conferenze (Istituto Lombardo di Scienze e Lettere) DM/contabilit\u00e0: preventivo dei lavori corrispondenti: Dott. Gianguido Belloni, Prof. Caio Mario Cattabeni, Dott. Mario Cavalli, Prof. Virgilio Ferrari, Dott. Antonio Frova, Sig.ra Carla Marchetti, Scultore Umberto Milani, Arch. Franco Minissi, Museo di Tarquinia, Rag. Paolo Naizodimo, Prof. Massimo Pallottino, Pinacoteca di Brera (il Direttore), Dott. Ren\u00e9 Wehrli",
+		"sigla": "ASO"
+	}, {
+		"indirizzo": "Como (Villa Olmo) - Esposizione Voltiana",
+		"url_mart": null,
+		"materiali_c": 0,
+		"tipo_1": "Allestimenti",
+		"materiali_dm": 0,
+		"Denominazione": "Mostra della Seta, Esposizione Voltiana, Como, 1927",
+		"longitude": 9.064551699999999,
+		"materiali_d": 4,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1927",
+				"fine": "1927"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.8176433,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"materiali_raw": "D(4)",
+		"sigla": "ASV"
+	}, {
+		"indirizzo": "Monza (Villa Reale) - Esposizione Internazionale delle Art decorative e industriali e dell'Architettura moderna",
+		"url_mart": null,
+		"materiali_c": 3,
+		"tipo_1": "Allestimenti",
+		"materiali_dm": 9,
+		"Denominazione": "Stand D.A.F., IV Triennale di Monza, 1930",
+		"longitude": 9.273921099999999,
+		"materiali_d": 0,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1930",
+				"fine": "1930"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.5933819,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"materiali_raw": "DM(9)+C(3) DM/contabilit\u00e0: preventivo di Romeo Saita, bollette Ufficio Imposte, fatture (Luigi Calderara, Fiorone & Calleri S.A., I.C.E.L. S.A., Ditta Luigi Spada), parcella L.B. (nota spese e competenze)  corrispondenti: Comitato per il \"Giugno Genovese\", Comm. Pozza",
+		"sigla": "AT4"
+	}, {
+		"indirizzo": "Milano (Palazzo dell'Arte al Parco) - Esposizione Internazionale delle Art decorative e industriali e dell'Architettura moderna",
+		"url_mart": null,
+		"materiali_c": 80,
+		"tipo_1": "Allestimenti",
+		"materiali_dm": 64,
+		"Denominazione": "Salone dei Tessuti, V Triennale di Milano, 1933",
+		"longitude": 9.1734204,
+		"materiali_d": 5,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1933",
+				"fine": "1933"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.47179670000001,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"materiali_raw": "D(5)+DM(64)+C(80) DM: relazioni (con elenco riproduzioni), didascalie (motti e proclami), \"Bando di concorso per la decorazione delle vetrine milanesi in occasione dell'Esposizione dell'Aeronautica Italiana\", depliant Fabbrica Motorini & Trapani Elettrici Sirius DM/contabilit\u00e0: preventivi (Ingg. Bourelly & Zurhaleg, Aerofotografia Raffaele Calderoni, Fabbriche Riunite Neon S.A., Industria Teatrale Ponti, Ditta Luigi Spada), preventivi di spesa dei lavori, buoni d'ordine (Fabbriche Riunite Neon S.A., Ditta Luigi Spada), bolle di consegna (La Presse S.A., Studio Boggeri, Giuseppe Tamburini fu Camillo), consuntivo Ditta Luigi Spada, fatture (Ditta Rinaldo Pelitti, Aldo Scarpini), ricevute (Achille Broggi, L. Montani & C., Ditta Aldo Scarpini), parcella L.B. (nota spese e competenze, acconti e ricevute, saldo) corrispondenti: Ingg. Bourelly & Zurhaleg, Magg. Luigi Contini, Ditta Costruzioni Meccaniche Aeronautiche, Esposizione dell' Aeronautica Italiana (il Direttorio Ordinatore, il Capo Ufficio Segreteria, il Magazziniere), Fabbriche Riunite Neon S.A., Carlo A. Felice, Cap. Masuero, Piero Mazzucato, L. Montani &C., Ing. Paganini (S.I.A.I.), Arch. Giuseppe Pagano, Innocenzo Pini, Impresa Costruzioni Luigi Rossi, Scuola Aviazone Caproni S.A., Ing. G.D. Solesin, Lucio Sorgoni, Ditta Luigi Spada, Touring Club Italiano, Marcello Visconti di Modrone",
+		"sigla": "AT5"
+	}, {
+		"indirizzo": "Milano (Palazzo dell'Arte al Parco) - Esposizione Internazionale delle Art decorative e industriali e dell'Architettura moderna",
+		"url_mart": null,
+		"materiali_c": 131,
+		"tipo_1": "Allestimenti",
+		"materiali_dm": 73,
+		"Denominazione": "Sezione Tessili, VI Triennale di Milano, 1936",
+		"longitude": 9.1734204,
+		"materiali_d": 26,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1936",
+				"fine": "1936"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.47179670000001,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"materiali_raw": "D(26)+DM(73)+C(131) DM: dichiarazioni per le dogane, relazione illustrativa, dichiarazioni di consegna lavori DM/contabilit\u00e0: preventivi fornitori(B. & A. F.lli Scotti, Ditta Biraghi Arturo, Ceramica G. Appiani, Geom. F. De-Min & C, Ghiringhelli Umberto, Gaetano Perego & Fratelli, Stabilimento Ceramico G. Appiani S.A., Turri Mos\u00e8, Universal di Borsa & Ossola), preventivi e consuntivi di spesa, bolla di consegna Ceramiche Piccinelli S.A., consuntivo Ditta Bellini & Sgorlon, fatture fornitori (Luigi Calderara, Ditta Bellini & Sgorlon, Angelo Del Bon, Carlo Conte, Forniture Versea, Angelo Gazzi, Umberto Ghiringhelli, Gaetano Perego & Fratelli, Ditta Sala Giuseppe), ricevute (Teresa Guzzelli, Gaetano Perego & Fratelli), prestazioni collaboratori (ricevute), parcella L.B. (note spese e competenze, acconti, saldo e ricevute), appunti  corrispondenti: Rag. A. Barbarani, Ditta Bellini & Sgorlon, Paolo Bevilacqua, Bombelli, Ditta Anselmo Bucci, Ceramiche Piccinnelli S.A., Dott. Giuseppe Cespa, Commissariato Generale per l'Italia, Carlo Conte, Ing. Enrico De Smaele, Ing. S. Ghilardi & C. S.A., Umberto Ghiringhelli, Angelo Guzzetti, Industria Ceramica Salernitana, \"La Carimali\" S.A., \"La Casa dell'Arte\", \"La Fenice\", \"La Fiamma\", \"La S.P.I.G.A.\", Cesare V. Maranesi, Comm. M. Majnoni, Comm. Achille Mango, Ditta Giuseppe Mazzotti, Cav. Pietro Montuori, Giovanni Monza, Angelo Motta, Prof. Marcello Nizzoli, Arch. Giuseppe Pagano, Gaetano Perego & Fratelli, Anita Pittoni, Arch. Rechicchi, Antonio Veronesi S.A",
+		"sigla": "AT6"
+	}, {
+		"indirizzo": "Milano (Palazzo dell'Arte al Parco) - Esposizione Internazionale delle Art decorative e industriali e dell'Architettura moderna",
+		"url_mart": null,
+		"materiali_c": 0,
+		"tipo_1": "Allestimenti",
+		"materiali_dm": 0,
+		"Denominazione": "Atrio, Scalone d'Onore e Vestibolo superiore, IX Triennale di Milano, 1951",
+		"longitude": 9.1734204,
+		"materiali_d": 1,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1951",
+				"fine": "1951"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.47179670000001,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"materiali_raw": "D(1)",
+		"sigla": "AT9"
+	}, {
+		"indirizzo": "Milano - Palazzo Reale",
+		"url_mart": null,
+		"materiali_c": 0,
+		"tipo_1": "Allestimenti",
+		"materiali_dm": 1,
+		"Denominazione": "Mostra Van Gogh, Milano, 1952",
+		"longitude": 9.1911918,
+		"materiali_d": 2,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1952",
+				"fine": "1952"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4631297,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Allestimenti",
+		"url_casva": null,
+		"materiali_raw": "D(2)+DM(1) DM: biglietto d'invito all'inaugurazione",
+		"sigla": "AVG"
+	}, {
+		"indirizzo": "Milano - via Legnone 4",
+		"url_mart": null,
+		"materiali_c": 80,
+		"tipo_1": "Architettura/Edifici pubblici",
+		"materiali_dm": 172,
+		"Denominazione": "Complesso industriale Italcima, Milano, 1932-39 ",
+		"longitude": 9.1819095,
+		"materiali_d": 90,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1932",
+				"fine": "1939"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.49820589999999,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Edifici per uffici, commerciali, industriali e produttivi ",
+		"url_casva": null,
+		"materiali_raw": "D(90)+DM(172)+C(80) DM: capitolato d'appalto, descrizione e prescrizioni tecniche, relazioni (gli edifici, il giardino), promemoria, definizione del gruppo, legenda tavole DM/concessione edilizia (progetto e varianti): domande di licenza edilizia, denuncie delle partite di costruzione, notifiche di nulla osta per la costruzione, riscossione delle imposte di consumo sui materiali da costruzione, certificati di collaudo delle opere in cemento armato, denuncia di esecuzione delle opere, richieste di visite per l'abitabilit\u00e0, nulla osta ufficio prevenzione incendi, relazioni visite per l'abitabilit\u00e0, rilievi delle partite di costruzione, licenze di occupazione, relazioni, ingiunzioni, dichiarazioni e comunicazioni DM/contabilit\u00e0: preventivi (Carlo Sachs, Turri Mos\u00e8), fatture Carlo Sachs, saldo ditta F.lli Perego, parcella L.B (note spese e competenze, ricevute) corrispondenti: ditta Serafino Arrighi, ditta Ing. Besana & Asnaghi, Emilio Cortese, Avv. Ugo Della Gatta, Comm. Achille Levi, ditta Edoardo Lossa, Officine Meccaniche Stigler, Arch. Gi\u00f2 Ponti, Salviati Mosaici, Ing. Soncini Vedi anche AT5/1933 (carteggi)",
+		"sigla": "EIT"
+	}, {
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": 0,
+		"tipo_1": "Interni",
+		"materiali_dm": 0,
+		"Denominazione": "Padiglione 19, Fiera Internazionale di Milano, 1957",
+		"longitude": 9.1605538,
+		"materiali_d": 6,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1957",
+				"fine": "1957"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"materiali_raw": "D (6)",
+		"sigla": "I19"
+	}, {
+		"indirizzo": "New York (U.S.A.) - 103 West 42 nd. St.",
+		"url_mart": null,
+		"materiali_c": 32,
+		"tipo_1": "Interni",
+		"materiali_dm": 12,
+		"Denominazione": "Ristorante self-service Alma Products, New-York, 1941 ",
+		"longitude": -73.9841586,
+		"materiali_d": 19,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1941",
+				"fine": "1941"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 40.7548819999999,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"materiali_raw": "D(19)+DM(12)+C(32) DM: fotografie, estratto del foglio di possesso fondiario DM/contabilit\u00e0: preventivo impresa Villa, preventivo di spesa, appunti (costo di costruzione e costo dell'area), parcella L.B. (nota spese e competenze, saldo e ricevuta) corrispondenti: Dott. B. Andreatta, Direttore Societ\u00e0 Finanziaria Trentina, Dott. Giovanni Spagnolli, impresa Geom. Enrico Villa",
+		"sigla": "IAP"
+	}, {
+		"indirizzo": "Milano",
+		"url_mart": null,
+		"materiali_c": 0,
+		"tipo_1": "Interni",
+		"materiali_dm": 60,
+		"Denominazione": "Appartamento Bolchini, Milano, 1933-34 ",
+		"longitude": 9.186516,
+		"materiali_d": 4,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1933",
+				"fine": "1934"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4654542,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"materiali_raw": "D(4)+DM(60) DM/contabilit\u00e0: preventivi (Luigi Calderara, Giuseppe Sala, Carlo Sartori, Andrea Scoglio, Turri Mos\u00e9), preventivi di spesa dei lavori, elenchi forniture, elenchi fatture, fatture (Cesare Beretta, Ermanno Besozzi, Filippo Bossi, Mario Bragalli, impresa F.lli Calderara, Luigi Calderara, Pietro De Albertis, Luigi Fossati, Scoglio Andrea, Ing. Ugo Pollice, Sala Giuseppe, Turri Mos\u00e8), parcella L.B. (nota spese e competenze, saldo e ricevuta)",
+		"sigla": "IBO"
+	}, {
+		"indirizzo": "Milano - via Ugo Foscolo 3",
+		"url_mart": null,
+		"materiali_c": 8,
+		"tipo_1": "Interni",
+		"materiali_dm": 54,
+		"Denominazione": "Progetto Bar Canova, Milano, 1934",
+		"longitude": 9.190766,
+		"materiali_d": 2,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1934",
+				"fine": "1934"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4655425,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"materiali_raw": "D(2)+DM(54)+C(8) DM: domanda di licenza edilizia DM/contabilit\u00e0: preventivi (ditta Arturo Biraghi, Cesare Biraschi S.A., Angelo Gazzi, ditta Carlo Sachs, Luigi Saita, ditta Giuseppe Sala, Turri Mos\u00e8, A. De Weiss), preventivo di spesa, bolle di consegna (ditta Arturo Biraghi, Calderara S.A., ditta Carlo Sachs), elenchi delle fatture, nota delle spese e delle competenze (parcella L.B.), parcella di L.B. (onorari ricevuti, richiesta di sconto) corrispondenti: ditta Dewiss, Edoardo Mariani, Ugo & Ing. Carlo Spangher, Ultimoda S.A.",
+		"sigla": "IC"
+	}, {
+		"indirizzo": "Milano - via Durini/corso Vittorio Emanuele",
+		"url_mart": null,
+		"materiali_c": 9,
+		"tipo_1": "Interni",
+		"materiali_dm": 0,
+		"Denominazione": "Calzaturificio di Varese, Milano, 1929-33 ",
+		"longitude": 9.1981925,
+		"materiali_d": 0,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1929",
+				"fine": "1933"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4647648,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"materiali_raw": "C(9) corrispondenti: Arch. Melchiorre Bega, impresa F.lli Calderara, Mos\u00e8 Morgazzini",
+		"sigla": "ICV"
+	}, {
+		"indirizzo": "Milano - Piazza Duomo",
+		"url_mart": null,
+		"materiali_c": 0,
+		"tipo_1": "Interni",
+		"materiali_dm": 0,
+		"Denominazione": "Negozio Galtrucco, Milano, 1938 ",
+		"longitude": 9.190021999999999,
+		"materiali_d": 7,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1938",
+				"fine": "1938"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4646878,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"materiali_raw": "D (7)",
+		"sigla": "IG"
+	}, {
+		"indirizzo": "Voltri (GE) - Cantiere navale Costaguta",
+		"url_mart": null,
+		"materiali_c": 0,
+		"tipo_1": "Interni",
+		"materiali_dm": 0,
+		"Denominazione": "Panfilo \"La Madonnina\", Voltri, 1937-38",
+		"longitude": 8.693068499999999,
+		"materiali_d": 10,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1937",
+				"fine": "1938"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 44.4540365,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"materiali_raw": "D (10)",
+		"sigla": "IP"
+	}, {
+		"indirizzo": "Milano - Piazza Castello",
+		"url_mart": null,
+		"materiali_c": 14,
+		"tipo_1": "Interni",
+		"materiali_dm": 22,
+		"Denominazione": "Progetto Pinacoteca Castello Sforzesco, Milano, 1933-35  ",
+		"longitude": 9.180460700000001,
+		"materiali_d": 13,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1933",
+				"fine": "1935"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.47186749999999,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"materiali_raw": "D(13)+DM(22)+C(14) DM/contabilit\u00e0: preventivi (ditta Arturo Biraghi, Giovanni Coatti, Angelo Gazzi, A. Mazzei, Luigi Saita, Aldo Scarpini, ditta Luigi Spada), biglietto da visita Angelo Ostuni, parcella L.B. (nota spese e competenze)  DM/causa Baldessari-Ostuni: relazione rapporti con la committenza, prova testimoniale  DM/causa Baldessari-Ostuni/contabilit\u00e0: parcella Avv. Ugo della Gatta (specifica competenze, saldo e ricevuta) corrispondenti: Avv. Ugo della Gatta, Luigi Spada",
+		"sigla": "IPC"
+	}, {
+		"indirizzo": "Milano - via C. Pisacane 35",
+		"url_mart": null,
+		"materiali_c": 0,
+		"tipo_1": "Interni",
+		"materiali_dm": 1,
+		"Denominazione": "Studio per Collezionista, Milano, 1930, 1932 ",
+		"longitude": 9.2111477,
+		"materiali_d": 0,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1930",
+				"fine": "1930"
+			}, {
+				"inizio": "1932",
+				"fine": "1932"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4720155,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"materiali_raw": "DM (1) DM: descrizione dei lavori e delle opere",
+		"sigla": "ISC"
+	}, {
+		"indirizzo": "Milano - via Mozart 15",
+		"url_mart": null,
+		"materiali_c": 3,
+		"tipo_1": "Interni",
+		"materiali_dm": 7,
+		"Denominazione": "Appartamento Spadacini, Milano, 1932",
+		"longitude": 9.202566299999999,
+		"materiali_d": 0,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1932",
+				"fine": "1932"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4692243,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"materiali_raw": "DM(7)+C(3) DM/contabilit\u00e0: preventivi (Luigi Calderara, Turri Mos\u00e8), preventivo di massima dei lavori, parcella L.B. (nota spese e competenze, saldo)  corrispondenti: Maestro Tullio Perin",
+		"sigla": "ISM"
+	}, {
+		"indirizzo": "Milano - Palazzo dell'Arte al Parco Esposizione Internazionale delle Arti decorative e Industriali moderne e dell'Architettura moderna",
+		"url_mart": null,
+		"materiali_c": 10,
+		"tipo_1": "Interni",
+		"materiali_dm": 7,
+		"Denominazione": "Progetto Salone d'Onore, VI Triennale di Milano, 1936",
+		"longitude": 9.1734204,
+		"materiali_d": 12,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1936",
+				"fine": "1936"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.47179670000001,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"materiali_raw": "D(12)+DM(7)+C(10) DM(1936/39): ingiunzione del Comune di Milano DM(1956): notifica del Comune di Milano, ricevuta Ufficio Tecnico Erariale, parcella L.B. (nota spese e competenze), appunti corrispondenti (1936/39): Comm. Paolo Castelli, Dalgo, Dott. Giulio Mariani, M.E.S.A. S.A.  corrispondenti (1956): Edoardo Mariani, Ing. Ernesto Saliva",
+		"sigla": "IT6"
+	}, {
+		"indirizzo": "Milano - via Ugo Foscolo 2",
+		"url_mart": null,
+		"materiali_c": 4,
+		"tipo_1": "Interni",
+		"materiali_dm": 8,
+		"Denominazione": "Negozio Ultimoda D.A.F., Milano, 1935-36 ",
+		"longitude": 9.1907953,
+		"materiali_d": 15,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1935",
+				"fine": "1936"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4649873,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Interni",
+		"url_casva": null,
+		"materiali_raw": "D(15)+DM(8)+C(4) DM: bando di concorso, relazioni illustrative, ricevute di consegna del progetto corrispondenti: Giulio Barella, Carlo A. Felice",
+		"sigla": "IU"
+	}, {
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": 0,
+		"tipo_1": "Architettura/Padiglioni",
+		"materiali_dm": 0,
+		"Denominazione": "Padiglione Breda, Fiera Internazionale di Milano, 1951  ",
+		"longitude": 9.1605538,
+		"materiali_d": 35,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1951",
+				"fine": "1955"
+			}, {
+				"inizio": "1956",
+				"fine": "1959"
+			}, {
+				"inizio": "1961",
+				"fine": "1964"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Padiglioni per esposizioni",
+		"url_casva": null,
+		"materiali_raw": "D (35) Vedi anche PBM/1951-55 (DM/contabilit\u00e0) e CTX/1954 (DM/contabilit\u00e0)",
+		"sigla": "PB1"
+	}, {
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": null,
+		"tipo_1": null,
+		"materiali_dm": null,
+		"Denominazione": "Padiglione Breda, Fiera Internazionale di Milano, 1952  ",
+		"longitude": 9.1605538,
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1952",
+				"fine": "1952"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"materiali_raw": null,
+		"sigla": "PB2"
+	}, {
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": null,
+		"tipo_1": null,
+		"materiali_dm": null,
+		"Denominazione": "Padiglione Breda, Fiera Internazionale di Milano, 1953 ",
+		"longitude": 9.1605538,
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1953",
+				"fine": "1953"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"materiali_raw": null,
+		"sigla": "PB3"
+	}, {
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": null,
+		"tipo_1": null,
+		"materiali_dm": null,
+		"Denominazione": "Padiglione Breda, Fiera Internazionale di Milano, 1954 ",
+		"longitude": 9.1605538,
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1954",
+				"fine": "1954"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"materiali_raw": null,
+		"sigla": "PB4"
+	}, {
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": null,
+		"tipo_1": null,
+		"materiali_dm": null,
+		"Denominazione": "Padiglione Breda, Fiera Internazionale di Milano, 1955 ",
+		"longitude": 9.1605538,
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1955",
+				"fine": "1955"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"materiali_raw": null,
+		"sigla": "PB5"
+	}, {
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": null,
+		"tipo_1": null,
+		"materiali_dm": null,
+		"Denominazione": "Padiglione Breda, Fiera Internazionale di Milano, 1956  ",
+		"longitude": 9.1605538,
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1956",
+				"fine": "1956"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"materiali_raw": null,
+		"sigla": "PB6"
+	}, {
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": null,
+		"tipo_1": null,
+		"materiali_dm": null,
+		"Denominazione": "Padiglione Breda, Fiera Internazionale di Milano, 1957  ",
+		"longitude": 9.1605538,
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1957",
+				"fine": "1957"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"materiali_raw": null,
+		"sigla": "PB7"
+	}, {
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": null,
+		"tipo_1": null,
+		"materiali_dm": null,
+		"Denominazione": "Padiglione Breda, Fiera Internazionale di Milano, 1958 ",
+		"longitude": 9.1605538,
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "None",
+				"fine": "None"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"materiali_raw": null,
+		"sigla": "PB8"
+	}, {
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": null,
+		"tipo_1": null,
+		"materiali_dm": null,
+		"Denominazione": "Padiglione Breda, Fiera Internazionale di Milano, 1959 ",
+		"longitude": 9.1605538,
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "None",
+				"fine": "None"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"materiali_raw": null,
+		"sigla": "PB9"
+	}, {
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": 3,
+		"tipo_1": "Architettura/Padiglioni",
+		"materiali_dm": 97,
+		"Denominazione": "Padiglione D.A.F., Fiera Internazionale di Milano, 1936",
+		"longitude": 9.1605538,
+		"materiali_d": 121,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1936",
+				"fine": "1936"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Padiglioni per esposizioni",
+		"url_casva": null,
+		"materiali_raw": "D(121)+DM(97)+C(3) DM: relazioni illustrative in italiano inglese e tedesco, citazioni, appunti, campionario colori DM/contabilit\u00e0: preventivo Xilografia Milanese S.p.A., parcella L.B. (note spese e competenze), appunti, quaderno di appunti corrispondenti: Ing. Giuseppe Dal Monte, Masini Contiene anche materiali de \"II Concorso In/Arch.- Domosic\" (1964)",
+		"sigla": "PD"
+	}, {
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": 19,
+		"tipo_1": "Architettura/Padiglioni",
+		"materiali_dm": 2,
+		"Denominazione": "Padiglione Italsider, Fiera Internazionale di Milano, 1966 ",
+		"longitude": 9.1605538,
+		"materiali_d": 4,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1966",
+				"fine": "1966"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Padiglioni per esposizioni",
+		"url_casva": null,
+		"materiali_raw": "D(4)+DM(2)+C(19) DM: scritta sulla lapide DM/contabilit\u00e0: resoconto di acconti e fatture corrispondenti: ditta Angelo Negri, Edoardo Mariani, impresa F.lli Panigatti & Figlio, Prof. Mario Sironi",
+		"sigla": "PIT"
+	}, {
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": 9,
+		"tipo_1": "Architettura/Padiglioni",
+		"materiali_dm": 19,
+		"Denominazione": "Padiglioni Sidercomit, Fiera Internazionale di Milano, 1953-54, 1956-59, 1961",
+		"longitude": 9.1605538,
+		"materiali_d": 69,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1953",
+				"fine": "1954"
+			}, {
+				"inizio": "1956",
+				"fine": "1959"
+			}, {
+				"inizio": "1961",
+				"fine": "1961"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Padiglioni per esposizioni",
+		"url_casva": null,
+		"materiali_raw": "D(69)+DM(19)+C(9) DM: relazione illustrativa, appunti corrispondenti: Dott. Michele Guido Franci  Vedi anche PTP/1959-60 (DM/contabilit\u00e0)",
+		"sigla": "PS"
+	}, {
+		"indirizzo": "Milano - Palazzo dell'Arte - Esposizione Internazionale delle Arti decorative e industriali moderne e dell'Architettura moderna",
+		"url_mart": null,
+		"materiali_c": 13,
+		"tipo_1": "Architettura/Padiglioni",
+		"materiali_dm": 35,
+		"Denominazione": "Padiglione della Stampa, V Triennale di Milano, 1933 ",
+		"longitude": 9.1734204,
+		"materiali_d": 1,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1933",
+				"fine": "1933"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.47179670000001,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Padiglioni per esposizioni",
+		"url_casva": null,
+		"materiali_raw": "D(1)+DM(35)+C(13) DM: biglietto da visita Bindo Poggiali, planimetria generale della Fiera Campionaria DM/contabilit\u00e0: preventivo di massima dei lavori, preventivi (Angelo Bazzi, Cesare Biraschi S.A., ditta Giuseppe Sala), bolle di consegna ditta Luigi Spada, fatture (Angelo Bazzi, Cesare Biraschi S.A., Achille Broggi, impresa F.lli Calderara, Luigi Calderara, Pietro De Albertis S.A., Officine Malugani S.A., Ing. Ugo Pollice & C., ditta Giuseppe Sala, ditta Pietro Tarrano, ditta Wanda), ricevute Enrico Ciuti, note di liquidazione lavori, parcella L.B. (note spese e competenze) corrispondenti: Achille Broggi, impresa F.lli Calderara, Pietro De Albertis S.A., ditta Angelo Gazzi, Officine Malugani S.A., Dott. Mariani, Ing. Ugo Pollice & C., ditta Restani, ditta Luigi Spada, ditta Wanda",
+		"sigla": "PT5"
+	}, {
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": 6,
+		"tipo_1": "Architettura/Padiglioni",
+		"materiali_dm": 30,
+		"Denominazione": "Progetto Tribuna Presidenziale, Fiera Internazionale di Milano, 1959-60",
+		"longitude": 9.1605538,
+		"materiali_d": 69,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1959",
+				"fine": "1960"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Padiglioni per esposizioni",
+		"url_casva": null,
+		"materiali_raw": "D(69)+DM(30)+C(6) DM: relazione illustrativa, appunti, fotografie  DM/contabilit\u00e0: preventivo di massima dei lavori, preventivo Xilografia Milanese S.p.A., appunti corrispondenti: Dott. Michele Guido Franci Vedi anche PTP/1959-60 (DM/contabilit\u00e0)",
+		"sigla": "PTP"
+	}, {
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": 63,
+		"tipo_1": "Architettura/Padiglioni",
+		"materiali_dm": 45,
+		"Denominazione": "Padiglione Vesta, Fiera Internazionale di Milano, 1933",
+		"longitude": 9.1605538,
+		"materiali_d": 13,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1933",
+				"fine": "1933"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Padiglioni per esposizioni",
+		"url_casva": null,
+		"materiali_raw": "D(13)+DM(45)+C(63) DM: appunti (dati anagrafici ed indirizzi, tra gli altri di Enrico Ciuti, Renato Varesi, Luigi Broggi) DM/contabilit\u00e0: preventivi Luigi Saita, fatture (Bolognesi & Orsini, Achille Broggi, Mario Crimella S.A., Luigi Saita), elenchi fatture, ricevuta Enrico Ciuti, prestazioni collaboratori (Enrico Ciuti, Achille Broggi), parcella L.B. (nota spese e competenze, acconto e saldo, ricevute), appunti corrispondenti: Ing. Biagi, Achille Broggi, Enrico Ciuti, On. Luigi Capri Cruciani, Comm. Loris Carreri, Commissariato Generale per l'Italia, Federazione Consorzi Canapicoltori, Comm. Majnoni, Prof. Achille Mango, Masonite S.A., Dott. Remo Poluzzu, Ing. Roock, Luigi Saita, Salvadori, Van Hove, Volpi di Misurata",
+		"sigla": "PV"
+	}, {
+		"indirizzo": "Milano - Fiera Internazionale",
+		"url_mart": null,
+		"materiali_c": 0,
+		"tipo_1": "Architettura/Padiglioni",
+		"materiali_dm": 0,
+		"Denominazione": "Progetto Viale Editoria, Fiera Internazionale di Milano, 1959-60",
+		"longitude": 9.1605538,
+		"materiali_d": 5,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1959",
+				"fine": "1960"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4805467,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Padiglioni per esposizioni",
+		"url_casva": null,
+		"materiali_raw": "D(5)",
+		"sigla": "PVE"
+	}, {
+		"indirizzo": "Milano - vie Inganni, Lorenteggio, Chinotto",
+		"url_mart": null,
+		"materiali_c": 6,
+		"tipo_1": "Urbanistica",
+		"materiali_dm": 7,
+		"Denominazione": "Progetto Citt\u00e0 Cinematografica, Milano, 1932-33",
+		"longitude": 9.125183,
+		"materiali_d": 7,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1932",
+				"fine": "1933"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4510964,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Quartieri e piani",
+		"url_casva": null,
+		"materiali_raw": "D(7)+DM(7)+C(6) DM (1932/34): relazioni e tabella delle cubature e dei costi (progetto di massima), appunti, \"Deutsche Bauzeitung\" del 26/2/1930 corrispondenti (1933/37): Giulio Barella, Comm. Carlo A. Felice, Arch. Otto Kohtz, Dott. Masetti  Vedi anche AT5/1933 (DM/contabilit\u00e0 e carteggi)",
+		"sigla": "UCC"
+	}, {
+		"indirizzo": "Milano - Piazza San Babila",
+		"url_mart": null,
+		"materiali_c": 116,
+		"tipo_1": "Urbanistica",
+		"materiali_dm": 117,
+		"Denominazione": "Progetto San Babila, Milano, 1936-37",
+		"longitude": 9.1973951,
+		"materiali_d": 85,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1936",
+				"fine": "1937"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4664154,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Quartieri e piani",
+		"url_casva": null,
+		"materiali_raw": "D(85)+DM(117)+C(116) DM (1936/39): relazione sul mercato immobiliare in Italia (Ernesto Marini), promemoria e memoriali, questionario per esercenti cinema, legende tavole, appunti   DM/contabilit\u00e0 (1936/37): computi metrici e prospetti spese/redditi (diverse soluzioni di lottizzazione), preventivo di massima e programma finanziario (soluzione definitiva), prestazioni collaboratori (Geom. Fabbri, Leonardo Garbagnati, Geom. Savini, Ing. Primo Matassoni, Geom. Giuseppe Tognini), spese di viaggio (conti degli alberghi e dei ristoranti, biglietti ferroviari e aerei), parcella L.B. (nota spese e competenze), appunti corrispondenti (1934/39): Barwich, G. Belche, Faye Evans, Luigi Freddi (vice Segretario PNF), Carlo De Angeli Frua, G. Grey, John W. Harris, Lawrence (Direttore Generale per l'Europa della Metro Goldwin Mayer), Avv. Dino Mattoli, Ing. Geny B. Panero, P. Pearse, Arch. John Root",
+		"sigla": "USB"
+	}, {
+		"indirizzo": "Venezia - La Giudecca",
+		"url_mart": null,
+		"materiali_c": 0,
+		"tipo_1": "Architettura/Ville",
+		"materiali_dm": 0,
+		"Denominazione": "Progetto Villa alla Giudecca, Venezia, 1936-37",
+		"longitude": 12.321629,
+		"materiali_d": 8,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1936",
+				"fine": "1937"
+			}
+		],
+		"sigla archivio": "ALB",
+		"latitude": 45.4259204,
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": "Abitazioni e condomini ",
+		"url_casva": null,
+		"materiali_raw": "D (8)",
+		"sigla": "VH"
+	}, {
+		"indirizzo": "--",
+		"url_mart": null,
+		"materiali_c": null,
+		"tipo_1": null,
+		"materiali_dm": null,
+		"Denominazione": "Teatro della Moda di Elisabeth Arden, New-York, 1940",
+		"longitude": "null",
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1940",
+				"fine": "1940"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": "null",
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"materiali_raw": null,
+		"sigla": "AEA"
+	}, {
+		"indirizzo": "--",
+		"url_mart": null,
+		"materiali_c": null,
+		"tipo_1": null,
+		"materiali_dm": null,
+		"Denominazione": "Stand Tessili Italiani, Expo di Barcellona, 1929",
+		"longitude": "null",
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1929",
+				"fine": "1929"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": "null",
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"materiali_raw": null,
+		"sigla": "ATL"
+	}, {
+		"indirizzo": "--",
+		"url_mart": null,
+		"materiali_c": null,
+		"tipo_1": null,
+		"materiali_dm": null,
+		"Denominazione": "Biblioteca Notari, Milano, 1927",
+		"longitude": "null",
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "None",
+				"fine": "None"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": "null",
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"materiali_raw": null,
+		"sigla": "IBN"
+	}, {
+		"indirizzo": "--",
+		"url_mart": null,
+		"materiali_c": null,
+		"tipo_1": null,
+		"materiali_dm": null,
+		"Denominazione": "Seminterrato Cantoni, Milano, 1929",
+		"longitude": "null",
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1929",
+				"fine": "1929"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": "null",
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"materiali_raw": null,
+		"sigla": "ICT"
+	}, {
+		"indirizzo": "--",
+		"url_mart": null,
+		"materiali_c": null,
+		"tipo_1": null,
+		"materiali_dm": null,
+		"Denominazione": "Bar Craja, Milano, 1930",
+		"longitude": "null",
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1930",
+				"fine": "1930"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": "null",
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"materiali_raw": null,
+		"sigla": "ICY"
+	}, {
+		"indirizzo": "--",
+		"url_mart": null,
+		"materiali_c": null,
+		"tipo_1": null,
+		"materiali_dm": null,
+		"Denominazione": "Padiglione Bernocchi, Fiera Internazionale di Milano, 1929",
+		"longitude": "null",
+		"materiali_d": null,
+		"intervalli_di_tempo": [
+			{
+				"inizio": "1929",
+				"fine": "1929"
+			}
+		],
+		"sigla archivio": null,
+		"latitude": "null",
+		"descrizione_prog": null,
+		"tipo_2 (tipologia SAN)": null,
+		"url_casva": null,
+		"materiali_raw": null,
+		"sigla": "PBL"
+	}
+]

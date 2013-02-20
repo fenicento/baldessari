@@ -1,12 +1,9 @@
 from django.core.management.base import BaseCommand, CommandError, NoArgsCommand
 from archivio.models import *
 from baldessari_sketch import settings
-import datetime
-import json
-import re
+import datetime, json, os.path, re
 from StringIO import StringIO
 from django.core.files import File
-import os.path
 FILE_PATH = os.path.dirname(os.path.abspath(__file__))
 
 def saveJson(self):
@@ -21,7 +18,7 @@ def saveProjects(self):
         pjson = {}
         pjson['denominazione'] = project.denominazione
         pjson['tipo'] = project.tipo
-        pjson['tipologia'] = project.tipologia
+        pjson['tipo2'] = project.tipo2
         pjson['luogo'] = {}
         luogo = pjson['luogo']
         luogo['indirizzo'] = project.address
@@ -52,11 +49,19 @@ def saveProjects(self):
         pjson['intervalli_di_tempo'] = []
         intervalli = TimeInterval.objects.filter(target = project)
         for intervallo in intervalli:
-            int = {}
-            int['inizzio'] = intervallo.begining.year
-            int['fine'] = intervallo.end.year
-            pjson['intervalli_di_tempo'].append(int)
-        
+            interv = {}
+            interv['inizzio'] = intervallo.begining.year
+            interv['fine'] = intervallo.end.year
+            pjson['intervalli_di_tempo'].append(interv)
+
+        # percorsi tematici
+        pjson['percorsi_tematici'] = []
+        percorsi = project.percorsi_tematici.all()
+        for perc in percorsi:
+            percorso = {}
+            percorso['nome'] = percorso.name
+            pjson['percorsi_tematici'].append(perc)
+            
         projects.append(pjson)
         
     file.write(json.dumps(projects))

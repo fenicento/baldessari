@@ -1,0 +1,28 @@
+.galleria-i{
+	float: left;
+	margin-bottom:5px;
+	margin-left: 1%;
+	margin-right: 1%;
+	border: 1px solid #EEEEEE;
+    box-shadow: 1px 1px #ddd;
+	max-height: 500px;
+	max-width:200px;
+	font-size: 0.7em;
+	padding:5px;
+	border-radius: 5px;
+	
+}
+
+.galleria-i .txt {
+	width:100%;
+	background-color:#eee;
+	margin-top:7px;
+	font-size: 1.3em;
+	line-height: 1.2em;
+	
+}
+
+.galleria-i a {
+	color:#444;
+	
+}

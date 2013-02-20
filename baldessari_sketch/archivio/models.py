@@ -1,6 +1,7 @@
 from django.db import models
 
-#the class Actor describes an "actor" present in the life of baldessari - for now it can be one person, several persons or an abstract group or an institution
+# Class Actor describes an "actor" present in the life of Baldessari
+# Can be one person, several persons or an abstract group/institution
 class Actor(models.Model):
     name = models.CharField(max_length = 100)
     TYPO = (
@@ -9,6 +10,7 @@ class Actor(models.Model):
             ('N', 'piu persone')
             )
     type = models.CharField(max_length=2, choices=TYPO, default = 'PE')
+    note = models.CharField(max_length = 500, null = True, blank = True)
     
     def __unicode__(self):
         return self.name
@@ -34,8 +36,8 @@ class Publication(models.Model):
         verbose_name = "Pubblicazione"
         verbose_name_plural = "Publicazioni"
 
+# Theme
 class Tematica(models.Model):
-    
     name = models.CharField(max_length = 500)
     
     def __unicode__(self):
@@ -45,39 +47,48 @@ class Tematica(models.Model):
         verbose_name = 'Percorso tematico'
         verbose_name_plural = 'Percorsi tematici'
 
-#project class
+# Project 
 class Project(models.Model):
+
+    sigla = models.CharField(max_length = 10) #the letters that represent the project
 
     #modelisation of people's participation
     persone = models.ManyToManyField(Actor, through='Participation')
     
-    tipo = models.CharField(max_length = 50) # type of project : maybe to remplace by a choice setting
-    tipo2 = models.CharField(max_length = 50) #second typology for projects
+    tipo = models.CharField(max_length = 50, blank=True, null=True) # type of project : maybe to remplace by a choice setting
+    tipo2 = models.CharField(max_length = 50, blank=True, null=True) #second typology for projects
     
-    denominazione = models.CharField(max_length = 500) #name of the project
+    denominazione = models.CharField(max_length = 500, blank=True) #name of the project
     
     address = models.CharField(max_length = 500, blank=True,null=True)
     latitude = models.FloatField(blank=True,null=True) #geographical coordinates - geocoordinates can be created directly, but i didn't do it to keep it simple
     longitude = models.FloatField(blank=True,null=True)
     
-    bibliografia = models.ManyToManyField(Publication, blank = True) #there can be several publications for one project, a publication can deal with several projects
+    bibliografia = models.ManyToManyField(Publication, blank = True, null = True) #there can be several publications for one project, a publication can deal with several projects
     
-    percorsi_tematici = models.ManyToManyField(Tematica, blank = True, null=True) #percorsi tematici
     
     impresa = models.CharField(max_length = 200, null = True)
     
-    descrizione_prog = models.TextField()
-    
-    sigla =models.CharField(max_length = 10) #the letters that represent the project
+    descrizione_prog = models.TextField(null = True)
     
     class Meta:
         verbose_name = "Progetto"
         verbose_name_plural = "Progetti"
     
     def __unicode__(self):
-        return self.denominazione
+        # return self.sigla
+        return self.denominazione     # "coercing to Unicode" exception
 
-#time intervall - used for Projects and documents
+    def related_drawing(self):
+        relateddocuments = Drawing.objects.filter(project = self)
+        if len(relateddocuments) > 0:
+            draw = relateddocuments[0]
+        else:
+            draw = None
+        return draw
+ 
+
+# Time interval - used for Projects and Documents
 class TimeInterval(models.Model):
     #creating a generic foreign key to be able to link the timeslot to any type of object (not implemented)
     #target = models.ForeignKey(ContentType)
@@ -86,13 +97,25 @@ class TimeInterval(models.Model):
     
     target = models.ForeignKey(Project)
     
-    begining = models.DateField()
-    end = models.DateField()
+    beginningDate = models.DateField(blank = True, null = True)
+    endDate = models.DateField(blank = True, null = True)
+
+    beginningYear = models.IntegerField(blank = True, null = True)
+    beginningMonth = models.IntegerField(blank = True, null = True)
+    beginningDay = models.IntegerField(blank = True, null = True)
+
+    endYear = models.IntegerField(blank = True, null = True)
+    endMonth = models.IntegerField(blank = True, null = True)
+    endDay = models.IntegerField(blank = True, null = True)
+
+    def __unicode__(self):
+        return self.beginningYear
+
     class Meta:
         verbose_name = "Intervallo di tempo"
         verbose_name_plural = "Intervalli di tempo"
     
-#modelisation of the participation to a project by someone, used as a "through" argument whenc creating a new project
+# Modelisation of the participation to a project by someone, used as a "through" argument when creating a new project
 class Participation(models.Model):
     actor = models.ForeignKey(Actor)
     project = models.ForeignKey(Project)
@@ -111,9 +134,9 @@ class Participation(models.Model):
    
     
     
-#abstract class document which is the mother of all types of documents description
+# Abstract class document which is the superclass of all types of documents implementation 
 class Document(models.Model):
-    project = models.ForeignKey(Project, blank = True) #link to a project, blank is turned to True because some documents can not be related to any project / note : can a document be related to several projects? if yes this field has to be turned into a Many-To-Many field
+    project = models.ForeignKey(Project, blank = True, null = True) #link to a project, blank is turned to True because some documents can not be related to any project / note : can a document be related to several projects? if yes this field has to be turned into a Many-To-Many field
 
     ARCHIVIO_CHOICE = (
                 ('ALB', 'Politecnico di Milano'),
@@ -122,12 +145,35 @@ class Document(models.Model):
                 )
     
     archivio = models.CharField(max_length = 3, choices = ARCHIVIO_CHOICE, null = True)
+
     data = models.DateField(null = True, blank = True)
+    dataYear = models.IntegerField(null = True, blank = True)
+    dataMonth = models.IntegerField(null = True, blank = True)
+    dataDay = models.IntegerField(null = True, blank = True)
     
     class Meta:
         abstract = True
 
-#the class Drawing inherits from documents
+
+# Class Letter inherits from Document
+# represents the hand written documents
+class Letter(Document):
+    segnatura = models.CharField(max_length = 50, blank = True)
+    year = models.DateField(null = True, blank = True)
+
+    imageAdress = models.CharField(max_length = 100, blank = True,null=True)
+    thumbAdress = models.CharField(max_length = 100, blank = True,null=True)
+
+    def __unicode__(self):
+        return self.segnatura
+
+    class Meta:
+        verbose_name = "Carteggio"
+        verbose_name_plural = "Carteggi"
+
+
+# Class Drawing inherits from Document
+# represents the images associated to projects
 class Drawing(Document):
     prestiti = models.NullBooleanField()
     largezza = models.FloatField(blank=True, null=True)
@@ -160,4 +206,40 @@ class Drawing(Document):
     class Meta:
         verbose_name = "Disegno"
         verbose_name_plural = "Disegni"
-    
+
+
+# Class for biographic details
+class BioDetail(models.Model):
+    imgUrl = models.CharField(max_length = 200,blank = True, null=True)
+    titolo = models.CharField(max_length = 500,blank = True, null=True)
+    testo = models.CharField(max_length = 500,blank = True, null=True)
+    didascalia = models.CharField(max_length = 500,blank = True, null=True)
+    startDate = models.DateField(null = True, blank = True)
+    endDate = models.DateField(null = True, blank = True)
+
+    def __unicode__(self):
+        return self.testo
+
+    class Meta:
+        verbose_name = "Dettaglio biografico"
+        verbose_name_plural = "Dettagli biografici"
+        
+        
+# Class for biographic details
+class ThemeDetail(models.Model):
+    tema = models.ForeignKey(Tematica, blank = True, null = True)
+    imgUrl = models.CharField(max_length = 200,blank = True, null=True)
+    titolo = models.CharField(max_length = 500,blank = True, null=True)
+    testo = models.CharField(max_length = 500,blank = True, null=True)
+    didascalia = models.CharField(max_length = 500,blank = True, null=True)
+    startDate = models.DateField(null = True, blank = True)
+    endDate = models.DateField(null = True, blank = True)
+
+    def __unicode__(self):
+        return self.testo
+
+    class Meta:
+        verbose_name = "Dettaglio tematico"
+        verbose_name_plural = "Dettagli tematici"
+
+        

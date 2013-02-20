@@ -26,7 +26,6 @@ def giveDate(self):
 
 class Command(BaseCommand):
     
-    
     def handle(self, *args, **options):
         
         giveDate(self)

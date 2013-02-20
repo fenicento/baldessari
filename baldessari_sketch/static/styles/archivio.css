@@ -1,0 +1,95 @@
+@font-face {
+    font-family: 'OpenSansRegular';
+    src: url('fonts/open-sans-fontfacekit/OpenSans-Regular-webfont.eot');
+    src: url('fonts/open-sans-fontfacekit/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/open-sans-fontfacekit/OpenSans-Regular-webfont.woff') format('woff'),
+         url('fonts/open-sans-fontfacekit/OpenSans-Regular-webfont.ttf') format('truetype'),
+         url('fonts/open-sans-fontfacekit/OpenSans-Regular-webfont.svg#OpenSansRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'open_sans_condensed_lightRg';
+    src: url('fonts/opensans-condensed/opensans-condlight-webfont.eot');
+    src: url('fonts/opensans-condensed/opensans-condlight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/opensans-condensed/opensans-condlight-webfont.woff') format('woff'),
+         url('fonts/opensans-condensed/opensans-condlight-webfont.ttf') format('truetype'),
+         url('fonts/opensans-condensed/opensans-condlight-webfont.svg#open_sans_condensed_lightRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+/*	font-family: 'OpenSansRegular', sans-serif;*/
+	font-family: 'Open Sans', sans-serif;
+	background-color:#f2f2ef;
+}
+
+/*corresponds to "l'archivio di"*/
+#pretitle{
+	font-family: 'Open Sans Condensed', sans-serif;
+/*	font-family: 'open_sans_condensed_lightRg', 'Arial Narrow', sans-serif;*/
+/*	font-family: 'open_sans_condensed_lightRg';*/
+	text-transform : uppercase;
+/*	background-color : #282828;*/
+	font-weight : 100;
+	font-size: 0.8em;
+	
+	margin-top: 3%;
+}
+
+/*corresponds to "luciano baldessari"*/
+#titlename{
+	color : #f2f2f0;
+	font-style : normal;
+	font-weight : 100;
+	letter-spacing: -1px;
+	font-size: 2em;
+	
+	margin-top: 5px;
+}
+
+.navbar-inner .container{
+	padding-top: 0.5%;
+}
+
+.navbar .nav > li > a{
+	font-size: 1.1em;
+}
+
+.nav{
+	position: absolute;
+	top: 85px;
+/*	bottom: -10%;*/
+	
+	padding-left: 20px;
+}
+
+/*section currently visited*/
+.navbar .nav .active > a, 
+.navbar .nav .active > a:hover {
+  color: #ffffff;
+  text-decoration: none;
+  background-color: rgba(44,44,44, 0);
+
+}
+
+#upper-bar{
+	margin-top: 11%;
+	min-height: 20px;
+}
+
+#section-title{
+	margin-top: 11%;
+	margin-bottom: 3%;
+	padding-top: 2%;
+	font-size: 2em;
+/*	visibility: hidden;*/
+}
+
+.hero-unit {
+/*	padding-top: 80px;*/
+	background-color: rgb(255, 255, 255);
+}

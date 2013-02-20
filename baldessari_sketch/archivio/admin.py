@@ -20,6 +20,10 @@ class DesigniInLine(admin.TabularInline):
 class ParticipationInLine(admin.TabularInline):
     model = Participation
     extra = 1
+
+# class PercorsiInLine(admin.TabularInline):
+    # model = Project.percorsi_tematici.through
+    # extra = 3
     
 class ProjAdmin(admin.ModelAdmin):
     
@@ -67,3 +71,4 @@ admin.site.register(Project, ProjAdmin)
 admin.site.register(Drawing, DisegnoAdmin)
 admin.site.register(Actor, ActorAdmin)
 admin.site.register(Publication, RefAdmin)
+# admin.site.register(Tematica, PercorsiAdmin)

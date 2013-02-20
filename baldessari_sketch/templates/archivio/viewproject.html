@@ -56,13 +56,14 @@
 			<div id="gallery">
 				{% load static %}
 				{% get_static_prefix as STATIC_PREFIX %}
+				{% get_media_prefix as MEDIA_PREFIX %}
 				<script src="{{ STATIC_PREFIX }}libs/galleria-1.2.7.min.js"></script>
 				<script src="{{ STATIC_PREFIX }}libs/galleria.classic.min.js"></script>
 				<div id='galleria'>
 					{% for doc in related_documents %}
 							{% load static %}
 							{% get_static_prefix as STATIC_PREFIX %}
-							<img src= "{{ STATIC_PREFIX }}{{ doc.imageAdress}}" />
+							<img src= "{{ MEDIA_PREFIX }}{{ doc.imageAdress}}" />
 					{% endfor %}
 				</div>
 				

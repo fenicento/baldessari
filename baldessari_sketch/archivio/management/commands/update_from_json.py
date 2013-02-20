@@ -44,7 +44,7 @@ def parseProjects(projectJson, self):
         #open the project
         projF = open(projectJson, "r")
         projContent = StringIO(projF.read())
-        projDict = json.load(projContent)#this dict will be updated with the content of docsDict
+        projDict = json.load(projContent)	# this dict will be updated with the content of docsDict
         
         global nbrProjects
         nbrProjects += len(projDict)
@@ -56,18 +56,28 @@ def parseProjects(projectJson, self):
                     p = Project(sigla = proj["sigla"])
                     p.denominazione = proj["denominazione"]
                     p.tipo = proj["tipo"]
+                    p.tipo2 = proj["tipo2"]
                     p.save()
- 
+
                     try:
-                        p.address = proj["luogo"]["raw"]
-                        coords = proj["luogo"]["coordinate"]
-                        p.latitude = float(coords[0])
-                        p.longitude = float(coords[1])
+                        p.address = proj["luogo"]["indirizzo"]
+                        p.address = p.address
+                        # p.address = proj["luogo"]["raw"]
+                        # coords = proj["luogo"]["coordinate"]
+                        p.latitude = project['luogo']['latitude']
+                        p.latitude
+                        p.longitude = project['luogo']['longitude']
+                        p.longitude
+                        # p.latitude = float(coords[0])
+                        # p.longitude = float(coords[1])
                     except:
-                        self.stdout.write('Problem of location with project '+p.denominazione+'\n')
+                        p.latitude = None
+                        p.longitude = None
+                        # self.stdout.write('Problem of location with project '+p.denominazione+'\n')
                     
                     #to-do : date formatting
-                    date = proj["data"]#retrieve the field data
+                    date = proj["intervalli_di_tempo"]#retrieve the field data
+                    # date = proj["date"]#retrieve the field data
                     datedec = re.split('[;-]', date)#split in case of multiple time intervalls
                     for stri in datedec:#clean the strings
                         stri.strip()
@@ -110,21 +120,23 @@ def parseProjects(projectJson, self):
                     p.save()
 
 def linkImages(self):
-    staticpath = os.path.join(FILE_PATH, '../../../static/img_documents')
-    for doc in os.listdir(staticpath):#parse projects
-        docdb = Drawing.objects.get(segnatura = doc)
-        localpath = os.path.join(FILE_PATH, '../../../static/img_documents/'+doc+'/')
-        rank = 1
-        for file in os.listdir(localpath):
-            f = open(localpath+file, 'r')
-            print f
-            filou = DrawingFile.objects.create(
-                                image = File(open(localpath+file, 'r')),
-                                rank = rank,
-                                parent = docdb
-                                )
-            filou.save()
-            rank= rank + 1
+    call_command("attribute_images")
+
+    # staticpath = os.path.join(FILE_PATH, '../../../static/img_documents')
+    # for doc in os.listdir(staticpath):#parse projects
+    #     docdb = Drawing.objects.get(segnatura = doc)
+    #     localpath = os.path.join(FILE_PATH, '../../../static/img_documents/'+doc+'/')
+    #     rank = 1
+    #     for file in os.listdir(localpath):
+    #         f = open(localpath+file, 'r')
+    #         print f
+    #         filou = DrawingFile.objects.create(
+    #                             image = File(open(localpath+file, 'r')),
+    #                             rank = rank,
+    #                             parent = docdb
+    #                             )
+    #         filou.save()
+    #         rank= rank + 1
 
 
 

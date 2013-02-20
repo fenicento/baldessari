@@ -201,7 +201,7 @@ function loadData(){
 							return 'getAllProjectsList'
 						}
 					}
-					}
+				}
 		
 	       $.get("getInfo", params, function(data){
 	       		referenceArray = {}
@@ -646,7 +646,7 @@ d3.select('#typefilter').on('click', function(){
 
 			$.get('getInfo', {action : 'getTipi'}, function(data){
 				//register all types of projects
-				var tipi = data['tipi'];	
+				var tipi = data['tipi'];
 				
 				var div = $('#typefilter');
 				var pos = div.position()

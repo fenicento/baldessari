@@ -95,8 +95,11 @@ a h3, a h1{
 
 .detail-field{
 	padding : 1.5em;
-	padding-bottom : 4em;
+	padding-bottom : 1em;
 	border-bottom : 1px solid #a29d9d;
+	clear: both;
+	overflow:hidden;
+	
 }
 
 #project_committente_container{
@@ -104,13 +107,13 @@ a h3, a h1{
 }
 
 .detail-field .left{
-	width : 50%;
+	width : 45%;
 	display : inline-block;
 	float : left;
 }
 
 .detail-field .right{
-	width : 50%;
+	width : 48%;
 	display : inline-block;
 	float : right;
 }
