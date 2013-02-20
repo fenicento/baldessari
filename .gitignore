@@ -2,5 +2,6 @@
 env/*
 baldessari_sketch/static/img_documents/*
 baldessari_sketch/static/img_thumbs/*
+baldessari_sketch/media/*
 .DS_Store
 settings.py
