@@ -1,2 +1,5 @@
 eclipse.preferences.version=1
+encoding//archivio/management/commands/addAttivita.py=utf-8
+encoding//archivio/management/commands/transferImages.py=utf-8
+encoding//archivio/migrations/0001_initial.py=utf-8
 encoding//archivio/views.py=latin1

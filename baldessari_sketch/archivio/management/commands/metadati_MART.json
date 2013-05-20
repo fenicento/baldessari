@@ -1,0 +1,4258 @@
+  [
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ASV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ASV_scan083.tif",
+      "annotazioni" : "Foto Mandelli, Como",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ASV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ASV_scan084.tif",
+      "annotazioni" : "Foto Mandelli, Como",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ASV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ASV_scan082.tif",
+      "annotazioni" : "Foto Mandelli, Como",
+      "descrizione" : "stampa fotografica ritoccata da Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ASV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ASV_scan079.tif",
+      "annotazioni" : "Foto Mandelli, Como",
+      "descrizione" : "stampa fotografica ritoccata da Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ASV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ASV_scan085.tif",
+      "annotazioni" : "Foto Mandelli, Como",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ASV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ASV_scan086.tif",
+      "annotazioni" : "Foto Mandelli, Como",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ASV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ASV_scan080.tif",
+      "annotazioni" : "Foto Mandelli, Como",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ASV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ASV_scan081.tif",
+      "annotazioni" : "Foto Mandelli, Como",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IBN",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IBN_scan087.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IBN",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IBN_scan088.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ICV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ICV_scan089.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ICV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ICV_scan090.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ATL",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ATL_scan091.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno autografo di Luciano Baldessari (proprietà privata)"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ATL",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ATL_scan092.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico del Luminator tipo Barcellona"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ATL",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ATL_scan093.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico del Luminator tipo Barcellona"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ATL",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ATL_scan094.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico del Luminator tipo Barcellona"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ATL",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ATL_scan096.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del Luminator tipo Barcellona"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ATL",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ATL_scan097.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del Luminator tipo Barcellona"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ATL",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ATL_scan095.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del Luminator tipo Barcellona"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PBL",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PBL_scan100.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del Luminator tipo Bernocchi"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PBL",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PBL_scan102.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della vetrina del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT4",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT4_scan103",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT4",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT4_scan104",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT4",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT4_scan105",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT4",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT4_scan106",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotograficadel plastico"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ICJ",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ICJ_scan109.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ICJ",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ICJ_scan108.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ICJ",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ICJ_scan112.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ICJ",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ICJ_scan114.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ICJ",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ICJ_scan115.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ICJ",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ICJ_scan117.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ICJ",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ICJ_scan113.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ICJ",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ICJ_scan110.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ICJ",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ICJ_scan111.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del manichino di Marcello Nizzoli"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ICJ",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ICJ_scan107.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno di Luigi Figini eseguito dopo la realizzazione del Bar"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ICJ",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ICJ_scan192.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della fotocopia di una planimetria"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ICJ",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ICJ_scan191.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta ricostruita da Zita Mosca Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ICJ",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ICJ_scan193.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta del soffitto ricostruita da Zita Mosca Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ICJ",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ICJ_scan194.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dei prospetti ricostruiti da Zita Mosca Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ISC",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ISC_scan118.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ISC",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ISC_scan119.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ISM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ISM_scan131.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno di Luciano Baldessari (proprietà privata)"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ISM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ISM_scan125.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della camera da letto"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ISM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ISM_scan126.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica  della camera da letto"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ISM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ISM_scan128.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica  della camera da letto"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ISM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ISM_scan122.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dello spogliatoio"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ISM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ISM_scan124.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dello spogliatoio"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ISM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ISM_scan123.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della toilette nello spogliatoio"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ISM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ISM_scan139.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'armadio nello spogliatoio"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ISM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ISM_scan135.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del soggiorno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ISM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ISM_scan136.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del soggiorno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ISM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ISM_scan137.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del soggiorno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ISM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ISM_scan138.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del soggiorno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ISM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ISM_scan129.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del mobile bar nel soggiorno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ISM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ISM_scan127.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del mobile bar nel soggiorno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ISM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ISM_scan133.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala da pranzo"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ISM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ISM_scan134.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala da pranzo"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ISM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ISM_scan130.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del mobile nella sala da pranzo"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ISM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ISM_scan140.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un mobile"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "UCC",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_UCC_scan141.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del progetto di massima ricostruito da Zita Mosca Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "UCC",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_UCC_scan142.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del progetto di massima ricostruito da Zita Mosca Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ADT",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ADT_scan143.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del manifesto "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ADT",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ADT_scan144.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ADT",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ADT_scan145.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PT5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PT5_scan169.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PT5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PT5_scan171.tif",
+      "annotazioni" : "Servizio Fotografico S.A. Crimella, Milano",
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PT5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PT5_scan170.tif",
+      "annotazioni" : "Servizio Fotografico S.A. Crimella, Milano",
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PT5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PT5_scan182.tif",
+      "annotazioni" : "Servizio Fotografico S.A. Crimella, Milano",
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PT5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PT5_scan174.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PT5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PT5_scan183.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un articolo di giornale"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PT5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PT5_scan172.tif",
+      "annotazioni" : "Servizio Fotografico S.A. Crimella, Milano",
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PT5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PT5_scan167.tif",
+      "annotazioni" : "Servizio Fotografico S.A. Crimella, Milano",
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PT5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PT5_scan166.tif",
+      "annotazioni" : "Servizio Fotografico S.A. Crimella, Milano",
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PT5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PT5_scan173.tif",
+      "annotazioni" : "Servizio Fotografico S.A. Crimella, Milano",
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PT5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PT5_scan163.tif",
+      "annotazioni" : "Servizio Fotografico S.A. Crimella, Milano",
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PT5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PT5_scan162.tif",
+      "annotazioni" : "Servizio Fotografico S.A. Crimella, Milano",
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PT5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PT5_scan164.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PT5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PT5_scan165.tif",
+      "annotazioni" : "Servizio Fotografico S.A. Crimella, Milano",
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PT5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PT5_scan175.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PT5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PT5_scan176.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PT5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PT5_scan160.tif",
+      "annotazioni" : "Servizio Fotografico S.A. Crimella, Milano",
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PT5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PT5_scan161.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PT5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PT5_scan180.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno con la scultura di Jenny Wiegmann"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PT5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PT5_scan168.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'inaugurazione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PT5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PT5_scan177.tif",
+      "annotazioni" : "Servizio Fotografico S.A. Crimella, Milano",
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PT5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PT5_scan181.tif",
+      "annotazioni" : "Servizio Fotografico S.A. Crimella, Milano",
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PT5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PT5_scan179.tif",
+      "annotazioni" : "Servizio Fotografico S.A. Crimella, Milano",
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PT5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PT5_scan178.tif",
+      "annotazioni" : "Servizio Fotografico S.A. Crimella, Milano",
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PV_scan185.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di una assonometria"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PV_scan184.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PV_scan189.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PV_scan190.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PV_scan187.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PV_scan186.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PV_scan188.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IBO",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IBO_scan218.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IBO",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IBO_scan219.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IBO",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IBO_scan220.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IBO",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IBO_scan217.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IPC",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IPC_scan215.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di uno schizzo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AA",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AA_scan196.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della copertina del catalogo"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AA",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AA_scan195.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta del primo piano"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AA",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AA_scan197.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta del secondo piano"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AA",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AA_scan198.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AA",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AA_scan200.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AA",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AA_scan199.tif",
+      "annotazioni" : "Stabilimento Fototecnico S.A. Crimella, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AA",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AA_scan201.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AA",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AA_scan202.tif",
+      "annotazioni" : "Stabilimento Fototecnico S.A. Crimella, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AA",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AA_scan203.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AA",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AA_scan204.tif",
+      "annotazioni" : "Stabilimento Fototecnico S.A. Crimella, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AA",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AA_scan205.tif",
+      "annotazioni" : "Stabilimento Fototecnico S.A. Crimella, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AA",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AA_scan206.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AA",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AA_scan207.tif",
+      "annotazioni" : "Stabilimento Fototecnico S.A. Crimella, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AA",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AA_scan208.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento ricostruito nel 1982"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AA",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AA_scan209.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento ricostruito nel 1982"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AA",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AA_scan210.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento ricostruito nel 1982"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AA",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AA_scan211.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento ricostruito nel 1982"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AA",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AA_scan212.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento ricostruito nel 1982"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AA",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AA_scan213.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento ricostruito nel 1982"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "POV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_POV_scan582.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "POV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_POV_scan583.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "POV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_POV_scan584.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "POV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_POV_scan585.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "POV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_POV_scan586.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "POV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_POV_scan587.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'assonometria"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "POV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_POV_scan590.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno di un dettaglio tecnico"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "POV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_POV_scan588.tif",
+      "annotazioni" : "foto E. Sergysels, Bruxelles",
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "POV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_POV_scan591.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "POV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_POV_scan594.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "POV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_POV_scan593.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "POV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_POV_scan592.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della tearracotta di Lucio Fontana"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "POV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_POV_scan589.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della terracotta di Lucio Fontana"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IU",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IU_scan221.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IU",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IU_scan222.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IU",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IU_scan223.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IU",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IU_scan224.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IU",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IU_scan225.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "USB",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_USB_scan336.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di schizzi di Luciano Baldessari, di cui uno autografo"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "USB",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_USB_scan337.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di schizzi di Luciano Baldessari, di cui uno autografo"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "USB",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_USB_scan338.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di schizzi di Luciano Baldessari, di cui uno autografo"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "USB",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_USB_scan335.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di due disegni di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "USB",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_USB_scan334.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "USB",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_USB_scan340.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "USB",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_USB_scan341.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "USB",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_USB_scan339.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegnodi Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "USB",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_USB_scan343.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "USB",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_USB_scan342.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "USB",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_USB_scan346.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno a mano libera del porticato sulla piazza San Babila"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "USB",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_USB_scan344.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno a mano libera del porticato sulla piazza San Babila"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "USB",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_USB_scan347.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno a mano libera dell'atrio d'ingresso"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "USB",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_USB_scan345.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno a mano libera dell'atrio d'ingresso"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "USB",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_USB_scan326.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta del secondo sotterraneo"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "USB",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_USB_scan327.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta del primo sotterraneo"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "USB",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_USB_scan333.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta del piano terra"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "USB",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_USB_scan330.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta del piano terra"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "USB",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_USB_scan328.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta del piano degli uffici"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "USB",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_USB_scan329.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta del piano mezzanino e uffici"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "USB",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_USB_scan331.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta del piano mezzanino"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "USB",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_USB_scan332.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica delle piante degli appartamenti"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "VH",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_VH_scan366.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della fotocopia di una planimetria della Laguna di Venezia"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "VH",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_VH_scan369.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno a mano libera"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "VH",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_VH_scan371.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno a mano libera"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "VH",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_VH_scan368.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno a mano libera"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "VH",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_VH_scan374.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica  di una prospettiva a volo d'uccello"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "VH",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_VH_scan375.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "VH",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_VH_scan373.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "VH",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_VH_scan370.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "VH",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_VH_scan372.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "VH",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_VH_scan359.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "VH",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_VH_scan360.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "VH",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_VH_scan361.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "VH",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_VH_scan362.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "VH",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_VH_scan363.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "VH",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_VH_scan364.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "VH",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_VH_scan365.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "VH",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_VH_scan367.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IT6",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IT6_scan348.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di uno schizzo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IT6",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IT6_scan349.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di uno schizzo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IT6",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IT6_scan350.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di una vista prospettica"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IT6",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IT6_scan352.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di una vista prospettica"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IT6",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IT6_scan351.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di una vista prospettica con un disegno a mano libera di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT6",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT6_scan353.tif",
+      "annotazioni" : "Stabilimento Fototecnico S.A. Crimella, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT6",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT6_scan354.tif",
+      "annotazioni" : "Stabilimento Fototecnico S.A. Crimella, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PD",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PD_scan355.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PD",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PD_scan356.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PD",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PD_scan357.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PD",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PD_scan358.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AMV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AMV_scan480.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AMV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AMV_scan479.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AMV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AMV_scan481.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno a mano libera"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AMV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AMV_scan482.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno a mano libera"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AMV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AMV_scan483.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno a mano libera"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AMV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AMV_scan485.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno a mano libera"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AMV",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AMV_scan486.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno a mano libera"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IP_scan490.tif",
+      "annotazioni" : "Foto Cav. Prezioso, Genova",
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IP_scan494.tif",
+      "annotazioni" : "Foto Cav. Prezioso, Genova",
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IP_scan489.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IP_scan487.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IP_scan488.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IP_scan498.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IP_scan495.tif",
+      "annotazioni" : "Foto Cav. Prezioso, Genova",
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IP_scan491.tif",
+      "annotazioni" : "Foto Cav. Prezioso, Genova",
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IP_scan493.tif",
+      "annotazioni" : "Foto Cav. Prezioso, Genova",
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IP_scan492.tif",
+      "annotazioni" : "Foto Cav. Prezioso, Genova",
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IP_scan496.tif",
+      "annotazioni" : "Foto Cav. Prezioso, Genova",
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IP_scan497.tif",
+      "annotazioni" : "Foto Cav. Prezioso, Genova",
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "IP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_IP_scan498.tif",
+      "annotazioni" : "Foto Cav. Prezioso, Genova",
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AEA",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AEA_scan499.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno autografo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AEA",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AEA_scan500.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno autografo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AEA",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AEA_scan501.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AEA",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AEA_scan502.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno autografo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AEA",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AEA_scan503.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno autografo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan514.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan509.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan515.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno autografo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan510.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan507.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno autografo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan508.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno autografo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan511.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan513.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan512.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan504.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta del piano terra"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan506.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sezione longitudinale"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan505.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta e della sezione sullo Scalone d'Onore"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan648.tif",
+      "annotazioni" : "Fotografie per l'industria Farabola, Milano",
+      "descrizione" : "stampa fotografica dell'atrio d'ingresso con le forme plastiche a soffitto di Umberto Milani, i tagli luminosi a soffitto di Lucio Fontana e la tarsia a pavimento di Attilio Rossi"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan656.tif",
+      "annotazioni" : "fotografo Dani, Milano",
+      "descrizione" : "stampa fotografica dell'atrio d'ingresso con le forme plastiche a soffitto di Umberto Milani"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan647.tif",
+      "annotazioni" : "Fotografie per l'industria Farabola, Milano",
+      "descrizione" : "stampa fotografica dell'atrio d'ingresso con le opere di attilio Rossi, Umberto Milani, Romano Rui e Lucio Fontana"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan651.tif",
+      "annotazioni" : "Fotografie per l'industria Farabola, Milano",
+      "descrizione" : "stampa fotografica dell'atrio d'ingresso con la ceramica di Carmelo cappello"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan650.tif",
+      "annotazioni" : "Fotografie per l'industria Farabola, Milano",
+      "descrizione" : "stampa fotografica dell'atrio d'ingresso con le opere di Carlo Conte, Emilio Greco, Angelo Del Bon"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan652.tif",
+      "annotazioni" : "Fotografie per l'industria Farabola, Milano",
+      "descrizione" : "stampa fotografica dell'atrio d'ingresso con il pannello di Angelo Del Bon, la statua di Emilio Greco, la ceramica di Carmelo Cappello e la scultura a soffitto d Umberto Milani."
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan653.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'atrio d'ingresso"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan658.tif",
+      "annotazioni" : "fotografo Aragozzini, Milano",
+      "descrizione" : "stampa fotografica dello Scalone d'Onore con la ceramica di Neto Campi, le sculture di Romano Rui e Bruno Calvani"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan661.tif",
+      "annotazioni" : "Fotografie per l'industria Farabola, Milano",
+      "descrizione" : "stampa fotografica dello Scalone d'Onore con la scultura di Bruno Calvani"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan659.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dello Scalone d'Onore con il Cirro Luminoso di Lucio Fontana"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan660.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dello Scalone d'Onore con il Cirro Luminoso di Lucio Fontana"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan663.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del Cirro Luminoso di Lucio Fontana"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan662.tif",
+      "annotazioni" : "fotografo Aragozzini, Milano",
+      "descrizione" : "stampa fotografica del Cirro Luminoso di Lucio Fontana"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan664.tif",
+      "annotazioni" : "Fotografie per l'industria Farabola, Milano",
+      "descrizione" : "stampa fotografica del vestibolo superiore"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan665.tif",
+      "annotazioni" : "fotografo Dani, Milano",
+      "descrizione" : "stampa fotografica del vestibolo superiore con i divani di Marco Zanusi e la tarsia a pavimento di Mario Radice"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan666.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del vestibolo superiore"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan667.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del vestibolo superiore con la scultura di Vittorio Tavernari e la pittura parietale di Bruno Cassinari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan657.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento con il soffitto di Giovanni Dova"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan655.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della scultura di Emilio Greco"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AT9",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AT9_scan654.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della scultura di Emilio Greco"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan735.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di due schizzi autografi di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan669.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di schizzi autografi di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan730.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di uno schizzo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan733.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di schizzi autografi di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan734.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di schizzi autografi di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan737.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di schizzi di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan732.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di uno schizzo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan727.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di due sezioni"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan728.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di una pianta"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan731.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di una pianta e di una sezione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan729.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di una sezione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan736.tif",
+      "annotazioni" : "fotografo Ferruccio Crepaldi, Milano",
+      "descrizione" : "stampa fotografica del plastico"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan670.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan671.tif",
+      "annotazioni" : "Fotografie per l'industria Farabola, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan738.tif",
+      "annotazioni" : "Fotografie per l'industria Farabola, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan672.tif",
+      "annotazioni" : "Fotografie per l'industria Farabola, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan740.tif",
+      "annotazioni" : "Fotografie per l'industria Farabola, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan749.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan741.tif",
+      "annotazioni" : "Fotografie per l'industria Farabola, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan742.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan743.tif",
+      "annotazioni" : "Fotografie per l'industria Farabola, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan744.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan745.tif",
+      "annotazioni" : "Fotografie per l'industria Farabola, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan739.tif",
+      "annotazioni" : "Fotografie per l'industria Farabola, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan747.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan673.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan750.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan751.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan752.tif",
+      "annotazioni" : "Fotografie per l'industria Farabola, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan753.tif",
+      "annotazioni" : "Fotografie per l'industria Farabola, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan754.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan755.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan756.tif",
+      "annotazioni" : "fotografo G.E. Kidder Smith, Aja",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan757.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan748.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'interno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan817.tif",
+      "annotazioni" : "Publifoto, Milano",
+      "descrizione" : "stampa fotografica dell'interno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan820.tif",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica dell'interno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB1",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB1_scan746.tif",
+      "annotazioni" : "Fotografie per l'industria Farabola, Milano",
+      "descrizione" : "stampa fotografica dell'interno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan674.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno del Teti Teatro autografo di Luciano Baldessari (collezione Dal Monte)"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan675.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno del Teti Teatro autografo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan676.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno del Teti Teatro autografo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan677.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno del Teti Teatro autografo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan679.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno del Teti Teatro autografo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan680.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno del Teti Teatro autografo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan681.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno del Teti Teatro autografo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan684.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di uno schizzo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan678.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno del Teti Teatro autografo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan685.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di uno schizzo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan686.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan682.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica del foto-grafico di Attilio Rossi"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan770.tif",
+      "annotazioni" : "Publifoto, Milano",
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan771.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan772.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan773.tif",
+      "annotazioni" : "Publifoto, Milano",
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan778.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan779.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan780.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan760.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan761.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan762.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan683.tif",
+      "annotazioni" : "fotografo Marcello Grisotti, Milano",
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan763.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan764.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan765.tif",
+      "annotazioni" : "Publifoto, Milano",
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan766.tif",
+      "annotazioni" : "Publifoto, Milano",
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan767.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan768.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan769.tif",
+      "annotazioni" : "Publifoto, Milano",
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan774.tif",
+      "annotazioni" : "Publifoto, Milano",
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan775.tif",
+      "annotazioni" : "Publifoto, Milano",
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan776.tif",
+      "annotazioni" : "fotografo Marcello Grisotti, Milano",
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan777.tif",
+      "annotazioni" : "Publifoto, Milano",
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB2",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB2_scan668.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica con da destra Marcello Grisotti, Erminio Grosso, Luciano Baldessari, Giorgio Grando"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AVG",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AVG_scan226.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AVG",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AVG_scan227.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AVG",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AVG_scan228.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 1"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AVG",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AVG_scan238.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 1"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AVG",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AVG_scan229.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 1"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AVG",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AVG_scan230.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 2"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AVG",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AVG_scan233.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 2"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AVG",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AVG_scan232.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 2"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AVG",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AVG_scan237.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 3"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AVG",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AVG_scan236.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 4"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AVG",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AVG_scan234.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 6"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AVG",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AVG_scan231.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 6"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AVG",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AVG_scan241.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 12"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AVG",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AVG_scan239.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento del bar "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AVG",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AVG_scan240.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento del bar"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB3",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB3_scan702.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di schizzi autografi di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB3",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB3_scan703.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di schizzi autografi di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB3",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB3_scan698.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di uno schizzo autografo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB3",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB3_scan699.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di uno schizzo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB3",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB3_scan700.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB3",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB3_scan701.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB3",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB3_scan689.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della locandina"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB3",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB3_scan695.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB3",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB3_scan694.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB3",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB3_scan692.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB3",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB3_scan696.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB3",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB3_scan690.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica dell'esterno con Luciano Baldessari in primo piano"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB3",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB3_scan693.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB3",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB3_scan691.tif",
+      "annotazioni" : "fotografo E. Petraroli, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB3",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB3_scan697.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB3",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB3_scan687.tif",
+      "annotazioni" : "Bromofoto, Milano",
+      "descrizione" : "stampa fotografica dell'interno della sala di proiezione con plastica spaziale a soffitto di Lucio Fontana"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB3",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB3_scan688.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della plastica spaziale di Lucio Fontana"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB4",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB4_scan716.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno autografo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB4",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB4_scan717.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di uno schizzo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB4",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB4_scan718.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di uno schizzo autografo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB4",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB4_scan719.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica schizzi autografi di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB4",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB4_scan707.tif",
+      "annotazioni" : "Prestofoto Fotografia Industriale e d'Attualità, Milano",
+      "descrizione" : "stampa fotografica del cantiere"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB4",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB4_scan709.tif",
+      "annotazioni" : "Prestofoto Fotografia Industriale e d'Attualità, Milano",
+      "descrizione" : "stampa fotografica del cantiere"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB4",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB4_scan705.tif",
+      "annotazioni" : "Prestofoto Fotografia Industriale e d'Attualità, Milano",
+      "descrizione" : "stampa fotografica del cantiere"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB4",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB4_scan704.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del cantiere"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB4",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB4_scan708.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB4",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB4_scan712.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB4",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB4_scan714.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB4",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB4_scan710.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB4",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB4_scan711.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB4",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB4_scan713.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB4",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB4_scan715.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della plastica luminosa di Lucio Fontana"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "APM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_APM_scan516.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "APM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_APM_scan595.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB5_scan829.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di schizzi di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB5_scan830.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di uno schizzo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB5_scan828.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di uno schizzo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB5_scan827.tif",
+      "annotazioni" : "fotografo Ferruccio Crepaldi, Milano",
+      "descrizione" : "stampa fotografica del plastico"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB5_scan825.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB5_scan824.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB5_scan821.tif",
+      "annotazioni" : "fotografo E. Petraroli, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB5_scan826.tif",
+      "annotazioni" : "fotografo E. Petraroli, Milano",
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB5_scan822.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB5",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB5_scan823.tif",
+      "annotazioni" : "fotografo E. Petraroli, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan242",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan248.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala d'ingresso con i Cavalli Fittili di Tarquinia"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan249.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala d'ingresso con i Cavalli Fittili di Tarquinia"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan262",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 1"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan263",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 1"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan264.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 1"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan265.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 1"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan266.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica  della sala n. 1"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan273.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 1/2"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan275.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 2"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan272.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 2"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan274.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 2"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan258.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 4 detta degli Ori"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan255.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 4 detta degli Ori"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan256.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 4 detta degli Ori"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan254.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 4 detta degli Ori"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan257.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 4 detta degli Ori"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan243",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 9 con Luciano Baldessari e Umberto Milani"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan244",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 9"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan245",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 9"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan246",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 9 con la Testa di Hermes"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan278.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 10"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan267.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 10"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan247",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 12 con il Marte da Todi"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan261",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 13"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan259.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 13"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan260",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala n. 16"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan250.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento della sala delle Cariatidi"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan251.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento della sala delle Cariatidi"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan252.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento della asla delle Cariatidi"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan268.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan269.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan270.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan271.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan276.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan253.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAE_scan277.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB6",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB6_scan720.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB6",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB6_scan721.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PS",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PS_scan605.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di uno schizzo di Luciano Baldessari del padiglione del 1953"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PS",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PS_scan600.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di uno schizzo di Luciano Baldessari del padiglione del 1961"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PS",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PS_scan603.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografice di due piante del padiglione del 1953"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PS",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PS_scan604.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografice di due sezioni del padiglione del 1953"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PS",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PS_scan602.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del modellino in cartone del padiglione del 1957"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PS",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PS_scan599.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del modellino in cartone del padiglione del 1957"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PS",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PS_scan597.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del modellino in cartone del padiglione del 1957"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PS",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PS_scan598.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del modellino in cartone del padiglione del 1957"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PS",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PS_scan618.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico del padiglione del 1953"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PS",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PS_scan606.tif",
+      "annotazioni" : "Foto Cronache Italiane",
+      "descrizione" : "stampa fotografica del cantiere del padiglione del 1953"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PS",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PS_scan609.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del cantiere del padiglione del 1953"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PS",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PS_scan608.tif",
+      "annotazioni" : "Foto Cronache Italiane",
+      "descrizione" : "stampa fotografica del cantiere del padiglione del 1953"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PS",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PS_scan607.tif",
+      "annotazioni" : "Foto Cronache Italiane",
+      "descrizione" : "stampa fotografica del cantiere del padiglione del 1953"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PS",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PS_scan610.tif",
+      "annotazioni" : "fotografo Novelli, Milano",
+      "descrizione" : "stampa fotografica del cantiere del padiglione del 1953"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PS",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PS_scan611.tif",
+      "annotazioni" : "fotografo A. Villani & Figli, Bologna",
+      "descrizione" : "stampa fotografica dell'esterno del padiglione del 1953"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PS",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PS_scan612.tif",
+      "annotazioni" : "fotografo Novelli, Milano",
+      "descrizione" : "stampa fotografica dell'esterno del padiglione del 1953"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PS",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PS_scan615.tif",
+      "annotazioni" : "fotografo Novelli, Milano",
+      "descrizione" : "stampa fotografica dell'esterno del padiglione del 1953"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PS",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PS_scan613.tif",
+      "annotazioni" : "fotografo A. Villani & Figli, Bologna",
+      "descrizione" : "stampa fotografica dell'esterno del padiglione del 1953"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PS",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PS_scan614.tif",
+      "annotazioni" : "Foto Cronache Italiane",
+      "descrizione" : "stampa fotografica dell'esterno del padiglione del 1953"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PS",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PS_scan616.tif",
+      "annotazioni" : "Bromofoto, Milano",
+      "descrizione" : "stampa fotografica dell'interno della sala proiezione del padiglione del 1953"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PS",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PS_scan617.tif",
+      "annotazioni" : "Bromofoto, Milano",
+      "descrizione" : "stampa fotografica dell'interno della sala proiezione del padiglione del 1953"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB7",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB7_scan722.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del padiglione"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "I19",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_I19_scan625.tif",
+      "annotazioni" : "Publifoto, Milano",
+      "descrizione" : "stampa fotografica dell'interno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB8",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB8_scan723.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB8",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB8_scan724.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'esterno"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB8",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB8_scan725.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PB8",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PB8_scan726.tif",
+      "annotazioni" : "Reparto Fotografico Breda, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAM_scan797.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di uno schizzo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAM_scan781.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAM_scan783.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAM_scan784.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAM_scan785.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAM_scan786.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAM_scan787.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAM_scan788.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAM_scan789.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAM_scan790.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAM_scan791.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAM_scan792.tif",
+      "annotazioni" : "fotografo Ancillotti, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAM_scan793.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAM_scan794.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAM_scan795.tif",
+      "annotazioni" : "fotografo Ancillotti, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AAM",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AAM_scan796.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AC",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AC_scan798.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di uno schizzo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AC",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AC_scan799.tif",
+      "annotazioni" : "Fototecnica Publifoto, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento della sala delle Cariatidi"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AC",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AC_scan800.tif",
+      "annotazioni" : "Fototecnica Publifoto, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento della sala delle Cariatidi"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AC",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AC_scan801.tif",
+      "annotazioni" : "Fototecnica Publifoto, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento della sala delle Carriatidi"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AC",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AC_scan802.tif",
+      "annotazioni" : "Fototecnica Publifoto, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento della sala delle Cariatidi"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AC",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AC_scan803.tif",
+      "annotazioni" : "Fototecnica Publifoto, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento della sala delle Cariatidi"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AC",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AC_scan804.tif",
+      "annotazioni" : "Fototecnica Publifoto, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AC",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AC_scan805.tif",
+      "annotazioni" : "Fototecnica Publifoto, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AC",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AC_scan806.tif",
+      "annotazioni" : "Fototecnica Publifoto, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AC",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AC_scan807.tif",
+      "annotazioni" : "Fototecnica Publifoto, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AC",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AC_scan808.tif",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AC",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AC_scan809.tif",
+      "annotazioni" : "Fototecnica Publifoto, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AC",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AC_scan810.tif",
+      "annotazioni" : "Fototecnica Publifoto, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AC",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AC_scan811.tif",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AC",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AC_scan812.tif",
+      "annotazioni" : "Fototecnica Publifoto, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AC",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AC_scan813.tif",
+      "annotazioni" : "Fototecnica Publifoto, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "AC",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_AC_scan814.tif",
+      "annotazioni" : "Fototecnica Publifoto, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PTP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PTP_scan630.tif",
+      "annotazioni" : "Fototecnica Publifoto, Milano",
+      "descrizione" : "stampa fotografica dell'esterno "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PTP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PTP_scan634.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno autografo di Luciano Baldessari (proprietà privata)"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PTP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PTP_scan635.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno autografo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PTP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PTP_scan636.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di un disegno autografo di Luciano Baldessari (collezione Maria Pia Matteotti)"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PTP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PTP_scan632.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della planimetria generale"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PTP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PTP_scan631.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta del piano terra"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PTP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PTP_scan637.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta del primo piano"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PTP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PTP_scan638.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta della copertura"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PTP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PTP_scan633.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico del III progetto"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PTP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PTP_scan640.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico del IV progetto"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PTP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PTP_scan642.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico del IV progetto"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PTP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PTP_scan639.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico del IV progetto"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PTP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PTP_scan641.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico del IV progetto"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PTP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PTP_scan643.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico del IVprogetto"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PTP",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PTP_scan644.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico del IVprogetto"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PVE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PVE_scan627.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PVE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PVE_scan626.tif",
+      "annotazioni" : "Fototecnica Publifoto, Milano",
+      "descrizione" : "stampa fotografica del modello in scala 1:1 con Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PVE",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PVE_scan628.tif",
+      "annotazioni" : "Fototecnica Publifoto, Milano",
+      "descrizione" : "stampa fotografica del modello in scala 1:1 con Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PIT",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PIT_scan620.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica di uu disegno autografo di Luciano Baldessari"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PIT",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PIT_scan621.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta (quota delal sala proiezioni)"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PIT",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PIT_scan622.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta (quota terrazzo coperto)"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PIT",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PIT_scan624.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del prospetto "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PIT",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PIT_scan621.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della pianta della copertura "
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "PIT",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_PIT_scan619.tif",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica del plastico"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan297",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica dell'ingresso alla mostra"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan298.tif",
+      "annotazioni" : "fotografo Matsukaze",
+      "descrizione" : "stampa fotografica della sala d'ingresso con il Cirro Luminoso"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan295.tif",
+      "annotazioni" : "fotografo Matsukaze",
+      "descrizione" : "stampa fotografica della sala d'ingresso con il Cirro Luminoso"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan296.tif",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica della sala d'ingresso con il Cirro Luminoso"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan293.tif",
+      "annotazioni" : "fotografo Matsukaze",
+      "descrizione" : "stampa fotografica della sala d'ingresso con il Cirro Luminoso"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan294.tif",
+      "annotazioni" : "fotografo Matsukaze",
+      "descrizione" : "stampa fotografica della sala d'ingresso con il Cirro Luminoso"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan299.tif",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica della sala dei poster"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan301.tif",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica della sala dei poster"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan300.tif",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica della sala delle piccole sculture"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan305.tif",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica della sala delle Nature"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan306.tif",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica della sala delle Nature"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan307.tif",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica della sala delle Nature"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan308.tif",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica della sala delle Nature"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan309.tif",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica della sala delle Nature"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan321.tif",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica della sala della Trinità"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan322.tif",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica della sala della Trinità"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan323.tif",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica della sala dei Quanta"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan324.tif",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica della sala dei Rami"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan325.tif",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica della sala dei Rami"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan302.tif",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica della sala dei guaches"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan303.tif",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica della sala delle opere materiche"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan317.tif",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica della sala dei Teatrini"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan319.tif",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica della sala dei Teatrini"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan318.tif",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica del modellino in cartone della sala dei Teatrini"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan320.tif",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica della sala Fine di Dio"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan304",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica dell'allestimento"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan316",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica dell'allestimento dello studio GPA Monti per la mostra Italia 61"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan312",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica della sala Italia 61"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan313",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica della sala Italia 61"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan311",
+      "annotazioni" : "fotografo Matsukaze",
+      "descrizione" : "stampa fotografica della sala Italia 61"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan310",
+      "annotazioni" : "fotografo Giuseppe Carlucci, Milano",
+      "descrizione" : "stampa fotografica della sala Italia 61"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan314",
+      "annotazioni" : null,
+      "descrizione" : "stampa fotografica della sala Italia 61"
+    },
+    {
+      "sigla_archivio" : "MART",
+      "progetto" : "ALF",
+      "supporto" : "stampa fotografica",
+      "segnatura" : "MART_ALF_scan315",
+      "annotazioni" : "fotografo Claude, Milano",
+      "descrizione" : "stampa fotografica della sala Italia 61"
+    }
+  ]

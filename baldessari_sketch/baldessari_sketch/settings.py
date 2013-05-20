@@ -1,7 +1,7 @@
 #-*-coding:UTF-8-*
 
 import os.path
-PROJECT_PATH = os.path.dirname(os.path.abspath(__file__))#ça sert à définir un chemin relatif pour pas avoir à mettre des chemins absolus à chaque fois
+PROJECT_PATH = os.path.dirname(os.path.abspath(__file__))#ï¿½a sert ï¿½ dï¿½finir un chemin relatif pour pas avoir ï¿½ mettre des chemins absolus ï¿½ chaque fois
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
@@ -44,7 +44,7 @@ USE_I18N = True
 
 # If you set this to False, Django will not format dates, numbers and
 # calendars according to the current locale.
-USE_L10N = True
+USE_L10N = False
 
 # If you set this to False, Django will not use timezone-aware datetimes.
 USE_TZ = True
@@ -68,6 +68,8 @@ STATIC_ROOT = ''
 # Example: "http://media.lawrence.com/static/"
 STATIC_URL = '/static/'
 
+JSONS_URL = '/static/jsons/'
+
 # Additional locations of static files
 STATICFILES_DIRS = (
     os.path.join(PROJECT_PATH, '../static/'),
@@ -83,6 +85,7 @@ TEMPLATE_CONTEXT_PROCESSORS = (
     'django.core.context_processors.static',
     'django.contrib.auth.context_processors.auth',
     'django.contrib.messages.context_processors.messages',
+    'baldessari_sketch.context_processors.baseurl',
 )
 
 # List of finder classes that know how to find static files in
@@ -126,6 +129,7 @@ TEMPLATE_DIRS = (
 )
 
 INSTALLED_APPS = (
+    'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
@@ -133,11 +137,17 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     # Uncomment the next line to enable the admin:
-    'django.contrib.admin',
     # Uncomment the next line to enable admin documentation:
     'django.contrib.admindocs',
+    'south',
+    #'adminextensions',
+    #'django_extensions',
     'archivio'
 )
+
+CRONJOBS = [
+    ('*/2 * * * *', 'archivio.cron.create_jsons')
+]
 
 # A sample logging configuration. The only tangible logging
 # performed by this configuration is to send an email to

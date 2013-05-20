@@ -1,5 +1,17 @@
 from django.db import models
+from django.db.models.signals import post_save
+from django.conf import settings
+import os
+import Image
+import shutil
 
+
+def get_upload_path(instance, filename):
+        return os.path.join(
+        'uploaded',  "%s" % instance.archivio,"%s" % instance.project.sigla if instance.project is not None else 'no_project', filename)
+
+
+            
 # Class Actor describes an "actor" present in the life of Baldessari
 # Can be one person, several persons or an abstract group/institution
 class Actor(models.Model):
@@ -57,9 +69,9 @@ class Project(models.Model):
     
     tipo = models.CharField(max_length = 50, blank=True, null=True) # type of project : maybe to remplace by a choice setting
     tipo2 = models.CharField(max_length = 50, blank=True, null=True) #second typology for projects
-    
+    materiali= models.TextField(blank=True, null=True)
     denominazione = models.CharField(max_length = 500, blank=True) #name of the project
-    
+    luogo = models.CharField(max_length = 70, blank=True, null=True)
     address = models.CharField(max_length = 500, blank=True,null=True)
     latitude = models.FloatField(blank=True,null=True) #geographical coordinates - geocoordinates can be created directly, but i didn't do it to keep it simple
     longitude = models.FloatField(blank=True,null=True)
@@ -68,7 +80,7 @@ class Project(models.Model):
     
     
     impresa = models.CharField(max_length = 200, null = True)
-    
+                                              
     descrizione_prog = models.TextField(null = True)
     
     class Meta:
@@ -77,7 +89,7 @@ class Project(models.Model):
     
     def __unicode__(self):
         # return self.sigla
-        return self.denominazione     # "coercing to Unicode" exception
+        return unicode(self.denominazione)     # "coercing to Unicode" exception
 
     def related_drawing(self):
         relateddocuments = Drawing.objects.filter(project = self)
@@ -109,7 +121,7 @@ class TimeInterval(models.Model):
     endDay = models.IntegerField(blank = True, null = True)
 
     def __unicode__(self):
-        return self.beginningYear
+        return unicode(self.beginningYear)
 
     class Meta:
         verbose_name = "Intervallo di tempo"
@@ -144,8 +156,9 @@ class Document(models.Model):
                 ('CAS', 'CASVA')
                 )
     
+    attivita = models.CharField(max_length = 100, null = True, blank = True)
     archivio = models.CharField(max_length = 3, choices = ARCHIVIO_CHOICE, null = True)
-
+    note = models.TextField(blank = True, null=True)
     data = models.DateField(null = True, blank = True)
     dataYear = models.IntegerField(null = True, blank = True)
     dataMonth = models.IntegerField(null = True, blank = True)
@@ -175,6 +188,8 @@ class Letter(Document):
 # Class Drawing inherits from Document
 # represents the images associated to projects
 class Drawing(Document):
+    
+    
     prestiti = models.NullBooleanField()
     largezza = models.FloatField(blank=True, null=True)
     altezza = models.FloatField(blank=True, null=True)
@@ -196,12 +211,16 @@ class Drawing(Document):
     conservazione= models.CharField(max_length = 100, blank = True,null=True)
     riproduzione= models.CharField(max_length = 100, blank = True,null=True)
     cartigli= models.CharField(max_length = 100, blank = True,null=True)
-    
+    image = models.ImageField(upload_to=get_upload_path, default="img_documents/noimage.jpg")
+   
     imageAdress = models.CharField(max_length = 100, blank = True,null=True)
     thumbAdress = models.CharField(max_length = 100, blank = True,null=True)
             
     def __unicode__(self):
         return self.segnatura
+    
+    
+            
 
     class Meta:
         verbose_name = "Disegno"
@@ -214,8 +233,10 @@ class BioDetail(models.Model):
     titolo = models.CharField(max_length = 500,blank = True, null=True)
     testo = models.CharField(max_length = 500,blank = True, null=True)
     didascalia = models.CharField(max_length = 500,blank = True, null=True)
-    startDate = models.DateField(null = True, blank = True)
-    endDate = models.DateField(null = True, blank = True)
+    startDate = models.IntegerField(null = True, blank = True)
+    endDate = models.IntegerField(null = True, blank = True)
+    immagine=models.ImageField(upload_to='uploaded/bio', default="img_documents/noimage.jpg")
+
 
     def __unicode__(self):
         return self.testo
@@ -230,10 +251,11 @@ class ThemeDetail(models.Model):
     tema = models.ForeignKey(Tematica, blank = True, null = True)
     imgUrl = models.CharField(max_length = 200,blank = True, null=True)
     titolo = models.CharField(max_length = 500,blank = True, null=True)
-    testo = models.CharField(max_length = 500,blank = True, null=True)
+    testo = models.TextField(blank = True, null=True)
     didascalia = models.CharField(max_length = 500,blank = True, null=True)
-    startDate = models.DateField(null = True, blank = True)
-    endDate = models.DateField(null = True, blank = True)
+    startDate = models.IntegerField(null = True, blank = True)
+    endDate = models.IntegerField(null = True, blank = True)
+    immagine=models.ImageField(upload_to='uploaded/themes', default="img_documents/noimage.jpg")
 
     def __unicode__(self):
         return self.testo
@@ -242,4 +264,33 @@ class ThemeDetail(models.Model):
         verbose_name = "Dettaglio tematico"
         verbose_name_plural = "Dettagli tematici"
 
+def saveImageAdress(sender, instance, created, **kwargs):
+    # figure out warranty end date
+    
+    post_save.disconnect(saveImageAdress, sender=Drawing)
+
+    if instance.image != "img_documents/noimage.jpg":
+         
+        proj=instance.project.sigla if instance.project is not None else 'no_project'
+        instance.imageAdress=instance.image;
+        
+        if not os.path.exists(os.path.abspath(settings.MEDIA_ROOT+"uploaded/thumbs/"+instance.archivio+"/"+proj+"/")):
+            os.makedirs(os.path.abspath(settings.MEDIA_ROOT+"uploaded/thumbs/"+instance.archivio+"/"+proj+"/"))
+            
+        path=os.path.abspath(settings.MEDIA_ROOT+"uploaded/thumbs/"+instance.archivio+"/"+proj+"/"+os.path.basename(instance.image.name))
+        shutil.copyfile(os.path.abspath(settings.MEDIA_ROOT+"uploaded/"+instance.archivio+"/"+proj+"/"+os.path.basename(instance.image.name)),path )
+        
+        
+        #im = Image.open(path)
+        #im.thumbnail((120, 70), Image.ANTIALIAS)
+        
+        #im.save(path)
+        instance.thumbAdress=settings.MEDIA_ROOT+"uploaded/thumbs/"+instance.archivio+"/"+proj+"/"+os.path.basename(instance.image.name)
+        instance.save()
+        
+    post_save.connect(saveImageAdress, sender=Drawing)
+
+        
+        
+post_save.connect(saveImageAdress, sender=Drawing)
         

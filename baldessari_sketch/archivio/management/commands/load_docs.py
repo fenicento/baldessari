@@ -9,7 +9,7 @@ import os.path
 
 FILE_PATH = "/Users/davide/Documents/Baldessari/Dataset/tabelle/json"
 
-file = open(os.path.join(FILE_PATH, 'Disegni-Merge-01-date.json'), 'r')
+file = open(os.path.join(FILE_PATH, 'metadati_MART.json'), 'r')
 docContent = StringIO(file.read())
 docDict = json.load(docContent) #this dict will be updated with the content of docsDict
 file.close()
@@ -32,26 +32,26 @@ for doc in docDict:
             segn = 'blank'
         d = Drawing(segnatura = segn)
         try:
-            d.project = Project.objects.get(sigla = doc['sigla_progetto'])
+            d.project = Project.objects.get(sigla = doc['progetto'])
         except:
             d.project = None
         d.archivio = doc['sigla_archivio']
-        d.formato = doc['formato']
+        #d.formato = doc['formato']
         d.annotazioni = doc['annotazioni']
-        d.tecnica = doc['tecnica']
+        d.tecnica = doc['supporto']
         d.supporto = doc['supporto']
-        d.tipo = doc['tipo']
+        d.tipo = doc['descrizione']
         d.segnatura = doc['segnatura']
-        d.strumento = doc['strumento']
-        d.scala = doc['scala']
+        #d.strumento = doc['strumento']
+        #d.scala = doc['scala']
         d.sigla_archivio = doc['sigla_archivio']
-        d.multipli = doc['multipli']
-        d.restauri = doc['restauri']
-        d.formato_cornice = doc['formato_cornice']
-        d.collocazione = doc['collocazione']
-        d.conservazione = doc['conservazione']
-        d.riproduzione = doc['riproduzione']
-        d.cartigli = doc['cartigli']
+        #d.multipli = doc['multipli']
+        #d.restauri = doc['restauri']
+        #d.formato_cornice = doc['formato_cornice']
+        #d.collocazione = doc['collocazione']
+        #d.conservazione = doc['conservazione']
+        #d.riproduzione = doc['riproduzione']
+        #d.cartigli = doc['cartigli']
         # set date
         try:
             data = doc['data']

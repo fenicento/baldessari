@@ -1,0 +1,190 @@
+{% extends "archivio/layout.html" %}
+
+{% block title %}Archivio Baldessari | Biografia{% endblock %}
+
+{% block header %}
+
+<!-- <meta name="media_prefix" id="media_prefix" content = "{{ MEDIA_URL }}" /> -->
+
+	<script type="text/javascript">
+		//defining the name of the section for the menu
+		{% load static %}
+		{% get_static_prefix as STATIC_PREFIX %}
+		var static_prefix = '{{ STATIC_PREFIX }}';
+		
+		{%if section_name %}
+			var section_name = "{{ section_name }}";
+		{% endif%}
+		
+		
+	</script>
+	
+
+{{ block.super }}
+	{% load static %}
+	{% get_static_prefix as STATIC_PREFIX %}
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/opere_style.css">
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/views_style.css">
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/jquery.multiselect.css">
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/jquery-ui-1.8.22.custom.css">
+	<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+	<script src="{{ STATIC_PREFIX}}libs/storyjs-embed.js"></script>
+	<script src="{{ STATIC_PREFIX}}libs/jquery-ui-1.8.22.custom.min.js"></script>
+
+{% endblock %}
+
+{% block content %}
+
+	
+	<div class="themes-container">
+		
+			<div id="timeline-embed"></div>
+			
+		
+	
+	<script type="text/javascript">
+	
+		var jsonTheme =  {{jsonTheme|safe}};
+		var jsonDetails =  {{jsonDetails|safe}};
+		
+		createStoryJS({
+				     width: "98%",
+				     height: "600",
+				     lang: 'it', 
+				     debug: false,
+				     source:jsonTheme
+	   				});	
+	   	//VMM.Timeline("timeline-embed",900,600);
+	   
+	   	   $(document).ready(function() {
+	   	   		loadThemeDetail(0,true);
+	   	   		$("body").on("click",".nav-container",function(event){
+	   	   			loadThemeDetail(VMM.Timeline.Config.current_slide,false);
+	   	   		})
+	   	   		$("body").on("click",".flag",function(event){
+	   	   			loadThemeDetail(VMM.Timeline.Config.current_slide,false);
+	   	   		})
+	   	   		
+	   	   		$(document).keyup(function(event) {
+                switch (event.keyCode) {
+                    case 37: loadThemeDetail(VMM.Timeline.Config.current_slide,false); break;
+                    case 39: loadThemeDetail(VMM.Timeline.Config.current_slide,false); break;
+                  
+                }
+            });
+	  	   }); 
+	  	   
+	  	   
+	  	   function displayInfo(index) {
+	  	   	
+	  	   	$('#theme-text').append(jsonTheme.timeline.date[index].testo);
+	  	   	
+	  	   		if(jsonDetails[index].projects[0].length>0) {
+	   	   			$("#theme-rel-proj").append('<h4></h4><div class="theme-rel-main"></div>');
+	   	   			$("#theme-rel-proj h4").append('PROGETTI CITATI');
+	   	   			for(var i=0; i<jsonDetails[index].projects[0].length; i++) {
+	   	   				$("#theme-rel-proj .theme-rel-main").append('<p><a href="/opere/project/'+jsonDetails[index].projects[0][i].sigla+'">'+jsonDetails[index].projects[0][i].denominazione+'</a></p>');
+	   	   			}
+	   	   			$("#theme-rel-proj").show();	
+	   	   		}
+	   	   		
+	   	   		
+	   	   		if(jsonDetails[index].actors[0].length>0) {
+	   	   			
+	   	   			$("#theme-rel-act").append('<h4></h4><div class="theme-rel-main"></div>');
+	   	   			$("#theme-rel-act h4").append('PERSONE CITATE');
+	   	   			for(var i=0; i<jsonDetails[index].actors[0].length; i++) {
+	   	   				$("#theme-rel-act .theme-rel-main").append('<p><a href="/persone/\?el='+jsonDetails[index].actors[0][i].id+'">'+jsonDetails[index].actors[0][i].name+'</a></p>');
+	   	   			}
+	   	   			$("#theme-rel-act").show();	
+	   	   		}
+	   	   	
+	   	   		
+	   	   		if(jsonDetails[index].images.length>0) {
+	   	   			
+	   	   			$("#theme-rel-img").append('<h4></h4><div class="theme-rel-main"></div>');
+	   	   			$("#theme-rel-img h4").append('DOCUMENTI CITATI');
+	   	   			for(var i=0; i<jsonDetails[index].images.length; i++) {
+	   	   				$("#theme-rel-img .theme-rel-main").append('<a href="/opere/document/'+jsonDetails[index].images[i].segnatura+'"><div class="theme-img-box" style="background-image:url(\'/media/'+jsonDetails[index].images[i].thumbAdress+'\');"></div></a>');
+	   	   			}	
+	   	   			$("#theme-rel-img").show();
+	   	   		}
+	   	   		
+	   	   		
+	   	   		if(jsonDetails[index].themes[0].length>0) {
+	   	   			
+	   	   			$("#theme-rel-the").append('<h4></h4><div class="theme-rel-main"></div>');
+	   	   			$("#theme-rel-the h4").append('TEMI CITATI');
+	   	   			for(var i=0; i<jsonDetails[index].themes[0].length; i++) {
+	   	   				$("#theme-rel-the .theme-rel-main").append('<p><a href="/tema/'+jsonDetails[index].themes[0][i].id+'">'+jsonDetails[index].themes[0][i].name+'</a></p>');
+	   	   			}
+	   	   			$("#theme-rel-the").show();	
+	   	   		}
+	   	   		$("#theme-text-container").show("slide", { direction: "right" }, 500);	
+	  	   	
+	  	   };
+	  	   
+	  	   function loadThemeDetail(index, init) {
+	  	   	
+	  	   	if(!init) {
+	  	   		$('#theme-text-container').hide("slide", { direction: "left" }, 500, function() {	
+		  	   		$('#theme-text').empty();
+		  	   		$("#theme-rel-proj").hide().empty();
+		  	   		$("#theme-rel-act").hide().empty();
+		  	   		$("#theme-rel-img").hide().empty();
+		  	   		$("#theme-rel-the").hide().empty();
+		  	   		
+		  	   		displayInfo(index);
+
+	  	   		});
+	  	   		
+	  	   	}
+	  	   	else{
+	  	   		$('#theme-text-container').hide();
+	  	   		$("#theme-rel-proj").hide();
+	  	   		$("#theme-rel-act").hide();
+	  	   		$("#theme-rel-img").hide();
+	  	   		$("#theme-rel-the").hide();
+	  	   		
+	  	   		displayInfo(index);
+	  	   	}
+	  	   		
+	  	   		//$('#theme-text').show("slide", { direction: "right" }, 500);
+	  	   		
+	  	   		
+	  	   		
+	   	   		
+	   	   		
+	   	   		
+	  	   };
+	   		
+	</script>
+	
+	<div id="theme-text-container">	
+		<div id="theme-text"></div>
+		
+		
+		<div class="theme-col">
+			
+			<div class="theme-rel" id="theme-rel-proj">	
+			</div>
+			
+			<div class="theme-rel" id="theme-rel-act">	
+			</div>
+			
+			<div class="theme-rel" id="theme-rel-img">
+			</div>
+			
+			<div class="theme-rel" id="theme-rel-the">
+			</div>
+			
+			</div>
+		</div>
+	</div>
+	
+	
+		
+		
+	
+
+{% endblock %}

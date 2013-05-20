@@ -40,11 +40,14 @@ var section_name = "{{ section_name }}";
 	<div id="types">
 		<form method="post" id="opere_switchtype_form" action="/switchtype/">
 			<ul id="opere_switchtype_ul">
-				<li>
-					<label class="filter firstBtn">
-						<input checked="checked" type="radio" name="typeviz" id="doctype" value="documents">
-						<img src="{% get_static_prefix %}img_interface/docs_off.png"/>DOCUMENTI</label>
-				</li>
+				<li><a href="{% url archivio.views.rete_progetti %}">
+								<label class="filter firstBtn">
+								<img src="{% get_static_prefix %}img_interface/actors-off.png"/>PERSONE</label>
+								</a>
+							</li>
+				<li><a href="{% url archivio.views.documenti %}"><label class="filter">
+								<img src="{% get_static_prefix %}img_interface/docs_off.png"/>DOCUMENTI</label>
+							</li></a>
 				<li>
 					<label class="filter lastBtn sel">
 						<input type="radio" name="typeviz" id="projtype" value="projects">
@@ -63,6 +66,7 @@ var section_name = "{{ section_name }}";
 				<li>
 					<a href="{% url archivio.views.galleria_progetti %}"><label class="filter"><img src="{% get_static_prefix %}img_interface/gallery_off.png"/>GALLERIA</label></a>
 				</li>
+				
 				<li>
 					<a href="{% url archivio.views.timeline_progetti %}"><label class="filter"><img src="{% get_static_prefix %}img_interface/timeline_off.png"/>TIMELINE</label></a>
 					</li>
@@ -84,61 +88,82 @@ var section_name = "{{ section_name }}";
 <div id="opere_viz_space" ng-app="myApp" ng-controller="ProjCtrl" ng-cloak>
 	<div id="params">
 		<div id='params1'>
-			<div id="filtri">
-				<div class="filter" id='firstFilter'>
-					FILTRI
+				<div id="filtri">
+					
+					<div class='filter onoff actv' ng-repeat='filt in filters' ng-switch on="filt.field">
+						<div ng-switch-when="search"><img class="filt-ico" src="{% get_static_prefix %}img_interface/text-filt.png"/><span filt='#searchFilt' >CERCA NEL TITOLO</span> <img ng-click="removeSearchFilter()" class="close-filt" src="{% get_static_prefix %}img_interface/close.png"/></div>
+						<div ng-switch-when="dates"><img class="filt-ico" src="{% get_static_prefix %}img_interface/slide-filt.png"/><span filt='#dateFilt'>DAL [[start]] AL [[end]]</span><img ng-click="removeDatesFilter()" class="close-filt" src="{% get_static_prefix %}img_interface/close.png"/></div>
+						<div ng-switch-when="types"><img class="filt-ico" src="{% get_static_prefix %}img_interface/check-filt.png"/><span filt='#typeFilt'>TIPOLOGIA</span><img ng-click="removeTypeFilter()" class="close-filt" src="{% get_static_prefix %}img_interface/close.png"/></div>
+						
+					</div> 
+					<div class="filter" id='lastFilter' onClick="$('#filt-types').slideToggle(300)"><img src="{% get_static_prefix %}img_interface/plus-filt-k.png"/>AGGIUNGI FILTRO
+						
+						<ul id='filt-types'>
+							<li id='descOpt' ng-click="addSearchFilter()" my-data="Cerca nel titolo">Titolo</li>
+							<li id='dateOpt' ng-click="addDatesFilter()" my-data="Dal [[start]] al [[end]]">Data</li>
+							<li id='typeOpt' ng-click="addTypeFilter()" my-data="Tipi di progetto">Tipologia</li>
+						</ul>
+						
+						</div>
+					
 				</div>
-				<div class='filter' ng-repeat='filt in filters' ng-switch on="filt.field">
-					<span onClick="$('#searchFilt').slideToggle()" ng-switch-when="search">CERCA NEL TITOLO</span>
-					<span onClick="$('#dateFilt').slideToggle()" ng-switch-when="dates"><img src="{% get_static_prefix %}img_interface/dates_off.png"/>DAL [[start]] AL [[end]]</span>
-					<span onClick="$('#typeFilt').slideToggle()" ng-switch-when="types"><img src="{% get_static_prefix %}img_interface/types_off.png"/>TIPOLOGIA</span>
-				</div>
-				<div class="filter" id='lastFilter' onClick="$('#filt-types').slideToggle()"><img src="{% get_static_prefix %}img_interface/plus-filt.png"/>AGGIUNGI
-
-					<ul id='filt-types'>
-						<li id='descOpt' ng-click="addSearchFilter()" my-data="Cerca nel titolo">
-							Denominazione
-						</li>
-						<li id='dateOpt' ng-click="addDatesFilter()" my-data="Dal [[start]] al [[end]]">
-							Periodo
-						</li>
-						<li id='typeOpt' ng-click="addTypeFilter()" my-data="Tipi di progetto">
-							Tipologia
-						</li>
-					</ul>
-
-				</div>
-
-			</div>
-
-			<!--SEARCH FILTER-->
-			<div id='searchFilt'>
-				<div class='remove' ng-click="removeSearchFilter()"><img src="{% get_static_prefix %}img_interface/del-filt.png"/>Rimuovi
-				</div>
-				Cerca:
-				<input name="input" ng-model="query" ng-change="update('sf')">
-			</div>
-
-			<!--TYPE FILTER-->
-			<form id='typeFilt' name='typeFilt'>
-				<div class='remove' ng-click="removeTypeFilter()"><img src="{% get_static_prefix %}img_interface/del-filt.png"/>Rimuovi
-				</div>
-				<my-checkboxes field="filterValues.types"></my-checkboxes>
-			</form>
-
-			<!--DATES FILTER-->
-			<div id="dateFilt" >
-				<div class='remove-date' ng-click="removeDatesFilter()"><img src="{% get_static_prefix %}img_interface/del-filt.png"/>Rimuovi
-				</div>
-				<div id="sliderContainer" class='updateArea' ng-mouseup="update('df')">
+				
+				<script type="application/javascript">
+				
+				$('#lastFilter').hover(function(){
+						$(this).children('img').attr('src','/static/img_interface/plus-filt.png');
+					},
+					function() {
+						$(this).children('img').attr('src','/static/img_interface/plus-filt-k.png');
+					});
+					
+					$("body").on("click", ".onoff span", function(event){
+						
+						if(!$($(this).attr('filt')).is(":visible")) {
+							$(".onoff").removeClass('actv');
+							turnOffAll();
+							$(this).parents('.filter').addClass('actv');
+							$(".filter-field").hide();
+							$($(this).attr('filt')).toggle();
+							turnOn($(this).attr('filt'),$(this).siblings(".filt-ico"));
+							
+						}
+						else {
+							$($(this).attr('filt')).toggle();
+							$(this).parents('.filter').removeClass('actv');
+							turnOff($(this).attr('filt'),$(this).siblings(".filt-ico"));
+							
+						}
+						
+					})
+					
+				</script>
+				
+				
+				
+				
+				<!--SEARCH FILTER-->
+				<div class="filter-field" id='searchFilt'>
+					
+					Cerca: <input id="ac-search" name="input" ng-model="query" ng-change="update()"></div>
+				
+				<!--TYPE FILTER-->
+				<form class="filter-field" id='typeFilt' name='typeFilt'>
+					
+					<my-checkboxes field="filterValues.types"></my-checkboxes>
+				</form>
+				
+				<!--DATES FILTER-->
+				<div class="filter-field" id="dateFilt" >
+					 
+					<div id="sliderContainer" class='updateArea' ng-mouseup="update()">   
 					<span id="tooltip1" class='tooltip'>[[start]]</span>
 					<span id="tooltip2" class='tooltip'>[[end]]</span>
-
-					<div slider  id="slider1"></div>
-				</div>
+					
+					<div slider  id="slider1"></div></div></div>
+				
+				
 			</div>
-
-		</div>
 
 		{% load static %}
 		{% get_static_prefix as STATIC_PREFIX %}
@@ -149,7 +174,6 @@ var section_name = "{{ section_name }}";
 		<script type='text/javascript'>
 			var media_prefix =  {% get_media_prefix %};
 		</script>
-		<script type='text/javascript' src='{{ STATIC_PREFIX}}scripts/opere.js'></script>
 
 	</div>
 
@@ -162,10 +186,67 @@ var section_name = "{{ section_name }}";
 <script src="http://cdn.leafletjs.com/leaflet-0.5/leaflet.js"></script>
 <script type='text/javascript' src="{{ STATIC_PREFIX}}scripts/jquery-cookies.js"></script>
 <script src="{{ STATIC_PREFIX}}scripts/leaflet-cluster/leaflet.markercluster-src.js"></script>
+<script type='text/javascript' src='{{ STATIC_PREFIX}}scripts/autocomplete.js'></script>
+	
+		<script type="application/javascript">
+		  	
+		  		var options, a;
+					jQuery(function(){
+					   options = { serviceUrl:'/service/progetti/acprojname/',maxHeight:600, onSelect:function(value, data){ angular.element("#ac-search").scope().query=value.value; angular.element("#ac-search").scope().update();},zIndex:1029};
+					   a = $('#ac-search').autocomplete(options);
+					});
+		  		
+		  	</script> 
 
 <script type="text/javascript">
 	//----------------------Angular----------------------
 
+	function turnOn(elm, a) {
+						switch(elm) {
+								case '#searchFilt':
+									$(a).attr('src','/static/img_interface/text-filt.png');
+									break;
+								case '#typeFilt':
+									$(a).attr('src','/static/img_interface/check-filt.png');
+									break;
+								case '#dateFilt':
+									$(a).attr('src','/static/img_interface/slide-filt.png');
+									break;
+								}
+					};
+					
+					function turnOff(elm, a) {
+						switch(elm) {
+								case '#searchFilt':
+									$(a).attr('src','/static/img_interface/text-filt-k.png');
+									break;
+								case '#typeFilt':
+									$(a).attr('src','/static/img_interface/check-filt-k.png');
+									break;
+								case '#dateFilt':
+									$(a).attr('src','/static/img_interface/slide-filt-k.png');
+									break;
+								}
+					};
+					
+					function turnOffAll() {
+						$(".filt-ico").each(function() {
+							switch($(this).siblings('span').attr('filt')) {
+								case '#searchFilt':
+									$(this).attr('src','/static/img_interface/text-filt-k.png');
+									break;
+								case '#typeFilt':
+									$(this).attr('src','/static/img_interface/check-filt-k.png');
+									break;
+								case '#dateFilt':
+									$(this).attr('src','/static/img_interface/slide-filt-k.png');
+									break;
+								}
+							
+							
+						})
+					};
+	
 	var myApp = angular.module('myApp', [], function($interpolateProvider) {
 		$interpolateProvider.startSymbol('[[');
 		$interpolateProvider.endSymbol(']]');
@@ -176,13 +257,14 @@ var section_name = "{{ section_name }}";
 		var urlparams = window.location.search;
 
 		$scope.jprojects = {{projects|safe}};
-	$scope.query = urlparams.match(/desc=([^&;]+?)(&|#|;|$)/i) ? urlparams.match(/desc=([^&;]+?)(&|#|;|$)/i)[1] : null;
+	$scope.query = urlparams.match(/desc=([^&;]+?)(&|#|;|$)/i) ? unescape(urlparams.match(/desc=([^&;]+?)(&|#|;|$)/i)[1]) : null;
 	$scope.markers = angular.copy($scope.jprojects);
 	$scope.markerLayer = null;
 	$scope.filterValues = {{filterValues|safe}};
 	$scope.type_data = urlparams.match(/type=([^&;]+?)(&|#|;|$)/i) ? urlparams.match(/type=([^&;]+?)(&|#|;|$)/i)[1] : null;
 	$scope.start = urlparams.match(/bdate=(.*)([^&;]+?)(&|#|;|$)/i) ? urlparams.match(/bdate=([^&;]+?)(&|#|;|$)/i)[1] : $scope.filterValues.minDate;
 	$scope.end = urlparams.match(/edate=([^&;]+?)(&|#|;|$)/i) ? urlparams.match(/edate=([^&;]+?)(&|#|;|$)/i)[1] : $scope.filterValues.maxDate;
+	$scope.element = urlparams.match(/el=([^&;]+?)(&|#|;|$)/i) ? unescape(urlparams.match(/el=([^&;]+?)(&|#|;|$)/i)[1]) : null;
 	$scope.map = null;
 	$scope.filters = [];
 
@@ -198,11 +280,10 @@ var section_name = "{{ section_name }}";
 
 		var geoJsonLayer = L.geoJson($scope.markers, {
 			onEachFeature : function(feature, layer) {
-				layer.bindPopup(feature.properties.nome);
+				layer.bindPopup(feature.properties.nome+"<br/><a class='maplink' href=/opere/project/"+feature.properties.sigla+">Vai alla scheda del progetto</a>" );
 			}
 		});
 		$scope.markerLayer.addLayer(geoJsonLayer);
-		console.log($scope.jprojects);
 
 		//look at filters, add cookies
 		for (var i = 0; i < $scope.filters.length; i++) {
@@ -223,76 +304,117 @@ var section_name = "{{ section_name }}";
 
 	};
 
-	$scope.addSearchFilter = function() {
-		$scope.filters.push({
-			'field' : 'search'
-		})
-		$("#descOpt").hide();
-		$("#searchFilt").show();
+	$scope.addSearchFilter=function() {
+		turnOffAll();
+  	$scope.filters.push({'field':'search'})
+  	$(".onoff").removeClass('actv');
+	$(".filter-field").hide();
+  	$("#descOpt").hide();
+  	$("#searchFilt").show();
+  	if($('#filt-types').children(':visible').length == 0) {
+  		$('#lastFilter').hide();
+  	}
+  	
+  	
+  };
+  
+  
+  $scope.addDatesFilter=function() {
+  	turnOffAll();
+  	$scope.filters.push({'field':'dates'})
+  	if ($('#slider1').length == 0) {
+  		$('#sliderContainer').append($compile('<div slider  id="slider1"></div>')($scope));
+	}
+  	$(".onoff").removeClass('actv');
+	$(".filter-field").hide();
+  	$("#dateOpt").hide();
+  	$("#dateFilt").show();
+  	if($('#filt-types').children(':visible').length == 0) {
+  		$('#lastFilter').hide();
+  	}
+ 
+  	
+  };
+  
+  $scope.addTypeFilter=function() {
+  	turnOffAll();
+  	$scope.filters.push({'field':'types'})
+  	$(".onoff").removeClass('actv');
+	$(".filter-field").hide();
+  	$("#typeOpt").hide();
+  	$("#typeFilt").show();
+	if($('#filt-types').children(':visible').length == 0) {
+  		$('#lastFilter').hide();
+  	}
+  	
+  };
+  
+  $scope.removeSearchFilter=function() {
+  	var i=0;
+  	for (i=0; i<$scope.filters.length; i++) {
+    if ($scope.filters[i].field === 'search') {
 
-	};
-
-	$scope.addDatesFilter = function() {
-		$scope.filters.push({
-			'field' : 'dates'
-		})
-		if ($('#slider1').length == 0) {
-			$('#sliderContainer').append($compile('<div slider  id="slider1"></div>')($scope));
-		}
-		$("#dateOpt").hide();
-		$("#dateFilt").show();
-	};
-
-	$scope.addTypeFilter = function() {
-		$scope.filters.push({
-			'field' : 'types'
-		})
-		$("#typeOpt").hide();
-		$("#typeFilt").show();
-	};
-
-	$scope.removeSearchFilter = function(element) {
-		var ind = $scope.filters.indexOf(element);
-		$scope.filters.splice(ind, 1);
-		$scope.query = null;
-		$("#descOpt").show();
-		$("#searchFilt").hide();
-		$.removeCookie('csearch', {
-			path : '/'
-		});
-		$scope.update();
-	};
-
-	$scope.removeDatesFilter = function(element) {
-		$('#slider1').remove();
-		$("#dateFilt").hide();
-		var ind = $scope.filters.indexOf(element);
-		$scope.filters.splice(ind, 1);
-		$scope.start = $scope.filterValues.minDate;
-		$scope.end = $scope.filterValues.maxDate;
-		$("#dateOpt").show();
-		$('#tooltip1').css('left', 0);
-		$('#tooltip2').css('left', '95%');
-		$scope.update();
-		$.removeCookie('cdates', {
-			path : '/'
-		});
-	};
-
-	$scope.removeTypeFilter = function(element) {
-		var ind = $scope.filters.indexOf(element);
-		$scope.filters.splice(ind, 1);
-		$scope.type_data = null;
-		$("#typeOpt").show();
-		$("#typeFilt").hide();
-		$scope.update();
-		$.removeCookie('ctypes', {
-			path : '/'
-		});
-	};
+        break;
+    }
+   }
+  	$scope.filters.splice(i,1);
+  	$scope.query=null;
+  	$("#descOpt").show();
+  	$("#searchFilt").hide();
+  	$.removeCookie('csearch', { path: '/' });
+  	$scope.update();
+  	if($('#lastFilter').is(':hidden')) {
+  		$('#filt-types').hide();
+  		$('#lastFilter').show();
+  	}
+  	
+  };
+  
+  
+  $scope.removeDatesFilter=function() {
+  	$('#slider1').remove();
+  	$("#dateFilt").hide();
+  		var i=0;
+  	for (i=0; i<$scope.filters.length; i++) {
+    if ($scope.filters[i].field === 'dates') {
+        break;
+    }
+   }
+  	$scope.filters.splice(i,1);
+  	$scope.start=$scope.filterValues.minDate;
+  	$scope.end=$scope.filterValues.maxDate;
+  	$("#dateOpt").show();
+  	$('#tooltip1').css('left',0);
+  	$('#tooltip2').css('left','95%');
+  	$scope.update();
+  	$.removeCookie('cdates', { path: '/' });
+  	if($('#lastFilter').is(':hidden')) {
+  		$('#filt-types').hide();
+  		$('#lastFilter').show();
+  	}
+  };
+  
+  $scope.removeTypeFilter=function() {
+  		var i=0;
+  	for (i=0; i<$scope.filters.length; i++) {
+    if ($scope.filters[i].field === 'types') {
+        break;
+    }
+   }
+  	$scope.filters.splice(i,1);
+  	$scope.type_data=null;
+  	$("#typeOpt").show();
+  	$("#typeFilt").hide();
+  	$scope.update();
+  	$.removeCookie('ctypes', { path: '/' });
+  	if($('#lastFilter').is(':hidden')) {
+  		$('#filt-types').hide();
+  		$('#lastFilter').show();
+  	}
+  };
 
 	//look at cookies, add filters
-	if ($.cookie("csearch") != null && !$scope.query) {
+	if ($.cookie("csearch") != null && $.cookie("csearch") != "null" && !$scope.query) {
 		$scope.query = $.cookie("csearch");
 
 	}
@@ -306,7 +428,7 @@ var section_name = "{{ section_name }}";
 	}
 
 	//look at filter values, add filters and cookies
-	if ($scope.query) {
+	if ($scope.query && $scope.query != null) {
 
 		$scope.addSearchFilter();
 		$.cookie("csearch", $scope.query, {
@@ -415,23 +537,42 @@ var section_name = "{{ section_name }}";
 					attribution : 'Map data &copy; 2011 OpenStreetMap contributors, Imagery &copy; 2011 CloudMade',
 					key : 'BC9A493B41014CAABB98F0471D759707'
 				});
-
+				
+				var greenIcon = L.icon({
+			    iconUrl: '../img_interface/mappa.png',
+			    iconSize:     [50, 50], // size of the icon
+			    shadowSize:   [20, 20], // size of the shadow
+			    iconAnchor:   [22, 50], // point of the icon which will correspond to marker's location
+			    shadowAnchor: [4, 62],  // the same for the shadow
+			    popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
+			});
+				
 				scope.map = L.map('l-map', {
-					spiderfyOnMaxZoom : false,
+					
 					center : [45.470725, 9.188347],
 					zoom : 12
 				}).addLayer(cloudmade);
-
-				scope.markerLayer = new L.MarkerClusterGroup();
+				
+				var markersList = [];
+				
+				scope.markerLayer = new L.MarkerClusterGroup({spiderfyOnMaxZoom: true, showCoverageOnHover : false});
 
 				var geoJsonLayer = L.geoJson(scope.markers, {
 					onEachFeature : function(feature, layer) {
-						layer.bindPopup(feature.properties.nome);
+						layer.bindPopup(feature.properties.nome+"<br/><a class='maplink' href=/opere/project/"+feature.properties.sigla+">Vai alla scheda del progetto</a>" );
+						markersList.push(layer);
 					}
 				});
-				scope.markerLayer.addLayer(geoJsonLayer);
 
 				scope.map.addLayer(scope.markerLayer);
+				scope.markerLayer.addLayer(geoJsonLayer);
+				
+				if(scope.element!=null) {
+					scope.markerLayer.zoomToShowLayer(markersList[0], function () {
+					markersList[0].openPopup();
+				});
+				}
+				
 			}
 		};
 	}).directive('myCheckboxes', function() {

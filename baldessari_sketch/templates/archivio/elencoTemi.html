@@ -1,0 +1,61 @@
+{% extends "archivio/layout.html" %}
+
+{% block title %}Archivio Baldessari | Biografia{% endblock %}
+
+{% block header %}
+
+<!-- <meta name="media_prefix" id="media_prefix" content = "{{ MEDIA_URL }}" /> -->
+
+	<script type="text/javascript">
+		//defining the name of the section for the menu
+		{% load static %}
+		{% get_static_prefix as STATIC_PREFIX %}
+		var static_prefix = '{{ STATIC_PREFIX }}';
+		
+		{%if section_name %}
+			var section_name = "{{ section_name }}";
+		{% endif%}
+		
+		
+	</script>
+	
+
+{{ block.super }}
+	{% load static %}
+	{% get_static_prefix as STATIC_PREFIX %}
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/opere_style.css">
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/views_style.css">
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/jquery.multiselect.css">
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/jquery-ui-1.8.22.custom.css">
+	
+
+{% endblock %}
+
+{% block content %}
+
+	
+	<div class="themes-container">
+		
+			{% for t in themes %}
+				
+				<div class="theme">
+					<div class="theme-img">
+						<a href="/tema/{{t.id}}">
+						<img src="{% get_media_prefix %}{{t.immagine}}"/>
+						</a>
+					</div>
+					
+					<div class="theme-title">
+						<a href="/tema/{{t.id}}">
+						<h4>{{t.name}}</h4> 
+						</a>
+					</div>
+					
+				</div>
+		
+		
+			{% endfor %}
+		
+	</div>
+
+{% endblock %}

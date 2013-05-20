@@ -46,10 +46,10 @@
 					<form method="post" id="opere_switchtype_form" action="/switchtype/">
 						<ul id="opere_switchtype_ul">
 							<li><label class="filter firstBtn">
-								<input checked="checked" type="radio" name="typeviz" id="doctype" value="documents"><img src="{% get_static_prefix %}img_interface/docs_off.png"/>DOCUMENTI</label>
+								<img src="{% get_static_prefix %}img_interface/docs_off.png"/>DOCUMENTI</label>
 							</li>
 							<li>
-								<label class="filter lastBtn sel"><input type="radio" name="typeviz" id="projtype" value="projects"><img src="{% get_static_prefix %}img_interface/projects_on.png"/>PROGETTI</label>
+								<label class="filter lastBtn sel"><img src="{% get_static_prefix %}img_interface/projects_on.png"/>PROGETTI</label>
 								</li>
 						</ul>
 					</form>	
@@ -60,6 +60,9 @@
 				<ul id="opere_modes_ul">
 					<li><a href="{% url archivio.views.opere %}"><label class="filter firstBtn"><img src="{% get_static_prefix %}img_interface/list_on.png"/>ELENCO</label></a></li>
 					<li><a href="#"><label class="filter sel"><img src="{% get_static_prefix %}img_interface/gallery_off.png"/>GALLERIA</label></a></li>
+					<li>
+					<a href="{% url archivio.views.rete_progetti %}"><label class="filter"><img src="{% get_static_prefix %}img_interface/rete_off.png"/>RETE</label></a>
+				</li>
 					<li>
 					<a href="{% url archivio.views.timeline_progetti %}"><label class="filter"><img src="{% get_static_prefix %}img_interface/timeline_off.png"/>TIMELINE</label></a>
 					</li>
@@ -186,7 +189,7 @@
   	$('#lista-p').css('visibility', 'hidden');
   	  $http({
     	headers: {'Content-Type': 'application/json'},
-    	url: 'http://127.0.0.1:8000/service/progetti/',
+    	url: '{{BASE_URL}}/service/progetti/',
     	method: "GET",
     	params: {
     		desc : $scope.query,

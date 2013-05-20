@@ -1,0 +1,786 @@
+{% extends "archivio/layout.html" %}
+
+{% block title %}Archivio Baldessari | Opere{% endblock %}
+
+{% block header %}
+
+<!-- <meta name="media_prefix" id="media_prefix" content = "{{ MEDIA_URL }}" /> -->
+{% block active_opere %}active{% endblock %}
+	<script type="text/javascript">
+		//defining the name of the section for the menu
+		{% load static %}
+		{% get_static_prefix as STATIC_PREFIX %}
+		var static_prefix = '{{ STATIC_PREFIX }}';
+		
+		{%if section_name %}
+			var section_name = "{{ section_name }}";
+		{% endif%}
+		
+		
+	</script>
+	
+
+{{ block.super }}
+	{% load static %}
+	{% get_static_prefix as STATIC_PREFIX %}
+	<!-- Styles -->
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/opere_style.css">
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/views_style.css">
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/galleria_progetti-style.css">
+	<!-- Scripts -->
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/jquery.multiselect.css">
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/slider.css">
+	
+
+{% endblock %}
+
+{% block upper-bar %}
+
+	<div id="opere_modes">
+		<div id="types">
+					<form method="post" id="opere_switchtype_form" action="/switchtype/">
+						<ul id="opere_switchtype_ul">
+							<li><a href="{% url archivio.views.rete_progetti %}">
+								<label class="filter firstBtn">
+								<img src="{% get_static_prefix %}img_interface/actors-off.png"/>PERSONE</label>
+								</a>
+							</li>
+							<li><label class="filter sel">
+								<input checked="checked" type="radio" name="typeviz" id="doctype" value="documents"><img src="{% get_static_prefix %}img_interface/docs_on.png"/>DOCUMENTI</label>
+							</li>
+							<li><a href="{% url archivio.views.opere %}">
+								<label class="filter lastBtn"><img src="{% get_static_prefix %}img_interface/projects_off.png"/>PROGETTI</label>
+							</a></li>
+						</ul>
+					</form>	
+				</div>
+		<div id="modes">
+			<div id="opere_modes_form">
+			<!-- <form method="post" id="opere_modes_form" action="/modes/">{% csrf_token %} -->
+				<ul id="opere_modes_ul">
+					<li><a href="{% url archivio.views.documenti %}"><label class="filter firstBtn"><img src="{% get_static_prefix %}img_interface/list_off.png"/>ELENCO</label></a></li>
+					<li><a href="#"><label class="filter lastBtn sel"><img src="{% get_static_prefix %}img_interface/gallery_on.png"/>GALLERIA</label></a></li>
+					
+					<!-- <li>
+					<a href="{% url archivio.views.working2 %}"><label class="filter"><img src="{% get_static_prefix %}img_interface/timeline_off.png"/>TIMELINE</label></a>
+					</li> -->
+					
+						<!--<li><label><input type="radio" name="modeviz" id="mode_rete" value="rete">rete</label></li>-->
+				</ul>
+			</div>
+			<!-- </form> -->
+		</div>
+	</div>
+	
+{% endblock %}
+
+{% block content %}	
+	
+	
+	<div id="opere_viz_space" ng-app="myApp" ng-controller="ProjCtrl" ng-cloak>
+		<div id="params">
+			<div id='params1'>
+				<div id="filtri">
+					
+					<div class='filter onoff actv' ng-repeat='filt in filters' ng-switch on="filt.field">
+						<div ng-switch-when="proj"><img class="filt-ico"  src="{% get_static_prefix %}img_interface/text-filt.png"/><span filt="#projFilt">PROGETTI DI ARCHITETTURA</span><img ng-click="removeProjFilter()" class="close-filt" src="{% get_static_prefix %}img_interface/close.png"/></div>
+						<div ng-switch-when="att"><img class="filt-ico" src="{% get_static_prefix %}img_interface/text-filt.png"/><span filt="#attFilt">ATTIVITA'</span><img ng-click="removeAttFilter()" class="close-filt" src="{% get_static_prefix %}img_interface/close.png"/></div>
+						<div ng-switch-when="tecn"><img class="filt-ico" src="{% get_static_prefix %}img_interface/text-filt.png"/><span filt="#tecnFilt">TECNICA</span><img ng-click="removeTecnFilter()" class="close-filt" src="{% get_static_prefix %}img_interface/close.png"/></div>
+						<div ng-switch-when="desc"><img class="filt-ico" src="{% get_static_prefix %}img_interface/text-filt.png"/><span filt="#descFilt">TIPO</span><img ng-click="removeDescFilter()" class="close-filt" src="{% get_static_prefix %}img_interface/close.png"/></div>
+						<div ng-switch-when="scale"><img class="filt-ico" src="{% get_static_prefix %}img_interface/text-filt.png"/><span filt="#scaleFilt">SCALA</span><img ng-click="removeScaleFilter()" class="close-filt" src="{% get_static_prefix %}img_interface/close.png"/></div>
+						<div ng-switch-when="instr"><img class="filt-ico" src="{% get_static_prefix %}img_interface/text-filt.png"/><span filt="#instrFilt">STRUMENTO</span><img ng-click="removeInstrFilter()" class="close-filt" src="{% get_static_prefix %}img_interface/close.png"/></div>
+						<div ng-switch-when="supp"><img class="filt-ico" src="{% get_static_prefix %}img_interface/text-filt.png"/><span filt="#suppFilt">SUPPORTO</span><img ng-click="removeSuppFilter()" class="close-filt" src="{% get_static_prefix %}img_interface/close.png"/></div>
+						
+					</div> 
+					<div class="filter" id='lastFilter' onClick="$('#filt-types').slideToggle()"><img src="{% get_static_prefix %}img_interface/plus-filt-k.png"/>AGGIUNGI FILTRO
+						
+						<ul id='filt-types'>
+							<li id='projOpt' ng-click="addProjFilter()" my-data="Progetto">Progetti di architettura</li>
+							<li id='attOpt' ng-click="addAttFilter()" my-data="Attivita">Attività</li>
+							<li id='tecnOpt' ng-click="addTecnFilter()" my-data="Tecnica">Tecnica</li>
+							<li id='descOpt' ng-click="addDescFilter()" my-data="Tipologia">Tipo</li>
+							<li id='scaleOpt' ng-click="addScaleFilter()" my-data="Scala">Scala</li>
+							<li id='instrOpt' ng-click="addInstrFilter()" my-data="Strumento">Strumento</li>
+							<li id='suppOpt' ng-click="addSuppFilter()" my-data="Supporto">Supporto</li>
+						</ul>
+						
+						</div>
+					
+				</div>
+				
+				<div id='projFilt' class="filter-field">
+					
+					Progetto: <input id="ac-proj" name="input" ng-model="queryProj" ng-change="update()"></div>
+					
+				<div id='tecnFilt' class="filter-field">
+					
+					Tecnica: <input name="input" id="ac-tecn" ng-model="queryTecn" ng-change="update()"></div>
+					
+				<form id='attFilt' class="filter-field" name='attFilt'>
+					
+					<my-checkboxes field="atts"></my-checkboxes>
+				</form>
+				
+				<div id='descFilt' class="filter-field">
+					
+					Descrizione: <input id="ac-desc" name="input" ng-model="queryDesc" ng-change="update()"></div>
+				
+				<div id='scaleFilt' class="filter-field">
+					
+					Scala: <input name="input" id="ac-scale" ng-model="queryScale" ng-change="update()"></div>
+					
+					<div id='instrFilt' class="filter-field">
+					
+					Strumento: <input name="input" id="ac-instr" ng-model="queryInstr" ng-change="update()"></div>
+					
+					<div id='suppFilt' class="filter-field">
+					
+					Supporto: <input name="input" id="ac-supp" ng-model="querySupp" ng-change="update()"></div>
+				
+			</div>
+			
+			<script type="text/javascript">
+				$('#lastFilter').hover(function(){
+						$(this).children('img').attr('src','/static/img_interface/plus-filt.png');
+					},
+					function() {
+						$(this).children('img').attr('src','/static/img_interface/plus-filt-k.png');
+					});
+					
+					$("body").on("click", ".onoff span", function(event){
+						
+						if(!$($(this).attr('filt')).is(":visible")) {
+							$(".onoff").removeClass('actv');
+							turnOffAll();
+							$(this).parents('.filter').addClass('actv');
+							$(".filter-field").hide();
+							$($(this).attr('filt')).toggle();
+							turnOn($(this).attr('filt'),$(this).siblings(".filt-ico"));
+							
+						}
+						else {
+							$($(this).attr('filt')).toggle();
+							$(this).parents('.filter').removeClass('actv');
+							turnOff($(this).attr('filt'),$(this).siblings(".filt-ico"));
+							
+						}
+						
+					})
+			</script>
+			
+			
+			{% load static %}
+			{% get_static_prefix as STATIC_PREFIX %}
+			<script type='text/javascript' src='http://maps.google.com/maps/api/js?sensor=true'></script>
+		  	<script type='text/javascript' src="http://ajax.googleapis.com/ajax/libs/angularjs/1.0.4/angular.min.js"></script>
+		  	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js"></script>
+		  	
+			<script type='text/javascript'> var media_prefix = {% get_media_prefix %}; </script>
+			
+		</div>
+		
+		
+			<div >
+			
+			<!-- Angular Directive -->
+		<div id="galleria-p" ng-hide="[[computing]]" when-scrolled="scrollUpdate()">	
+			<load-projs></load-projs>
+		</div>
+		</div>
+		
+
+	</div>
+	
+	
+	<script src="{{ STATIC_PREFIX}}libs/jquery-1.7.2.min.js"></script>	<!--jQuery -->
+	<script type='text/javascript' src='{{ STATIC_PREFIX}}scripts/autocomplete.js'></script>
+	<script src="{{ STATIC_PREFIX}}libs/jquery.masonry.min.js"></script>
+	<script type='text/javascript' src="{{ STATIC_PREFIX}}scripts/jquery-cookies.js"></script>
+	
+	
+	<script type="application/javascript">
+		  	
+		  		
+					jQuery(function(){
+					   var opt_a = { serviceUrl:'/service/documenti/acdoc/',maxHeight:600, params:{attr:'project__denominazione'} , onSelect:function(value, data){ angular.element("#ac-proj").scope().queryProj=value.value; angular.element("#ac-proj").scope().update();},zIndex:1029};
+					   var a = $('#ac-proj').autocomplete(opt_a);
+					   
+					    var opt_b = { serviceUrl:'/service/documenti/acdoc/',maxHeight:600, params:{attr:'tecnica'} , onSelect:function(value, data){ angular.element("#ac-tecn").scope().queryTecn=value.value; angular.element("#ac-tecn").scope().update();},zIndex:1029};
+					   var b = $('#ac-tecn').autocomplete(opt_b);
+					   
+					    var opt_c = { serviceUrl:'/service/documenti/acdoc/',maxHeight:600, params:{attr:'tipo'} , onSelect:function(value, data){ angular.element("#ac-desc").scope().queryDesc=value.value; angular.element("#ac-desc").scope().update();},zIndex:1029};
+					   var c = $('#ac-desc').autocomplete(opt_c);
+					   
+					    var opt_d = { serviceUrl:'/service/documenti/acdoc/',maxHeight:600, params:{attr:'scala'} , onSelect:function(value, data){ angular.element("#ac-scale").scope().queryScale=value.value; angular.element("#ac-scale").scope().update();},zIndex:1029};
+					   var d = $('#ac-scale').autocomplete(opt_d);
+					   
+					    var opt_e = { serviceUrl:'/service/documenti/acdoc/',maxHeight:600, params:{attr:'strumento'} , onSelect:function(value, data){ angular.element("#ac-instr").scope().queryInstr=value.value; angular.element("#ac-instr").scope().update();},zIndex:1029};
+					   var e = $('#ac-instr').autocomplete(opt_e);
+					   
+					    var opt_f = { serviceUrl:'/service/documenti/acdoc/',maxHeight:600, params:{attr:'supporto'} , onSelect:function(value, data){ angular.element("#ac-supp").scope().querySupp=value.value; angular.element("#ac-supp").scope().update();},zIndex:1029};
+					   var f = $('#ac-supp').autocomplete(opt_f);
+					});
+		  		
+	</script> 
+
+	
+	
+	<script type='text/javascript'>
+	// if(!$.cookie("returning")){
+		// $('body').prepend("<div id='wlcm'></div>");
+		// $('#wlcm').load('{{ STATIC_PREFIX}}welcome.html');
+		// $('.wlcm-close').live('click', function() {
+			// $('#wlcm').fadeOut();
+		// });
+		// $.cookie("returning","true",{path:"/"});
+	// }
+	
+	function turnOn(elm, a) {
+						
+		$(a).attr('src','/static/img_interface/text-filt.png');
+									
+	};
+					
+	function turnOff(elm, a) {
+		
+		$(a).attr('src','/static/img_interface/text-filt-k.png');
+
+	};
+					
+	function turnOffAll() {
+		$(".filt-ico").each(function() {
+			
+			$(this).attr('src','/static/img_interface/text-filt-k.png');
+				
+		})
+	};
+	
+	
+	
+	
+	
+	
+	  //change angular.js parsing markers
+	  var myApp = angular.module('myApp', [], function($interpolateProvider) {
+    	$interpolateProvider.startSymbol('[[');
+    	$interpolateProvider.endSymbol(']]');
+	});
+	
+	  function ProjCtrl($scope,$http,$compile) {
+  		$scope.jprojects = {{drawings|safe}};
+  		$scope.atts = {{atts|safe}};
+  		$scope.queryProj=null;
+  		$scope.queryTecn=null;
+  		$scope.queryDesc=null;
+  		$scope.queryScale=null;
+  		$scope.queryAtt=null;
+  		$scope.queryInstr=null;
+  		$scope.querySupp=null;
+  		$scope.computing=false;
+  		$scope.filters=[];
+  		$scope.scrollIndex=1;
+  		
+  	$scope.scrollUpdate = function() {
+  		if(($scope.jprojects.length>0 && !$scope.jprojects[$scope.jprojects.length - 1].final)) {
+  		$scope.scrollIndex++;
+  		$scope.fetch();
+  		}
+  	}
+  	
+  	$scope.clickFilter = function(e,id) {
+  		
+  		switch(id) {
+  		case "proj":
+  			if($scope.queryProj!=null)
+  				$scope.removeProjFilter();
+  		
+  			$scope.queryProj=e.project__denominazione;
+  			$scope.addProjFilter();
+  			break;
+  			
+  		case "desc":
+  			if($scope.queryDesc!=null)
+  				$scope.removeDescFilter();
+  		
+  			$scope.queryDesc=e.tipo;
+  			$scope.addDescFilter();
+  			break;
+  		
+  		case "tecn":
+  			if($scope.queryTecn!=null)
+  				$scope.removeTecnFilter();
+  		
+  			$scope.queryTecn=e.tecnica;
+  			$scope.addTecnFilter();
+  			break;
+  			
+  		case "scale":
+  			if($scope.queryScale!=null)
+  				$scope.removeScaleFilter();
+  		
+  			$scope.queryScale=e.scala;
+  			$scope.addScaleFilter();
+  			break;
+  			
+  		case "instr":
+  			if($scope.queryInstr!=null)
+  				$scope.removeInstrFilter();
+  		
+  			$scope.queryInstr=e.strumento;
+  			$scope.addInstrFilter();
+  			break;
+  			
+  		case "supp":
+  			if($scope.querySupp!=null)
+  				$scope.removeSuppFilter();
+  		
+  			$scope.querySupp=e.supporto;
+  			$scope.addSuppFilter();
+  			break;
+  	
+  		
+  		}
+  		$scope.update();
+  		
+  	};
+  	
+  	
+  		
+  	$scope.fetch = function() {
+  	
+  	$('#lista-p').css('visibility', 'hidden');
+  	  $http({
+    	headers: {'Content-Type': 'application/json'},
+    	url: '{{BASE_URL}}/service/documenti/',
+    	method: "GET",
+    	params: {
+    		p : $scope.queryProj,
+    		t : $scope.queryDesc,
+    		te : $scope.queryTecn,
+    		a : $scope.queryAtt,
+    		sc : $scope.queryScale,
+    		i : $scope.queryInstr,
+    		su : $scope.querySupp,
+    		ind : $scope.scrollIndex
+  		}
+  })
+  
+  .success(function(data) {
+  	if($scope.scrollIndex==0) $scope.jprojects = data;
+  	else 
+  	for(var i = 0; i < data.length; i++) {
+  		$scope.jprojects.push(data[i]);
+  	}
+  }).
+  error(function(data, status) {
+  		alert("error!");
+        $scope.data = data || "Request failed";
+        $scope.status = status;
+    });
+  };
+    $scope.update = function() {
+    	$scope.scrollIndex=0;
+    	$scope.fetch();
+    	for (var i=0;i<$scope.filters.length;i++)
+		{ 
+			if($scope.filters[i].field=="proj") {
+				$.cookie("dproj",$scope.queryProj,{path:"/"});	
+			}
+			else if($scope.filters[i].field=="desc") {
+				$.cookie("ddesc", $scope.queryDesc,{path:"/"});
+			}
+			else if($scope.filters[i].field=="att") {
+				$.cookie("datt", $scope.queryAtt,{path:"/"});
+			}
+			else if($scope.filters[i].field=="scale") {
+				$.cookie("dscale", $scope.queryScale,{path:"/"});
+			}
+			else if($scope.filters[i].field=="tecn") {
+				$.cookie("dtecn", $scope.queryTecn,{path:"/"});
+			}
+			else if($scope.filters[i].field=="instr") {
+				$.cookie("dinstr", $scope.queryInstr,{path:"/"});
+			}
+			else if($scope.filters[i].field=="supp") {
+				$.cookie("dsupp", $scope.querySupp,{path:"/"});
+			}
+		}
+    	
+    
+  };
+  
+  $scope.addProjFilter=function() {
+  	turnOffAll();
+  	$(".onoff").removeClass('actv');
+	$(".filter-field").hide();
+  	$scope.filters.push({'field':'proj'})
+  	$("#projOpt").hide();
+  	$("#projFilt").show();
+  	if($('#filt-types').children(':visible').length == 0) {
+  		$('#lastFilter').hide();
+  	}
+  };
+  
+  $scope.addDescFilter=function() {
+  	turnOffAll();
+  	$(".onoff").removeClass('actv');
+	$(".filter-field").hide();
+  	$scope.filters.push({'field':'desc'})
+  	$("#descOpt").hide();
+  	$("#descFilt").show();
+  	if($('#filt-types').children(':visible').length == 0) {
+  		$('#lastFilter').hide();
+  	}
+  };
+  
+  $scope.addAttFilter=function() {
+  	turnOffAll();
+  	$(".onoff").removeClass('actv');
+	$(".filter-field").hide();
+  	$scope.filters.push({'field':'att'})
+  	$("#attOpt").hide();
+  	$("#attFilt").show();
+  	if($('#filt-types').children(':visible').length == 0) {
+  		$('#lastFilter').hide();
+  	}
+  };
+  
+  $scope.addTecnFilter=function() {
+  	turnOffAll();
+  	$(".onoff").removeClass('actv');
+	$(".filter-field").hide();
+  	$scope.filters.push({'field':'tecn'})
+  	$("#tecnOpt").hide();
+  	$("#tecnFilt").show();
+  	if($('#filt-types').children(':visible').length == 0) {
+  		$('#lastFilter').hide();
+  	}
+  };
+  
+  $scope.addScaleFilter=function() {
+  	turnOffAll();
+  	$(".onoff").removeClass('actv');
+	$(".filter-field").hide();
+  	$scope.filters.push({'field':'scale'})
+  	$("#scaleOpt").hide();
+  	$("#scaleFilt").show();
+  	if($('#filt-types').children(':visible').length == 0) {
+  		$('#lastFilter').hide();
+  	}
+  };
+  
+  $scope.addInstrFilter=function() {
+  	turnOffAll();
+  	$(".onoff").removeClass('actv');
+	$(".filter-field").hide();
+  	$scope.filters.push({'field':'instr'})
+  	$("#instrOpt").hide();
+  	$("#instrFilt").show();
+  	if($('#filt-types').children(':visible').length == 0) {
+  		$('#lastFilter').hide();
+  	}
+  };
+  
+  $scope.addSuppFilter=function() {
+  	turnOffAll();
+  	$(".onoff").removeClass('actv');
+	$(".filter-field").hide();
+  	$scope.filters.push({'field':'supp'})
+  	$("#suppOpt").hide();
+  	$("#suppFilt").show();
+  	if($('#filt-types').children(':visible').length == 0) {
+  		$('#lastFilter').hide();
+  	}
+  };
+  
+ 
+  
+  $scope.removeProjFilter=function(element) {
+  	var i=0;
+  	for (i=0; i<$scope.filters.length; i++) {
+    if ($scope.filters[i].field === 'proj') {
+
+        break;
+    }
+   }
+  	$scope.filters.splice(i,1);
+  	$scope.queryProj=null;
+  	$("#projOpt").show();
+  	$("#projFilt").hide();
+  	$.removeCookie('dproj', { path: '/' });
+  	$scope.update();
+  	if($('#lastFilter').is(':hidden')) {
+  		$('#filt-types').hide();
+  		$('#lastFilter').show();
+  	}
+  };
+  
+   $scope.removeDescFilter=function(element) {
+  	var i=0;
+  	for (i=0; i<$scope.filters.length; i++) {
+    if ($scope.filters[i].field === 'desc') {
+
+        break;
+    }
+   }
+  	$scope.filters.splice(i,1);
+  	$scope.queryDesc=null;
+  	$("#descOpt").show();
+  	$("#descFilt").hide();
+  	$.removeCookie('ddesc', { path: '/' });
+  	$scope.update();
+  	if($('#lastFilter').is(':hidden')) {
+  		$('#filt-types').hide();
+  		$('#lastFilter').show();
+  	}
+  };
+  
+  $scope.removeAttFilter=function(element) {
+  	var i=0;
+  	for (i=0; i<$scope.filters.length; i++) {
+    if ($scope.filters[i].field === 'att') {
+
+        break;
+    }
+   }
+  	$scope.filters.splice(i,1);
+  	$scope.queryAtt=null;
+  	$("#attOpt").show();
+  	$("#attFilt").hide();
+  	$.removeCookie('datt', { path: '/' });
+  	$scope.update();
+  	if($('#lastFilter').is(':hidden')) {
+  		$('#filt-types').hide();
+  		$('#lastFilter').show();
+  	}
+  };
+  
+   $scope.removeTecnFilter=function(element) {
+  	var i=0;
+  	for (i=0; i<$scope.filters.length; i++) {
+    if ($scope.filters[i].field === 'tecn') {
+
+        break;
+    }
+   }
+  	$scope.filters.splice(i,1);
+  	$scope.queryTecn=null;
+  	$("#tecnOpt").show();
+  	$("#tecnFilt").hide();
+  	$.removeCookie('dtecn', { path: '/' });
+  	$scope.update();
+  	if($('#lastFilter').is(':hidden')) {
+  		$('#filt-types').hide();
+  		$('#lastFilter').show();
+  	}
+  };
+  
+   $scope.removeScaleFilter=function(element) {
+  	var i=0;
+  	for (i=0; i<$scope.filters.length; i++) {
+    if ($scope.filters[i].field === 'scale') {
+
+        break;
+    }
+   }
+  	$scope.filters.splice(i,1);
+  	$scope.queryScale=null;
+  	$("#scaleOpt").show();
+  	$("#scaleFilt").hide();
+  	$.removeCookie('dscale', { path: '/' });
+  	$scope.update();
+  	if($('#lastFilter').is(':hidden')) {
+  		$('#filt-types').hide();
+  		$('#lastFilter').show();
+  	}
+  };
+  
+   $scope.removeInstrFilter=function(element) {
+  	var i=0;
+  	for (i=0; i<$scope.filters.length; i++) {
+    if ($scope.filters[i].field === 'instr') {
+
+        break;
+    }
+   }
+  	$scope.filters.splice(i,1);
+  	$scope.queryInstr=null;
+  	$("#instrOpt").show();
+  	$("#instrFilt").hide();
+  	$.removeCookie('dinstr', { path: '/' });
+  	$scope.update();
+  	if($('#lastFilter').is(':hidden')) {
+  		$('#filt-types').hide();
+  		$('#lastFilter').show();
+  	}
+  };
+  
+   $scope.removeSuppFilter=function(element) {
+  	var i=0;
+  	for (i=0; i<$scope.filters.length; i++) {
+    if ($scope.filters[i].field === 'supp') {
+
+        break;
+    }
+   }
+  	$scope.filters.splice(i,1);
+  	$scope.querySupp=null;
+  	$("#suppOpt").show();
+  	$("#suppFilt").hide();
+  	$.removeCookie('dsupp', { path: '/' });
+  	$scope.update();
+  	if($('#lastFilter').is(':hidden')) {
+  		$('#filt-types').hide();
+  		$('#lastFilter').show();
+  	}
+  };
+  
+  
+  
+  var c=0;
+  		if($.cookie("dproj")!=null && $.cookie("dproj")!="null") {
+  			$scope.queryProj=$.cookie("dproj");
+  			$scope.addProjFilter();
+  			c++;
+  			
+  		}
+  		if($.cookie("ddesc")!=null && $.cookie("ddesc")!="null") {
+  			$scope.queryDesc=$.cookie("ddesc");
+  			$scope.addDescFilter();
+  			c++;
+  			
+  	 	}
+  		
+  		if($.cookie("datt")!=null && $.cookie("datt")!="null") {
+  			$scope.queryAtt=$.cookie("datt");
+  			$scope.addAttFilter();
+  			c++;
+  			
+  		}
+  		if($.cookie("dtecn")!=null && $.cookie("dtecn")!="null") {
+  			$scope.queryTecn=$.cookie("dtecn");
+  			$scope.addTecnFilter();
+  			c++;
+  			
+  		}
+  		if($.cookie("dscale")!=null && $.cookie("dscale")!="null") {
+  			$scope.queryScale=$.cookie("dscale");
+  			$scope.addScaleFilter();
+  			c++;
+  			
+  		}
+  		if($.cookie("dinstr")!=null && $.cookie("dinstr")!="null") {
+  			$scope.queryInstr=$.cookie("dinstr");
+  			$scope.addInstrFilter();
+  			c++;
+  			
+  		}
+  		if($.cookie("dsupp")!=null && $.cookie("dsupp")!="null") {
+  			$scope.querySupp=$.cookie("dsupp");
+  			$scope.addSuppFilter();
+  			c++;
+  			
+  		}
+  		
+  		if (c>0) $scope.update();
+  		
+   }
+      
+   angular.module('myApp', [], function($interpolateProvider) {
+    	$interpolateProvider.startSymbol('[[');
+    	$interpolateProvider.endSymbol(']]');
+	})
+	.directive("loadProjs", function() {
+    return {
+        restrict: 'E',
+        replace: true,
+        scope: true,
+        template: '<div class="galleria-i" check-last ng-repeat="proj in jprojects |orderBy:\'start\'"><a href="{% url archivio.views.opere %}document/[[proj.segnatura ]]"><img src = "{% get_media_prefix %}[[proj.thumbAdress]]" /></a><div class="txt"><div class="label-gal"><a href="{% url archivio.views.opere %}document/[[proj.segnatura]]">[[proj.segnatura]]</a></div><a href="{% url archivio.views.opere %}document/[[proj.segnatura]]">[[proj.project__denominazione]]</a></div></div>'
+    	};
+	})
+     .directive('checkLast', function () {
+        return function (scope, element, attrs) {
+            //console.log(scope.$position);
+            if (scope.$last=== true) {
+            	$('#galleria-p').imagesLoaded( function(){
+                    $('#galleria-p').masonry('reload');
+                    $('#galleria-p').css('visibility', 'visible');
+                 });
+                    
+            }
+            
+        }
+    }).directive('whenScrolled', function() {
+    return function(scope, elm, attr) {
+        var raw = elm[0];
+        
+        angular.element(window).bind('scroll', function() {
+            var buffer = 1000;
+            if ( $(document).height() < buffer + $(window).height() + $(window).scrollTop() ) {
+               scope.$apply(attr.whenScrolled);
+            }                
+        });
+    };
+})
+.directive('myCheckboxes', function(){
+    return {
+        restrict: 'E',
+        //scope: { field: 'accessor' },
+        template: '<div ng-repeat="option in atts">'
+            +'<label>'
+            +'<input type="checkbox" ng-model="cbModel[option]" '
+            +'value="[[option]]" ng-change="checkvalues()" ng-checked=initValues(option) />'
+            +'[[option]]'            
+            +'</label>'                
+            +'</div>',
+        link: function(scope, element, attrs, ctrl){
+            scope.cbModel= {};
+            scope.checkvalues = function(){
+                var val = [];
+                angular.forEach(scope.cbModel, function(v,k){
+                    if (v)
+                        val.push(k);
+                });
+                if(val.length>0) scope.queryAtt = val.join(",");
+                else scope.queryAtt = null;      
+                scope.update();
+            };
+            
+            scope.initValues = function(el) {
+            	if(scope.queryAtt!=null) {
+            		var fs=scope.queryAtt.split(",");	
+            		for(i =0; i<fs.length;i++) {
+            			scope.cbModel[fs[i]] = true;
+            		}
+            		return scope.queryAtt.indexOf(el)>=0
+            	}
+            	else return false;
+            	
+            	
+            };
+        }
+    };
+});
+
+ $(function(){
+
+	    var $container = $('#galleria-p');
+		
+	    $container.imagesLoaded( function(){
+	      $container.masonry({
+	        itemSelector : '.galleria-i',
+	        columnWidth: 220
+	      });
+	    });
+	  });
+    
+
+	  
+	 
+	  
+	</script> 
+	
+	
+	
+
+{% endblock %}

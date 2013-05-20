@@ -1,0 +1,24 @@
+<div class="lista-i" check-last ng-repeat="proj in jprojects">
+	<div class="lista-left">
+		<a href="{% url archivio.views.opere %}document/[[proj.segnatura]]">
+		<img src = "{% get_media_prefix %}[[proj.thumbAdress]]" />
+		</a>
+	</div>
+	<div class="lista-d-right">
+		<div class="lista-detail">
+			<p class="type">Progetto:</p><br />
+			<em>[[proj.project__denominazione]]</em>
+		</div>
+		<div class="lista-detail">
+			<p class="type">Descrizione:</p><br />
+			<em ng-hide="!proj.tipo">[[proj.tipo]]</em><div ng-hide="!proj.scala">, scala <em>[[proj.scala]]</em></div><br />
+			<em ng-hide="!proj.tecnica">[[proj.tecnica]]</em><div ng-hide="!proj.tecnica || !proj.supporto"> su </div><em ng-hide="!proj.supporto">[[proj.supporto]]</em><div ng-hide="!proj.largezza">, [[proj.largezza]]x[[proj.altezza]] cm</div><br />
+			<div ng-hide="!proj.cartigli">intestazione: [[proj.cartigli]]</div>
+		</div>
+		<div class="lista-detail">
+			<p class="type">Segnatura:</p><br />
+			<div>[[proj.segnatura]]</div>
+		</div>
+		
+	</div>
+</div>

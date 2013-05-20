@@ -1,5 +1,7 @@
+#!/var/www/sketch.densitydesign.org/sketch/env/bin/python
+
 """
-WSGI config for baldessari_sketch project.
+WSGI config for sketchproject project.
 
 This module contains the WSGI application used by Django's development server
 and any production WSGI deployments. It should expose a module-level variable
@@ -13,7 +15,18 @@ middleware here, or combine a Django application with an application of another
 framework.
 
 """
-import os
+import os, sys, site
+
+root_dir = "/var/www/baldessari.densitydesign.org/baldessari_env"
+packages_dir = os.path.join(root_dir, "lib/python2.7/site-packages")
+
+site.addsitedir(packages_dir)
+
+sys.path.append(root_dir)
+sys.path.insert(0,packages_dir)
+
+sys.path.append("/var/www/baldessari.densitydesign.org/baldessari")
+
 
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "baldessari_sketch.settings")
 

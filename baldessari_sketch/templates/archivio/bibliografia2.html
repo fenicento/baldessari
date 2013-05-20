@@ -1,0 +1,290 @@
+{% extends "archivio/layout.html" %}
+
+{% block title %}Archivio Baldessari | Bibliografia{% endblock %}
+
+{% block header %}
+
+	<!-- <script type="text/javascript">
+	
+		//section name for menu
+		{%if section_name %}
+			var section_name = "{{ section_name }}";
+		{% endif%}
+		
+		//defining the name of the section for the menu
+		{% load static %}
+		{% get_static_prefix as STATIC_PREFIX %}
+		var static_prefix = '{{ STATIC_PREFIX }}';
+	</script> -->
+	
+	<!-- Active tab of the menu -->
+	{% block active_bibliografia %}active{% endblock %}
+	
+
+{{ block.super }}
+	{% load static %}
+	{% get_static_prefix as STATIC_PREFIX %}
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/bibliografia_style.css">
+
+{% endblock %}
+
+{% block upper-bar %}
+	<h1 id="section-title">Elenco delle pubblicazioni</h1>
+{% endblock %}
+
+{% block content %}
+	
+	<div id="bib-full" class="bib-switch sel">PER PROGETTO</div> <div id="bib-flat" class="bib-switch">COMPLETO</div> 
+	
+	<script>
+		$("#bib-flat").click(function() {
+			if(!$("#bib-simple").is(":visible") ) {
+				$("#bibliografia").hide();
+				$("#bib-simple").show();
+				$("#bib-flat").addClass("sel");
+				$("#bib-full").removeClass("sel");
+			}
+		});
+		
+		$("#bib-full").click(function() {
+			if(!$("#bibliografia").is(":visible") ) {
+				$("#bib-simple").hide();
+				$("#bibliografia").show();
+				$("#bib-flat").removeClass("sel");
+				$("#bib-full").addClass("sel");
+				
+			}
+		})
+		
+	</script>
+	
+	<!-- Bibliografia content -->
+	<div id="bibliografia">
+		<script type="application/javascript">
+			var bib={{projects|safe}}
+			
+			for(var i=0;i<bib.length; i++) {
+				$("#bibliografia").append("<div id='"+bib[i][0].sigla +"' class='item'><div class='left'><a href = '/opere/project/"+bib[i][0].sigla+"'><h4>"+bib[i][0].denominazione+"</h4> </a></div>");
+				
+				var article=0;
+				var essay=0;
+				var monography=0;
+				var mag=0;
+				var other=0;
+				
+				
+				if(bib[i][1].bib.length>0) {
+					$("#"+bib[i][0].sigla).append("<div style='height:"+(Math.ceil(bib[i][1].bib.length/(bib[i][1].size*2))*30+40)+"' class='right-viz'></div>");	
+					var l=0;
+					var h=0;
+					
+					
+					
+					for(var j=0; j<(bib[i][1].size*bib[i][1].size*2)-2;j++) {
+						
+						if(j<bib[i][1].bib.length) {
+							
+						if(bib[i][1].bib[j].sup_infos=="monografia") {
+							
+							monography++;
+							
+							$("#"+bib[i][0].sigla).append("<p class='mono-bib'>"+bib[i][1].bib[j].name+"</p>");
+							
+							if(j % 2 == 0) {
+								$("#"+bib[i][0].sigla+" .right-viz").append("<img style='left:"+l+"; top:"+h+";' src='/static/img_interface/violet-down.png'/>");
+								l+=31;
+							}
+							else $("#"+bib[i][0].sigla+" .right-viz").append("<img style='left:"+l+"; top:"+h+";' src='/static/img_interface/violet-up.png'/>");
+							if (l>30*bib[i][1].size) {
+								h+=31
+								l=0;
+							}
+							
+						}
+						
+						else if(bib[i][1].bib[j].sup_infos=="saggio in volume") {
+							
+							essay++;
+							
+							$("#"+bib[i][0].sigla).append("<p class='essay-bib'>"+bib[i][1].bib[j].name+"</p>");
+							
+							if(j % 2 == 0) {
+								$("#"+bib[i][0].sigla+" .right-viz").append("<img style='left:"+l+"; top:"+h+";' src='/static/img_interface/gold-down.png'/>");
+								l+=31;
+							}
+							else $("#"+bib[i][0].sigla+" .right-viz").append("<img style='left:"+l+"; top:"+h+";' src='/static/img_interface/gold-up.png'/>");
+							if (l>30*bib[i][1].size) {
+								h+=31
+								l=0;
+							}
+							
+						}
+						
+						
+						else if(bib[i][1].bib[j].sup_infos=="articolo di rivista") {
+							
+							mag++;
+							
+							$("#"+bib[i][0].sigla).append("<p class='mag-bib'>"+bib[i][1].bib[j].name+"</p>");
+							
+							if(j % 2 == 0) {
+								$("#"+bib[i][0].sigla+" .right-viz").append("<img style='left:"+l+"; top:"+h+";' src='/static/img_interface/red-down.png'/>");
+								l+=31;
+							}
+							else $("#"+bib[i][0].sigla+" .right-viz").append("<img style='left:"+l+"; top:"+h+";' src='/static/img_interface/red-up.png'/>");
+							if (l>30*bib[i][1].size) {
+								h+=31
+								l=0;
+							}
+							
+						}
+						
+						
+						
+						
+						else if(bib[i][1].bib[j].sup_infos=="articolo di giornale") {
+							
+							article++;
+							
+							$("#"+bib[i][0].sigla).append("<p class='art-bib'>"+bib[i][1].bib[j].name+"</p>");
+							
+							
+							if(j % 2 == 0) {
+								$("#"+bib[i][0].sigla+" .right-viz").append("<img style='left:"+l+"; top:"+h+";' src='/static/img_interface/azure-down.png'/>");
+								l+=31;
+							}
+							else $("#"+bib[i][0].sigla+" .right-viz").append("<img style='left:"+l+"; top:"+h+";' src='/static/img_interface/azure-up.png'/>");
+							if (l>30*bib[i][1].size) {
+								h+=31
+								l=0;
+							}
+							
+						}
+						
+						else {
+							
+							other++;
+							
+							$("#"+bib[i][0].sigla).append("<p class='other-bib'>"+bib[i][1].bib[j].name+"</p>");
+							
+							if(j % 2 == 0) {
+								$("#"+bib[i][0].sigla+" .right-viz").append("<img style='left:"+l+"; top:"+h+";' src='/static/img_interface/blue-down.png'/>");
+								l+=31;
+							}
+							else $("#"+bib[i][0].sigla+" .right-viz").append("<img style='left:"+l+"; top:"+h+";' src='/static/img_interface/blue-up.png'/>");
+							if (l>30*bib[i][1].size) {
+								h+=31
+								l=0;
+							}
+							
+						}
+						
+					}
+
+				}
+					
+				}
+				
+				$("#"+bib[i][0].sigla ).append("<div class='legenda'></div>");
+				
+					if(monography>0) {
+						$("#"+bib[i][0].sigla+" .legenda").append("<div><img class='mono-ico' src='/static/img_interface/mono.png'/><p>"+monography+"</p></div>")
+						
+						$("#"+bib[i][0].sigla).append("<div class='mono'><h4>Monografie</h4></div>");
+						$("#"+bib[i][0].sigla+" .mono-bib").appendTo("#"+bib[i][0].sigla+" .mono");
+					}
+					else $("#"+bib[i][0].sigla+" .legenda").append("<div><img  src='/static/img_interface/mono-off.png'/><p>"+monography+"</p></div>")
+					
+					if(essay>0) {
+						$("#"+bib[i][0].sigla+" .legenda").append("<div><img class='essay-ico' src='/static/img_interface/essay.png'/><p>"+essay+"</p></div>")
+						
+						$("#"+bib[i][0].sigla).append("<div class='essays'><h4>Saggi in volume</h4></div>");
+						$("#"+bib[i][0].sigla+" .essay-bib").appendTo("#"+bib[i][0].sigla+" .essays");
+					}
+					else $("#"+bib[i][0].sigla+" .legenda").append("<div><img src='/static/img_interface/essay-off.png'/><p>"+essay+"</p></div>")
+					
+					if(mag>0) {
+						$("#"+bib[i][0].sigla+" .legenda").append("<div><img class='mag-ico' src='/static/img_interface/mag.png'/><p>"+mag+"</p></div>")
+						
+						$("#"+bib[i][0].sigla).append("<div class='mags'><h4>Articoli su riviste</h4></div>");
+						$("#"+bib[i][0].sigla+" .mag-bib").appendTo("#"+bib[i][0].sigla+" .mags");
+					}
+					else $("#"+bib[i][0].sigla+" .legenda").append("<div><img src='/static/img_interface/mag-off.png'/><p>"+mag+"</p></div>")
+					
+					if(article>0) {
+						$("#"+bib[i][0].sigla+" .legenda").append("<div><img class='art-ico' src='/static/img_interface/news.png'/><p>"+article+"</p></div>")
+						
+						$("#"+bib[i][0].sigla).append("<div class='articles'><h4>Articoli di giornale</h4></div>");
+						$("#"+bib[i][0].sigla+" .art-bib").appendTo("#"+bib[i][0].sigla+" .articles");
+					}
+					else $("#"+bib[i][0].sigla+" .legenda").append("<div><img src='/static/img_interface/news-off.png'/><p>"+article+"</p></div>")
+					
+					
+					
+					
+					
+					
+					
+					if(other>0) {
+						$("#"+bib[i][0].sigla+" .legenda").append("<div><img class='other-ico' src='/static/img_interface/other.png'/><p>"+other+"</p></div>")
+						
+						$("#"+bib[i][0].sigla).append("<div class='other'><h4>Altro</h4></div>");
+						$("#"+bib[i][0].sigla+" .other-bib").appendTo("#"+bib[i][0].sigla+" .other");
+					}
+					else $("#"+bib[i][0].sigla+" .legenda").append("<div><img src='/static/img_interface/other-off.png'/><p>"+other+"</p></div>")
+				
+			}
+			
+			
+			$(document).ready(function() {
+  				
+  				$(".art-ico").click(function() {
+  					$(this).parents(".item").children(".articles").slideToggle(100);
+  				})
+  				
+  				$(".mag-ico").click(function() {
+  					$(this).parents(".item").children(".mags").slideToggle(100);
+  				})
+  				
+  				$(".mono-ico").click(function() {
+  					$(this).parents(".item").children(".mono").slideToggle(100);
+  				})
+  				
+  				$(".essay-ico").click(function() {
+  					$(this).parents(".item").children(".essays").slideToggle(100);
+  				})
+  				
+  				$(".other-ico").click(function() {
+  					$(this).parents(".item").children(".other").slideToggle(100);
+  				})
+  				
+			});
+			
+			
+		</script>
+		
+		
+			
+			
+			
+				
+			
+		</div>
+		
+		<div id="bib-simple">
+			
+		{% for bib in publications %}
+		
+			<p>{{bib.name}}, {{bib.pages}}</p>
+			
+		{% endfor %}
+			
+			
+			
+		</div>
+		
+		
+		
+	</div>	<!-- end bibliografia -->
+
+{% endblock %}

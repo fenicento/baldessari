@@ -1,0 +1,39 @@
+{% extends "archivio/layout.html" %}
+
+{% block title %}Archivio Baldessari | Opere{% endblock %}
+
+{% block header %}
+
+	<!-- Active tab of the menu -->
+	{% block active_opere %}active{% endblock %}
+
+
+	
+
+{{ block.super }}
+	{% load static %}
+	{% get_static_prefix as STATIC_PREFIX %}
+	<!-- Styles -->
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/opere_style.css">
+	
+
+{% endblock %}
+
+{% block upper-bar %}
+
+	
+	
+	
+	
+
+	<!-- <h1 id="section-title">Elenco delle opere</h1> -->
+{% endblock %}
+
+{% block content %}
+
+	
+	<div class="todo"><h2>Questa pagina è in fase di sviluppo</h2></div>
+	
+	
+
+{% endblock %}

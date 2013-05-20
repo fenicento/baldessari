@@ -15,6 +15,7 @@
 	<script src="{{ STATIC_PREFIX }}libs/jquery-1.7.2.min.js"></script>
 	<script src="{{ STATIC_PREFIX }}libs/d3.v2.js"></script>
 	
+	
 	<!-- Le fav and touch icons -->
     <link rel="shortcut icon" href="../assets/ico/favicon.ico">
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
@@ -34,22 +35,23 @@
 	            <span class="icon-bar"></span>
 	            <span class="icon-bar"></span>
 	          </a>
-	          <a class="brand" href="#"><div id="pretitle">L'archivio di </div><div id="titlename">Luciano<br>Baldessari</div></a>
+	          <a class="brand" href="#"><div id="pretitle">L'archivio digitale di </div><div id="titlename">Luciano<br>Baldessari</div></a>
 	          <div class="nav-collapse">
 	            <ul class="nav" id="menu">
-	              <li><a href="#">Home</a></li>
+	              <li><a href="{% url archivio.views.galleria_progetti %}">Home</a></li>
+	              
 	              <li class="{% block active_biografia %}{% endblock %}" id="biografiamenu">
-					<a href="{% url archivio.views.biografia %}" name="biographia">Biografia</a>
+					<a href="{% url archivio.views.biografia %}" name="biografia">Biografia</a>
 				  </li>
 	              <li class="{% block active_opere %}{% endblock %}" id="operemenu">
-					<a href="{% url archivio.views.opere %}" name="opere">Opere</a>
+					<a href="{% url archivio.views.galleria_progetti %}" name="opere">Opere</a>
 				  </li>
 				  <li class="{% block active_bibliografia %}{% endblock %}" id="bibliografiamenu">
-					<a href="{% url archivio.views.bibliografia %}" name="bibliografia">Bibliografia</a>
+					<a href="{% url archivio.views.bibliografia2 %}" name="bibliografia">Bibliografia</a>
 				  </li>
-				  <li class="{% block active_ricerca %}{% endblock %}" id="ricercamenu">
-					<a href="{% url archivio.views.ricerca %}" name="ricerca">Ricerca</a>
-    			  </li>
+				  <li class="{% block active_temi %}{% endblock %}" id="temimenu">
+					<a href="{% url archivio.views.elencoTemi %}" name="percorsi_tematici">Percorsi tematici</a>
+				  </li>
 				  <li class="{% block active_museovirtuale %}{% endblock %}" id="museovirtualemenu">
 					<a href="{% url archivio.views.museo_virtuale %}" name="museo virtuale">Museo Virtuale</a>
 				  </li>
@@ -75,7 +77,7 @@
 			</div>
 			
 			<footer>
-				<p>&copy; DensityDesign 2012</p>
+			
 			</footer>
 			
 		</div>

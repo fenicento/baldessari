@@ -1,0 +1,175 @@
+{% extends "archivio/layout.html" %}
+
+{% block title %}Archivio Baldessari | {{ project.denominazione }}{% endblock %}
+
+{% block header %}
+
+	<script type="text/javascript">
+		//defining the name of the section for the menu
+		{%if section_name %}
+			var section_name = "{{ section_name }}";
+		{% endif%}		
+		
+	</script>
+	
+
+{{ block.super }}
+	{% load static %}
+	{% get_static_prefix as STATIC_PREFIX %}
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/opere_style.css">
+	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/details_style.css">
+	<link rel="stylesheet" href="{{ STATIC_PREFIX}}libs/jquery-lightbox-0.5/css/jquery.lightbox-0.5.css">
+	<script src="{{ STATIC_PREFIX}}libs/jquery-1.7.2.min.js"></script>	<!--jQuery -->
+	<script src="{{ STATIC_PREFIX}}libs/jquery-lightbox-0.5/js/jquery.lightbox-0.5.js"></script>	<!--jQuery -->
+	
+
+{% endblock %}
+
+{% block content %}
+
+	
+	<div id="opere_detail_container">
+		
+		<script type="text/javascript">
+			$(function() {
+				$('a.lb').lightBox();
+			});
+		</script>
+		
+		<div id="project_general_info" class="detail-container">
+			
+			<!-- general infos on the left side -->
+			<div id="doc_general_left">
+			
+			{% if project %}
+			<h1><a id="doc-proj" href="/opere/project/{{project.sigla}}">{{ project.denominazione }}</a></h1>
+			{% endif %}
+			
+			<div class="detail-img">
+				
+				<a class="lb" href="{% get_media_prefix %}{{document.imageAdress}}"><img src="{% get_media_prefix %}{{document.imageAdress}}"/></a>
+			</div>
+			
+			<div class="detail-infos">
+			
+			<p class = "campo">Descrizione:</p>
+			
+			<div class="clear">
+			{% if document.tecnica %}
+			<h1>1 {{document.tecnica}}:</h1>
+			{% endif %}
+			
+			<div class="clear">
+			{% if document.tipo %}
+			<h1>{{document.tipo}};</h1>
+			{% endif %}	
+
+			
+			{% if document.scala %}
+			<h1> scala: {{document.scala}};</h1>
+			{% endif %}
+			
+			
+			
+			{% if document.dataYear %}
+			<h1> {{document.dataYear}};</h1>
+			{% endif %}
+			</div>
+			
+			
+			{% if document.strumento %}
+			<h1>{{document.strumento}}</h1>
+			{% endif %}	
+			
+			{% if document.tipo and document.scala %}
+			su
+			{% endif %}
+			
+			{% if document.supporto %}
+			<h1>{{document.supporto}};</h1>
+			{% endif %}
+			
+			{% if document.largezza %}
+			<h1> {{document.largezza}}x{{document.altezza}} cm</h1>
+			{% endif %}
+			</div>
+			
+			<div class="clear">
+			{% if document.cartigli %}
+			<h1>{{document.cartigli}}</h1>
+			{% endif %}
+			
+			
+			</div>
+			
+			{% if document.annotazioni %}
+			<h1>{{document.annotazioni}}</h1>
+			</div>
+			{% endif %}
+			
+			
+			{% if document.multipli %}
+			<p class = "campo">Multipli:</p>
+			<div class="clear">
+			<h1>{{document.multipli}}</h1>
+			</div>
+			{% endif %}	
+			
+			
+			{% if document.formato_cornice %}
+			<p class = "campo">Formato cornice:</p>
+			<div class="clear">
+			<h1>{{document.formato_cornice}}</h1>
+			</div>
+			{% endif %}
+			
+			{% if document.conservazione %}
+			<p class = "campo">Conservazione:</p>
+			<div class="clear">
+			<h1>{{document.conservazione}}</h1>
+			</div>
+			{% endif %}
+			
+			
+			
+			<p class = "campo">Segnatura:</p>
+			<div class="clear"><h1>
+			{% if document.segnatura %}
+			{% ifequal document.archivio "CASVA" %}
+				
+				Fondo Luciano Baldessari CASVA, Comune di Milano;
+				{% endifequal %}
+				
+				{% ifequal document.archivio "ALB" %}
+				
+				Archivio Luciano Baldessari, Dipartimento di Design, Politecnico di Milano;
+				{% endifequal %}
+				
+				{% ifequal document.archivio "MART" %}
+				
+				Archivio privato Mosca Baldessari, Milano; in corso di versamento nel Fondo Luciano Baldessari, Mart, Rovereto;
+				{% endifequal %}
+			 segnatura {{document.segnatura}}</h1>
+			{% endif %}	
+
+			</div>
+			
+			{% if document.collocazione %}
+			<p class = "campo">Collocazione:</p>
+			<div class="clear">
+			<h1>ALB_{{document.collocazione}}</h1>
+				</div>
+			{% endif %}	
+			
+			
+			</div>
+			
+
+		</div>
+		
+		
+		
+	</div>
+	
+
+{% endblock %}

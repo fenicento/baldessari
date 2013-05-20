@@ -9,7 +9,7 @@
 }
 
 .detail-container{
-	padding : 1.5em;
+	padding : 1.5em 0;
 }
 
 .campo{
@@ -34,6 +34,10 @@
 	float : left;
 }
 
+#project_general_left a{
+	font-size:1.0em !important;
+}
+
 #project_general_right{
 	display : inline-block;
 	float : right;
@@ -42,7 +46,7 @@
 }
 
 #style_project{
-	font-size : 0.7em;
+	font-size : 1.1em;
 	color : #c9173a;
 	margin: 0px;
 	margin-bottom : 12px;
@@ -51,17 +55,21 @@
 
 #opere_detail_container a{
 	text-decoration : none;
-	color : #3fcedb;
-	font-size : 0.7em;
+	color : #11bfcf;
+	font-size : 0.9em;
+	line-height:27px;
+	display: block;
+	font-weight:bold;
+	margin-top:2px;
 }
-
 a h3, a h1{
 	color : black;
 }
 
-#opere_detail_container h3{
+#opere_detail_container h3, .bibliografia_item{
 	margin : 0px;
 	font-size : 1em;
+	font-weight:400;
 }
 
 #opere_detail_container a h1, #opere_detail_container h1{
@@ -73,55 +81,71 @@ a h3, a h1{
 
 /*temporary project gallery*/
  #project_gallery{
- 	padding-bottom : 0px;
+ 	border-top:1px solid #666;
+ 	margin-top:15px;
  }
 
-#project_gallery p{
-	font-size : 0.7em;
-	font-weight : 700;
-	margin : 0px;
-	margin-bottom : 5px;
-}
 
-#gallery{
-	padding : 5%;
+#gallery,#gallery2{
+	
 	/*background : #282828;*/
-	background : black;
 	text-align : center;
+	height:100px;
+	border-top:1px solid #ccc;
+	border-bottom:1px solid #ccc;
+	margin-bottom:12px;
 }
 
+#gallery2{
+	margin-bottom:30px;	
+}
+
+.lefty {
+	float:left;
+	margin-right:7px;
+}
 
 /* details style */
 
 .detail-field{
-	padding : 1.5em;
-	padding-bottom : 1em;
-	border-bottom : 1px solid #a29d9d;
+	padding-bottom : 0.5em;
 	clear: both;
 	overflow:hidden;
 	
 }
+
 
 #project_committente_container{
 	margin-bottom : 7px;
 }
 
 .detail-field .left{
-	width : 45%;
-	display : inline-block;
-	float : left;
+	width : 99%;
+	
 }
+
+.col-f{
+	-moz-column-count:4; /* Firefox */
+	-webkit-column-count:4; /* Safari and Chrome */
+	column-count:4;
+}
+
+#artist{
+	margin-top:1em;
+}
+
 
 .detail-field .right{
 	width : 48%;
 	display : inline-block;
-	float : right;
+	float : left;
+	padding-left: 0px;
 }
 
 .detail-field p{
 	margin : 0px;
 	font-weight : 700;
-	font-size : 0.8em;
+	font-size : 1.2em;
 }
 
 .detail-field p .campo{
@@ -132,3 +156,81 @@ a h3, a h1{
 	margin-top : 8px;
 }
 
+/*OVERWRITE GALLERIA STYLE*/
+
+.galleria-stage{
+	display:none;
+}
+
+.galleria-thumbnails-container{
+	height:70px!important;
+}
+
+.galleria-thumbnails .galleria-image{height:70px !important;}
+.galleria-thumbnails-list{height:70px !important;}
+.galleria-thumb-nav-left,
+.galleria-thumb-nav-right{height:65px !important;}
+.galleria-info,
+.galleria-counter{bottom:90px !important;}
+.galleria-lightbox-info{
+	bottom:13px !important;
+}
+
+.doc_general_left{
+	width:100%;
+}
+
+.detail-img{
+	width:40%;
+	text-align:center;
+	float:left;
+	margin-top:1em;
+}
+
+.detail-img img{
+	width:100%;
+	height:auto;
+	
+}
+
+.detail-infos{
+	width:53%;
+	float:left;
+	padding-left:2%;
+	margin-top:1em;
+	
+}
+
+#doc_general_left h1{
+	display:inline;	
+	line-height: 1.5em;
+}
+
+#doc_general_left p{
+	margin-top:10px;	
+	margin-bottom:3px;
+}
+
+footer{
+	margin-top:30px;
+}
+
+.materiali{
+	padding:0 0 1% 0;
+	/*border-top:1px solid #555;*/
+	border-bottom:1px solid #555;
+	
+}
+
+.last-field{
+	border-top:1px solid #555;
+	padding-top:1em;
+}
+
+#doc-proj {
+	font-size: 1.3em !important;
+}
+
+#proj-title{
+	font-size: 2em !important;
+}

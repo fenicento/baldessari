@@ -17,66 +17,75 @@ def attributeImages(self):
     print "Starting imageAddress storing procedure"
     fichier = open(os.path.join(FILE_PATH, 'log_images.txt'), "w")
     
-    drawings = Drawing.objects.all()
-    letters = Letter.objects.all()
+    #filtra solo i dati MART
+    drawings = Drawing.objects.filter(sigla_archivio='MART')
     
     for drawing in drawings:
-        #raws = drawing.segnatura.split('_')
-        folderAddress = DRAWS_PATH + drawing.sigla_archivio +"/" + drawing.project.sigla +"/"
-        #sketchAddress = DRAWS_PATH +"Carteggi/" + drawing.project.sigla.lower() +"/"
-        imgAttributed = False
-        searched_begining = drawing.segnatura
-        if os.path.exists(folderAddress):
-            
-            for file in os.listdir(folderAddress):
-                if re.search(r'%s'%searched_begining, file) is not None:
-                    drawing.imageAdress = 'img_documents/' + drawing.sigla_archivio +"/" + drawing.project.sigla +"/" + file
-                    thumb =  drawing.sigla_archivio +"/" + drawing.project.sigla +"/" +"Thumbs/" + "THU_" + file.split(".")[0] + ".jpg"
-                   
-                    if os.path.isfile(os.path.join(DRAWS_PATH,thumb)):
-                        print thumb
-                        drawing.thumbAdress = 'img_documents/' + thumb
-                        
-                    imgAttributed = True
-            if imgAttributed is False:
+       
+        print drawing.segnatura
+        
+             #raws = drawing.segnatura.split('_')
+        if drawing.project is not None:
+            folderAddress = DRAWS_PATH + drawing.sigla_archivio +"/" + drawing.project.sigla +"/"
+            #sketchAddress = DRAWS_PATH +"Carteggi/" + drawing.project.sigla.lower() +"/"
+            imgAttributed = False
+            searched_begining = drawing.segnatura
+            if os.path.exists(folderAddress):
+                
+                for file in os.listdir(folderAddress):
+                    if re.search(r'%s'%searched_begining, file) is not None:
+                        print 'found occurrence for '+ file
+                        drawing.imageAdress = 'img_documents/' + drawing.sigla_archivio +"/" + drawing.project.sigla +"/" + file
+                        thumb =  drawing.sigla_archivio +"/" + drawing.project.sigla +"/" +"Thumbs/" + "THU_" + file.split(".")[0] + ".jpg"
+                       
+                        if os.path.isfile(os.path.join(DRAWS_PATH,thumb)):
+                            print 'found thumb for '+file+' : '+thumb
+                            drawing.thumbAdress = 'img_documents/' + thumb
+                            
+                        imgAttributed = True
+                if imgAttributed is False:
+                    drawing.imageAdress = 'img_documents/noimage.jpg'
+                    drawing.thumbAdress = 'img_documents/nothumb.jpg'
+                drawing.save()
+            else:
+                print 'did not find file '+file
                 drawing.imageAdress = 'img_documents/noimage.jpg'
                 drawing.thumbAdress = 'img_documents/nothumb.jpg'
-            drawing.save()
+                drawing.save()
+                
         else:
-            drawing.imageAdress = 'img_documents/noimage.jpg'
-            drawing.thumbAdress = 'img_documents/nothumb.jpg'
-            drawing.save()
+            print 'could not find project for '+drawing.segnatura 
             
-    print "starting letters integration"  
+    #print "starting letters integration"  
     
           
-    for letter in letters:
-        print letter
-        #raws = drawing.segnatura.split('_')
-        #folderAddress = DRAWS_PATH + drawing.sigla_archivio +"/" + drawing.project.sigla +"/"
-        sketchAddress = DRAWS_PATH +"carteggi/" + letter.project.sigla.lower() +"/"
-        imgAttributed = False
-        searched_begining = letter.segnatura
-        print sketchAddress
-        if os.path.exists(sketchAddress):    
-            for file2 in os.listdir(sketchAddress):
-                if re.search(r'%s'%searched_begining, file2) is not None:
-                    letter.imageAdress = 'img_documents/' + "carteggi/" + letter.project.sigla.lower() +"/" + file2
-                    thumb =  "carteggi/" + letter.project.sigla.lower() +"/" +"Thumbs/" + "THU_" + file2.split(".")[0] + ".jpg"
-                    
-                    if os.path.isfile(os.path.join(DRAWS_PATH,thumb)):
-                        print thumb
-                        letter.thumbAdress = 'img_documents/' + thumb
-                    
-                    imgAttributed = True
-            if imgAttributed is False:
-                letter.imageAdress = 'img_documents/noimage.jpg'
-                letter.thumbAdress = 'img_documents/nothumb.jpg'
-            letter.save()
-        else:
-            letter.imageAdress = 'img_documents/noimage.jpg'
-            letter.thumbAdress = 'img_documents/nothumb.jpg'
-            letter.save()
+    # for letter in letters:
+        # print letter
+        # #raws = drawing.segnatura.split('_')
+        # #folderAddress = DRAWS_PATH + drawing.sigla_archivio +"/" + drawing.project.sigla +"/"
+        # sketchAddress = DRAWS_PATH +"carteggi/" + letter.project.sigla.lower() +"/"
+        # imgAttributed = False
+        # searched_begining = letter.segnatura
+        # print sketchAddress
+        # if os.path.exists(sketchAddress):    
+            # for file2 in os.listdir(sketchAddress):
+                # if re.search(r'%s'%searched_begining, file2) is not None:
+                    # letter.imageAdress = 'img_documents/' + "carteggi/" + letter.project.sigla.lower() +"/" + file2
+                    # thumb =  "carteggi/" + letter.project.sigla.lower() +"/" +"Thumbs/" + "THU_" + file2.split(".")[0] + ".jpg"
+#                     
+                    # if os.path.isfile(os.path.join(DRAWS_PATH,thumb)):
+                        # print thumb
+                        # letter.thumbAdress = 'img_documents/' + thumb
+#                     
+                    # imgAttributed = True
+            # if imgAttributed is False:
+                # letter.imageAdress = 'img_documents/noimage.jpg'
+                # letter.thumbAdress = 'img_documents/nothumb.jpg'
+            # letter.save()
+        # else:
+            # letter.imageAdress = 'img_documents/noimage.jpg'
+            # letter.thumbAdress = 'img_documents/nothumb.jpg'
+            # letter.save()
         
         
             
@@ -96,6 +105,13 @@ def attributeImages(self):
         #     fichier.write(drawing.segnatura+'\n')
         # drawing.save()
     fichier.close()
+        
+        
+        
+        
+        
+        
+   
         
 
 class Command(BaseCommand):

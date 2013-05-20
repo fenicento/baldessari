@@ -1,0 +1,80 @@
+{% extends "archivio/layout.html" %}
+
+{% block title %}Archivio Baldessari | Opere{% endblock %}
+
+{% block header %}
+
+	<!-- Active tab of the menu -->
+	{% block active_opere %}active{% endblock %}
+
+
+	
+
+{{ block.super }}
+	{% load static %}
+	{% get_static_prefix as STATIC_PREFIX %}
+	<!-- Styles -->
+	<style>
+	
+		.hero-unit{
+			background-color: transparent;
+		}
+		
+		h1{
+			
+			margin-top: 15%;
+			display: block;
+			float: left;
+		}
+		
+		
+		h2{
+			
+			display: block;
+			float: left;
+			margin-top:1em;
+		}
+		
+		img{
+			width: 25%;
+			display: block;
+			float: left;
+			height: auto;
+		}
+		.fof-t{
+			width:75%;
+			float:left;
+			
+		}
+		
+	</style>
+	
+	
+
+{% endblock %}
+
+{% block upper-bar %}
+
+	
+	
+	{% get_static_prefix as STATIC_PREFIX %}
+	
+
+	<!-- <h1 id="section-title">Elenco delle opere</h1> -->
+{% endblock %}
+
+{% block content %}
+
+	
+	
+	<div class="404-im">
+		<div class="fof-t">
+		<h1>Pagina non trovata.</h1>
+		<h2>La pagina che stai cercando non è al momento disponibile,<br/> ha cambiato indirizzo o è stata rimossa.</b></h2>
+		</div>
+		<img src="/static/img_interface/404.png"/></div>
+	
+	
+	
+
+{% endblock %}

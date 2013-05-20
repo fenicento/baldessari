@@ -1,28 +1,29 @@
 .galleria-i{
 	float: left;
-	margin-bottom:5px;
-	margin-left: 1%;
-	margin-right: 1%;
-	border: 1px solid #EEEEEE;
-    box-shadow: 1px 1px #ddd;
+	margin-bottom:15px;
+	border: 2px solid #DEDEDE;
+    box-shadow: 0px 2px 0px #eee;
 	max-height: 500px;
 	max-width:200px;
 	font-size: 0.7em;
-	padding:5px;
-	border-radius: 5px;
+	border-radius: 1px;
 	
 }
 
 .galleria-i .txt {
-	width:100%;
-	background-color:#eee;
+	width:98%;
 	margin-top:7px;
 	font-size: 1.3em;
 	line-height: 1.2em;
+	padding:5px;
 	
 }
 
 .galleria-i a {
 	color:#444;
 	
+}
+
+#galleria-p {
+	left:6%;
 }

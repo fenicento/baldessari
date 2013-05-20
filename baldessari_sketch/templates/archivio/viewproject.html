@@ -19,6 +19,11 @@
 	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/opere_style.css">
 	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/details_style.css">
 	<link rel="stylesheet" href="{{ STATIC_PREFIX }}styles/galleria.classic.css">
+	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5/leaflet.css" />
+	
+ <!--[if lte IE 8]>
+     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5/leaflet.ie.css" />
+ <![endif]-->
 
 {% endblock %}
 
@@ -30,58 +35,218 @@
 			
 			<!-- general infos on the left side -->
 			<div id="project_general_left">
-			<h4 id="style_project">
-				{{ project.tipo }}
-			</h4>
+				
+				
+			<h1 id="proj-title"> {{ project.denominazione }}</h1>
 			
-			<p class = "campo">Denominazione del progetto</p>
-			<h1> {{ project.denominazione }}</h1>
-			<p class = "campo">Data del progetto</p>
-			<h3>{{ date.begining|date:"o" }}</h3>
-
+			
+			<br/>
+				
+			{% if project.tipo %}
+			<p class = "campo">Tipologia</p>	
+			<h1>
+				{{ project.tipo }}
+			</h1>
+			{% endif %}
+			
+			<p class = "campo">Autore</p>	
+			<h1>
+				Luciano Baldessari
+			</h1>
+			
+			
+			
+			
 			</div>
+			<script src="http://cdn.leafletjs.com/leaflet-0.5/leaflet.js"></script>
 			
 			<div id="project_general_right">
 					{% load static %}
 					{% get_static_prefix as STATIC_PREFIX %}
-					<img src="{{ STATIC_PREFIX }}img_interface/minimap_test.jpg">
-					<a href="/">Espandi la mappa</a>
+						{% if project.latitude %}
+						<a href="/opere/progetti/mappa/?desc={{project.denominazione}}&el=true"><div id="minimap" style="height:131px"></div></a>
+						<a href="/opere/progetti/mappa/?desc={{project.denominazione}}&el=true">Espandi la mappa</a>
+						
+						<script>
+							var map = L.map('minimap',{
+								dragging: false,
+								touchZoom : false,
+								scrollWheelZoom : false,
+								doubleClickZoom : false,
+								boxZoom : false,
+								zoomControl : false,
+								attributionControl : false	
+							})
+							.setView([{{project.latitude}},{{project.longitude}}], 15);
+							L.tileLayer('http://{s}.tile.cloudmade.com/{key}/22677/256/{z}/{x}/{y}.png', {
+								maxZoom : 18,
+								attribution : '',
+								key : 'BC9A493B41014CAABB98F0471D759707'
+							}).addTo(map);
+							
+							var marker = L.marker([{{project.latitude}},{{project.longitude}}]).addTo(map);
+						</script>
+						
+						{% endif %}
 			</div>
 		</div>
+		
+		{% if project.descrizione_prog %}
+		<div class="detail-container">
+			<p class="campo lefty">Descrizione</p>
+			<div class="detail-field">
+			{{project.descrizione_prog|safe}}
+			</div>
+			
+			</div>
+		{% endif %}
+		
+		
+		
 		<div id="project_gallery" class="detail-container">
-			<p>
-				Documenti presenti nell'archivio : {{ related_documents|length }}
+			<p class="campo">
+				Disegni, plastici e fotografie
+				
 			</p>
+			<h1>POLIMI: {{polimi}} | CASVA: {{casva}} | MART: {{mart}}</h1>
 			
 			<div id="gallery">
 				{% load static %}
 				{% get_static_prefix as STATIC_PREFIX %}
 				{% get_media_prefix as MEDIA_PREFIX %}
-				<script src="{{ STATIC_PREFIX }}libs/galleria-1.2.7.min.js"></script>
-				<script src="{{ STATIC_PREFIX }}libs/galleria.classic.min.js"></script>
-				<div id='galleria'>
+				<script src="{{ STATIC_PREFIX }}libs/galleria-1.2.9.min.js"></script>
+				
+				<div id="galleria">
 					{% for doc in related_documents %}
 							{% load static %}
 							{% get_static_prefix as STATIC_PREFIX %}
-							<img src= "{{ MEDIA_PREFIX }}{{ doc.imageAdress}}" />
+							<img src= "{{ MEDIA_PREFIX }}{{ doc.imageAdress}}" data-title="segnatura: {{doc.segnatura}}<br/> <a href=/opere/document/{{doc.segnatura}}>Vai alla scheda del documento</a>"/>
 					{% endfor %}
 				</div>
 				
 				<script type='text/javascript'>
 					{% load static %}
 					{% get_static_prefix as STATIC_PREFIX %}
-					Galleria.loadTheme('{{ STATIC_PREFIX }}libs/galleria.classic.min.js');
-					Galleria.run('#galleria');
-					Galleria.configure({
-						transition : 'fadeslide',
-						lightbox : true
-					})
+					
+				Galleria.loadTheme('{{ STATIC_PREFIX }}libs/galleria.classic.min.js');
+				Galleria.run("#galleria",
+				    { 
+				        transition : 'fadeslide',
+						 height:200,
+						 _toggleInfo: true,
+						 lightbox : true
+				    }); 
+				    
+				
 				</script>
 				<!-- here goes the gallery of documents -->
 			</div>
 			
+			{% if carteggi %}
+			<p class="campo">Documenti e carteggi </p>
+			<h1>POLIMI: {{ carteggi_count }}</h1>
+			
+			<div id="gallery2">
+				{% load static %}
+				{% get_static_prefix as STATIC_PREFIX %}
+				{% get_media_prefix as MEDIA_PREFIX %}
+				<div id="galleria2">
+					{% for doc in carteggi %}
+							{% load static %}
+							{% get_static_prefix as STATIC_PREFIX %}
+							<img src= "{{ MEDIA_PREFIX }}{{doc.imageAdress}}"/>
+					{% endfor %}
+				</div>
+				
+				<script type='text/javascript'>
+					{% load static %}
+					{% get_static_prefix as STATIC_PREFIX %}
+				Galleria.run("#galleria2",
+				    { 
+				        transition : 'fadeslide',
+						 height:200,
+						 _toggleInfo: true,
+						 lightbox : true
+				    }).lazyLoadChunks(30); 
+				    
+				    
+				</script>
+				
+				
+				<!-- here goes the gallery of documents -->
+			</div>
+			
+			{% endif %}
+			<script type='text/javascript'>
+			
+				var cartInd=1;
+			
+				Galleria.ready(function() {
+					
+					 
+				    	var gallery = Galleria.get(0);
+				    	console.log("count me!");
+						
+						gallery.bind('thumbnail', function(e) {
+				         $(e.thumbTarget).parent().unbind('click').click(function() {
+				             gallery.openLightbox(e.index);
+				             
+				         });
+				         {% if carteggi %}
+				         var gallery2 = Galleria.get(1);
+				         gallery2.bind('thumbnail', function(e) {
+				         $(e.thumbTarget).parent().unbind('click').click(function() {
+				             
+				             gallery2.openLightbox(e.index);
+				         });
+				    	});
+				    	
+				    	
+				    	{% endif %}
+				    	
+				    	
+					});
+					$("#galleria .galleria-container").height(85);
+					$("#galleria2 .galleria-container").height(85);
+				});
+				{% get_media_prefix as MEDIA_PREFIX %}
+				$("#galleria2 .galleria-thumb-nav-right").live('click', function () {
+							var gallery2 = Galleria.get(1);
+							if(gallery2._data.length< {{carteggi_count}}) {
+								
+								$.get("{{BASE_URL}}/service/carteggi/", { ind: cartInd, proj: "{{project.sigla}}" })
+								.done(function(data) {
+									console.log(data);
+								 	cartInd++;
+								 	for(var i=0; i<data.length; i++) {
+										gallery2.push({ image: {{ MEDIA_PREFIX }}+data[i].imageAdress }); 		
+								 	}
+								});
+								
+								
+							}
+						});
+			</script>
+			
+			
+			
 		</div>
-		<div id="div_details">
+		
+		{% if project.materiali %}
+			<div class="materiali">
+			
+			<p class = "campo">Materiali:</p>	
+			<h3>
+				{{ project.materiali }}
+			</h3>
+			</div>
+			{% endif %}
+		
+		<div id="div_details"class="detail-container">
+			<p class="campo lefty">Rete degli attori</p>
+			<a href="/opere/progetti/rete/?proj={{project.sigla}}">Visualizza la rete</a>
+			
+			{% if committente != 'null' %}
 			<div id="project_committente_container" class="detail-field">
 				<p class = "campo">Committente</p>
 				{% if committente != 'null' %}
@@ -92,9 +257,15 @@
 					<p>-</p>
 				{% endif %}
 			</div>
+			{% endif %}
+			
+			
+			
 			<div id="project_collaborators_container" class="detail-field">
+				{% if coproj != 'null' %}
 				<div class="left">
 					<p class = "campo">Co-progettista/i</p>
+					<div class = "col-f">
 					{% if coproj != 'null' %}
 						{% for com in coproj %}
 							<h3>{{ com.actor.name }}</h3>
@@ -102,11 +273,16 @@
 					{% else %}
 						<p>-</p>
 					{% endif %}
+					</div>
 					
-				<a href="/">Guarda la rete dei collaboratori</a>
+				
 				</div>
-				<div class = "right">
+				{% endif %}
+				
+				{% if collab != 'null' %}
+				<div class = "left">
 					<p class = "campo">Collaboratore/i</p>
+					<div class = "col-f">
 					{% if collab != 'null' %}
 						{% for com in collab %}
 							<h3>{{ com.actor.name }}</h3>
@@ -114,21 +290,87 @@
 					{% else %}
 						<p>-</p>
 					{% endif %}
+					</div>
 				</div>
+				{% endif %}
 			</div>
 			
-			<div id="project_bibliografia_container" class="detail-field">
-				<p class = "campo">Bibliografia</p>
-				
-				{% if biblio.count > 0 %}
-					{% for publ in biblio %}	
-					<p class="bibliografia_item">
-						{{ publ.name }}
-					</p>
-					{% endfor %}
-				{% else %}
-					<p>Nessun'publicazione per questo progetto </p>
+			
+			
+			<div id="project_correspondant_container" class="detail-field">
+				{% if corr != 'null' %}
+				<div class="left">
+					<p class = "campo">Corrispondente/i</p>
+					<div class = "col-f">
+					{% if corr != 'null' %}
+						{% for com in corr %}
+							<h3>{{ com.actor.name }}</h3>
+						{% endfor %}
+					{% else %}
+						<p>-</p>
+					{% endif %}
+					</div>
+					
+				</div>
 				{% endif %}
+				
+				{% if costr != 'null' %}
+				<div class = "left">
+					<p class = "campo">Costruttore/i</p>
+					<div class = "col-f">
+					{% if costr != 'null' %}
+						{% for com in costr %}
+							<h3>{{ com.actor.name }}</h3>
+						{% endfor %}
+					{% else %}
+						<p>-</p>
+					{% endif %}
+					</div>
+				</div>
+				{% endif %}
+				
+				
+				{% if artist != 'null' %}
+				<div class = "left">
+					<p class = "campo" id="artist">Artista/i</p>
+					<div class = "col-f">
+					{% if artist != 'null' %}
+						{% for com in artist %}
+							<h3>{{ com.actor.name }}</h3>
+						{% endfor %}
+					{% else %}
+						<p>-</p>
+					{% endif %}
+					</div>
+				</div>
+				{% endif %}
+				
+			</div>
+			
+			
+			
+			
+			
+			{% if biblio.count > 0 %}
+			<p class="campo last-field">Bibliografia</p>
+			<div id="project_bibliografia_container" class="detail-field">
+				
+				
+				
+				{% regroup biblio by sup_infos as bib_list %}
+
+
+				{% for bib in bib_list %}
+				    <p>{{ bib.grouper }}</p>
+				    
+				        {% for item in bib.list %}
+				          <h3>{{ item.name }}</h3>
+				        {% endfor %}
+				    
+				{% endfor %}
+				
+				{% endif %}
+
 			</div>
 		</div>
 		
